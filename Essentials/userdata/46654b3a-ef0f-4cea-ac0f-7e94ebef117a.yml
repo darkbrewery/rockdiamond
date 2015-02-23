@@ -49,7 +49,7 @@ logoutlocation:
   z: -71.82010301882782
   yaw: 201.1504
   pitch: 85.35
-afk: false
+afk: true
 money: '815997.2699999994'
 nickname: Dark
 socialspy: true

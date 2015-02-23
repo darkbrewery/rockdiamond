@@ -8,6 +8,8 @@
 *.war
 *.ear
 *AreaShop/regions/*.yml
+Essentials/userdata/*.yml
+MassiveCore/idnamecache.json
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
