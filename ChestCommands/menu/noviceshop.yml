@@ -306,6 +306,7 @@ Donate:
     - '&eClick&7 to warp to'
     - '&7the &bdonation &7perks!'
   ID: emerald_block
+  KEEP-OPEN: true
   POSITION-X: 5
   POSITION-Y: 4
 Shops:
