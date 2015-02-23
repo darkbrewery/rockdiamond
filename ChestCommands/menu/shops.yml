@@ -151,6 +151,7 @@ Donate:
     - '&eClick&7 to warp to'
     - '&7the &bdonation &7perks!'
   ID: emerald_block
+  KEEP-OPEN: true
   POSITION-X: 6
   POSITION-Y: 2
 hiddenWarps:
