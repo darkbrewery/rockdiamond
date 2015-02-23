@@ -1,0 +1,23 @@
+lastAccountName: conlew2004
+timestamps:
+  login: 1423849207459
+  lastteleport: 1423849402298
+  kits:
+    novice: 1423764183956
+  logout: 1423849407772
+ipAddress: 94.173.224.221
+lastlocation:
+  world: spawn
+  x: 11.465349042273916
+  y: 106.0
+  z: -252.88926543717733
+  yaw: 143.39912
+  pitch: 1.4999822
+logoutlocation:
+  world: spawn
+  x: 0.5073097929653159
+  y: 36.5
+  z: -13.837512778838553
+  yaw: 179.84944
+  pitch: 13.949984
+money: '30.0'

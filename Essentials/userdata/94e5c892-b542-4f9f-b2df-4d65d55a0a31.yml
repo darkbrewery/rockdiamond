@@ -1,0 +1,28 @@
+uuid: 94e5c892-b542-4f9f-b2df-4d65d55a0a31
+timestamps:
+  login: 1424051504567
+  lastteleport: 1424049939560
+  logout: 1424052090282
+  kits:
+    pvp: 1424050073945
+    novice: 1424050030340
+    color: 1424050110268
+    adept: 1424050042693
+ipAddress: 71.62.77.193
+money: '130.99'
+lastlocation:
+  world: spawn
+  x: 1.5
+  y: 32.0
+  z: -11.5
+  yaw: -203.64558
+  pitch: 36.423447
+logoutlocation:
+  world: spawn
+  x: 14.5
+  y: 81.5
+  z: -1237.5
+  yaw: 89.826904
+  pitch: 0.1499731
+lastAccountName: TheSketchyCheese
+afk: false

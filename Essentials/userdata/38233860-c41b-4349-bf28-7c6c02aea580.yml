@@ -1,0 +1,26 @@
+lastAccountName: jacob25934
+timestamps:
+  login: 1424537975941
+  lastteleport: 1424540581845
+  logout: 1424542273874
+  jail: 0
+  kits:
+    color: 1423705719325
+ipAddress: 76.120.207.41
+money: '105401.29584210494'
+lastlocation:
+  world: plotworld
+  x: 21.834165578097675
+  y: 53.0
+  z: -21.574660898000683
+  yaw: -267.9
+  pitch: 46.649986
+logoutlocation:
+  world: plotworld
+  x: 24.431652149842208
+  y: 53.0
+  z: -20.48750001192093
+  yaw: -34.499996
+  pitch: 66.0
+jailed: false
+afk: false

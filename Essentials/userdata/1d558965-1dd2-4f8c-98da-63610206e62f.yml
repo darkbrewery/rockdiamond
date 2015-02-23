@@ -1,0 +1,24 @@
+lastAccountName: Crowly259
+timestamps:
+  login: 1422196516264
+  lastteleport: 1422197878794
+  kits:
+    novice: 1422125670741
+    adept: 1422197801054
+  logout: 1422198066874
+ipAddress: 173.57.87.254
+lastlocation:
+  world: mines
+  x: 218.5818955193711
+  y: 63.0
+  z: -19.9295213625346
+  yaw: -101.485596
+  pitch: 22.566465
+money: '29804.948804347827'
+logoutlocation:
+  world: mines
+  x: 242.30000001192093
+  y: 52.0
+  z: -8.026614982110097
+  yaw: -332.6394
+  pitch: 34.56298

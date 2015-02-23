@@ -1,0 +1,25 @@
+lastAccountName: Ms_Daydreamer
+timestamps:
+  login: 1424196983899
+  lastteleport: 1424124724632
+  logout: 1424197000865
+  kits:
+    pvp: 1424123824415
+    novice: 1424123813822
+ipAddress: 78.148.184.193
+lastlocation:
+  world: spawn
+  x: 14.5
+  y: 81.5
+  z: -1237.5
+  yaw: 95.97689
+  pitch: 14.249971
+logoutlocation:
+  world: plotworld
+  x: -38.65817278093673
+  y: 65.5
+  z: -110.162655492502
+  yaw: -12.899986
+  pitch: 12.300005
+money: '285.7400000000004'
+afk: false

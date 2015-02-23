@@ -1,0 +1,25 @@
+uuid: 039bf99f-c34e-4055-920e-d7b36b5674fd
+timestamps:
+  login: 1420301541720
+  lastteleport: 1420301983506
+  kits:
+    pvp: 1420003647438
+    adept: 1420222221827
+  logout: 1420301985970
+ipAddress: 99.72.50.45
+money: '102949.66271739123'
+lastlocation:
+  world: spawn
+  x: -1.003394143584116
+  y: 29.0
+  z: 6.665074479181601
+  yaw: -203.25099
+  pitch: 37.64997
+logoutlocation:
+  world: spawn
+  x: 14.5
+  y: 81.5
+  z: -1237.5
+  yaw: 89.826904
+  pitch: 0.1499731
+lastAccountName: MCjam123

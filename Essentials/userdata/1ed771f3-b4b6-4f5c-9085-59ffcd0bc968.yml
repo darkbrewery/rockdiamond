@@ -1,0 +1,25 @@
+uuid: 1ed771f3-b4b6-4f5c-9085-59ffcd0bc968
+timestamps:
+  login: 1419385839138
+  lastteleport: 1419386890507
+  kits:
+    pvp: 1419386088537
+    novice: 1419386070600
+  logout: 1419387523075
+ipAddress: 216.45.127.64
+lastlocation:
+  world: spawn
+  x: 14.594973962871848
+  y: 82.0
+  z: -1234.5993885553676
+  yaw: 52.626984
+  pitch: 17.849977
+logoutlocation:
+  world: spawn
+  x: -14.699999988079071
+  y: 34.0
+  z: -3.6903270722103088
+  yaw: 122.09786
+  pitch: -47.549973
+money: '60.0'
+lastAccountName: jcmo1234

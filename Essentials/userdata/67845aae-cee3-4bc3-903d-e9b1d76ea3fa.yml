@@ -1,0 +1,22 @@
+uuid: 67845aae-cee3-4bc3-903d-e9b1d76ea3fa
+timestamps:
+  login: 1419666873660
+  lastteleport: 1419666993822
+  logout: 1419667028227
+ipAddress: 71.11.126.98
+lastlocation:
+  world: spawn
+  x: 0.5831116504232341
+  y: 29.5
+  z: 53.87449193189429
+  yaw: 1.436724
+  pitch: 24.578695
+logoutlocation:
+  world: spawn
+  x: 26.079145840384935
+  y: 34.5
+  z: -6.46749283437712
+  yaw: 90.38714
+  pitch: 12.642281
+money: '30.0'
+lastAccountName: darkwolfinsanity

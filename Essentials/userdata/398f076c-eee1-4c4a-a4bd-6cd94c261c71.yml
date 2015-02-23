@@ -1,0 +1,24 @@
+lastAccountName: CPTSlugDog
+timestamps:
+  login: 1423079990074
+  lastteleport: 1423080161157
+  kits:
+    pvp: 1423078516765
+    novice: 1423078472477
+  logout: 1423080292471
+ipAddress: 99.1.181.191
+lastlocation:
+  world: spawn
+  x: 10.93101200951159
+  y: 106.0
+  z: -252.78487263884927
+  yaw: -206.25104
+  pitch: 5.400074
+logoutlocation:
+  world: spawn
+  x: 9.282592401945795
+  y: 33.0
+  z: -29.30000001192093
+  yaw: 339.89948
+  pitch: -8.4
+money: '173.62'

@@ -1,0 +1,22 @@
+uuid: ff62edbf-f62c-41b3-b5bc-8ab3913d6d2c
+timestamps:
+  login: 1419401477686
+  lastteleport: 1419402566412
+  logout: 1419403182350
+ipAddress: 174.50.134.21
+lastlocation:
+  world: spawn
+  x: 14.5
+  y: 81.5
+  z: -1237.5
+  yaw: 86.91634
+  pitch: 4.192477
+money: '162.5'
+logoutlocation:
+  world: spawn
+  x: 0.18407633916509078
+  y: 37.0
+  z: -11.208913531445935
+  yaw: -325.83057
+  pitch: 5.888172
+lastAccountName: rob_da_bank

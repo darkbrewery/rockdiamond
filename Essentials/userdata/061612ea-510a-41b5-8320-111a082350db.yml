@@ -1,0 +1,25 @@
+timestamps:
+  lastteleport: 1416423042346
+  kits:
+    color: 1416396591516
+    alpha: 1416413050190
+  logout: 1416776513235
+  login: 1416776376849
+lastlocation:
+  world: plotworld
+  x: -37.09925001367976
+  y: 54.0
+  z: 27.43096100398967
+  yaw: -117.86638
+  pitch: -37.910942
+money: '28.25'
+logoutlocation:
+  world: mines
+  x: 25.566117539498617
+  y: 66.0
+  z: -1.300000011920929
+  yaw: -83.405945
+  pitch: 66.62521
+uuid: 061612ea-510a-41b5-8320-111a082350db
+ipAddress: 151.226.152.224
+lastAccountName: xama45

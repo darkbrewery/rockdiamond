@@ -1,0 +1,26 @@
+uuid: 0c035ad9-855e-4c31-9536-52648e7ad323
+timestamps:
+  login: 1418249323622
+  lastteleport: 1418183242684
+  kits:
+    novice: 1418182423233
+    pvp: 1418182394527
+    color: 1418183161610
+  logout: 1418249385149
+ipAddress: 50.72.240.70
+lastlocation:
+  world: spawn
+  x: 12.699999988079071
+  y: 102.0
+  z: -244.42349638730587
+  yaw: -102.293785
+  pitch: 8.290854
+logoutlocation:
+  world: spawn
+  x: 13.431953314495313
+  y: 94.0
+  z: -236.5654636670245
+  yaw: 325.952
+  pitch: -9.42753
+money: '44.0'
+lastAccountName: danny982

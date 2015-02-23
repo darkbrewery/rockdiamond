@@ -1,0 +1,24 @@
+uuid: c66ed963-260c-4ce5-a657-4e2e4a256d0e
+timestamps:
+  login: 1417570858875
+  kits:
+    alpha: 1417571440703
+  lastteleport: 1417571473862
+  logout: 1417571497166
+ipAddress: 174.93.20.49
+lastlocation:
+  world: spawn
+  x: 0.767961587872326
+  y: 32.0
+  z: -1.3839673495925655
+  yaw: -359.51785
+  pitch: 10.669576
+logoutlocation:
+  world: spawn
+  x: 0.3633604980020382
+  y: 107.0
+  z: -242.7016113637461
+  yaw: -15.140625
+  pitch: 54.580086
+money: '0.65625'
+lastAccountName: colderelm82

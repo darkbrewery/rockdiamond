@@ -1,0 +1,28 @@
+lastAccountName: mattythekilla
+timestamps:
+  login: 1424464737351
+  lastteleport: 1424351225878
+  logout: 1424464770352
+  kits:
+    expert: 1424185445662
+    pvp: 1424014353022
+    novice: 1424351045077
+    color: 1424014361363
+    adept: 1424104104078
+ipAddress: 80.47.141.137
+lastlocation:
+  world: spawn
+  x: -31.69999998807907
+  y: 79.0
+  z: -245.69999998807907
+  yaw: -82.66973
+  pitch: 14.25001
+money: '12323460.942357551'
+logoutlocation:
+  world: spawn
+  x: -2.439002464097419
+  y: 55.0
+  z: 0.23989721680106368
+  yaw: 349.80157
+  pitch: -5.9999566
+afk: false

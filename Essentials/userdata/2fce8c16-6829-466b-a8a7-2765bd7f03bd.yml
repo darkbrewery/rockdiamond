@@ -1,0 +1,27 @@
+uuid: 2fce8c16-6829-466b-a8a7-2765bd7f03bd
+timestamps:
+  login: 1421817690556
+  lastteleport: 1421821543589
+  kits:
+    pvp: 1421817839314
+    novice: 1419910697703
+    color: 1419911911085
+    adept: 1421817794056
+  logout: 1421821561294
+ipAddress: 125.209.186.89
+lastlocation:
+  world: mines
+  x: 241.48104042920866
+  y: 63.0
+  z: -16.2829518498569
+  yaw: -252.59511
+  pitch: 17.400045
+money: '14891.346630434768'
+logoutlocation:
+  world: spawn
+  x: 1.9873104942876751
+  y: 37.0625
+  z: -7.015586918896574
+  yaw: 16.799805
+  pitch: 11.999976
+lastAccountName: liam0099

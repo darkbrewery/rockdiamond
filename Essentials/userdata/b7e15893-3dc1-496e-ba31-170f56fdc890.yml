@@ -1,0 +1,26 @@
+lastAccountName: paulfindon
+timestamps:
+  login: 1424104923049
+  lastteleport: 1424082792132
+  kits:
+    novice: 1424015827136
+    color: 1424016380175
+    adept: 1424027115759
+  logout: 1424105102845
+ipAddress: 151.227.115.62
+lastlocation:
+  world: mines
+  x: 238.21336831784618
+  y: 62.0
+  z: -19.184843107923076
+  yaw: -28.64502
+  pitch: 0.15003052
+money: '10894.316159923514'
+afk: false
+logoutlocation:
+  world: plotworld
+  x: -72.0
+  y: 66.0
+  z: -111.0
+  yaw: 0.0
+  pitch: 0.0

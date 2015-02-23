@@ -1,0 +1,26 @@
+lastAccountName: princess_gabby_2
+timestamps:
+  login: 1424457337626
+  lastteleport: 1424457427836
+  kits:
+    novice: 1424053282332
+  logout: 1424457555181
+  mute: 0
+ipAddress: 108.73.104.210
+lastlocation:
+  world: mines
+  x: 12.98580744114455
+  y: 62.0
+  z: -10.618354420533224
+  yaw: -86.62131
+  pitch: 18.62674
+logoutlocation:
+  world: plotworld
+  x: 22.572756109161972
+  y: 66.97119997375607
+  z: -45.134355049489365
+  yaw: 305.21863
+  pitch: 27.42412
+money: '107903.072500001'
+afk: false
+muted: false

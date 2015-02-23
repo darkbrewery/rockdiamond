@@ -1,0 +1,75 @@
+uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+timestamps:
+  login: 1424649684917
+  lastteleport: 1424668541567
+  logout: 1424666438499
+  kits:
+    expert: 1423771984357
+    tools: 1416393352476
+    pvp: 1421641637528
+    novice: 1421838922503
+    starter: 1417582233442
+    firework: 1416358517298
+    color: 1422956593376
+    guard: 1421735053754
+    alpha: 1415903595427
+    changelog: 1423507855406
+    dtools: 1416358453478
+    adept: 1423762372446
+    notch: 1416358438192
+  jail: 0
+ipAddress: 96.49.84.24
+lastlocation:
+  world: spawn
+  x: 26.574156275665036
+  y: 84.20000004768372
+  z: -1253.4544789493298
+  yaw: 6.2180786
+  pitch: 64.64994
+godmode: false
+homes:
+  villiage1:
+    world: free
+    x: -461.81445885885523
+    y: 63.0
+    z: -844.8265479392231
+    yaw: 163.80048
+    pitch: 24.899992
+  derek:
+    world: free
+    x: 1462.3873518507953
+    y: 4.5
+    z: 241.09764792633314
+    yaw: 327.1499
+    pitch: -4.050013
+logoutlocation:
+  world: plotworld
+  x: -73.9187975763051
+  y: 71.29395325406004
+  z: -71.82010301882782
+  yaw: 201.1504
+  pitch: 85.35
+afk: true
+money: '815997.2699999994'
+nickname: Dark
+socialspy: true
+teleportenabled: false
+jailed: false
+lastAccountName: darkbrewery
+powertools:
+  '369':
+  - spawnmob rabbit 1
+  '341':
+  - lightning
+  '23':
+  - spawnmob skeleton
+  '168':
+  - spawnmob blaze
+  '367':
+  - spawnmob zombie
+  '312':
+  - spawnmob cavespider
+  '366':
+  - kittycannon
+  '1':
+  - lightning

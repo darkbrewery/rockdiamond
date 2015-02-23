@@ -1,0 +1,21 @@
+lastAccountName: emil12345sm
+timestamps:
+  login: 1422424202112
+  lastteleport: 1422424399487
+  logout: 1422424510814
+ipAddress: 88.88.40.160
+lastlocation:
+  world: spawn
+  x: 0.9002650040274834
+  y: 33.0
+  z: -37.61128339202003
+  yaw: 158.54955
+  pitch: 8.400007
+logoutlocation:
+  world: spawn
+  x: 11.988852335580566
+  y: 106.0
+  z: -232.3556467686834
+  yaw: -349.05115
+  pitch: 13.050073
+money: '30.0'

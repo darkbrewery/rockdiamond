@@ -1,0 +1,22 @@
+uuid: c9232c01-f27a-4bcd-ac2f-4ad75ad05602
+timestamps:
+  login: 1419907964546
+  lastteleport: 1419908022701
+  logout: 1419908031609
+ipAddress: 96.2.115.163
+lastlocation:
+  world: spawn
+  x: 0.5409279034462525
+  y: 29.0
+  z: 52.52429342226444
+  yaw: -0.6672233
+  pitch: 0.6251044
+logoutlocation:
+  world: spawn
+  x: -19.80528559096253
+  y: 35.0
+  z: -6.493230151431529
+  yaw: 50.152653
+  pitch: -0.35917532
+money: '30.0'
+lastAccountName: sasuke2ninja

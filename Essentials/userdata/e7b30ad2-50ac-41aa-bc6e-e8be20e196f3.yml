@@ -1,0 +1,22 @@
+uuid: e7b30ad2-50ac-41aa-bc6e-e8be20e196f3
+timestamps:
+  login: 1418824348539
+  lastteleport: 1418824430058
+  logout: 1418824463662
+ipAddress: 5.15.30.82
+lastlocation:
+  world: spawn
+  x: 0.31018802451041216
+  y: 29.0
+  z: 48.292830865087524
+  yaw: -0.3005128
+  pitch: -29.549994
+logoutlocation:
+  world: spawn
+  x: -0.3629669522820407
+  y: 26.0
+  z: -3.300000011920929
+  yaw: -178.96022
+  pitch: 86.928
+money: '30.0'
+lastAccountName: forddemc

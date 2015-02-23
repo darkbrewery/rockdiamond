@@ -1,0 +1,26 @@
+uuid: 1e9c4e4c-5388-4586-9d9c-577a322d0f08
+timestamps:
+  login: 1420865528256
+  lastteleport: 1420868371053
+  kits:
+    pvp: 1420175166426
+    novice: 1419650977762
+    adept: 1420759174133
+  logout: 1420868598576
+ipAddress: 67.10.132.246
+lastlocation:
+  world: mines
+  x: 293.1765076256944
+  y: 73.0
+  z: -10.84056896092822
+  yaw: 143.40271
+  pitch: 9.449969
+logoutlocation:
+  world: spawn
+  x: 13.833083030519939
+  y: 123.0
+  z: -237.44751366922614
+  yaw: -47.900085
+  pitch: -13.650004
+money: '336194.5494202899'
+lastAccountName: 40kaden

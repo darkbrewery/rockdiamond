@@ -1,0 +1,24 @@
+uuid: 9d657488-d875-4c44-ae1a-51587904bb3e
+timestamps:
+  login: 1420151272549
+  lastteleport: 1420151456253
+  kits:
+    novice: 1420151450447
+  logout: 1420151486267
+ipAddress: 2.126.155.195
+lastlocation:
+  world: spawn
+  x: 11.930106871971148
+  y: 106.0
+  z: -251.37929418289858
+  yaw: 151.68402
+  pitch: 10.216959
+logoutlocation:
+  world: spawn
+  x: 0.4116669275639865
+  y: 28.0
+  z: -34.36932039010134
+  yaw: 282.36133
+  pitch: -63.79096
+money: '30.0'
+lastAccountName: jlloyd10

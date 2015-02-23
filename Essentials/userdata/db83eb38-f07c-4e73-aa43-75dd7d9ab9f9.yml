@@ -1,0 +1,22 @@
+uuid: db83eb38-f07c-4e73-aa43-75dd7d9ab9f9
+timestamps:
+  login: 1419958048498
+  lastteleport: 1419958463217
+  logout: 1419958490944
+ipAddress: 174.66.193.60
+lastlocation:
+  world: spawn
+  x: 11.461438162600956
+  y: 106.0
+  z: -252.5692309496087
+  yaw: 159.14879
+  pitch: 6.450071
+logoutlocation:
+  world: spawn
+  x: 1.4529637689150259
+  y: 27.0
+  z: -7.752864669984634
+  yaw: -312.30045
+  pitch: 55.649986
+money: '30.0'
+lastAccountName: xxsoul_avengerxx

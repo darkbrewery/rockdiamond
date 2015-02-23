@@ -1,0 +1,21 @@
+lastAccountName: TheGamingTorch
+timestamps:
+  login: 1421633046270
+  lastteleport: 1421633274639
+  logout: 1421633356750
+ipAddress: 71.23.92.150
+lastlocation:
+  world: spawn
+  x: 0.48950552521273494
+  y: 29.0
+  z: 22.00405342217309
+  yaw: 0.7494872
+  pitch: -14.249993
+logoutlocation:
+  world: spawn
+  x: -3.764004936720268
+  y: 33.0
+  z: -38.5351996174975
+  yaw: -279.4505
+  pitch: -90.0
+money: '30.0'

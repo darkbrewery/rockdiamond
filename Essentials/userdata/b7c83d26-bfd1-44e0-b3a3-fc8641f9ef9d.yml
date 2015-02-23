@@ -1,0 +1,22 @@
+uuid: b7c83d26-bfd1-44e0-b3a3-fc8641f9ef9d
+timestamps:
+  login: 1419346186910
+  lastteleport: 1419346549971
+  logout: 1419346609490
+ipAddress: 85.108.160.45
+lastlocation:
+  world: spawn
+  x: 0.8763916657909124
+  y: 102.0
+  z: -10.766153224680787
+  yaw: 27.033663
+  pitch: 88.15679
+logoutlocation:
+  world: spawn
+  x: 1.945872845917986
+  y: 34.0
+  z: 11.597837280438561
+  yaw: -312.72964
+  pitch: 50.06399
+money: '30.0'
+lastAccountName: efekalyoncu

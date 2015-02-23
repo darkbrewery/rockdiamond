@@ -1,0 +1,22 @@
+uuid: 70c62c14-ce92-4c40-a48c-c79a166dd666
+timestamps:
+  login: 1416673356437
+  lastteleport: 1416676155116
+  logout: 1416677775469
+ipAddress: 73.46.166.222
+lastlocation:
+  world: mines
+  x: 219.80217799136813
+  y: 63.0
+  z: -19.847334641033296
+  yaw: -168.29755
+  pitch: 8.400015
+money: '859.6538461538439'
+logoutlocation:
+  world: mines
+  x: 237.24304441238107
+  y: 63.0
+  z: -8.908966975322999
+  yaw: 250.80481
+  pitch: 10.499924
+lastAccountName: ianberginz

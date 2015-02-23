@@ -1,0 +1,24 @@
+uuid: 47dbb85a-c959-423b-afb4-6e7c75528461
+timestamps:
+  login: 1418302951173
+  lastteleport: 1418303250183
+  kits:
+    novice: 1418303161240
+  logout: 1418303349954
+ipAddress: 86.141.237.21
+lastlocation:
+  world: mines
+  x: 163.24353432499947
+  y: 63.0
+  z: -14.227985274386409
+  yaw: -104.90077
+  pitch: 27.942759
+money: '955.0'
+logoutlocation:
+  world: mines
+  x: 222.55051324848122
+  y: 66.0
+  z: -2.7265659151816277
+  yaw: 100.98434
+  pitch: 7.800011
+lastAccountName: drwhogeek07

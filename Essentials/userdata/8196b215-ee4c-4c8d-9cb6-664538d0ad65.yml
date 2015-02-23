@@ -1,0 +1,28 @@
+uuid: 8196b215-ee4c-4c8d-9cb6-664538d0ad65
+timestamps:
+  login: 1424218856376
+  logout: 1424219904401
+  lastteleport: 1424219792034
+  kits:
+    pvp: 1418943876151
+    adept: 1421190675702
+ipAddress: 23.124.41.10
+logoutlocation:
+  world: free
+  x: -267.982038416375
+  y: 67.0
+  z: -315.64608569159316
+  yaw: -75.96079
+  pitch: 6.5394664
+money: '0.0'
+lastlocation:
+  world: spawn
+  x: 14.5
+  y: 81.5
+  z: -1237.5
+  yaw: 89.826904
+  pitch: 0.1499731
+afk: false
+nickname: TotallyNotSilent
+godmode: false
+lastAccountName: mr_swaggmaster

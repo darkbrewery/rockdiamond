@@ -1,0 +1,22 @@
+uuid: a37e9582-0ab6-434a-9f7d-9ae79595a389
+timestamps:
+  login: 1419687600923
+  lastteleport: 1419687745455
+  logout: 1419687784555
+ipAddress: 80.193.188.236
+lastlocation:
+  world: spawn
+  x: 0.1241513767639646
+  y: 29.5
+  z: 53.703268614580935
+  yaw: -21.63502
+  pitch: 21.590086
+logoutlocation:
+  world: spawn
+  x: -0.5709891556462638
+  y: 37.0
+  z: -13.032451162696816
+  yaw: -270.9925
+  pitch: 65.61641
+money: '30.0'
+lastAccountName: crazygamer9915

@@ -1,0 +1,22 @@
+uuid: 80dbc74f-5036-4c9e-b2c9-634212ba45a0
+timestamps:
+  login: 1420021728805
+  lastteleport: 1420022272376
+  logout: 1420022316409
+ipAddress: 80.101.65.189
+lastlocation:
+  world: spawn
+  x: 12.591158219894172
+  y: 36.0
+  z: -6.306469987098231
+  yaw: 117.148865
+  pitch: 13.649961
+money: '21.700000000000003'
+logoutlocation:
+  world: mines
+  x: -8.699999988079071
+  y: 48.0
+  z: -11.300000011920929
+  yaw: -1.4973543
+  pitch: 13.049989
+lastAccountName: stino118

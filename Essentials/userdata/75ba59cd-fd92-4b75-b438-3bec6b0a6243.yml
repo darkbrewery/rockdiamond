@@ -1,0 +1,22 @@
+uuid: 75ba59cd-fd92-4b75-b438-3bec6b0a6243
+timestamps:
+  login: 1419653420955
+  lastteleport: 1419657906631
+  logout: 1419657948121
+ipAddress: 142.196.111.196
+lastlocation:
+  world: mines
+  x: 185.738304390217
+  y: 58.0
+  z: -10.595134497853937
+  yaw: -73.19629
+  pitch: 13.6500635
+money: '862.1643478260885'
+logoutlocation:
+  world: mines
+  x: 168.5
+  y: 64.0
+  z: -10.5
+  yaw: -269.0972
+  pitch: 4.9500093
+lastAccountName: cynicalrg

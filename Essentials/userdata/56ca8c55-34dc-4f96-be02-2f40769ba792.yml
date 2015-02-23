@@ -1,0 +1,22 @@
+uuid: 56ca8c55-34dc-4f96-be02-2f40769ba792
+timestamps:
+  login: 1418601917132
+  lastteleport: 1418602055113
+  logout: 1418602079365
+ipAddress: 24.10.217.186
+lastlocation:
+  world: spawn
+  x: 11.689332782876406
+  y: 106.0
+  z: -252.17496469654458
+  yaw: 148.94885
+  pitch: 4.50007
+logoutlocation:
+  world: spawn
+  x: -21.919519792532245
+  y: 35.0
+  z: -6.560635771153538
+  yaw: 176.09943
+  pitch: -3.1500065
+money: '43.5'
+lastAccountName: rjgauthier

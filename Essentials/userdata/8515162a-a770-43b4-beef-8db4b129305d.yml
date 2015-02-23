@@ -1,0 +1,27 @@
+lastAccountName: megaamanzx122
+timestamps:
+  login: 1421102884719
+  lastteleport: 1421102864288
+  logout: 1421102940266
+  kits:
+    pvp: 1420998744188
+    adept: 1420995511792
+  jail: 0
+ipAddress: 73.196.231.197
+lastlocation:
+  world: mines
+  x: 185.78809743495177
+  y: 58.0
+  z: -7.759757598810683
+  yaw: 7.95307
+  pitch: 3.750005
+money: '73930.5004188406'
+logoutlocation:
+  world: spawn
+  x: 14.5
+  y: 81.5
+  z: -1237.5
+  yaw: 89.0769
+  pitch: 0.4499731
+jailed: false
+afk: false

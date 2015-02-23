@@ -1,0 +1,25 @@
+uuid: 08e1c45f-9478-4962-ad45-e60e476bf88a
+timestamps:
+  login: 1419385900032
+  lastteleport: 1419386828473
+  kits:
+    pvp: 1419386137314
+    novice: 1419386120229
+  logout: 1419387280384
+ipAddress: 216.45.127.64
+lastlocation:
+  world: spawn
+  x: 14.5
+  y: 81.5
+  z: -1237.5
+  yaw: 89.826904
+  pitch: 0.1499731
+logoutlocation:
+  world: spawn
+  x: -2.074999988079071
+  y: 32.0
+  z: 2.4394972621472437
+  yaw: 218.84903
+  pitch: 36.0
+money: '30.0'
+lastAccountName: josemybaby1234

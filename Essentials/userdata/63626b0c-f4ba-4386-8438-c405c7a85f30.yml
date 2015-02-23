@@ -1,0 +1,22 @@
+uuid: 63626b0c-f4ba-4386-8438-c405c7a85f30
+timestamps:
+  login: 1420069574555
+  lastteleport: 1420069704966
+  logout: 1420069763478
+ipAddress: 104.52.100.171
+lastlocation:
+  world: spawn
+  x: 0.3921731898372521
+  y: 34.0
+  z: 9.100042869460196
+  yaw: -197.3921
+  pitch: 15.761348
+logoutlocation:
+  world: spawn
+  x: 0.8105123901993824
+  y: 29.0
+  z: 41.425036166345656
+  yaw: -2.8023129
+  pitch: 17.984207
+money: '30.0'
+lastAccountName: miningmansam01

@@ -1,0 +1,21 @@
+lastAccountName: tacolol_
+timestamps:
+  login: 1424043446259
+  lastteleport: 1424043760629
+  logout: 1424043898301
+ipAddress: 67.71.55.25
+lastlocation:
+  world: spawn
+  x: -1.9217436642138541
+  y: 37.0625
+  z: -7.684461026663188
+  yaw: 287.39844
+  pitch: 39.000008
+logoutlocation:
+  world: spawn
+  x: 5.752833923208015
+  y: 55.0
+  z: 11.699999988079076
+  yaw: 176.10132
+  pitch: 24.9
+money: '9.5'

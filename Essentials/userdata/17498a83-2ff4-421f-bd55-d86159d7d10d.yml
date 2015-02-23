@@ -1,0 +1,23 @@
+lastAccountName: skyenaylor
+timestamps:
+  login: 1424451693203
+  lastteleport: 1424357644596
+  kits:
+    novice: 1422205199089
+  logout: 1424451943502
+ipAddress: 94.13.81.235
+money: '9489.949999999999'
+lastlocation:
+  world: spawn
+  x: 34.60751615972557
+  y: 81.0
+  z: -1235.2450879195144
+  yaw: 19.04892
+  pitch: 34.386005
+logoutlocation:
+  world: plotworld
+  x: -88.0
+  y: 65.0
+  z: 65.0
+  yaw: -31.35732
+  pitch: 14.49634

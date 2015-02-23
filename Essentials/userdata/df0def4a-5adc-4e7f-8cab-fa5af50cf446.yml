@@ -1,0 +1,24 @@
+lastAccountName: dillonb12345
+timestamps:
+  login: 1424103725801
+  lastteleport: 1424103819139
+  kits:
+    novice: 1423760918794
+    pvp: 1423847728285
+  logout: 1424103899204
+ipAddress: 94.198.120.151
+lastlocation:
+  world: mines
+  x: 692.5
+  y: 80.0
+  z: 1.5
+  yaw: -180.14517
+  pitch: 0.4500102
+logoutlocation:
+  world: mines
+  x: 128.49273712242012
+  y: 62.0
+  z: -7.541250380973507
+  yaw: 336.752
+  pitch: 26.10001
+money: '5382.964673913049'

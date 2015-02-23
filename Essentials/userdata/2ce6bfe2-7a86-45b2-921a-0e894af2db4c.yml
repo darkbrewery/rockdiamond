@@ -1,0 +1,25 @@
+lastAccountName: ryerai718
+timestamps:
+  login: 1423340524295
+  lastteleport: 1423342400152
+  kits:
+    pvp: 1423340603140
+    novice: 1423340590216
+  logout: 1423342450482
+ipAddress: 90.199.109.220
+lastlocation:
+  world: spawn
+  x: 12.7786084657102
+  y: 58.0
+  z: -244.35650168609294
+  yaw: -341.40152
+  pitch: 18.000008
+afk: false
+logoutlocation:
+  world: spawn
+  x: 27.32019026465877
+  y: 35.0
+  z: -5.531516229527092
+  yaw: 183.29968
+  pitch: 12.449995
+money: '822.39'

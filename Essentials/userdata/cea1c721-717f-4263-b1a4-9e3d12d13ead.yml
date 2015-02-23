@@ -1,0 +1,22 @@
+uuid: cea1c721-717f-4263-b1a4-9e3d12d13ead
+timestamps:
+  login: 1419292042524
+  lastteleport: 1419292182283
+  logout: 1419292237453
+ipAddress: 195.81.67.145
+lastlocation:
+  world: spawn
+  x: 0.9288365381182568
+  y: 33.0
+  z: -37.931479675717654
+  yaw: 156.90286
+  pitch: 5.69999
+logoutlocation:
+  world: spawn
+  x: 10.501715245963434
+  y: 106.0
+  z: -235.90869444789575
+  yaw: -357.30206
+  pitch: 4.050049
+money: '30.0'
+lastAccountName: xandryx02

@@ -1,0 +1,25 @@
+uuid: f051e115-c0d5-45b1-8264-b4b67a66bd6a
+timestamps:
+  login: 1419107354603
+  lastteleport: 1419107764573
+  kits:
+    pvp: 1419100110379
+    novice: 1419100102878
+  logout: 1419107854922
+ipAddress: 174.118.156.89
+lastlocation:
+  world: spawn
+  x: -1.4119391704888462
+  y: 6.0
+  z: -244.70850494183156
+  yaw: 89.698425
+  pitch: 3.4499607
+logoutlocation:
+  world: spawn
+  x: -0.013576012681134453
+  y: 82.17930202447388
+  z: 15.819198443803467
+  yaw: -243.15076
+  pitch: 36.900005
+money: '621.0'
+lastAccountName: cheesemaster2449

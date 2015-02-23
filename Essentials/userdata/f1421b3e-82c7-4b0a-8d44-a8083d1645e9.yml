@@ -1,0 +1,21 @@
+lastAccountName: santa_slime
+timestamps:
+  login: 1424288554550
+  lastteleport: 1424289923168
+  logout: 1424289961887
+ipAddress: 100.0.54.204
+lastlocation:
+  world: mines
+  x: 25.511763376146586
+  y: 63.0
+  z: -5.09642617445034
+  yaw: 358.9525
+  pitch: 2.8500695
+logoutlocation:
+  world: spawn
+  x: 0.5
+  y: 102.40199999809265
+  z: -11.3484920092659
+  yaw: 0.0
+  pitch: 0.0
+money: '30.0'

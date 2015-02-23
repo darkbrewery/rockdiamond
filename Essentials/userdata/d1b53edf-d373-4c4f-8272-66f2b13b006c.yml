@@ -1,0 +1,26 @@
+uuid: d1b53edf-d373-4c4f-8272-66f2b13b006c
+timestamps:
+  login: 1418314167572
+  lastteleport: 1418322410276
+  kits:
+    pvp: 1418322266499
+    novice: 1418314278977
+    adept: 1418320105282
+  logout: 1418322418958
+ipAddress: 189.100.203.94
+lastlocation:
+  world: spawn
+  x: -0.8261505014231594
+  y: 34.0
+  z: 10.453916286389818
+  yaw: -183.60013
+  pitch: 8.999985
+money: '49935.97711538463'
+logoutlocation:
+  world: mines
+  x: 221.10179190842442
+  y: 63.0
+  z: -17.760688381017502
+  yaw: -126.8975
+  pitch: 3.9000087
+lastAccountName: brizi0

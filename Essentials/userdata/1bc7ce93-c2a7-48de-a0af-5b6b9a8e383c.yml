@@ -1,0 +1,25 @@
+timestamps:
+  lastteleport: 1419995775712
+  kits:
+    alpha: 1417240833501
+    adept: 1417833282159
+  logout: 1419996181585
+  login: 1419996102443
+lastlocation:
+  world: spawn
+  x: 14.408579288652405
+  y: 82.0
+  z: -1236.8927260277633
+  yaw: 82.16457
+  pitch: 22.329643
+money: '119261.65217391304'
+logoutlocation:
+  world: spawn
+  x: 4.98795832168419
+  y: 82.0
+  z: -1232.1610609112959
+  yaw: -278.54666
+  pitch: 19.418821
+uuid: 1bc7ce93-c2a7-48de-a0af-5b6b9a8e383c
+ipAddress: 108.185.213.140
+lastAccountName: corralbio

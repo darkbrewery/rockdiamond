@@ -1,0 +1,21 @@
+lastAccountName: kinggump
+timestamps:
+  login: 1424492656662
+  lastteleport: 1424493514923
+  logout: 1424494081659
+ipAddress: 64.20.64.213
+lastlocation:
+  world: spawn
+  x: 12.661234634933281
+  y: 102.0
+  z: -244.78218544059465
+  yaw: 81.74931
+  pitch: 5.549969
+money: '747.44'
+logoutlocation:
+  world: mines
+  x: 10.304830542786007
+  y: 63.0
+  z: -4.919408471603961
+  yaw: -346.94586
+  pitch: 0.6000012

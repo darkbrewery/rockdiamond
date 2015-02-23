@@ -1,0 +1,23 @@
+lastAccountName: lukemiester2002
+timestamps:
+  login: 1423906376353
+  lastteleport: 1423906405227
+  kits:
+    novice: 1423906485402
+  logout: 1423907267015
+ipAddress: 203.144.0.110
+lastlocation:
+  world: spawn
+  x: 7.530620063520097
+  y: 82.0
+  z: -1237.7060955880345
+  yaw: 90.4264
+  pitch: 24.749996
+money: '0.0'
+logoutlocation:
+  world: spawn
+  x: 1.8867660971280737
+  y: 29.5
+  z: 48.03564504019616
+  yaw: -44.10028
+  pitch: 13.950011

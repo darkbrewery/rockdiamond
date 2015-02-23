@@ -1,0 +1,33 @@
+uuid: eff1652c-88ef-47bd-9960-02fe1a48686c
+timestamps:
+  login: 1424477442718
+  lastteleport: 1424477729424
+  kits:
+    expert: 1424217563671
+    pvp: 1422056837283
+    novice: 1420982455133
+    color: 1420982433371
+    adept: 1423262761474
+  jail: 0
+  logout: 1424478067794
+ipAddress: 24.34.246.144
+lastlocation:
+  world: plotworld
+  x: 47.33943144045587
+  y: 65.0
+  z: -68.60369545858013
+  yaw: -187.04984
+  pitch: 13.649944
+money: '125517731.33996752'
+jailed: false
+afk: false
+logoutlocation:
+  world: parkour
+  x: -0.6385038785797403
+  y: 80.0
+  z: 0.10599928811713577
+  yaw: 344.6206
+  pitch: 38.699963
+godmode: false
+lastAccountName: noahrg
+nickname: §2N§1o§2a§1h

@@ -1,0 +1,24 @@
+uuid: b3177b3e-c05f-485c-846e-88f673618d03
+timestamps:
+  login: 1416416664606
+  lastteleport: 1416383769255
+  kits:
+    alpha: 1416383763625
+  logout: 1416416701513
+ipAddress: 80.202.249.113
+lastlocation:
+  world: spawn
+  x: 19.95715787209753
+  y: 35.5
+  z: -10.966660870996103
+  yaw: 178.0527
+  pitch: -9.000022
+logoutlocation:
+  world: spawn
+  x: 0.18590123346219545
+  y: 36.0
+  z: -16.261927088615103
+  yaw: 65.09904
+  pitch: 27.150013
+money: '30.0'
+lastAccountName: spion99

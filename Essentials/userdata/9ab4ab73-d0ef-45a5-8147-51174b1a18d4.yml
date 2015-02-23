@@ -1,0 +1,23 @@
+lastAccountName: lemedian
+timestamps:
+  login: 1423001261203
+  lastteleport: 1423001523544
+  kits:
+    pvp: 1422159613824
+  logout: 1423001580262
+ipAddress: 50.182.44.229
+lastlocation:
+  world: mines
+  x: 299.81857857326156
+  y: 48.0
+  z: -11.536691878512087
+  yaw: -146.6966
+  pitch: -18.599941
+logoutlocation:
+  world: mines
+  x: 293.5213838867799
+  y: 73.0
+  z: -10.818692105390948
+  yaw: -57.89735
+  pitch: 30.44999
+money: '372817.16014492756'

@@ -1,0 +1,21 @@
+lastAccountName: tmillsbro
+timestamps:
+  login: 1424397468425
+  lastteleport: 1424397578389
+  logout: 1424397628919
+ipAddress: 76.0.62.236
+lastlocation:
+  world: spawn
+  x: 0.3279118343322804
+  y: 29.0
+  z: 51.93896674608282
+  yaw: 28.049465
+  pitch: 6.4500146
+logoutlocation:
+  world: spawn
+  x: -1.522848817817978
+  y: 26.0
+  z: -10.567411575957527
+  yaw: -180.15036
+  pitch: 30.599966
+money: '30.0'

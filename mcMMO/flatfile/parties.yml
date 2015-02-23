@@ -1,0 +1,18 @@
+Bae:
+  Leader: SiLeNT_F1NISH
+  Password: Brewhaus
+  Locked: true
+  Level: 10
+  Xp: 1003
+  Ally: ''
+  ExpShareMode: NONE
+  ItemShareMode: NONE
+  ItemShareType:
+    LOOT: true
+    MINING: true
+    HERBALISM: true
+    WOODCUTTING: true
+    MISC: true
+  Members:
+  - SiLeNT_F1NISH
+  - Brewhaus

@@ -1,0 +1,22 @@
+uuid: 245a4dee-d5dd-4087-94bf-9f84f2ae408b
+timestamps:
+  login: 1419909532374
+  lastteleport: 1419909711587
+  logout: 1419909778257
+ipAddress: 108.225.170.38
+lastlocation:
+  world: spawn
+  x: -2.1350205936186106
+  y: 34.0
+  z: 11.076107303455101
+  yaw: -211.35007
+  pitch: 12.299992
+logoutlocation:
+  world: spawn
+  x: 0.5
+  y: 29.0
+  z: 20.5
+  yaw: -6.300513
+  pitch: 3.4500053
+money: '30.0'
+lastAccountName: linseytherule

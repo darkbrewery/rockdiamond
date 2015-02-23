@@ -1,0 +1,23 @@
+lastAccountName: EliasR05
+timestamps:
+  login: 1421840836005
+  lastteleport: 1421840714473
+  kits:
+    pvp: 1421838675787
+  logout: 1421841232823
+ipAddress: 37.208.230.65
+lastlocation:
+  world: spawn
+  x: 0.5
+  y: 37.0
+  z: -6.5
+  yaw: 179.84944
+  pitch: 1.6499914
+logoutlocation:
+  world: spawn
+  x: 8.79793648013752
+  y: 114.0
+  z: -747.8675597807231
+  yaw: 307.75333
+  pitch: -1.1999682
+money: '151.94'

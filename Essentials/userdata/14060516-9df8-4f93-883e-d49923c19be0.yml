@@ -1,0 +1,27 @@
+uuid: 14060516-9df8-4f93-883e-d49923c19be0
+timestamps:
+  login: 1417316772469
+  lastteleport: 1417274512156
+  kits:
+    color: 1417274706029
+    alpha: 1417274046399
+  logout: 1417316885996
+ipAddress: 24.203.61.11
+lastlocation:
+  world: mines
+  x: -6.199034537950861
+  y: 63.0
+  z: -7.042216328257393
+  yaw: -336.44
+  pitch: 29.538546
+money: '382.25'
+afk: false
+nickname: §4Solar§bSin
+logoutlocation:
+  world: plotworld
+  x: -52.732152031258124
+  y: 65.5
+  z: 34.69999998807907
+  yaw: -69.64496
+  pitch: 13.0106
+lastAccountName: rainbowpepper

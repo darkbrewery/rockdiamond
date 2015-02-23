@@ -1,0 +1,22 @@
+uuid: 9a29f94d-d718-4a5f-b468-27abc32a5938
+timestamps:
+  login: 1421633306549
+  logout: 1421633524333
+  lastteleport: 1421633471202
+ipAddress: 72.239.94.12
+logoutlocation:
+  world: spawn
+  x: 3.7705346342570705
+  y: 33.0
+  z: -31.912430618036648
+  yaw: 22.199432
+  pitch: 49.199978
+money: '30.0'
+lastAccountName: HaloManSniper789
+lastlocation:
+  world: spawn
+  x: 12.349575518308
+  y: 102.0
+  z: -243.6907706248688
+  yaw: -236.70116
+  pitch: -4.199933

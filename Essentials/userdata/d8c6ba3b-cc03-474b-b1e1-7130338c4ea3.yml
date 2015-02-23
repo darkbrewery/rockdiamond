@@ -1,0 +1,22 @@
+uuid: d8c6ba3b-cc03-474b-b1e1-7130338c4ea3
+timestamps:
+  login: 1419785602792
+  lastteleport: 1419786487969
+  logout: 1419786562119
+ipAddress: 173.21.156.10
+lastlocation:
+  world: spawn
+  x: 14.76471702736259
+  y: 5.5
+  z: -243.73729051496545
+  yaw: 133.34792
+  pitch: 45.150055
+logoutlocation:
+  world: spawn
+  x: -0.7627168442950314
+  y: 37.0625
+  z: -6.701725066699178
+  yaw: -153.45093
+  pitch: 9.599968
+money: '160.2'
+lastAccountName: t0m1nsky

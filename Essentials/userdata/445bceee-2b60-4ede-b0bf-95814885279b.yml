@@ -1,0 +1,22 @@
+uuid: 445bceee-2b60-4ede-b0bf-95814885279b
+timestamps:
+  login: 1419930233630
+  lastteleport: 1419930439226
+  logout: 1419930448327
+ipAddress: 93.141.144.213
+lastlocation:
+  world: spawn
+  x: 0.3621690137471546
+  y: 32.0
+  z: -1.7873481570908076
+  yaw: 354.93793
+  pitch: 0.7501986
+logoutlocation:
+  world: spawn
+  x: 9.227356910455637
+  y: 106.0
+  z: -235.2955656570848
+  yaw: -1.3820039
+  pitch: 6.142319
+money: '30.0'
+lastAccountName: thebestking64

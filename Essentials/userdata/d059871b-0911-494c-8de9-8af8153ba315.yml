@@ -1,0 +1,21 @@
+lastAccountName: Carbonado4K
+timestamps:
+  login: 1421295594016
+  lastteleport: 1421296143905
+  logout: 1421296278764
+ipAddress: 75.142.9.51
+lastlocation:
+  world: spawn
+  x: -0.3603797500258916
+  y: 103.0
+  z: 18.292108447440835
+  yaw: 195.30002
+  pitch: 43.05002
+logoutlocation:
+  world: spawn
+  x: -0.7770061439626152
+  y: 34.0
+  z: 18.806045234446128
+  yaw: 134.4006
+  pitch: -1.2000093
+money: '30.0'

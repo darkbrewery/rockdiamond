@@ -1,0 +1,25 @@
+uuid: 942ffb9a-50cd-4696-9e1d-c6aa0062507d
+timestamps:
+  login: 1421204248568
+  lastteleport: 1421204359218
+  kits:
+    novice: 1420572918739
+    adept: 1420792744666
+  logout: 1421204525091
+ipAddress: 67.183.102.18
+lastlocation:
+  world: spawn
+  x: 3.6295666322614535
+  y: 123.0
+  z: -251.32895033391307
+  yaw: 210.54997
+  pitch: 31.95
+money: '4620.287101449221'
+logoutlocation:
+  world: mines
+  x: 382.08110029896085
+  y: 48.0
+  z: -11.966589607973999
+  yaw: 257.70374
+  pitch: 26.550037
+lastAccountName: yogscastperson

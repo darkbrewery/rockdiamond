@@ -1,0 +1,23 @@
+lastAccountName: SUB_OHM
+timestamps:
+  login: 1423701021774
+  lastteleport: 1423702897226
+  kits:
+    color: 1423701603623
+  logout: 1423703491678
+ipAddress: 82.28.63.150
+lastlocation:
+  world: mines
+  x: 104.89697030894969
+  y: 63.0
+  z: -17.794526613124976
+  yaw: 19.80264
+  pitch: 27.9
+money: '2186.86'
+logoutlocation:
+  world: mines
+  x: 696.9355474969783
+  y: 80.0
+  z: -17.863744938748912
+  yaw: 35.104248
+  pitch: 20.250202

@@ -1,0 +1,23 @@
+lastAccountName: megmerr
+timestamps:
+  login: 1421636458408
+  lastteleport: 1421636782989
+  kits:
+    novice: 1421636534569
+  logout: 1421636790389
+ipAddress: 68.60.140.196
+lastlocation:
+  world: spawn
+  x: -22.07338018530239
+  y: 35.0
+  z: -5.952997282653642
+  yaw: 87.00293
+  pitch: 1.3500022
+logoutlocation:
+  world: spawn
+  x: 0.5
+  y: 55.0
+  z: 9.5
+  yaw: -176.8484
+  pitch: 20.55
+money: '16.39'

@@ -1,0 +1,22 @@
+uuid: 014dbac6-51e5-4d9e-b6dd-958d38a63ba5
+timestamps:
+  login: 1418835010847
+  lastteleport: 1418835405716
+  logout: 1418835426146
+ipAddress: 194.165.114.64
+lastlocation:
+  world: spawn
+  x: 0.15593449583533553
+  y: 31.0
+  z: -4.38573347557859
+  yaw: -5.903684
+  pitch: 6.2583222
+logoutlocation:
+  world: spawn
+  x: 20.898663340665898
+  y: 106.0
+  z: -250.19703105539284
+  yaw: -184.14362
+  pitch: -6.2552805
+money: '30.0'
+lastAccountName: brofistlp

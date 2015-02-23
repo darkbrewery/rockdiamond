@@ -1,0 +1,32 @@
+timestamps:
+  kits:
+    novice: 1417900696927
+    pvp: 1418867860893
+    color: 1417900997605
+    alpha: 1417482414441
+    adept: 1420240224323
+    stoner: 1417486055067
+  lastteleport: 1420242089259
+  logout: 1420237316723
+  login: 1420237345650
+  jail: 0
+lastlocation:
+  world: spawn
+  x: -24.69999998807907
+  y: 75.0
+  z: -258.699999988079
+  yaw: 338.53018
+  pitch: 15.150005
+afk: false
+money: '84612.33001393497'
+logoutlocation:
+  world: plotworld
+  x: 40.0
+  y: 66.0
+  z: -63.0
+  yaw: 0.0
+  pitch: 0.0
+uuid: 56cd8403-07af-4e13-806a-499cf7227c02
+ipAddress: 76.107.23.214
+jailed: false
+lastAccountName: yousniff

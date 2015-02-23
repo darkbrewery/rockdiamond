@@ -1,0 +1,24 @@
+uuid: b965701e-73ff-431a-8701-458cc6bc2cac
+timestamps:
+  login: 1419859475642
+  lastteleport: 1419859820785
+  kits:
+    pvp: 1419859649131
+  logout: 1419859824424
+ipAddress: 192.173.180.133
+lastlocation:
+  world: spawn
+  x: -0.6846557851092536
+  y: 107.0
+  z: -245.32358255378483
+  yaw: 43.648865
+  pitch: 28.34998
+logoutlocation:
+  world: spawn
+  x: 0.46446889647840867
+  y: 37.0
+  z: -6.537357476287962
+  yaw: 4.649414
+  pitch: 12.149993
+money: '30.0'
+lastAccountName: keanu9899

@@ -1,0 +1,26 @@
+uuid: b07cfcc5-0e84-4dab-8b86-f8e4ac217ac5
+timestamps:
+  login: 1417249899574
+  logout: 1417250091821
+  lastteleport: 1416587691559
+  kits:
+    color: 1417250064920
+    alpha: 1417250060469
+    stoner: 1417250057118
+ipAddress: 90.195.106.145
+logoutlocation:
+  world: plotworld
+  x: -21.05310134289903
+  y: 65.0
+  z: 5.69999998807907
+  yaw: -12.300049
+  pitch: 15.749997
+lastlocation:
+  world: spawn
+  x: -1.9583579722055946
+  y: 37.0
+  z: -6.073266669631999
+  yaw: -172.05048
+  pitch: 13.649993
+money: '96.5'
+lastAccountName: twinotr

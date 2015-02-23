@@ -1,0 +1,27 @@
+uuid: 18d15e3c-5d94-4001-9cf3-561494977d5e
+timestamps:
+  login: 1422120241523
+  logout: 1422123147642
+  lastteleport: 1422123075625
+  kits:
+    pvp: 1422120693531
+    novice: 1422120289658
+    color: 1422121015076
+    adept: 1422120657294
+ipAddress: 209.222.185.224
+logoutlocation:
+  world: mines
+  x: -5.478553790592452
+  y: 63.0
+  z: -11.985495220140631
+  yaw: -199.19743
+  pitch: 21.00001
+money: '152665.03'
+lastAccountName: CCandianBBacon
+lastlocation:
+  world: spawn
+  x: 23.998834650411702
+  y: 114.0
+  z: -246.68610425710185
+  yaw: -200.4012
+  pitch: 40.80007

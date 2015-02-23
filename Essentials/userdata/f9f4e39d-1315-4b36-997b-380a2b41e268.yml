@@ -1,0 +1,25 @@
+uuid: f9f4e39d-1315-4b36-997b-380a2b41e268
+timestamps:
+  login: 1422648235226
+  lastteleport: 1420119129969
+  kits:
+    novice: 1420119042466
+    pvp: 1420119036840
+  logout: 1422648276583
+ipAddress: 81.165.200.82
+lastlocation:
+  world: spawn
+  x: 1.0598733864822032
+  y: 33.0
+  z: -38.158319766078506
+  yaw: 156.81287
+  pitch: 6.9610367
+logoutlocation:
+  world: spawn
+  x: -1.4012997287581817
+  y: 80.5
+  z: -1237.4079859708706
+  yaw: 88.462006
+  pitch: 11.837999
+money: '30.0'
+lastAccountName: Robbeboy123

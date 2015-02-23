@@ -1,0 +1,23 @@
+lastAccountName: klwwlk
+timestamps:
+  login: 1421721724331
+  lastteleport: 1421721971172
+  kits:
+    pvp: 1421721967572
+  logout: 1421722003260
+ipAddress: 108.34.55.135
+lastlocation:
+  world: mines
+  x: -15.449632733950565
+  y: 63.0
+  z: -13.020343264290426
+  yaw: -282.33936
+  pitch: 11.936487
+money: '1.9'
+logoutlocation:
+  world: spawn
+  x: 10.578121037344335
+  y: 82.0
+  z: -1237.511779793771
+  yaw: 90.38758
+  pitch: 0.14997311

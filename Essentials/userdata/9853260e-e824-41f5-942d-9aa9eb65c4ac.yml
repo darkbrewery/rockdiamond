@@ -1,0 +1,25 @@
+uuid: 9853260e-e824-41f5-942d-9aa9eb65c4ac
+timestamps:
+  login: 1420592118302
+  lastteleport: 1420394075748
+  kits:
+    adept: 1419720202325
+  logout: 1420592713904
+ipAddress: 68.43.93.116
+lastlocation:
+  world: spawn
+  x: 12.300000011920927
+  y: 102.0
+  z: -245.8301161770798
+  yaw: -55.051167
+  pitch: -1.1999305
+money: '0.0'
+logoutlocation:
+  world: plotworld
+  x: -22.603240054137224
+  y: 66.0
+  z: -5.382420670104005
+  yaw: -175.34996
+  pitch: 17.250006
+afk: false
+lastAccountName: crimsongaming25

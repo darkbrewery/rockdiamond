@@ -1,0 +1,23 @@
+uuid: 71c79aa9-fefe-4e2d-b3c9-5cf70aa0cc43
+timestamps:
+  login: 1418622143183
+  lastteleport: 1418622439894
+  logout: 1418622459342
+ipAddress: 101.178.224.194
+lastlocation:
+  world: spawn
+  x: 22.43697437469813
+  y: 78.0
+  z: -242.6858183224507
+  yaw: 20.98004
+  pitch: 10.050031
+godmode: false
+logoutlocation:
+  world: spawn
+  x: 0.5998558901090338
+  y: 102.0
+  z: -11.967741904372629
+  yaw: -357.9005
+  pitch: 12.750004
+money: '483.07'
+lastAccountName: harryarsecrax

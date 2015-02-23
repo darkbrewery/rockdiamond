@@ -1,0 +1,26 @@
+uuid: 0729a66f-07e7-4b4a-8a58-3c7c18cf271f
+timestamps:
+  login: 1424045213286
+  lastteleport: 1421874911095
+  logout: 1424045249130
+  kits:
+    novice: 1421194980428
+    pvp: 1421494960348
+    color: 1420722109738
+ipAddress: 71.168.98.100
+lastlocation:
+  world: plotworld
+  x: -233.09973786311764
+  y: 65.0
+  z: 128.64831358044273
+  yaw: 227.09985
+  pitch: 26.249945
+money: '12918.240000000007'
+logoutlocation:
+  world: plotworld
+  x: 76.87372724186852
+  y: 65.5
+  z: -33.61511006684597
+  yaw: -156.44998
+  pitch: 15.300006
+lastAccountName: EveningDawn222

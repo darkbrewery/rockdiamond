@@ -1,0 +1,21 @@
+lastAccountName: TylerGamesMC
+timestamps:
+  login: 1421599323003
+  lastteleport: 1421599689599
+  logout: 1421599713604
+ipAddress: 24.36.199.167
+lastlocation:
+  world: spawn
+  x: 12.63697954650128
+  y: 106.0
+  z: -251.1539545747537
+  yaw: 171.74887
+  pitch: 1.2000792
+logoutlocation:
+  world: plotworld
+  x: -8.232542882116894
+  y: 67.0
+  z: 8.954260834816461
+  yaw: 135.89993
+  pitch: 11.55001
+money: '30.0'

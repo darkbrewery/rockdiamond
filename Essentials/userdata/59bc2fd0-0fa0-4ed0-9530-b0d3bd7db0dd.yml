@@ -1,0 +1,24 @@
+uuid: 59bc2fd0-0fa0-4ed0-9530-b0d3bd7db0dd
+timestamps:
+  login: 1419391780173
+  lastteleport: 1419392092411
+  kits:
+    novice: 1419392005958
+  logout: 1419392113008
+ipAddress: 24.127.171.228
+lastlocation:
+  world: spawn
+  x: 12.379794380668226
+  y: 102.0
+  z: -245.1641597456715
+  yaw: 62.54904
+  pitch: 5.850075
+logoutlocation:
+  world: spawn
+  x: 3.265568703622294
+  y: 114.5
+  z: -748.0587767368327
+  yaw: -274.99686
+  pitch: -22.800003
+money: '30.0'
+lastAccountName: micbaker1056

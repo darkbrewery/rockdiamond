@@ -1,0 +1,26 @@
+uuid: ea7564d5-dbaa-49f7-a559-26ec68de91d9
+timestamps:
+  login: 1417904706646
+  lastteleport: 1417904801518
+  logout: 1417904881604
+  kits:
+    pvp: 1417904731455
+    novice: 1417904714951
+    color: 1417904749678
+ipAddress: 70.178.118.78
+money: '1168.5'
+lastlocation:
+  world: spawn
+  x: 0.7474578999480761
+  y: 105.5
+  z: 14.384949655288086
+  yaw: -353.8892
+  pitch: 71.942154
+logoutlocation:
+  world: spawn
+  x: 0.5998558901090338
+  y: 102.0
+  z: -11.967741904372629
+  yaw: -359.85046
+  pitch: 1.3500036
+lastAccountName: potioned

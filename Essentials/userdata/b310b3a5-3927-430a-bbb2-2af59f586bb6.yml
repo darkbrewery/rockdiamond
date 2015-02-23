@@ -1,0 +1,23 @@
+lastAccountName: jf153
+timestamps:
+  login: 1423270428426
+  lastteleport: 1423270510350
+  kits:
+    novice: 1422919859498
+  logout: 1423270765116
+ipAddress: 67.68.169.61
+lastlocation:
+  world: spawn
+  x: 10.400347823280162
+  y: 106.0
+  z: -252.7830319101903
+  yaw: -171.69711
+  pitch: 8.936317
+logoutlocation:
+  world: plotworld
+  x: -14.561089693900746
+  y: 65.0
+  z: -79.18955122407432
+  yaw: 314.76373
+  pitch: 49.037968
+money: '453.83'

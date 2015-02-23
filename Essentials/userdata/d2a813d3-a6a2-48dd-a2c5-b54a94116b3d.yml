@@ -1,0 +1,27 @@
+uuid: d2a813d3-a6a2-48dd-a2c5-b54a94116b3d
+timestamps:
+  login: 1423505268995
+  lastteleport: 1422799850978
+  kits:
+    novice: 1419942415817
+    pvp: 1419944473116
+    adept: 1422799674773
+  logout: 1423505292320
+ipAddress: 109.213.141.61
+lastlocation:
+  world: mines
+  x: 328.6866385156147
+  y: 63.0
+  z: -10.695897613433772
+  yaw: 87.15269
+  pitch: 59.100006
+logoutlocation:
+  world: spawn
+  x: -21.815784513276633
+  y: 35.0
+  z: -5.816785580211057
+  yaw: -99.900856
+  pitch: 2.8499932
+money: '30.0'
+afk: false
+lastAccountName: PyroGamer42

@@ -1,0 +1,27 @@
+uuid: 9576a2e5-9efe-420c-9d6a-7f816be4b16d
+timestamps:
+  login: 1419868321078
+  lastteleport: 1419585408505
+  kits:
+    novice: 1419328003122
+    pvp: 1419345393874
+    color: 1419331550960
+    adept: 1419345067046
+  logout: 1419868325091
+ipAddress: 182.55.157.138
+lastlocation:
+  world: spawn
+  x: 10.839097267413146
+  y: 82.0
+  z: -1237.4831372056506
+  yaw: 89.52691
+  pitch: 1.649973
+logoutlocation:
+  world: plotworld
+  x: -28.932083353769528
+  y: 65.0
+  z: -31.9011321266358
+  yaw: 198.14783
+  pitch: 3.2999508
+money: '1432223.435192308'
+lastAccountName: jarlietaytay

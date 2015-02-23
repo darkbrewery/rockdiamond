@@ -1,0 +1,23 @@
+lastAccountName: TGIxIGotYaSnipe
+timestamps:
+  login: 1422556789467
+  lastteleport: 1422558477173
+  kits:
+    pvp: 1422557249608
+  logout: 1422559185296
+ipAddress: 94.0.250.4
+lastlocation:
+  world: parkour
+  x: -59.41595126288775
+  y: 83.0
+  z: 5.213060256716
+  yaw: -90.35
+  pitch: 9.249999
+logoutlocation:
+  world: parkour
+  x: 25.5
+  y: 86.0
+  z: -35.5
+  yaw: -189.0
+  pitch: -0.75
+money: '42.75'

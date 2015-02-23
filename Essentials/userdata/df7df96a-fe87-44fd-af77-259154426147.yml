@@ -1,0 +1,24 @@
+uuid: df7df96a-fe87-44fd-af77-259154426147
+timestamps:
+  login: 1420839952861
+  lastteleport: 1420839976622
+  kits:
+    pvp: 1420839990779
+  logout: 1420840097016
+ipAddress: 66.41.244.16
+lastlocation:
+  world: spawn
+  x: 34.57974017306542
+  y: 81.0
+  z: -1239.0358450598799
+  yaw: 255.57677
+  pitch: 4.8000093
+logoutlocation:
+  world: spawn
+  x: 4.602388150484803
+  y: 85.5
+  z: -248.8304373711832
+  yaw: -82.819305
+  pitch: 4.199951
+money: '59.04'
+lastAccountName: LandHog

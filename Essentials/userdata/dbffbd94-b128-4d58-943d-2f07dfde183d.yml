@@ -1,0 +1,24 @@
+lastAccountName: MysticalTopHat
+timestamps:
+  login: 1421978410443
+  lastteleport: 1421979218601
+  kits:
+    pvp: 1421978512153
+    novice: 1421978493801
+  logout: 1421979228666
+ipAddress: 24.10.238.86
+lastlocation:
+  world: mines
+  x: 48.65462480726963
+  y: 63.0
+  z: -2.6249679801720895
+  yaw: 7.086137
+  pitch: -7.158222
+logoutlocation:
+  world: spawn
+  x: 23.05435327079412
+  y: 114.0
+  z: -245.6454537547278
+  yaw: 100.39523
+  pitch: 41.46469
+money: '489.0'

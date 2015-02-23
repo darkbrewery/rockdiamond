@@ -1,0 +1,22 @@
+uuid: 5d58a411-d1dd-463d-869f-7dd1268df508
+timestamps:
+  login: 1416869233312
+  lastteleport: 1416872463119
+  logout: 1416872661575
+ipAddress: 49.197.137.193
+lastlocation:
+  world: plotworld
+  x: -56.46675469998574
+  y: 66.0
+  z: -20.048384295106214
+  yaw: 194.74806
+  pitch: 36.176083
+money: '164.25'
+logoutlocation:
+  world: plotworld
+  x: -56.18201022491534
+  y: 71.0
+  z: -18.649286772704667
+  yaw: -88.582214
+  pitch: 31.515253
+lastAccountName: upyours101

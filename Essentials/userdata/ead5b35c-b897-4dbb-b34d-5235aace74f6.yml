@@ -1,0 +1,22 @@
+uuid: ead5b35c-b897-4dbb-b34d-5235aace74f6
+timestamps:
+  login: 1423503449157
+  lastteleport: 1420236009736
+  logout: 1423503451708
+ipAddress: 86.16.252.117
+lastlocation:
+  world: spawn
+  x: -5.92500001192094
+  y: 42.0
+  z: -5.526866731455788
+  yaw: -114.0007
+  pitch: -4.500093
+logoutlocation:
+  world: spawn
+  x: -0.38861311388757536
+  y: 34.0
+  z: 10.329619855962344
+  yaw: 12.449951
+  pitch: 11.099972
+money: '30.0'
+lastAccountName: Minecraft_Brad29

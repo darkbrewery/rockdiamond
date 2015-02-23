@@ -1,0 +1,20 @@
+general:
+  name: PS_B4
+  world: spawn
+  type: rent
+  signs:
+    '0':
+      location:
+        world: spawn
+        x: 4.0
+        y: 41.0
+        z: -2010.0
+      facing: WEST
+      signType: WALL_SIGN
+rent:
+  price: 10000.0
+  duration: 10 days
+  rentedUntil: 1501196670918
+  renter: 0084365d-a984-4493-b7e1-1385052190b6
+  renterName: princess_gabby_2
+  timesExtended: 88

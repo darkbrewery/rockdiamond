@@ -1,0 +1,24 @@
+lastAccountName: loveheart89
+timestamps:
+  login: 1423502527749
+  lastteleport: 1423503310929
+  kits:
+    novice: 1423502634784
+    color: 1423502958290
+  logout: 1423503363904
+ipAddress: 66.189.92.238
+lastlocation:
+  world: spawn
+  x: -10.152615272439677
+  y: 36.0
+  z: -6.539290484865926
+  yaw: 269.85248
+  pitch: 2.3999772
+logoutlocation:
+  world: mines
+  x: 686.5761553177383
+  y: 79.5
+  z: -12.369675968479708
+  yaw: -88.49527
+  pitch: 30.150017
+money: '316.0'

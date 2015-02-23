@@ -1,0 +1,22 @@
+uuid: bea7d948-e977-49f4-a771-6e7447de740a
+timestamps:
+  login: 1419909524634
+  lastteleport: 1419909680385
+  logout: 1419909710625
+ipAddress: 50.167.125.60
+lastlocation:
+  world: spawn
+  x: 0.5253087911696639
+  y: 37.4807108763317
+  z: -12.902884765817017
+  yaw: 179.84944
+  pitch: 1.6499914
+logoutlocation:
+  world: spawn
+  x: 10.5
+  y: 82.00000000476837
+  z: -1237.5
+  yaw: 275.8269
+  pitch: 16.349974
+money: '30.0'
+lastAccountName: bloodyknight161

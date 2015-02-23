@@ -1,0 +1,24 @@
+lastAccountName: DEADRAPPER5
+timestamps:
+  login: 1423185759973
+  lastteleport: 1422554649546
+  kits:
+    pvp: 1422554304810
+    novice: 1422554285875
+  logout: 1423185808208
+ipAddress: 108.180.226.190
+lastlocation:
+  world: spawn
+  x: 12.300000011920929
+  y: 102.0
+  z: -244.4845789260401
+  yaw: 275.18817
+  pitch: 7.9936724
+logoutlocation:
+  world: spawn
+  x: 14.643405073775659
+  y: 94.0
+  z: -249.30991356839226
+  yaw: 287.42456
+  pitch: 6.979345
+money: '30.0'

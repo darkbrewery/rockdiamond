@@ -1,0 +1,22 @@
+uuid: 81f8b6e9-b167-4b42-886c-71f20da37d81
+timestamps:
+  login: 1419687599392
+  logout: 1419687772052
+  lastteleport: 1419687741654
+ipAddress: 2.125.87.202
+logoutlocation:
+  world: spawn
+  x: -1.151835937269488
+  y: 37.0
+  z: -10.305937273208091
+  yaw: -300.2972
+  pitch: 1.4999458
+lastlocation:
+  world: spawn
+  x: 0.7010298040537696
+  y: 29.5
+  z: 54.04651773614765
+  yaw: 11.999487
+  pitch: 21.750017
+money: '30.0'
+lastAccountName: xc4meronxxx

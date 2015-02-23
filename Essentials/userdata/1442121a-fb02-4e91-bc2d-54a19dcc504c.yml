@@ -1,0 +1,21 @@
+lastAccountName: LordBallington
+timestamps:
+  login: 1421726900106
+  lastteleport: 1421726966973
+  logout: 1421726993026
+ipAddress: 69.40.113.15
+lastlocation:
+  world: spawn
+  x: 0.5
+  y: 29.0
+  z: 20.5
+  yaw: -0.3005128
+  pitch: -29.549994
+logoutlocation:
+  world: spawn
+  x: 9.488368213899243
+  y: 33.0
+  z: -29.972802200278664
+  yaw: -81.75055
+  pitch: -59.550007
+money: '30.0'

@@ -1,0 +1,21 @@
+lastAccountName: yariv579
+timestamps:
+  login: 1420724146958
+  lastteleport: 1420648567708
+  logout: 1420724375322
+ipAddress: 77.126.118.173
+lastlocation:
+  world: spawn
+  x: -21.701250359598323
+  y: 35.5
+  z: -4.274343230087396
+  yaw: -9.750732
+  pitch: -10.199994
+logoutlocation:
+  world: plotworld
+  x: -91.885967023435
+  y: 63.0
+  z: 13.699999988079071
+  yaw: 259.05023
+  pitch: 34.800003
+money: '535.54'

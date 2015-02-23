@@ -1,0 +1,24 @@
+lastAccountName: TheMegaKiller168
+timestamps:
+  login: 1422130769839
+  lastteleport: 1422131032522
+  kits:
+    pvp: 1422130917708
+    novice: 1422130901518
+  logout: 1422131048984
+ipAddress: 94.65.87.101
+lastlocation:
+  world: spawn
+  x: -20.917650545647998
+  y: 35.0
+  z: -6.3219651461848585
+  yaw: -269.99664
+  pitch: 5.249964
+logoutlocation:
+  world: spawn
+  x: 2.5473839560300933
+  y: 33.5
+  z: -26.918526362054514
+  yaw: -129.00064
+  pitch: -5.5500054
+money: '30.0'

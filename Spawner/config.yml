@@ -1,0 +1,39 @@
+# Spawner config file
+# 
+# Valid entities
+# You can make spawners any of the entity names listed at this link:
+# http://jd.bukkit.org/rb/apidocs/src-html/org/bukkit/entity/EntityType.html#line.17
+# Generally you would use the name that appears inside the quotes in the brackets.
+# For example PigZombie will work while PIG_ZOMBIE will not.
+valid_entities:
+- Creeper
+- Skeleton
+- Spider
+- Giant
+- Zombie
+- Slime
+- Ghast
+- PigZombie
+- Enderman
+- CaveSpider
+- Silverfish
+- Blaze
+- LavaSlime
+- EnderDragon
+- WitherBoss
+- Bat
+- Witch
+- Pig
+- Sheep
+- Cow
+- Chicken
+- Squid
+- Wolf
+- MushroomCow
+- SnowMan
+- Ozelot
+- VillagerGolem
+- EntityHorse
+- Villager
+protect_from_explosions: true
+remove_radius: 10

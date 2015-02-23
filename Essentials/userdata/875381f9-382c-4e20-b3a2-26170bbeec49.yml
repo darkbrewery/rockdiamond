@@ -1,0 +1,27 @@
+timestamps:
+  lastteleport: 1419397500213
+  kits:
+    novice: 1419355542968
+    pvp: 1419133480458
+    color: 1419137900752
+    adept: 1419355529047
+  logout: 1419397675337
+  login: 1419397240315
+lastlocation:
+  world: mines
+  x: 293.58224281301193
+  y: 52.875
+  z: -6.793565873674835
+  yaw: 227.10309
+  pitch: 21.749994
+logoutlocation:
+  world: mines
+  x: 297.69307479796817
+  y: 56.0
+  z: -14.699999988079067
+  yaw: 91.80261
+  pitch: 31.799988
+uuid: 875381f9-382c-4e20-b3a2-26170bbeec49
+ipAddress: 174.102.20.188
+money: '304802.7209392419'
+lastAccountName: bakerman_____

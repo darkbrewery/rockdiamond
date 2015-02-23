@@ -1,0 +1,24 @@
+lastAccountName: Lasse3010m
+timestamps:
+  login: 1422553347127
+  lastteleport: 1422553505664
+  kits:
+    pvp: 1422553480253
+    novice: 1422553471026
+  logout: 1422553558025
+ipAddress: 188.181.44.82
+lastlocation:
+  world: spawn
+  x: 2.5287698250730264
+  y: 106.0
+  z: -244.9368030214547
+  yaw: 86.54885
+  pitch: -15.29991
+logoutlocation:
+  world: spawn
+  x: -1.3429141425085862
+  y: 26.0
+  z: -11.09538298883658
+  yaw: -2.7005074
+  pitch: 55.34999
+money: '30.0'

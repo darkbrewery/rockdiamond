@@ -1,0 +1,24 @@
+uuid: 6056ee0d-7876-4cb1-8c59-4351cd0ccd49
+timestamps:
+  login: 1416407832593
+  logout: 1416408316990
+  lastteleport: 1416407856264
+  kits:
+    alpha: 1416407951783
+ipAddress: 77.212.18.43
+money: '35.0'
+logoutlocation:
+  world: spawn
+  x: 10.73793212265546
+  y: 36.0
+  z: -7.477967310951473
+  yaw: -274.64102
+  pitch: 38.065765
+lastlocation:
+  world: spawn
+  x: 0.20365449204154035
+  y: 34.0
+  z: 5.533806904954895
+  yaw: -173.75702
+  pitch: -55.105125
+lastAccountName: asbjornb04

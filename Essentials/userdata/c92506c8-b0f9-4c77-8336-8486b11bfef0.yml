@@ -1,0 +1,21 @@
+lastAccountName: Jam_JamGAMING
+timestamps:
+  login: 1422557979550
+  lastteleport: 1422558090500
+  logout: 1422558431714
+ipAddress: 86.144.138.82
+lastlocation:
+  world: spawn
+  x: 0.48586153381620534
+  y: 29.0
+  z: 53.320286180959776
+  yaw: 0.1494864
+  pitch: 6.450008
+logoutlocation:
+  world: spawn
+  x: 14.915970443670071
+  y: 36.0
+  z: -6.63383603127112
+  yaw: 120.29829
+  pitch: 10.200016
+money: '30.0'

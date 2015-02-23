@@ -1,0 +1,22 @@
+uuid: 94528688-0afa-473a-8340-106d29b06282
+timestamps:
+  login: 1419998131274
+  lastteleport: 1419998360606
+  logout: 1419998411350
+ipAddress: 59.101.161.138
+money: '61.0'
+lastlocation:
+  world: spawn
+  x: 6.008741746856511
+  y: 106.0
+  z: -244.87463126641165
+  yaw: -269.25116
+  pitch: 18.150097
+logoutlocation:
+  world: spawn
+  x: -18.35548032103599
+  y: 35.5
+  z: -7.913884856849366
+  yaw: -266.70047
+  pitch: 9.000022
+lastAccountName: littlety123

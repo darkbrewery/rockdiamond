@@ -1,0 +1,21 @@
+# WGCustomFlags default config
+# If you edit this make sure not to use tabulators, but spaces.
+
+# name: save-handler
+# default: auto
+# description: determines whether a database or a flat file is used to save the flags
+# values: auto - detect which option WorldGuard uses, flat - force flat file usage
+save-handler: auto
+# name: flag-saving
+# default: unload,save
+# description: determines when to save the custom flag values
+# values: one or multiple values of [unload, save, change] seperated with a comma
+# unload - saves the flags when a world is unloaded (highly recommended as the flags are not saved for world if it is unloaded before the server shuts down)
+# save - saves the flags everytime a world is saved (can cause lags if you have a plugin like MultiVerse the auto-saves the worlds very often)
+# change - saves the flags everytime any flag has changed in the world
+flag-saving: unload,save
+# name: flag-logging
+# default: true
+# values: true, false
+# set to false if you want to disable the logging of flag loading/saving and adding
+flag-logging: true

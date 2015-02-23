@@ -1,0 +1,20 @@
+general:
+  name: PS_Y4
+  world: spawn
+  type: rent
+  signs:
+    '0':
+      location:
+        world: spawn
+        x: 4.0
+        y: 41.0
+        z: -1990.0
+      facing: WEST
+      signType: WALL_SIGN
+rent:
+  price: 10000.0
+  duration: 10 days
+  rentedUntil: 1477250992883
+  renter: 5d408a22-29a4-4c74-9841-7a7d58974b92
+  renterName: Derek_Lan
+  timesExtended: 60

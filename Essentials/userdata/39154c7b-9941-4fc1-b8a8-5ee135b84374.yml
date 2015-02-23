@@ -1,0 +1,21 @@
+lastAccountName: AaronJackParks
+timestamps:
+  login: 1422179499744
+  lastteleport: 1422180310032
+  logout: 1422180366361
+ipAddress: 195.166.149.104
+lastlocation:
+  world: mines
+  x: 130.49025946976153
+  y: 48.0
+  z: -6.742829862280186
+  yaw: 90.45261
+  pitch: 38.99998
+logoutlocation:
+  world: mines
+  x: 122.49456395547952
+  y: 63.0
+  z: -13.263496502557544
+  yaw: -268.64752
+  pitch: 12.149945
+money: '2771.538043478262'

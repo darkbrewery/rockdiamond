@@ -1,0 +1,24 @@
+lastAccountName: iKiwi
+timestamps:
+  login: 1423503238542
+  lastteleport: 1423504472605
+  kits:
+    pvp: 1423503351995
+    novice: 1423503345344
+  logout: 1423504831275
+ipAddress: 76.14.130.56
+lastlocation:
+  world: spawn
+  x: -11.44755757033537
+  y: 85.0
+  z: -1215.0783158621882
+  yaw: 67.7455
+  pitch: 27.70853
+money: '102810.86000000002'
+logoutlocation:
+  world: parkour
+  x: -28.532770230634878
+  y: 84.0
+  z: -41.41722703283716
+  yaw: -81.717415
+  pitch: -1.8941612

@@ -1,0 +1,24 @@
+lastAccountName: Rasmus1969
+timestamps:
+  login: 1423247201658
+  lastteleport: 1422044373459
+  kits:
+    pvp: 1421592671819
+    color: 1421509911585
+  logout: 1423247760857
+ipAddress: 77.213.64.27
+lastlocation:
+  world: spawn
+  x: -10.919725801148793
+  y: 85.0
+  z: -1214.7377687344112
+  yaw: 88.02692
+  pitch: 21.149967
+logoutlocation:
+  world: plotworld
+  x: 55.386054164304234
+  y: 65.0
+  z: 10.59159895946296
+  yaw: 10.50001
+  pitch: -15.600009
+money: '8049.64'

@@ -1,0 +1,21 @@
+lastAccountName: Darkform31
+timestamps:
+  login: 1424639271579
+  lastteleport: 1424639664937
+  logout: 1424639808532
+ipAddress: 173.74.223.182
+lastlocation:
+  world: plotworld
+  x: -98.55856837482827
+  y: 65.0
+  z: 38.16226915137158
+  yaw: 16.588757
+  pitch: 8.899202
+logoutlocation:
+  world: spawn
+  x: -0.6999999880790709
+  y: 29.342708876544673
+  z: 14.300000011920934
+  yaw: -202.82874
+  pitch: -56.207996
+money: '28.5'

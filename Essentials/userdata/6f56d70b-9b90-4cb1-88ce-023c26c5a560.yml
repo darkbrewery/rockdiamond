@@ -1,0 +1,22 @@
+uuid: 6f56d70b-9b90-4cb1-88ce-023c26c5a560
+timestamps:
+  login: 1419882534839
+  lastteleport: 1419882769705
+  logout: 1419882787833
+ipAddress: 185.17.219.101
+lastlocation:
+  world: spawn
+  x: 0.47844430786790326
+  y: 29.0
+  z: 53.32183106604921
+  yaw: 0.18743896
+  pitch: 5.0935116
+logoutlocation:
+  world: spawn
+  x: -6.953072875315398
+  y: 36.5
+  z: -6.350412111296031
+  yaw: 340.47766
+  pitch: -4.6597104
+money: '30.0'
+lastAccountName: mesti0801

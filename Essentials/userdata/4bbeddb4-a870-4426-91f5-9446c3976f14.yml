@@ -1,0 +1,21 @@
+lastAccountName: Crispy_Narwhalz
+timestamps:
+  login: 1423907171984
+  lastteleport: 1423906950186
+  logout: 1423907274516
+ipAddress: 101.162.182.96
+lastlocation:
+  world: spawn
+  x: 26.69999998807907
+  y: 5.5
+  z: -242.8017707118933
+  yaw: 220.79344
+  pitch: -10.1366205
+logoutlocation:
+  world: spawn
+  x: 2.6999999880790715
+  y: 27.0
+  z: -4.426693033463854
+  yaw: 32.018158
+  pitch: 39.781937
+money: '30.0'

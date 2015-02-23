@@ -1,0 +1,21 @@
+lastAccountName: supersmartfeller
+timestamps:
+  login: 1422904142959
+  lastteleport: 1422905657316
+  logout: 1422905720003
+ipAddress: 50.0.73.252
+lastlocation:
+  world: mines
+  x: 324.1564556591047
+  y: 63.0
+  z: -9.232345499675805
+  yaw: -211.94696
+  pitch: -73.04985
+logoutlocation:
+  world: spawn
+  x: 4.483033303889027
+  y: 34.0
+  z: 19.14147851660533
+  yaw: -57.14987
+  pitch: 13.499981
+money: '99343.57000000007'

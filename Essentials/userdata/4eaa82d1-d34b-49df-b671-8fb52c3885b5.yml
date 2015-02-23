@@ -1,0 +1,22 @@
+uuid: 4eaa82d1-d34b-49df-b671-8fb52c3885b5
+timestamps:
+  login: 1419453623128
+  lastteleport: 1419454281205
+  logout: 1419454342524
+ipAddress: 99.9.155.246
+lastlocation:
+  world: spawn
+  x: 2.699999988079071
+  y: 30.0
+  z: -3.3000000119209307
+  yaw: 170.53442
+  pitch: 35.97118
+logoutlocation:
+  world: spawn
+  x: 1.810833928467898
+  y: 28.0
+  z: -12.69999998807906
+  yaw: -269.9856
+  pitch: 16.560389
+money: '82.25'
+lastAccountName: poison1998

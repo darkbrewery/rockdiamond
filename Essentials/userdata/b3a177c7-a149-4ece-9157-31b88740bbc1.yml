@@ -1,0 +1,21 @@
+lastAccountName: White__Dragon
+timestamps:
+  login: 1423253347005
+  lastteleport: 1423253463848
+  logout: 1423253473600
+ipAddress: 84.104.236.117
+lastlocation:
+  world: spawn
+  x: -0.7614570068580593
+  y: 37.0625
+  z: -8.505087186097908
+  yaw: 245.07198
+  pitch: 7.1375628
+logoutlocation:
+  world: spawn
+  x: 5.532108484424067
+  y: 33.0
+  z: -24.386518146604157
+  yaw: -235.28596
+  pitch: 1.6499925
+money: '30.0'

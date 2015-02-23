@@ -1,0 +1,22 @@
+uuid: 2f76a781-8ed6-4a93-a431-41ea7967fb5d
+timestamps:
+  login: 1419086365908
+  lastteleport: 1419086513657
+  logout: 1419086519356
+ipAddress: 84.31.11.214
+lastlocation:
+  world: spawn
+  x: 12.300000011920929
+  y: 102.0
+  z: -244.05456234141346
+  yaw: -105.4513
+  pitch: 5.850107
+logoutlocation:
+  world: spawn
+  x: 18.084472655678262
+  y: 94.0
+  z: -240.74109812679754
+  yaw: -203.10054
+  pitch: 17.700018
+money: '30.0'
+lastAccountName: scorpion1a2

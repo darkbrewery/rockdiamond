@@ -1,0 +1,24 @@
+uuid: f75a1e7c-1423-416a-8e1d-896fb143d793
+timestamps:
+  login: 1419720253905
+  lastteleport: 1419720315589
+  kits:
+    adept: 1419720345480
+  logout: 1419720349786
+ipAddress: 72.238.165.159
+money: '98955.0'
+lastlocation:
+  world: spawn
+  x: 0.5
+  y: 29.0
+  z: 20.5
+  yaw: -0.3005128
+  pitch: -29.549994
+logoutlocation:
+  world: mines
+  x: 326.6364849453491
+  y: 63.0
+  z: -11.633932104165375
+  yaw: -276.5097
+  pitch: -29.120058
+lastAccountName: snipebrothers

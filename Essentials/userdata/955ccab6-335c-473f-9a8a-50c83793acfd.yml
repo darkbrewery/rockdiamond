@@ -1,0 +1,26 @@
+lastAccountName: PANDAZZZZZ211
+timestamps:
+  login: 1423178802015
+  lastteleport: 1422404786898
+  kits:
+    novice: 1422229214717
+    pvp: 1422110824940
+    color: 1422071438756
+    adept: 1422230358378
+  logout: 1423178876319
+ipAddress: 173.21.58.45
+money: '71395.05804347809'
+lastlocation:
+  world: spawn
+  x: 23.482631529286834
+  y: 36.0
+  z: -11.289321208702209
+  yaw: 183.90291
+  pitch: 19.49997
+logoutlocation:
+  world: spawn
+  x: 8.40556543608919
+  y: 82.0
+  z: -1237.2151574281365
+  yaw: 92.97689
+  pitch: 12.299972

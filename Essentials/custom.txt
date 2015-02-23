@@ -1,0 +1,132 @@
+#Customtext
+&6This is the custom text commands file.
+
+&6This file allows you to define custom text commands.
+
+&6You can create a specific file for a user or a group:
+&6Name it custom_username.txt or custom_groupname.txt
+
+&6You can use multiple pages, for example type:
+&c/customtext 2
+
+&6To add a custom command you need to do three things:
+&e-&9 Add a section below in the custom.txt
+&e-&9 Add a line to the commands.yml aliases section
+&e-&9 Give players access to 'essentials.customtext'
+
+To add /vote, add this to commands.yml:
+  vote: 
+  - customtext vote $1-
+
+&6The following commands can also be customized:
+&c/rules /motd /news /help
+
+&6These support chapter customization such as:&c /rules grief
+&6You can use custom aliases with these commands too.
+
+#vote
+
+#rules
+&2&l1:&r This is a prison: Scamming, swearing and theft are not only permitted, but encouraged!
+
+&2&l2:&r Haxing, cheating, command abuse and in-game exploits will not be tolerated. These will be met with extreme prejudice.
+
+&2&l3:&r Be respectful, ethical and as always, have fun, it's just a game!
+
+#stafflist,onlinestaff
+&6Online Staff:
+{PLAYERLIST:MODERATOR} {PLAYERLIST:ADMIN} {PLAYERLIST:OWNER}
+
+#ranks
+------- Ranks Page 1 of 4 --------
+ ▬▬ι═══- &2[&bFreshMeat&2] &aDefault
+ ▬▬ι═══- &2[&bAssHat&2] &a$0
+ ▬▬ι═══- &2[&bBarfBreath&2] &a$100
+ ▬▬ι═══- &2[&bCamelToe&2] &a$200
+ ▬▬ι═══- &2[&bDoucheBag&2] &a$375
+ ▬▬ι═══- &2[&bErection&2] &a$700
+ ▬▬ι═══- &2[&bFartKnocker&2] &a$1,300
+----- Do /ranks 2 for Page 2 -----
+------- Ranks Page 2 of 4 --------
+ ▬▬ι═══- &2[&bGoof&2] &a$2,500
+ ▬▬ι═══- &2[&bHoser&2] &a$4,800
+ ▬▬ι═══- &2[&bImbecile&2] &a$9,100
+ ▬▬ι═══- &9[&bJerkOff&9] &a$17,000
+ ▬▬ι═══- &9[&bKnobGoblin&9] &a$33,000
+ ▬▬ι═══- &9[&bLardAss&9] &a$62,000
+ ▬▬ι═══- &9[&bMcFaggot&9] &a$120,000
+----- Do /ranks 3 for Page 3 -----
+------- Ranks Page 3 of 4 --------
+ ▬▬ι═══- &9[&bNutSack&9] &a$220,000
+ ▬▬ι═══- &9[&bOldBastard&9] &a$430,000
+ ▬▬ι═══- &9[&bPissFlap&9] &a$815,000
+ ▬▬ι═══- &9[&bQueef&9] &a$1,500,000
+ ▬▬ι═══- &9[&bRetard&9] &a$2,950,000
+ ▬▬ι═══- &4[&bScumbag&4] &a$5,500,000
+ ▬▬ι═══- &4[&bThunderCunt&4] &a$10,000,000
+----- Do /ranks 4 for Page 4 -----
+------- Ranks Page 4 of 4 --------
+ ▬▬ι═══- &4[&bUrethra&4] &a$20,000,000
+ ▬▬ι═══- &4[&bVajayjay&4] &a$40,000,000
+ ▬▬ι═══- &4[&bWanker&4] &a$75,000,000
+ ▬▬ι═══- &4[&bXunt&4] &a$140,000,000
+ ▬▬ι═══- &4[&bYuppie&4] &a$260,000,000
+ ▬▬ι═══- &4[&bZitLicker&4] &a$500,000,000
+ ▬▬ι═══- &4[&bFree&4] &a$1,000,000,000
+
+#changelog
+&b1/8/2014
+-Updated the woodshed to hold logs not planks
+-Created a new potato and carrot farm warp called greenhouse
+-Updated secrets in warps P and Q
+-Installed autoannouncer and created some news items
+-Put more coal in the N mine
+-Changed the woodshed to hold logs instead of planks
+-Added Autopickup plugin to help with too many entities/lag
+
+&b1/6/2015
+-Upgraded Vault to 1.5.0
+-Limited faction land claiming to The end and Freeworld
+-Installed Massive Core and Factions
+-Added worldguard custom flags and treefarm to fix broken treeassist plugin
+-Upgraded entire server to MC 1.8
+-Added floAuction to plugins along with perms, fully tested
+-Turned down mobspawns drastically in plotworld
+
+&b12/29/2014
+-Added a sugar cane farm to warp D
+-Slightly nerfed armor in kits so theres still a reason to enchant your own
+
+&b12/27/2014
+-Added a warp to plots at spawn
+-Added custom changelog command
+-Created TheMoon Warp and the endspawn
+-Allowed building in the end
+-Moved plotme perms back to A rank so everyine gets a plot right away
+
+&b12/26/2014
+-Adjusted colors on prefixs
+-Setup NoCheatPlus
+
+&b12/20/2014
+-Added Playerheads plugin
+-Updated Mob kill prices
+
+&b12/18/2014
+-Updated essentials messages again
+-Split Mod rank into guard and admin
+
+&b12/14/2014
+-Added Prefixes to some essentials commands
+-Added secret to wool mine
+-Added secret to B farm
+-Moved around some warp signs
+-Custom join and quit messages done
+-Grouped groups in the /list command
+-Created the changelog book and kit
+-Made the S mine more profitable
+-Cleaned up warp A
+-Cleaned up warp Expert
+-Redid all the voting messages
+-Increased money prizes in voting rewards
+

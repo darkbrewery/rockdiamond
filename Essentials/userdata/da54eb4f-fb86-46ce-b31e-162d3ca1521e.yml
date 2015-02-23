@@ -1,0 +1,23 @@
+uuid: da54eb4f-fb86-46ce-b31e-162d3ca1521e
+timestamps:
+  login: 1417349351174
+  lastteleport: 1417349495715
+  logout: 1417349509815
+ipAddress: 88.105.145.4
+lastlocation:
+  world: spawn
+  x: -20.6511301617489
+  y: 35.0
+  z: -6.523111109621823
+  yaw: -106.05051
+  pitch: 7.049992
+godmode: false
+logoutlocation:
+  world: mines
+  x: -16.315412909063472
+  y: 63.0
+  z: -14.547900131748095
+  yaw: -352.9474
+  pitch: 36.000008
+money: '230.0'
+lastAccountName: cowdium

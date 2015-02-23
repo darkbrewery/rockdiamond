@@ -1,0 +1,23 @@
+lastAccountName: minecraftbum5
+timestamps:
+  login: 1424033952469
+  lastteleport: 1424034423440
+  kits:
+    adept: 1424034402053
+  logout: 1424034514055
+ipAddress: 70.65.236.123
+lastlocation:
+  world: plotworld
+  x: 62.04295542210147
+  y: 65.5
+  z: 4.175422669086041
+  yaw: -70.664185
+  pitch: 7.538477
+money: '98955.0'
+logoutlocation:
+  world: spawn
+  x: 19.676332829593974
+  y: 82.0
+  z: -1237.174887354739
+  yaw: 78.762344
+  pitch: 14.375748

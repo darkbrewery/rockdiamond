@@ -1,0 +1,25 @@
+lastAccountName: NeonUnicorn16
+timestamps:
+  login: 1420839830101
+  lastteleport: 1420840674532
+  kits:
+    pvp: 1420840004382
+    color: 1420840568000
+  logout: 1420840797207
+ipAddress: 50.100.34.120
+lastlocation:
+  world: spawn
+  x: 12.300000011920929
+  y: 102.0
+  z: -245.1228624798506
+  yaw: 63.284595
+  pitch: 6.969103
+afk: false
+logoutlocation:
+  world: spawn
+  x: 2.423659916266091
+  y: 114.5
+  z: -744.8326519729738
+  yaw: 146.89154
+  pitch: 37.168255
+money: '663.4375'

@@ -1,0 +1,22 @@
+uuid: d55ee0fb-757e-42d2-8ee6-3a9117a327f7
+timestamps:
+  login: 1419555728991
+  lastteleport: 1419555787766
+  logout: 1419555797016
+ipAddress: 68.144.212.100
+lastlocation:
+  world: spawn
+  x: 20.425136546370865
+  y: 35.0
+  z: -1.2754885322654277
+  yaw: 23.925749
+  pitch: 3.8495467
+logoutlocation:
+  world: spawn
+  x: 7.699999988079071
+  y: 71.3925143841689
+  z: -244.7958780869639
+  yaw: 267.1403
+  pitch: 42.49124
+money: '30.0'
+lastAccountName: gmtat

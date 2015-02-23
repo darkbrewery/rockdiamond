@@ -1,0 +1,24 @@
+lastAccountName: cookeclicker21
+timestamps:
+  login: 1424271101060
+  lastteleport: 1424271230385
+  kits:
+    pvp: 1421524315236
+  logout: 1424271409910
+ipAddress: 24.22.149.31
+lastlocation:
+  world: spawn
+  x: 14.5
+  y: 81.5
+  z: -1237.5
+  yaw: 89.826904
+  pitch: 0.1499731
+money: '17320.93'
+afk: false
+logoutlocation:
+  world: mines
+  x: 669.6470756003037
+  y: 50.0
+  z: -13.675321120925672
+  yaw: -298.9481
+  pitch: 16.200012

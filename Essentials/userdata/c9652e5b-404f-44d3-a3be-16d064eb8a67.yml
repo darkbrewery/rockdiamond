@@ -1,0 +1,21 @@
+lastAccountName: tignan
+timestamps:
+  login: 1423490764745
+  lastteleport: 1423491489551
+  logout: 1423491519526
+ipAddress: 190.30.190.206
+lastlocation:
+  world: spawn
+  x: 12.699999988079071
+  y: 102.0
+  z: -245.077757621687
+  yaw: 62.53241
+  pitch: 1.1375172
+logoutlocation:
+  world: mines
+  x: 26.5
+  y: 63.0
+  z: -10.5
+  yaw: -269.09738
+  pitch: 1.950019
+money: '90.66000000000001'

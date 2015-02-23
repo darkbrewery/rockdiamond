@@ -1,0 +1,22 @@
+uuid: b5641fe4-eb04-4dfb-b400-e865bc9510a2
+timestamps:
+  login: 1416409960296
+  lastteleport: 1416410067598
+  logout: 1416410092950
+ipAddress: 83.85.247.210
+lastlocation:
+  world: spawn
+  x: 1.3275640925137446
+  y: 34.0
+  z: 7.4504660578789705
+  yaw: -193.92078
+  pitch: -16.23743
+logoutlocation:
+  world: spawn
+  x: -2.462417321869082
+  y: 33.0
+  z: -28.860103449880896
+  yaw: 88.06573
+  pitch: 31.339825
+money: '30.0'
+lastAccountName: gento2002

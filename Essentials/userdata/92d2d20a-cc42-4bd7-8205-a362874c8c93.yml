@@ -1,0 +1,22 @@
+uuid: 92d2d20a-cc42-4bd7-8205-a362874c8c93
+timestamps:
+  login: 1419427594638
+  lastteleport: 1419428074022
+  logout: 1419428256901
+ipAddress: 31.48.44.103
+lastlocation:
+  world: spawn
+  x: 23.188511654120088
+  y: 114.0
+  z: -243.2570206874257
+  yaw: -50.443073
+  pitch: 24.063585
+logoutlocation:
+  world: spawn
+  x: -22.210692503776343
+  y: 35.0
+  z: -7.745428095409682
+  yaw: -176.13278
+  pitch: 47.565834
+money: '184.0'
+lastAccountName: viciousvampire5

@@ -1,0 +1,24 @@
+uuid: d253e2f7-fcab-4443-a689-50c1fdf3ba1b
+timestamps:
+  login: 1419907573206
+  lastteleport: 1419908143886
+  kits:
+    novice: 1419907699469
+  logout: 1419908314837
+ipAddress: 98.228.96.8
+lastlocation:
+  world: spawn
+  x: 14.652233392932906
+  y: 81.0
+  z: -1260.980838476787
+  yaw: -179.28027
+  pitch: 6.908372
+logoutlocation:
+  world: plotworld
+  x: -21.90719784451169
+  y: 65.0
+  z: 64.53045198972279
+  yaw: 45.789795
+  pitch: 46.42325
+money: '0.0'
+lastAccountName: sirbiteallot

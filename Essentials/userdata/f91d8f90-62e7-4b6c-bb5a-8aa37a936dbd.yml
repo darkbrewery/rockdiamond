@@ -1,0 +1,21 @@
+lastAccountName: Jolle_07
+timestamps:
+  login: 1424098182075
+  lastteleport: 1424098245385
+  logout: 1424098297045
+ipAddress: 80.203.64.85
+lastlocation:
+  world: spawn
+  x: -18.267903427343565
+  y: 36.0
+  z: -4.300000011920929
+  yaw: 159.9026
+  pitch: 7.6499743
+logoutlocation:
+  world: spawn
+  x: 1.4541232099750476
+  y: 34.0
+  z: 10.603598456491477
+  yaw: 157.35013
+  pitch: 9.449998
+money: '30.0'

@@ -1,0 +1,21 @@
+lastAccountName: lukeyed123
+timestamps:
+  login: 1421646429958
+  lastteleport: 1421647891772
+  logout: 1421648097181
+ipAddress: 107.199.112.133
+lastlocation:
+  world: spawn
+  x: 45.19632161991123
+  y: 111.5
+  z: -770.9908856935552
+  yaw: -125.89633
+  pitch: -5.550011
+logoutlocation:
+  world: spawn
+  x: 14.5
+  y: 81.5
+  z: -1237.5
+  yaw: 91.9269
+  pitch: -0.30002692
+money: '5965.375'

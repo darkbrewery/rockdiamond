@@ -1,0 +1,26 @@
+uuid: 013869f5-7a28-452a-9c94-5e75329a6f89
+timestamps:
+  login: 1420899061968
+  kits:
+    pvp: 1420899081524
+    novice: 1420899072919
+    alpha: 1417474131784
+  lastteleport: 1417474137984
+  logout: 1420899090426
+ipAddress: 67.244.55.116
+lastlocation:
+  world: spawn
+  x: -0.19283553761691732
+  y: 34.0
+  z: 8.59341715401188
+  yaw: -169.3276
+  pitch: 7.78774
+logoutlocation:
+  world: spawn
+  x: 14.17438575546489
+  y: 82.0
+  z: -1237.0571437807446
+  yaw: -34.980877
+  pitch: 29.650848
+money: '30.0'
+lastAccountName: nathan_ender

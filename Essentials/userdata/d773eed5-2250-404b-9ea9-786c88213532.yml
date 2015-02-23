@@ -1,0 +1,25 @@
+uuid: d773eed5-2250-404b-9ea9-786c88213532
+timestamps:
+  login: 1418868843057
+  lastteleport: 1418870034161
+  kits:
+    color: 1416405270271
+    alpha: 1416404083541
+  logout: 1418870133907
+ipAddress: 99.228.164.27
+lastlocation:
+  world: spawn
+  x: 0.6406199386881828
+  y: 101.0
+  z: -8.393487927491448
+  yaw: -354.3004
+  pitch: 9.600004
+money: '4022.2900000000004'
+logoutlocation:
+  world: mines
+  x: 187.87957509301353
+  y: 64.0
+  z: -2.609987291775368
+  yaw: -110.54739
+  pitch: 24.299902
+lastAccountName: cosmicdestructor

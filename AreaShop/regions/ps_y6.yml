@@ -1,0 +1,20 @@
+general:
+  name: PS_Y6
+  world: spawn
+  type: rent
+  signs:
+    '0':
+      location:
+        world: spawn
+        x: 4.0
+        y: 41.0
+        z: -1976.0
+      facing: WEST
+      signType: WALL_SIGN
+rent:
+  price: 10000.0
+  duration: 10 days
+  rentedUntil: 1434565532398
+  renter: 15ca1b67-a87f-4ebd-a653-c136bd222dd6
+  renterName: XnichibondX
+  timesExtended: 11

@@ -1,0 +1,25 @@
+uuid: f9fca076-afde-4807-a248-d8a2a9a92202
+timestamps:
+  login: 1419049465378
+  logout: 1419049570034
+  lastteleport: 1419049543277
+  kits:
+    color: 1416359143322
+    alpha: 1416342606755
+ipAddress: 68.46.224.45
+logoutlocation:
+  world: mines
+  x: 215.69999998807907
+  y: 60.0
+  z: -10.699999988079071
+  yaw: 158.04872
+  pitch: 23.021769
+lastlocation:
+  world: plotworld
+  x: -7.491597025507972
+  y: 68.0
+  z: -11.658006514227246
+  yaw: -248.42761
+  pitch: 0.9236137
+money: '4236.74'
+lastAccountName: cheerleadercraft

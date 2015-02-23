@@ -1,0 +1,22 @@
+uuid: b91a8a03-c7bb-466e-827d-56cb288f93a5
+timestamps:
+  login: 1419394798777
+  lastteleport: 1418700291005
+  logout: 1419394806076
+ipAddress: 107.132.172.147
+lastlocation:
+  world: spawn
+  x: 12.783529410477573
+  y: 94.0
+  z: -237.96141573936694
+  yaw: -53.27986
+  pitch: -4.0205193
+logoutlocation:
+  world: spawn
+  x: 2.4190054671146313
+  y: 26.0
+  z: -11.003151976975001
+  yaw: 181.43542
+  pitch: -23.627085
+money: '30.0'
+lastAccountName: mattdragon99

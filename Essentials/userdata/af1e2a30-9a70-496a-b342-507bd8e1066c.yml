@@ -1,0 +1,25 @@
+uuid: af1e2a30-9a70-496a-b342-507bd8e1066c
+timestamps:
+  login: 1419487237117
+  lastteleport: 1419487274920
+  kits:
+    pvp: 1419486670616
+    novice: 1419486669515
+  logout: 1419487309662
+ipAddress: 75.25.129.50
+lastlocation:
+  world: spawn
+  x: -18.91540892598004
+  y: 35.0
+  z: -6.504622221924365
+  yaw: -268.6505
+  pitch: -2.4000077
+logoutlocation:
+  world: spawn
+  x: 30.69999998807907
+  y: 83.2000002098082
+  z: -209.30000001192093
+  yaw: 63.580322
+  pitch: 68.25002
+money: '108.99249999999999'
+lastAccountName: alexisiop

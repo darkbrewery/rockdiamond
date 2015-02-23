@@ -1,0 +1,21 @@
+lastAccountName: RomanS2007
+timestamps:
+  login: 1422704714755
+  lastteleport: 1422704908360
+  logout: 1422705116256
+ipAddress: 2.216.106.243
+lastlocation:
+  world: spawn
+  x: 0.4692231795153945
+  y: 29.0
+  z: 53.138542976502706
+  yaw: 1.3494905
+  pitch: -0.30000514
+logoutlocation:
+  world: spawn
+  x: -0.6999999880790729
+  y: 29.0
+  z: -3.3000000119209254
+  yaw: 253.05151
+  pitch: 89.40019
+money: '30.0'

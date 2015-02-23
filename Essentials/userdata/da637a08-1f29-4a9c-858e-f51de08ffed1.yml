@@ -1,0 +1,22 @@
+uuid: da637a08-1f29-4a9c-858e-f51de08ffed1
+timestamps:
+  login: 1419991452131
+  lastteleport: 1419992231115
+  logout: 1419992508046
+ipAddress: 64.134.179.91
+lastlocation:
+  world: spawn
+  x: 4.64283630757871
+  y: 55.0
+  z: 1.4463900160138792
+  yaw: -323.84772
+  pitch: 21.899868
+logoutlocation:
+  world: spawn
+  x: 7.103796877670311
+  y: 37.0
+  z: -5.916606016853056
+  yaw: -78.150635
+  pitch: 11.250036
+money: '191.75'
+lastAccountName: doggeyface

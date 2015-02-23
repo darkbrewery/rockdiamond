@@ -1,0 +1,26 @@
+lastAccountName: iiDogePvP
+timestamps:
+  login: 1424025419511
+  lastteleport: 1424027702581
+  kits:
+    pvp: 1424025569287
+    novice: 1424025550677
+    color: 1424026606667
+    adept: 1424027352169
+  logout: 1424027739921
+ipAddress: 174.84.230.215
+money: '230557.125'
+lastlocation:
+  world: spawn
+  x: -28.080657092148268
+  y: 80.0
+  z: -244.52084330533398
+  yaw: -85.069725
+  pitch: 41.100002
+logoutlocation:
+  world: spawn
+  x: 6.655092193160757
+  y: 123.5
+  z: -233.08553354592968
+  yaw: -88.69989
+  pitch: 19.650042

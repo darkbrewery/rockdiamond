@@ -1,0 +1,21 @@
+lastAccountName: BatZoo
+timestamps:
+  login: 1421608113789
+  lastteleport: 1421027465122
+  logout: 1421609323595
+ipAddress: 24.108.129.229
+lastlocation:
+  world: mines
+  x: -13.577688522320356
+  y: 63.0
+  z: -5.011487711845706
+  yaw: 40.80249
+  pitch: -6.1500006
+logoutlocation:
+  world: spawn
+  x: -3.240078716481845
+  y: 55.0
+  z: -0.7796383524473719
+  yaw: 11.698151
+  pitch: 50.699993
+money: '16.75'

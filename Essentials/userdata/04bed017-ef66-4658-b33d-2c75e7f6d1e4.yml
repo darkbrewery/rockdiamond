@@ -1,0 +1,27 @@
+uuid: 04bed017-ef66-4658-b33d-2c75e7f6d1e4
+timestamps:
+  login: 1420495678157
+  lastteleport: 1420239230327
+  logout: 1420495744864
+  kits:
+    pvp: 1420238196427
+    novice: 1420237609905
+    color: 1420239261780
+    adept: 1420239238896
+ipAddress: 208.124.113.206
+lastlocation:
+  world: spawn
+  x: 10.470548417364562
+  y: 123.0
+  z: -251.70663038057342
+  yaw: 188.04994
+  pitch: -11.699996
+logoutlocation:
+  world: mines
+  x: 189.0887293473383
+  y: 58.0
+  z: -9.300000011920929
+  yaw: 103.503914
+  pitch: -23.70853
+money: '9019.0'
+lastAccountName: dontkillme47

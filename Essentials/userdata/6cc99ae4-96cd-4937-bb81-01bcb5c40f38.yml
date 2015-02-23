@@ -1,0 +1,22 @@
+uuid: 6cc99ae4-96cd-4937-bb81-01bcb5c40f38
+timestamps:
+  login: 1419868500746
+  lastteleport: 1419868776384
+  logout: 1419868802907
+ipAddress: 86.171.161.198
+lastlocation:
+  world: spawn
+  x: 10.905685332049202
+  y: 106.0
+  z: -253.12619235067035
+  yaw: 167.24304
+  pitch: 7.936051
+logoutlocation:
+  world: spawn
+  x: -21.968787875695476
+  y: 35.0
+  z: -6.979405256026787
+  yaw: 60.10814
+  pitch: -16.225502
+money: '43.0'
+lastAccountName: itz_knighty

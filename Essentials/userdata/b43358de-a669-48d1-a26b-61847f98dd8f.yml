@@ -1,0 +1,24 @@
+lastAccountName: yannisdu42410
+timestamps:
+  login: 1421512834660
+  lastteleport: 1421512888729
+  kits:
+    pvp: 1421265108335
+    novice: 1421265096732
+  logout: 1421512912940
+ipAddress: 77.204.222.30
+lastlocation:
+  world: spawn
+  x: 0.06738857940785989
+  y: 33.0
+  z: -37.74401509245423
+  yaw: -172.1146
+  pitch: 9.110154
+logoutlocation:
+  world: spawn
+  x: -0.026770709993000352
+  y: 107.0
+  z: -243.99861461341754
+  yaw: 87.537544
+  pitch: 9.059443
+money: '23.5'

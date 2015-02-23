@@ -1,0 +1,25 @@
+lastAccountName: JoeBeware
+timestamps:
+  login: 1421534997982
+  lastteleport: 1421508911635
+  kits:
+    pvp: 1421508327623
+    novice: 1421508312321
+    color: 1421508930545
+  logout: 1421535035389
+ipAddress: 75.179.48.151
+lastlocation:
+  world: spawn
+  x: 14.485696430572276
+  y: 81.5
+  z: -1237.668175547368
+  yaw: 15.522949
+  pitch: 13.666776
+logoutlocation:
+  world: spawn
+  x: 2.93315312959724
+  y: 55.0
+  z: 3.4279674281507724
+  yaw: 156.78955
+  pitch: 4.598392
+money: '33.0'

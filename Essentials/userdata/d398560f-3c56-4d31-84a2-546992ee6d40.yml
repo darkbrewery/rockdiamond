@@ -1,0 +1,22 @@
+uuid: d398560f-3c56-4d31-84a2-546992ee6d40
+timestamps:
+  login: 1417965425554
+  lastteleport: 1417965737971
+  logout: 1417965811327
+ipAddress: 86.158.156.143
+lastlocation:
+  world: spawn
+  x: -21.361572385679423
+  y: 35.0
+  z: -6.984444885041251
+  yaw: -184.05052
+  pitch: -16.350006
+logoutlocation:
+  world: spawn
+  x: 7.698770021903184
+  y: 55.0
+  z: 10.083838123372741
+  yaw: -166.38972
+  pitch: 12.49485
+money: '99.0'
+lastAccountName: profesorderpy945

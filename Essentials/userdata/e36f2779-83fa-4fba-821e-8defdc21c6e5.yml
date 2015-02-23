@@ -1,0 +1,22 @@
+uuid: e36f2779-83fa-4fba-821e-8defdc21c6e5
+timestamps:
+  login: 1420098668618
+  lastteleport: 1420098798735
+  logout: 1420098873905
+ipAddress: 74.83.185.7
+lastlocation:
+  world: spawn
+  x: 23.263279535511675
+  y: 114.0
+  z: -241.7791725672256
+  yaw: 30.20918
+  pitch: 38.48473
+logoutlocation:
+  world: spawn
+  x: -20.666775249926545
+  y: 35.0
+  z: -5.53723546001197
+  yaw: 131.00659
+  pitch: 20.60102
+money: '34.25'
+lastAccountName: pigkiller52

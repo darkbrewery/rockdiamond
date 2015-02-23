@@ -1,0 +1,22 @@
+uuid: 1cb6435f-c8bb-4bd4-b539-9a7ee21b2c86
+timestamps:
+  login: 1419787895755
+  lastteleport: 1419796333620
+  logout: 1419796385781
+ipAddress: 87.115.179.161
+lastlocation:
+  world: spawn
+  x: 0.5
+  y: 37.0
+  z: -6.5
+  yaw: -180.15056
+  pitch: 1.6499914
+money: '6121.6675'
+logoutlocation:
+  world: spawn
+  x: 19.438201482888267
+  y: 81.0
+  z: -1250.1539754196715
+  yaw: 29.82663
+  pitch: 24.450005
+lastAccountName: tannetta1

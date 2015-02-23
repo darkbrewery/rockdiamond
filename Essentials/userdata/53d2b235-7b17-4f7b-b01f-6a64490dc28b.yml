@@ -1,0 +1,23 @@
+uuid: 53d2b235-7b17-4f7b-b01f-6a64490dc28b
+timestamps:
+  login: 1424050241548
+  lastteleport: 1424051042889
+  logout: 1424051072012
+ipAddress: 99.64.62.150
+lastlocation:
+  world: spawn
+  x: 14.5
+  y: 81.5
+  z: -1237.5
+  yaw: 89.826904
+  pitch: 0.1499731
+afk: false
+logoutlocation:
+  world: spawn
+  x: 10.651645637420387
+  y: 78.0
+  z: -241.30000001192093
+  yaw: 198.28036
+  pitch: -7.499976
+money: '107.54999999999998'
+lastAccountName: livysuenightmear

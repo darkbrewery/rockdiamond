@@ -1,0 +1,23 @@
+lastAccountName: topsecret20
+timestamps:
+  login: 1421792546330
+  lastteleport: 1421791293174
+  logout: 1421792629034
+  jail: 0
+ipAddress: 96.226.64.214
+lastlocation:
+  world: spawn
+  x: 53.86250001192093
+  y: 76.0
+  z: -245.30000001192093
+  yaw: -226.70735
+  pitch: 11.862506
+money: '330.6200000000008'
+logoutlocation:
+  world: spawn
+  x: 53.86250001192093
+  y: 76.0
+  z: -245.53456581823713
+  yaw: -256.8572
+  pitch: 0.91260386
+jailed: false

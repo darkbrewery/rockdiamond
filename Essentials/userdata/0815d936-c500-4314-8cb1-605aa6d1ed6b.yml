@@ -1,0 +1,22 @@
+lastAccountName: MegaRockSlash
+timestamps:
+  login: 1424568610741
+  lastteleport: 1424569011364
+  logout: 1424569350851
+ipAddress: 68.200.40.169
+lastlocation:
+  world: spawn
+  x: 12.699999988079067
+  y: 102.0
+  z: -244.01210175046268
+  yaw: 109.03089
+  pitch: 5.0688534
+logoutlocation:
+  world: mines
+  x: 26.699999988079057
+  y: 64.0
+  z: -3.3985475216379233
+  yaw: -338.80905
+  pitch: 40.847954
+money: '1008.12'
+afk: false

@@ -1,0 +1,25 @@
+lastAccountName: blockanator5000
+timestamps:
+  login: 1422132814421
+  lastteleport: 1422132825265
+  kits:
+    novice: 1421313409923
+    pvp: 1422132948571
+    adept: 1422132927681
+  logout: 1422132985019
+ipAddress: 101.162.50.9
+lastlocation:
+  world: plotworld
+  x: -62.64735350380646
+  y: 65.0
+  z: 77.3977169727961
+  yaw: 187.05003
+  pitch: 13.049975
+money: '134.70250000000203'
+logoutlocation:
+  world: mines
+  x: 242.69999998807907
+  y: 64.0
+  z: -1.3000000119209292
+  yaw: 174.45442
+  pitch: 25.199947

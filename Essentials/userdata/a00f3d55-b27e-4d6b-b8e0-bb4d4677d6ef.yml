@@ -1,0 +1,25 @@
+lastAccountName: GabeJade
+timestamps:
+  login: 1424037094769
+  lastteleport: 1424037331514
+  kits:
+    novice: 1423337315994
+    adept: 1424030351414
+  logout: 1424037641515
+ipAddress: 73.6.27.57
+lastlocation:
+  world: spawn
+  x: 12.404326125507845
+  y: 102.0
+  z: -245.09550094252566
+  yaw: 300.89862
+  pitch: 4.2000012
+logoutlocation:
+  world: plotworld
+  x: -72.07446951629036
+  y: 65.0
+  z: 86.7573894513568
+  yaw: 206.40033
+  pitch: -8.399968
+money: '1654.3868478260736'
+afk: false

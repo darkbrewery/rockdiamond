@@ -1,0 +1,22 @@
+uuid: b436f3f0-14ee-4c23-91bb-8b821aa70d0c
+timestamps:
+  login: 1419426529738
+  lastteleport: 1419426600497
+  logout: 1419426620020
+ipAddress: 98.233.19.103
+lastlocation:
+  world: spawn
+  x: -0.28659908372355075
+  y: 33.0
+  z: -37.682080280604076
+  yaw: -140.16183
+  pitch: 4.51996
+logoutlocation:
+  world: spawn
+  x: 12.6228723336244
+  y: 106.0
+  z: -251.59543575256546
+  yaw: 202.14612
+  pitch: -3.7598186
+money: '30.0'
+lastAccountName: chrisdorcey

@@ -1,0 +1,22 @@
+uuid: ae619d83-898f-4660-b694-75dc3d3ea721
+timestamps:
+  login: 1418040939206
+  lastteleport: 1418041139049
+  logout: 1418041155057
+ipAddress: 217.137.154.157
+lastlocation:
+  world: spawn
+  x: 0.888831102660105
+  y: 32.0
+  z: -2.2325927794539275
+  yaw: 8.398
+  pitch: 1.6211123
+logoutlocation:
+  world: spawn
+  x: 0.7591979931753465
+  y: 107.0
+  z: -247.2394199016151
+  yaw: -99.39731
+  pitch: -0.55991447
+money: '165.0'
+lastAccountName: aldur90

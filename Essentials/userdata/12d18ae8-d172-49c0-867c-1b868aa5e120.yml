@@ -1,0 +1,24 @@
+uuid: 12d18ae8-d172-49c0-867c-1b868aa5e120
+timestamps:
+  login: 1419049661142
+  lastteleport: 1419050507499
+  logout: 1419050686077
+  kits:
+    color: 1419050097088
+ipAddress: 96.48.39.247
+lastlocation:
+  world: spawn
+  x: 0.179275499460492
+  y: 107.0
+  z: -244.89000977557248
+  yaw: 104.098816
+  pitch: 19.35005
+money: '327.5'
+logoutlocation:
+  world: mines
+  x: -8.935394509238726
+  y: 62.5
+  z: -16.82779082494462
+  yaw: -326.6967
+  pitch: 25.950024
+lastAccountName: danstheman1011

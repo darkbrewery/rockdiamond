@@ -1,0 +1,29 @@
+lastAccountName: supremebattler
+timestamps:
+  login: 1424031032556
+  lastteleport: 1424033543035
+  kits:
+    expert: 1423164912807
+    novice: 1422903315668
+    pvp: 1422558050876
+    color: 1422867830992
+    adept: 1423165476379
+  logout: 1424033575265
+ipAddress: 86.43.206.39
+lastlocation:
+  world: plotworld
+  x: -8.0
+  y: 65.5
+  z: -109.49576524782206
+  yaw: -132.45
+  pitch: -11.849999
+money: '181263604.57900006'
+logoutlocation:
+  world: mines
+  x: 482.6812356900545
+  y: 48.0
+  z: -10.30000001192093
+  yaw: -253.94553
+  pitch: 19.649992
+nickname: §4Supreme
+afk: false

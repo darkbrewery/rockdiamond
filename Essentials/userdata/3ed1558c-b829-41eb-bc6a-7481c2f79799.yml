@@ -1,0 +1,25 @@
+lastAccountName: knekt666
+timestamps:
+  login: 1424355680530
+  lastteleport: 1424355982788
+  kits:
+    pvp: 1423474836828
+    novice: 1423474815102
+    color: 1423475500923
+  logout: 1424356118639
+ipAddress: 90.149.172.226
+lastlocation:
+  world: spawn
+  x: -4.845193365606566
+  y: 81.0
+  z: -1220.780713082476
+  yaw: 232.17725
+  pitch: 11.099988
+logoutlocation:
+  world: parkour
+  x: -27.856724424761204
+  y: 83.0
+  z: -32.70464671077887
+  yaw: -260.09998
+  pitch: 9.150002
+money: '19794.750000000004'

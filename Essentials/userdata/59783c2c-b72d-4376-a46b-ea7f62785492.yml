@@ -1,0 +1,25 @@
+lastAccountName: _men_in_red_
+timestamps:
+  login: 1420293943829
+  lastteleport: 1420294522210
+  logout: 1420294678314
+  kits:
+    pvp: 1420294547065
+    novice: 1420294482677
+    color: 1420294663460
+ipAddress: 82.31.64.109
+lastlocation:
+  world: mines
+  x: 102.14085629245332
+  y: 63.0
+  z: -18.66849836367245
+  yaw: 17.252527
+  pitch: -3.75005
+money: '2092.58'
+logoutlocation:
+  world: mines
+  x: 78.30000001192093
+  y: 63.0
+  z: -6.644577963890617
+  yaw: -182.24718
+  pitch: 36.150032

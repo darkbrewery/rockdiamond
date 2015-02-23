@@ -1,0 +1,22 @@
+uuid: 40d01324-6823-43be-8055-6433d6d0a90e
+timestamps:
+  login: 1419798810258
+  lastteleport: 1419520330141
+  logout: 1419798812604
+ipAddress: 94.173.33.104
+lastlocation:
+  world: mines
+  x: 164.2551449623051
+  y: 63.0
+  z: -6.533386913340963
+  yaw: -341.39716
+  pitch: 19.199999
+money: '35376.0'
+logoutlocation:
+  world: mines
+  x: 216.8189994015197
+  y: 64.0
+  z: -14.128956866910228
+  yaw: 40.80244
+  pitch: 11.100014
+lastAccountName: thebizzle

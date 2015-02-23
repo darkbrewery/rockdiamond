@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1417544811973
+  kits:
+    alpha: 1417544819423
+  logout: 1417545608192
+lastlocation:
+  world: spawn
+  x: -4.5
+  y: 55.0
+  z: 0.5
+  yaw: -26.295532
+  pitch: -90.0
+logoutlocation:
+  world: spawn
+  x: -2.818877245245882
+  y: 55.0
+  z: -3.7166774026619085
+  yaw: -23.595428
+  pitch: 33.149975
+money: '30.0'
+lastAccountName: dk_andreas_v

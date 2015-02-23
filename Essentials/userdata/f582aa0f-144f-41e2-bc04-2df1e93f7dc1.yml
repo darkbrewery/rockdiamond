@@ -1,0 +1,30 @@
+uuid: f582aa0f-144f-41e2-bc04-2df1e93f7dc1
+timestamps:
+  login: 1420306077069
+  lastteleport: 1420067134940
+  kits:
+    novice: 1419980042794
+    pvp: 1419956916079
+    color: 1419348323082
+    adept: 1419978165058
+  logout: 1420306261110
+  jail: 0
+ipAddress: 69.14.58.62
+lastlocation:
+  world: spawn
+  x: 14.5
+  y: 81.5
+  z: -1237.5
+  yaw: 89.826904
+  pitch: 0.1499731
+money: '260613.65616220696'
+afk: false
+logoutlocation:
+  world: plotworld
+  x: -20.735794293510615
+  y: 65.0
+  z: -67.30000001192093
+  yaw: -213.30101
+  pitch: 15.450024
+jailed: false
+lastAccountName: CargoDom

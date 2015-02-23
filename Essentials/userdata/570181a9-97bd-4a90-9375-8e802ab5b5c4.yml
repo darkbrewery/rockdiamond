@@ -1,0 +1,22 @@
+uuid: 570181a9-97bd-4a90-9375-8e802ab5b5c4
+timestamps:
+  login: 1418656298050
+  logout: 1418656389815
+  lastteleport: 1418218119628
+ipAddress: 188.228.88.83
+logoutlocation:
+  world: spawn
+  x: 0.8599473710293358
+  y: 34.0
+  z: 5.300000011920924
+  yaw: -182.70087
+  pitch: 55.800003
+money: '30.0'
+lastlocation:
+  world: spawn
+  x: 0.24710440702294786
+  y: 29.0
+  z: 53.43299105254626
+  yaw: 0.14944136
+  pitch: -30.899973
+lastAccountName: de_to_tvillinger

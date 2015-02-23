@@ -1,0 +1,25 @@
+uuid: 76421e75-9919-42fb-9d18-0984f446eb06
+timestamps:
+  login: 1417703323077
+  logout: 1417704157229
+  lastteleport: 1417704110472
+  kits:
+    pvp: 1417703503015
+    novice: 1417703490289
+ipAddress: 77.173.113.186
+logoutlocation:
+  world: spawn
+  x: 0.48125722600889687
+  y: 100.0
+  z: -3.3883602738345124
+  yaw: -337.65048
+  pitch: 31.649996
+money: '159.5'
+lastlocation:
+  world: spawn
+  x: 10.632331040454886
+  y: 106.0
+  z: -250.47786199537254
+  yaw: -184.19984
+  pitch: 1.4999509
+lastAccountName: mennox2002

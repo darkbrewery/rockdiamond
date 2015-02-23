@@ -1,0 +1,24 @@
+lastAccountName: yoreken
+timestamps:
+  login: 1422643424085
+  lastteleport: 1422645183234
+  logout: 1422645220593
+  kits:
+    pvp: 1422644338721
+    color: 1422643773381
+ipAddress: 78.21.129.203
+lastlocation:
+  world: spawn
+  x: 12.567241580290935
+  y: 5.0
+  z: -254.89011674749366
+  yaw: 8.248352
+  pitch: 8.3999815
+money: '261.03999999999996'
+logoutlocation:
+  world: mines
+  x: 685.6497126593152
+  y: 80.0
+  z: -11.302104615123223
+  yaw: -171.14493
+  pitch: 3.6000233

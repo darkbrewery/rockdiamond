@@ -1,0 +1,21 @@
+lastAccountName: Paradox_Ownz364
+timestamps:
+  login: 1421617157532
+  lastteleport: 1421617269735
+  logout: 1421617324057
+ipAddress: 206.45.179.202
+lastlocation:
+  world: spawn
+  x: 0.3498423582524663
+  y: 29.0
+  z: 36.41827538704628
+  yaw: 0.8995056
+  pitch: 11.250005
+logoutlocation:
+  world: spawn
+  x: -0.4256234792291705
+  y: 35.0
+  z: -23.918127258490923
+  yaw: 2.2493
+  pitch: 5.249998
+money: '30.0'

@@ -1,0 +1,22 @@
+uuid: f9609fa8-5c16-4090-8c0a-48df11c5623f
+timestamps:
+  login: 1418724556002
+  lastteleport: 1418724727831
+  logout: 1418724756781
+ipAddress: 203.160.123.180
+lastlocation:
+  world: spawn
+  x: 0.5338829067869283
+  y: 29.0
+  z: 53.654766107613014
+  yaw: 359.8494
+  pitch: 8.550005
+logoutlocation:
+  world: spawn
+  x: 0.8054742732123861
+  y: 37.0
+  z: -11.194370444767411
+  yaw: -278.997
+  pitch: 20.099974
+money: '30.0'
+lastAccountName: dion31

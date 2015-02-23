@@ -1,0 +1,22 @@
+uuid: 7849eac8-bf2f-4ff5-81b4-dd6910c5a42b
+timestamps:
+  login: 1419437788812
+  lastteleport: 1419437896725
+  logout: 1419438137043
+ipAddress: 76.97.59.174
+lastlocation:
+  world: spawn
+  x: 0.5
+  y: 29.0
+  z: 20.5
+  yaw: 3.5994868
+  pitch: -1.499994
+money: '30.0'
+logoutlocation:
+  world: spawn
+  x: 23.5
+  y: 114.0
+  z: -244.5
+  yaw: 90.59884
+  pitch: 19.200071
+lastAccountName: ilovewaffles1345

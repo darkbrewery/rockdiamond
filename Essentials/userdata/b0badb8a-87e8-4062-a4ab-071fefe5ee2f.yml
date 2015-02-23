@@ -1,0 +1,21 @@
+lastAccountName: SchellevisZMZ
+timestamps:
+  login: 1423379780592
+  lastteleport: 1423379830685
+  logout: 1423379891044
+ipAddress: 62.195.88.144
+lastlocation:
+  world: spawn
+  x: 0.6176687191555175
+  y: 29.5
+  z: 54.03813227329399
+  yaw: 17.24939
+  pitch: 33.15
+logoutlocation:
+  world: spawn
+  x: 15.555950330368654
+  y: 37.399610956404395
+  z: -9.574999988079071
+  yaw: 183.60284
+  pitch: 38.849976
+money: '30.0'

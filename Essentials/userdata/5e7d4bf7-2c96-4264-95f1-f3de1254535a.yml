@@ -1,0 +1,23 @@
+lastAccountName: Gta5
+timestamps:
+  login: 1423156462039
+  lastteleport: 1423156601738
+  logout: 1423156612040
+  kits:
+    novice: 1423155502853
+ipAddress: 68.228.207.155
+lastlocation:
+  world: mines
+  x: 47.23032522113901
+  y: 63.0
+  z: -17.80133378616143
+  yaw: 180.27254
+  pitch: -20.57564
+logoutlocation:
+  world: mines
+  x: 105.45638783925517
+  y: 63.0
+  z: -3.8030249453744576
+  yaw: 105.133545
+  pitch: 34.661858
+money: '1045.25'

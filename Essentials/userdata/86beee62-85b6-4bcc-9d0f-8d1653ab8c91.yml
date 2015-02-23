@@ -1,0 +1,24 @@
+uuid: 86beee62-85b6-4bcc-9d0f-8d1653ab8c91
+timestamps:
+  login: 1420015838645
+  lastteleport: 1420016704957
+  kits:
+    novice: 1420016391228
+  logout: 1420016734871
+ipAddress: 50.30.88.100
+lastlocation:
+  world: mines
+  x: -10.85321909186003
+  y: 48.0
+  z: -10.300000011920925
+  yaw: -320.3603
+  pitch: 18.37564
+money: '2253.5'
+logoutlocation:
+  world: mines
+  x: -14.504123961271857
+  y: 63.0
+  z: -12.72280773076053
+  yaw: -72.293686
+  pitch: 33.742542
+lastAccountName: creeperhunter80

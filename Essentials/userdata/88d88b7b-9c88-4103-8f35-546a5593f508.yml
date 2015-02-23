@@ -1,0 +1,24 @@
+uuid: 88d88b7b-9c88-4103-8f35-546a5593f508
+timestamps:
+  login: 1418322005227
+  lastteleport: 1417545178174
+  kits:
+    alpha: 1417544613329
+  logout: 1418322103837
+ipAddress: 71.40.112.113
+lastlocation:
+  world: spawn
+  x: 2.7966718671164976
+  y: 78.0
+  z: -240.65490539282428
+  yaw: -149.17943
+  pitch: 20.052246
+money: '30.0'
+logoutlocation:
+  world: spawn
+  x: 0.10925781609667153
+  y: 34.0
+  z: 7.933451408101912
+  yaw: -94.65004
+  pitch: 37.199924
+lastAccountName: chimi_changas

@@ -1,0 +1,24 @@
+uuid: 7dc768fb-868c-46ac-a0f4-f64ab6e186ad
+timestamps:
+  login: 1416444790077
+  kits:
+    alpha: 1416383598828
+  lastteleport: 1416442409323
+  logout: 1416444812941
+ipAddress: 71.204.177.92
+lastlocation:
+  world: mines
+  x: -11.172582664073735
+  y: 63.0
+  z: -2.5680062683116875
+  yaw: 146.55069
+  pitch: 25.05014
+money: '85.0'
+logoutlocation:
+  world: spawn
+  x: 2.5717554609821387
+  y: 34.0
+  z: -25.770220678708544
+  yaw: -309.15036
+  pitch: 22.199963
+lastAccountName: mr_shmigles

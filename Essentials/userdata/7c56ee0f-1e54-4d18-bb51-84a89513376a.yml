@@ -1,0 +1,24 @@
+lastAccountName: Mikioul
+timestamps:
+  login: 1423232911551
+  lastteleport: 1423233556617
+  kits:
+    novice: 1423233451709
+    pvp: 1423233420201
+  logout: 1423233557084
+ipAddress: 83.202.240.118
+lastlocation:
+  world: spawn
+  x: 2.69999998807907
+  y: 30.0
+  z: -9.472507974709956
+  yaw: -356.10095
+  pitch: 64.199974
+logoutlocation:
+  world: spawn
+  x: 14.5
+  y: 81.50999999046324
+  z: -1237.5
+  yaw: 89.826904
+  pitch: 0.1499731
+money: '199.0'

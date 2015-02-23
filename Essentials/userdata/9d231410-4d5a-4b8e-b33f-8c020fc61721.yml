@@ -1,0 +1,21 @@
+lastAccountName: sgtwolf12321
+timestamps:
+  login: 1422055505711
+  lastteleport: 1422055508561
+  logout: 1422055830151
+ipAddress: 58.169.10.104
+money: '103730.0'
+lastlocation:
+  world: spawn
+  x: 0.5
+  y: 29.0
+  z: 20.5
+  yaw: -0.3005128
+  pitch: -29.549994
+logoutlocation:
+  world: spawn
+  x: 14.5
+  y: 82.0
+  z: -1237.5
+  yaw: 89.826904
+  pitch: 0.1499731

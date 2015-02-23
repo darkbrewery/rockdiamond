@@ -1,0 +1,21 @@
+lastAccountName: iluvpepsi99
+timestamps:
+  login: 1423022104427
+  lastteleport: 1423022274181
+  logout: 1423022284851
+ipAddress: 142.134.105.229
+lastlocation:
+  world: spawn
+  x: 13.788004000137722
+  y: 106.0
+  z: -239.11776289571648
+  yaw: 281.24878
+  pitch: 3.9000518
+logoutlocation:
+  world: spawn
+  x: -0.28179404100463756
+  y: 37.0625
+  z: -4.259276045009869
+  yaw: 125.24948
+  pitch: 20.399996
+money: '41.0'

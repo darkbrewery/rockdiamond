@@ -1,0 +1,20 @@
+lastAccountName: Normerican
+timestamps:
+  login: 1424288111413
+  logout: 1424288725751
+ipAddress: 71.68.232.130
+lastlocation:
+  world: spawn
+  x: 14.763284546295372
+  y: 81.5
+  z: -1258.2675655667847
+  yaw: -18.77356
+  pitch: 36.44999
+logoutlocation:
+  world: spawn
+  x: 0.5
+  y: 101.0
+  z: -9.5
+  yaw: 0.6
+  pitch: 7.9500003
+money: '30.0'

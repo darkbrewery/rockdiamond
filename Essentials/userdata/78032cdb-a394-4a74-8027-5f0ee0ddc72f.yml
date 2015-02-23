@@ -1,0 +1,25 @@
+lastAccountName: lilathecat
+timestamps:
+  login: 1424557040594
+  lastteleport: 1422725847164
+  logout: 1424557066443
+  kits:
+    expert: 1422632697029
+    pvp: 1422557791196
+    color: 1422559001053
+ipAddress: 71.211.93.240
+money: '4897262.713913047'
+lastlocation:
+  world: mines
+  x: 417.205166691301
+  y: 3.0
+  z: -7.397092763674163
+  yaw: -265.7976
+  pitch: 14.999964
+logoutlocation:
+  world: spawn
+  x: 21.146705901237667
+  y: 140.5
+  z: -241.67613076763365
+  yaw: -201.80066
+  pitch: 17.249954

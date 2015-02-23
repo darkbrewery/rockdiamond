@@ -1,0 +1,25 @@
+uuid: ee5ad125-de58-4567-930c-c8e0c90fd192
+timestamps:
+  login: 1419025162660
+  lastteleport: 1419025640499
+  kits:
+    pvp: 1419025253240
+    novice: 1419025237984
+  logout: 1419025752705
+ipAddress: 144.64.67.96
+lastlocation:
+  world: spawn
+  x: 0.26677595578449237
+  y: 34.0
+  z: 8.923433483978258
+  yaw: 199.8681
+  pitch: 16.272007
+money: '25.0'
+logoutlocation:
+  world: spawn
+  x: -19.60444302599816
+  y: 35.5
+  z: -5.165020464970784
+  yaw: -327.03928
+  pitch: -10.822823
+lastAccountName: gusmsc

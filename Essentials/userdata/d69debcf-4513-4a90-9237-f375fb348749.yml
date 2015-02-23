@@ -1,0 +1,25 @@
+uuid: d69debcf-4513-4a90-9237-f375fb348749
+timestamps:
+  login: 1419114014166
+  logout: 1419114352331
+  lastteleport: 1419114217661
+  kits:
+    pvp: 1419114186543
+    novice: 1419114173104
+ipAddress: 69.77.193.93
+logoutlocation:
+  world: spawn
+  x: 0.5996454282038077
+  y: 102.0
+  z: -11.389629983822534
+  yaw: -0.9004822
+  pitch: 1.9500035
+money: '30.0'
+lastlocation:
+  world: spawn
+  x: 1.3952486724061943
+  y: 29.0
+  z: 52.214523984851475
+  yaw: 38.09952
+  pitch: 25.20001
+lastAccountName: greencamoman

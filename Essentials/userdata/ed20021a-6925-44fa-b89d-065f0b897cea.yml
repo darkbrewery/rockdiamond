@@ -1,0 +1,24 @@
+uuid: ed20021a-6925-44fa-b89d-065f0b897cea
+timestamps:
+  login: 1418601258613
+  lastteleport: 1418601422661
+  kits:
+    novice: 1418601342456
+  logout: 1418601441273
+ipAddress: 90.202.192.114
+lastlocation:
+  world: spawn
+  x: 10.352912946079044
+  y: 106.0
+  z: -252.63495740342765
+  yaw: 178.64882
+  pitch: 5.1000757
+logoutlocation:
+  world: spawn
+  x: 2.1954888206400596
+  y: 32.0
+  z: -3.709226473372622
+  yaw: -178.20055
+  pitch: 34.649994
+money: '30.0'
+lastAccountName: broxibear1712

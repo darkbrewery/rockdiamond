@@ -1,0 +1,25 @@
+uuid: 9e92fe79-7641-4d94-be3b-9c4eeb4409e5
+timestamps:
+  login: 1419759683354
+  lastteleport: 1419759781470
+  kits:
+    pvp: 1419759762962
+    novice: 1419759755661
+  logout: 1419759789690
+ipAddress: 99.98.166.62
+lastlocation:
+  world: spawn
+  x: 0.5799203797359951
+  y: 29.0
+  z: 53.20154525346602
+  yaw: 2.9994884
+  pitch: 0.30002367
+logoutlocation:
+  world: spawn
+  x: 10.27954776182802
+  y: 36.0
+  z: -6.547322527811048
+  yaw: 90.30286
+  pitch: 34.199978
+money: '30.0'
+lastAccountName: iamizbug

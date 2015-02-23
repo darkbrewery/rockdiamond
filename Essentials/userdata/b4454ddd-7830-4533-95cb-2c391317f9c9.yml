@@ -1,0 +1,21 @@
+uuid: b4454ddd-7830-4533-95cb-2c391317f9c9
+timestamps:
+  login: 1417737804253
+  lastteleport: 1417737875324
+  logout: 1417737879272
+ipAddress: 104.34.57.85
+lastlocation:
+  world: spawn
+  x: 12.300000011920929
+  y: 102.0
+  z: -244.26733206765405
+  yaw: 84.90011
+  pitch: 7.7999563
+logoutlocation:
+  world: plotworld
+  x: -3.9228748641781106
+  y: 67.0
+  z: 8.500526154704858
+  yaw: 89.84995
+  pitch: 2.1000094
+lastAccountName: theforumedits

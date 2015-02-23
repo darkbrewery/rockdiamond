@@ -1,0 +1,29 @@
+uuid: b8e2431a-084f-4e88-b6e2-1a3aebcbdd93
+timestamps:
+  login: 1420231472190
+  lastteleport: 1420231330376
+  kits:
+    pvp: 1419966070534
+    novice: 1419975819354
+    color: 1419967091270
+    adept: 1420083383719
+  logout: 1420231534657
+  jail: 0
+ipAddress: 99.50.81.83
+lastlocation:
+  world: mines
+  x: 102.93825798988527
+  y: 63.0
+  z: -18.045647099735596
+  yaw: 0.45264733
+  pitch: 3.4499946
+money: '1951.0530434782486'
+logoutlocation:
+  world: mines
+  x: 78.45297616634123
+  y: 63.0
+  z: -12.508417394940828
+  yaw: -170.48164
+  pitch: 45.15098
+jailed: false
+lastAccountName: tzarnikolai

@@ -1,0 +1,22 @@
+uuid: dd989546-469e-4763-81e0-75e5e708ccfc
+timestamps:
+  login: 1417565185891
+  lastteleport: 1417565360132
+  logout: 1417565383586
+ipAddress: 173.176.159.50
+lastlocation:
+  world: spawn
+  x: 0.43834632984367905
+  y: 33.0
+  z: -37.908339677891774
+  yaw: -189.60028
+  pitch: -0.90000427
+logoutlocation:
+  world: spawn
+  x: 12.300000011920929
+  y: 102.0
+  z: -244.5265277043632
+  yaw: -93.599945
+  pitch: 20.399958
+money: '15.0'
+lastAccountName: pearly2744

@@ -1,0 +1,37 @@
+uuid: f030d637-bf56-48da-a7ee-91ae9a3bfb73
+timestamps:
+  login: 1424558548521
+  lastteleport: 1424564015652
+  kits:
+    expert: 1424557368148
+    pvp: 1419897125287
+    novice: 1419654238252
+    color: 1423520440704
+    guard: 1423289866572
+    changelog: 1423275219251
+    adept: 1420779096410
+  logout: 1424564346828
+  jail: 0
+  mute: 0
+ipAddress: 104.53.1.95
+lastlocation:
+  world: mines
+  x: 334.6843030813745
+  y: 64.0
+  z: -18.943718458111253
+  yaw: 119.25223
+  pitch: -48.599964
+logoutlocation:
+  world: spawn
+  x: -3.605013752006714
+  y: 68.0
+  z: 0.7690836712564011
+  yaw: -7.799872
+  pitch: 32.100006
+money: '101482295.4988044'
+afk: false
+jailed: false
+lastAccountName: Slykiller255
+godmode: false
+socialspy: false
+muted: false

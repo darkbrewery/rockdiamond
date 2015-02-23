@@ -1,0 +1,25 @@
+uuid: 3b631154-17a0-4fef-9658-a63b6dfd54ce
+timestamps:
+  login: 1419829920698
+  lastteleport: 1419830188091
+  kits:
+    pvp: 1419829110796
+    novice: 1419829102932
+  logout: 1419830233908
+ipAddress: 123.2.107.241
+lastlocation:
+  world: spawn
+  x: 0.25503082371177566
+  y: 55.0
+  z: -9.961018407545293
+  yaw: -181.9863
+  pitch: 7.2665863
+logoutlocation:
+  world: spawn
+  x: 0.2795114999721197
+  y: 28.802621343847612
+  z: -3.4409773660621674
+  yaw: -57.10742
+  pitch: -10.024044
+money: '116.0'
+lastAccountName: dread0522

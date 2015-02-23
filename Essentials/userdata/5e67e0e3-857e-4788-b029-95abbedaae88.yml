@@ -1,0 +1,21 @@
+lastAccountName: electricstrike29
+timestamps:
+  login: 1420590235990
+  lastteleport: 1420590571687
+  logout: 1420590607855
+ipAddress: 70.72.248.66
+lastlocation:
+  world: spawn
+  x: 0.3978490315429331
+  y: 33.0
+  z: -37.874734251813194
+  yaw: -177.30243
+  pitch: 5.8500657
+logoutlocation:
+  world: spawn
+  x: 2.2626154383312214
+  y: 106.5
+  z: -244.09279152606143
+  yaw: 106.0488
+  pitch: 10.650064
+money: '30.0'

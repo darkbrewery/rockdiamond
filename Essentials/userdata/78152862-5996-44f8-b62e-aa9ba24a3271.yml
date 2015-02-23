@@ -1,0 +1,22 @@
+uuid: 78152862-5996-44f8-b62e-aa9ba24a3271
+timestamps:
+  login: 1416371319022
+  logout: 1416371824637
+  lastteleport: 1416371325524
+ipAddress: 99.25.15.10
+logoutlocation:
+  world: spawn
+  x: 7.699999988079069
+  y: 33.0
+  z: -40.69999998807907
+  yaw: 266.48438
+  pitch: 14.831952
+lastlocation:
+  world: spawn
+  x: 0.8428909086821101
+  y: 34.0
+  z: 6.9296335122218
+  yaw: -187.69856
+  pitch: -19.417814
+money: '30.0'
+lastAccountName: anarchy360d

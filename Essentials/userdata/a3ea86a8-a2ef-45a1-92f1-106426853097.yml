@@ -1,0 +1,24 @@
+uuid: a3ea86a8-a2ef-45a1-92f1-106426853097
+timestamps:
+  login: 1419997983435
+  lastteleport: 1419998246488
+  kits:
+    novice: 1419998229416
+  logout: 1419998272969
+ipAddress: 108.249.218.180
+lastlocation:
+  world: spawn
+  x: 11.872732102810716
+  y: 106.0
+  z: -252.67181146349924
+  yaw: 251.57164
+  pitch: 18.585669
+money: '30.0'
+logoutlocation:
+  world: spawn
+  x: -4.752605347011359
+  y: 33.0
+  z: -35.595820675160425
+  yaw: 291.05588
+  pitch: 0.31681758
+lastAccountName: bamitsharry

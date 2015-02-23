@@ -1,0 +1,25 @@
+lastAccountName: chris11fowles
+timestamps:
+  login: 1424250305165
+  lastteleport: 1423996772394
+  kits:
+    novice: 1423919726422
+    pvp: 1423919701464
+  logout: 1424250370694
+ipAddress: 81.101.109.69
+lastlocation:
+  world: mines
+  x: 41.46841908783678
+  y: 48.0
+  z: -8.928455265096378
+  yaw: -69.582184
+  pitch: -60.494038
+money: '10449.671739130436'
+afk: false
+logoutlocation:
+  world: plotworld
+  x: -90.52346533810781
+  y: 65.5
+  z: -5.283284558376062
+  yaw: -202.34836
+  pitch: -12.934228

@@ -1,0 +1,26 @@
+lastAccountName: Ferbmicah
+timestamps:
+  login: 1424027240076
+  lastteleport: 1424029476048
+  kits:
+    pvp: 1423969605506
+    novice: 1423969630760
+    color: 1424028154053
+  logout: 1424029807921
+ipAddress: 24.229.151.213
+lastlocation:
+  world: plotworld
+  x: -88.60494346313102
+  y: 65.0
+  z: 83.31564094680249
+  yaw: 37.509323
+  pitch: 90.0
+logoutlocation:
+  world: plotworld
+  x: -126.45189493592558
+  y: 65.0
+  z: 121.44333289601505
+  yaw: -150.24684
+  pitch: 14.825605
+money: '3945974.29'
+afk: false

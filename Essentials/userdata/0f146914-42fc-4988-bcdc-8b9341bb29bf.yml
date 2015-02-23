@@ -1,0 +1,22 @@
+uuid: 0f146914-42fc-4988-bcdc-8b9341bb29bf
+timestamps:
+  login: 1419704073620
+  lastteleport: 1419705087998
+  logout: 1419705317990
+ipAddress: 75.164.196.160
+lastlocation:
+  world: spawn
+  x: 13.221726721058266
+  y: 106.0
+  z: -252.0116546301041
+  yaw: 152.99892
+  pitch: 0.30006942
+money: '16.0625'
+logoutlocation:
+  world: spawn
+  x: -5.587484437584305
+  y: 55.0
+  z: 5.258632613507499
+  yaw: 358.20117
+  pitch: 17.549992
+lastAccountName: ianemo

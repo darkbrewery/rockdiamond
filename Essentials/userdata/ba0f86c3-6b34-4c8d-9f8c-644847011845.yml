@@ -1,0 +1,25 @@
+lastAccountName: Nikolaj_Helbig
+timestamps:
+  login: 1424014400800
+  lastteleport: 1424015305762
+  logout: 1424015678408
+  kits:
+    novice: 1423142974030
+    pvp: 1423143718594
+    color: 1422980227829
+ipAddress: 62.198.39.214
+lastlocation:
+  world: plotworld
+  x: 38.0660751326374
+  y: 67.75
+  z: 72.08523479232863
+  yaw: -137.35217
+  pitch: 54.149956
+logoutlocation:
+  world: spawn
+  x: 19.116189991748207
+  y: 82.5
+  z: -1241.125439352223
+  yaw: 297.2867
+  pitch: 6.2999997
+money: '16068.174782608701'

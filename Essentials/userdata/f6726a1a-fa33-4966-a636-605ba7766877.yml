@@ -1,0 +1,22 @@
+timestamps:
+  lastteleport: 1419392038631
+  kits:
+    pvp: 1419391990492
+    novice: 1419391969581
+  logout: 1419392160529
+lastlocation:
+  world: spawn
+  x: 0.14694005772653135
+  y: 29.0
+  z: 52.69553453312092
+  yaw: -6.6003113
+  pitch: 5.099934
+logoutlocation:
+  world: spawn
+  x: 12.569354475302948
+  y: 36.0
+  z: -6.518892395442287
+  yaw: 271.65363
+  pitch: 13.200013
+money: '30.0'
+lastAccountName: zakcarter192

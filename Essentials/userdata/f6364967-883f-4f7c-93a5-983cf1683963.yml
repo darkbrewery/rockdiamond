@@ -1,0 +1,24 @@
+uuid: f6364967-883f-4f7c-93a5-983cf1683963
+timestamps:
+  login: 1419474646246
+  lastteleport: 1419426183422
+  kits:
+    novice: 1419425828435
+  logout: 1419475409262
+ipAddress: 58.167.183.202
+lastlocation:
+  world: spawn
+  x: 13.307333792813457
+  y: 36.0
+  z: -6.668070380872742
+  yaw: -268.0505
+  pitch: 0.7499954
+money: '15.0'
+logoutlocation:
+  world: spawn
+  x: -2.7904234747281786
+  y: 34.0
+  z: 12.925000011920927
+  yaw: -197.85017
+  pitch: -1.3500249
+lastAccountName: craftman114

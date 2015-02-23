@@ -1,0 +1,26 @@
+lastAccountName: Sebastian12R
+timestamps:
+  login: 1424205770351
+  lastteleport: 1423571617331
+  logout: 1424205852513
+  kits:
+    pvp: 1423432655561
+    novice: 1423432714783
+    color: 1423432673714
+    adept: 1423571639518
+ipAddress: 173.79.28.124
+money: '20033.91260869565'
+lastlocation:
+  world: spawn
+  x: 45.56416200652266
+  y: 111.5
+  z: -771.1458897096347
+  yaw: -121.99638
+  pitch: -5.700011
+logoutlocation:
+  world: spawn
+  x: 76.66697262188708
+  y: 112.5
+  z: -793.663945689245
+  yaw: 158.65245
+  pitch: -5.8500104

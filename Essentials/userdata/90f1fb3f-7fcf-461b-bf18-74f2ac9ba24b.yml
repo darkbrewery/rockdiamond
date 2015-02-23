@@ -1,0 +1,30 @@
+timestamps:
+  lastteleport: 1422515626339
+  kits:
+    novice: 1417841605153
+    pvp: 1417841611902
+    color: 1417843412436
+    adept: 1422515326047
+  logout: 1422674985042
+  login: 1422674964928
+lastlocation:
+  world: mines
+  x: 324.30000001192093
+  y: 63.0
+  z: -9.69999998807907
+  yaw: 262.95264
+  pitch: -8.700004
+logoutlocation:
+  world: mines
+  x: 297.69999998807907
+  y: 64.0
+  z: -12.697436248230682
+  yaw: 248.25256
+  pitch: 90.0
+uuid: 90f1fb3f-7fcf-461b-bf18-74f2ac9ba24b
+ipAddress: 206.225.77.165
+money: '332238.4253901896'
+ignore:
+- team_vex
+- reece6836
+lastAccountName: dalto88

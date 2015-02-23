@@ -1,0 +1,21 @@
+lastAccountName: chris_kerr
+timestamps:
+  login: 1420954585184
+  lastteleport: 1420955027479
+  logout: 1420955267707
+ipAddress: 108.216.48.191
+lastlocation:
+  world: spawn
+  x: 11.665335852906228
+  y: 106.0
+  z: -252.26444518963078
+  yaw: -217.50618
+  pitch: 4.2847033
+logoutlocation:
+  world: spawn
+  x: 25.05616749457278
+  y: 34.5
+  z: -5.603700755758697
+  yaw: 142.38216
+  pitch: 44.348866
+money: '30.0'

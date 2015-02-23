@@ -1,0 +1,22 @@
+uuid: 02d6fb48-d2f9-4c53-ae76-4714b9cf5164
+timestamps:
+  login: 1418784376548
+  lastteleport: 1418784421580
+  logout: 1418784442607
+ipAddress: 68.115.37.153
+lastlocation:
+  world: spawn
+  x: -0.04801920774833218
+  y: 29.0
+  z: 30.744180462168156
+  yaw: 178.04944
+  pitch: 8.400009
+logoutlocation:
+  world: spawn
+  x: 0.8956355285570992
+  y: 32.0
+  z: -31.39484838911566
+  yaw: -197.55042
+  pitch: 51.600006
+money: '30.0'
+lastAccountName: thequick0ne

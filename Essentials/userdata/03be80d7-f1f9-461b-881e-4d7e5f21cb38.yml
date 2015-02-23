@@ -1,0 +1,27 @@
+uuid: 03be80d7-f1f9-461b-881e-4d7e5f21cb38
+timestamps:
+  login: 1417487621333
+  kits:
+    color: 1417399576741
+    alpha: 1417398763323
+    stoner: 1417473054878
+  lastteleport: 1417487844287
+  logout: 1417488041806
+ipAddress: 74.192.107.136
+lastlocation:
+  world: mines
+  x: -0.3251360813988998
+  y: 70.0
+  z: -0.2587414476064078
+  yaw: 128.51395
+  pitch: 67.98753
+nickname: JJ
+money: '4496.0'
+logoutlocation:
+  world: mines
+  x: 192.1192277678303
+  y: 63.0
+  z: -15.699999988079071
+  yaw: 178.30147
+  pitch: 31.311333
+lastAccountName: jackjack1220

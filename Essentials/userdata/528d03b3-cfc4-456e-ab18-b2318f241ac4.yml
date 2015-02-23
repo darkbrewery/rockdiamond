@@ -1,0 +1,22 @@
+uuid: 528d03b3-cfc4-456e-ab18-b2318f241ac4
+timestamps:
+  login: 1419932727633
+  lastteleport: 1419933020218
+  logout: 1419933033599
+ipAddress: 2.99.136.230
+lastlocation:
+  world: spawn
+  x: 9.932794420930545
+  y: 106.0
+  z: -251.56486566825927
+  yaw: 187.49881
+  pitch: 4.050071
+logoutlocation:
+  world: spawn
+  x: -6.038829123261779
+  y: 33.0
+  z: -27.093907355574625
+  yaw: 120.74943
+  pitch: 22.349993
+money: '30.0'
+lastAccountName: mateuszbrem

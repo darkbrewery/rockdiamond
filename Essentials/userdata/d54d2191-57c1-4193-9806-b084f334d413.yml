@@ -1,0 +1,27 @@
+uuid: d54d2191-57c1-4193-9806-b084f334d413
+timestamps:
+  login: 1419650778872
+  lastteleport: 1419651465154
+  kits:
+    novice: 1419462950296
+    pvp: 1419462953543
+    color: 1419461424616
+    adept: 1419458987620
+  logout: 1419651531740
+ipAddress: 173.188.62.179
+lastlocation:
+  world: plotworld
+  x: -88.27000342356666
+  y: 69.0
+  z: -40.55142803559525
+  yaw: -116.10001
+  pitch: 37.80001
+money: '74002.00322463764'
+logoutlocation:
+  world: mines
+  x: 269.5
+  y: 63.0
+  z: -16.5
+  yaw: -0.59739006
+  pitch: 37.950016
+lastAccountName: overlordmyze

@@ -1,0 +1,23 @@
+lastAccountName: twister0401
+timestamps:
+  login: 1422054444733
+  lastteleport: 1422054722815
+  kits:
+    novice: 1422054550899
+  logout: 1422054843823
+ipAddress: 76.22.166.229
+lastlocation:
+  world: spawn
+  x: 10.402460243916261
+  y: 106.0
+  z: -252.26426456590016
+  yaw: 179.09877
+  pitch: 3.2999954
+logoutlocation:
+  world: spawn
+  x: -22.599670623794495
+  y: 35.0
+  z: -5.494715982015055
+  yaw: 256.6499
+  pitch: 90.0
+money: '46.0'

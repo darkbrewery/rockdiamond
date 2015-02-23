@@ -1,0 +1,25 @@
+uuid: 50844c50-d29f-45dc-9984-8c54a7b834b5
+timestamps:
+  login: 1418622064531
+  lastteleport: 1418622442769
+  kits:
+    pvp: 1418622142783
+    novice: 1418622130796
+  logout: 1418622551980
+ipAddress: 202.76.139.166
+lastlocation:
+  world: spawn
+  x: -0.22717810478407463
+  y: 32.0
+  z: -2.281930894093794
+  yaw: -26.540174
+  pitch: 25.417078
+logoutlocation:
+  world: spawn
+  x: 17.303651314890747
+  y: 74.0
+  z: -233.63053931538772
+  yaw: -256.42468
+  pitch: 57.01846
+money: '52.5'
+lastAccountName: joey3457

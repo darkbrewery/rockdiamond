@@ -1,0 +1,22 @@
+uuid: b2d89095-c0fe-4b07-b535-687a963665b2
+timestamps:
+  login: 1419306171401
+  lastteleport: 1419306225997
+  logout: 1419306235772
+ipAddress: 24.205.50.143
+lastlocation:
+  world: spawn
+  x: 0.5614368860363085
+  y: 34.0
+  z: 6.607940642218754
+  yaw: -178.20026
+  pitch: 7.4999804
+logoutlocation:
+  world: spawn
+  x: 0.425896285813529
+  y: 29.0
+  z: 52.89213849123481
+  yaw: 0.8994874
+  pitch: 12.450009
+money: '30.0'
+lastAccountName: kingcartoonist

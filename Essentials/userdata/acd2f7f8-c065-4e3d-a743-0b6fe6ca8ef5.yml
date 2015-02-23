@@ -1,0 +1,23 @@
+lastAccountName: creepeyenderman
+timestamps:
+  login: 1422382897686
+  lastteleport: 1422384730395
+  kits:
+    color: 1422384565663
+  logout: 1422384899592
+ipAddress: 89.142.243.151
+lastlocation:
+  world: spawn
+  x: 0.6251514369493057
+  y: 34.0
+  z: 7.881074875806756
+  yaw: -182.1001
+  pitch: 29.69996
+money: '205.79000000000008'
+logoutlocation:
+  world: mines
+  x: -14.524005682137895
+  y: 50.0
+  z: -6.300000011920927
+  yaw: -90.14762
+  pitch: 18.600016

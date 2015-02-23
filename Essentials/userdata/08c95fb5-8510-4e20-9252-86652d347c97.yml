@@ -1,0 +1,22 @@
+uuid: 08c95fb5-8510-4e20-9252-86652d347c97
+timestamps:
+  login: 1417352942459
+  lastteleport: 1417353094209
+  logout: 1417353166129
+ipAddress: 80.200.149.89
+lastlocation:
+  world: spawn
+  x: 1.4693793231061245
+  y: 34.0
+  z: 9.12467697359574
+  yaw: -82.0336
+  pitch: 6.070703
+logoutlocation:
+  world: spawn
+  x: -0.46476502332394803
+  y: 35.0
+  z: -24.50510534197756
+  yaw: -33.336517
+  pitch: 19.724451
+money: '30.0'
+lastAccountName: michaelrohart

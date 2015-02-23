@@ -1,0 +1,30 @@
+uuid: 540c2c14-e51e-4168-99bd-1326cc653a45
+timestamps:
+  login: 1422662067117
+  lastteleport: 1421363343166
+  kits:
+    pvp: 1421363403670
+    color: 1417186290574
+    alpha: 1417183290660
+    adept: 1421363386828
+    stoner: 1417185742307
+  logout: 1422662100878
+ipAddress: 108.12.230.184
+lastlocation:
+  world: mines
+  x: 266.5510898169216
+  y: 54.0
+  z: -10.334152683809753
+  yaw: -7.4974213
+  pitch: 70.65001
+logoutlocation:
+  world: mines
+  x: 185.24237512729815
+  y: 68.0
+  z: -9.101790615402237
+  yaw: 141.15302
+  pitch: 47.999897
+money: '6149.506231884052'
+godmode: false
+afk: false
+lastAccountName: walllable

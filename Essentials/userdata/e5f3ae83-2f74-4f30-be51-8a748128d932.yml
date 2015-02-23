@@ -1,0 +1,24 @@
+lastAccountName: Lx_DarkSlayer_xL
+timestamps:
+  login: 1420689483251
+  logout: 1420690599180
+  lastteleport: 1420690586869
+  kits:
+    pvp: 1420690080000
+    novice: 1420689560362
+ipAddress: 124.180.149.173
+logoutlocation:
+  world: spawn
+  x: -22.10106107168485
+  y: 35.0
+  z: -7.894973362006615
+  yaw: -169.35052
+  pitch: -13.200007
+lastlocation:
+  world: mines
+  x: 5.918087778838332
+  y: 62.5
+  z: -17.022594124378298
+  yaw: 90.30173
+  pitch: 55.64998
+money: '3.6200000000000045'

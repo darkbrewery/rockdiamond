@@ -1,0 +1,25 @@
+uuid: c2b6287c-ce97-48f8-ab2b-696843bb23f3
+timestamps:
+  login: 1419495517157
+  lastteleport: 1419495648872
+  kits:
+    pvp: 1419495630888
+    novice: 1419495615406
+  logout: 1419496628157
+ipAddress: 71.202.170.33
+lastlocation:
+  world: spawn
+  x: 0.5418667671875674
+  y: 29.0
+  z: 53.625018762893646
+  yaw: 1.6494875
+  pitch: 13.800004
+logoutlocation:
+  world: spawn
+  x: -1.0705660019314176
+  y: 29.0
+  z: -4.300000011920929
+  yaw: 2.5483398
+  pitch: 45.6
+money: '122.0'
+lastAccountName: darius2234

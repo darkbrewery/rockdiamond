@@ -1,0 +1,22 @@
+uuid: 9c7f8fdf-2d32-4230-b2ab-f3fe51c09e3c
+timestamps:
+  login: 1419129463200
+  lastteleport: 1419129515225
+  logout: 1419129519773
+ipAddress: 71.251.174.2
+lastlocation:
+  world: spawn
+  x: 0.5775776564260013
+  y: 29.0
+  z: 51.4487426913098
+  yaw: 0.44948715
+  pitch: 0.90000415
+logoutlocation:
+  world: spawn
+  x: -6.812481099191102
+  y: 36.5
+  z: -6.578813771906425
+  yaw: 89.852844
+  pitch: 17.99997
+money: '30.0'
+lastAccountName: rmz184

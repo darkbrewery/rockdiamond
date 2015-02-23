@@ -1,0 +1,28 @@
+lastAccountName: zzmaster123
+timestamps:
+  login: 1424131343647
+  lastteleport: 1424132737811
+  kits:
+    novice: 1424128056104
+    pvp: 1424129809713
+    color: 1424106879913
+    adept: 1424106867768
+  logout: 1424132597265
+ipAddress: 71.38.118.236
+lastlocation:
+  world: plotworld
+  x: 66.13471753631877
+  y: 65.5
+  z: -51.48639045825743
+  yaw: 256.1842
+  pitch: 79.649994
+money: '79.96086956523'
+logoutlocation:
+  world: spawn
+  x: 14.5
+  y: 81.5
+  z: -1237.5
+  yaw: 89.826904
+  pitch: 0.1499731
+afk: false
+nickname: Annoying§oTeen

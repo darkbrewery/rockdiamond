@@ -1,0 +1,28 @@
+uuid: a6ff6a90-133b-4b1c-96f8-fc018344c4ef
+timestamps:
+  login: 1417648180526
+  lastteleport: 1417649645497
+  kits:
+    color: 1417123746323
+    alpha: 1417123402254
+    adept: 1417648451199
+    stoner: 1417575642189
+  logout: 1417649697867
+ipAddress: 104.1.8.62
+lastlocation:
+  world: mines
+  x: 325.30000001192093
+  y: 67.0
+  z: -10.300000011920927
+  yaw: 232.35248
+  pitch: 44.100014
+afk: false
+money: '12942.173076923078'
+logoutlocation:
+  world: mines
+  x: 160.0840323167284
+  y: 63.0
+  z: -12.864214833441375
+  yaw: 2.2527635
+  pitch: 24.59999
+lastAccountName: bradley_f150

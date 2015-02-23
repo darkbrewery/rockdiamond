@@ -1,0 +1,21 @@
+lastAccountName: TheSeventhKing
+timestamps:
+  login: 1423271471018
+  lastteleport: 1423271459074
+  logout: 1423271473319
+ipAddress: 69.127.115.40
+lastlocation:
+  world: spawn
+  x: 2.5807972928096126
+  y: 81.5
+  z: -1237.5756513667911
+  yaw: 89.57677
+  pitch: 6.5550413
+logoutlocation:
+  world: spawn
+  x: 0.37927499540515264
+  y: 29.0
+  z: 25.092206688522875
+  yaw: 28.220057
+  pitch: 22.487444
+money: '30.0'

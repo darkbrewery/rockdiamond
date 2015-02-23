@@ -1,0 +1,25 @@
+uuid: b5597c63-e1c6-4869-b806-f29a93017335
+timestamps:
+  login: 1419503701421
+  lastteleport: 1419500621575
+  kits:
+    pvp: 1419500469554
+    novice: 1419428012081
+  logout: 1419503752348
+ipAddress: 86.175.84.83
+money: '1356.75'
+lastlocation:
+  world: mines
+  x: 70.30000001192093
+  y: 63.0
+  z: -11.311872485824976
+  yaw: -309.5036
+  pitch: 57.226524
+logoutlocation:
+  world: mines
+  x: 84.57499998807907
+  y: 58.0
+  z: -10.699999988079071
+  yaw: -23.384338
+  pitch: 13.047565
+lastAccountName: hugo_assassin

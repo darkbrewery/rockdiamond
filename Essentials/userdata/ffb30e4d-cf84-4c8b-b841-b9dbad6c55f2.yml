@@ -1,0 +1,24 @@
+lastAccountName: XxMundaneAutoxX
+timestamps:
+  login: 1421816283461
+  lastteleport: 1421817188657
+  kits:
+    pvp: 1421816457293
+    novice: 1421816429163
+  logout: 1421817233778
+ipAddress: 101.167.61.195
+lastlocation:
+  world: spawn
+  x: 42.76877916685482
+  y: 111.5
+  z: -769.2855473903254
+  yaw: -9.046265
+  pitch: -3.3000126
+logoutlocation:
+  world: mines
+  x: 736.6571535749473
+  y: 68.0
+  z: 1.7048162614401896
+  yaw: -188.5492
+  pitch: 40.350018
+money: '0.09375'

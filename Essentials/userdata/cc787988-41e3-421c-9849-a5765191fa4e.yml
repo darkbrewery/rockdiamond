@@ -1,0 +1,25 @@
+uuid: cc787988-41e3-421c-9849-a5765191fa4e
+timestamps:
+  login: 1417926629307
+  lastteleport: 1417926541493
+  kits:
+    pvp: 1417926012548
+    novice: 1417926010898
+  logout: 1417926640958
+ipAddress: 23.91.230.84
+lastlocation:
+  world: spawn
+  x: 6.295043570945529
+  y: 55.0
+  z: 10.103131034012623
+  yaw: -10.198422
+  pitch: 11.549997
+logoutlocation:
+  world: spawn
+  x: -0.9780952779135256
+  y: 30.0
+  z: -3.3035515277879326
+  yaw: 90.899536
+  pitch: 43.650005
+money: '20.5'
+lastAccountName: allenle4

@@ -1,0 +1,24 @@
+lastAccountName: Thegbomb04
+timestamps:
+  login: 1424350939557
+  lastteleport: 1424351219416
+  kits:
+    novice: 1424013767460
+    adept: 1424011705753
+  logout: 1424351279146
+ipAddress: 31.51.221.143
+lastlocation:
+  world: spawn
+  x: 13.028821316666367
+  y: 81.5
+  z: -1238.3072077659415
+  yaw: 108.68425
+  pitch: 20.778086
+money: '154033.8989855071'
+logoutlocation:
+  world: spawn
+  x: 14.5
+  y: 81.5
+  z: -1237.5
+  yaw: 88.47009
+  pitch: 5.416236

@@ -1,0 +1,25 @@
+lastAccountName: NESW312
+timestamps:
+  login: 1424649003728
+  lastteleport: 1424649257491
+  kits:
+    pvp: 1423502344239
+    novice: 1423502329709
+  logout: 1424648983985
+ipAddress: 98.108.241.190
+lastlocation:
+  world: plotworld
+  x: 56.46704603739635
+  y: 65.0
+  z: 1.050781160830398
+  yaw: 182.50336
+  pitch: 23.952808
+money: '366256.20347826066'
+logoutlocation:
+  world: parkour
+  x: -0.29264526850040784
+  y: 80.0
+  z: 0.8129011655309137
+  yaw: 43.437393
+  pitch: 25.072094
+afk: false

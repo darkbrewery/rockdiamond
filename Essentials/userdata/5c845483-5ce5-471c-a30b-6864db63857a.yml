@@ -1,0 +1,22 @@
+uuid: 5c845483-5ce5-471c-a30b-6864db63857a
+timestamps:
+  login: 1419919256132
+  lastteleport: 1419919745759
+  logout: 1419919757471
+ipAddress: 73.8.30.228
+lastlocation:
+  world: spawn
+  x: 0.3881006351399908
+  y: 55.0
+  z: -10.86621215955881
+  yaw: -181.70093
+  pitch: 1.9429196
+logoutlocation:
+  world: spawn
+  x: -23.34732325370091
+  y: 35.0
+  z: -7.4171555399297615
+  yaw: -267.65173
+  pitch: -26.67156
+money: '81.0'
+lastAccountName: proraiderrr

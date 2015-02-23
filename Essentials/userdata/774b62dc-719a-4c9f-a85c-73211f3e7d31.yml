@@ -1,0 +1,24 @@
+uuid: 774b62dc-719a-4c9f-a85c-73211f3e7d31
+timestamps:
+  login: 1416405189697
+  lastteleport: 1416405257818
+  kits:
+    alpha: 1416405261219
+  logout: 1416405330285
+ipAddress: 86.142.146.16
+lastlocation:
+  world: spawn
+  x: 25.5
+  y: 34.0
+  z: -6.5
+  yaw: 270.3028
+  pitch: -15.600022
+logoutlocation:
+  world: spawn
+  x: -4.605995462696099
+  y: 33.0
+  z: -27.818332472146185
+  yaw: 71.141594
+  pitch: 17.476486
+money: '30.0'
+lastAccountName: jetkool12

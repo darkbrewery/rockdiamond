@@ -1,0 +1,21 @@
+lastAccountName: IgVipers
+timestamps:
+  login: 1423882915984
+  lastteleport: 1423882989179
+  logout: 1423883031647
+ipAddress: 174.93.133.241
+lastlocation:
+  world: spawn
+  x: 0.33125694501249825
+  y: 29.0
+  z: 53.18387558406758
+  yaw: 2.249487
+  pitch: 3.750005
+logoutlocation:
+  world: spawn
+  x: 16.9485032945776
+  y: 36.0
+  z: -5.751027471387922
+  yaw: 88.202866
+  pitch: 39.899975
+money: '30.0'

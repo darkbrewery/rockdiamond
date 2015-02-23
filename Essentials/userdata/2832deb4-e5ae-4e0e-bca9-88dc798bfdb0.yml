@@ -1,0 +1,24 @@
+uuid: 2832deb4-e5ae-4e0e-bca9-88dc798bfdb0
+timestamps:
+  login: 1417055009565
+  lastteleport: 1417055271326
+  kits:
+    alpha: 1417055163846
+  logout: 1417055457325
+ipAddress: 162.226.214.17
+lastlocation:
+  world: spawn
+  x: 0.845294649445487
+  y: 33.0
+  z: -37.79971815053757
+  yaw: -180.75378
+  pitch: 13.073743
+logoutlocation:
+  world: spawn
+  x: 7.5
+  y: 106.0
+  z: -244.5
+  yaw: -219.93472
+  pitch: 3.0766716
+money: '30.0'
+lastAccountName: spelitrite

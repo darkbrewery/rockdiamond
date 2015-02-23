@@ -1,0 +1,24 @@
+uuid: 5be28348-e7f7-4bae-bf76-bdaf6c1fa934
+timestamps:
+  login: 1419654123995
+  lastteleport: 1419655532856
+  kits:
+    color: 1419655030136
+  logout: 1419655655071
+ipAddress: 96.54.6.145
+lastlocation:
+  world: mines
+  x: -14.699999988079073
+  y: 64.0
+  z: -19.358731363725536
+  yaw: -233.80829
+  pitch: 3.5845392
+logoutlocation:
+  world: mines
+  x: 12.378600496606001
+  y: 63.5
+  z: -2.7462705212983822
+  yaw: -179.40898
+  pitch: 36.434772
+money: '3.5'
+lastAccountName: butler4

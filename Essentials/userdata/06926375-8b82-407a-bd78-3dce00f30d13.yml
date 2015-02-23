@@ -1,0 +1,21 @@
+lastAccountName: OpMeBruh
+timestamps:
+  login: 1424326008423
+  lastteleport: 1424326131945
+  logout: 1424326146799
+ipAddress: 108.0.210.84
+lastlocation:
+  world: spawn
+  x: 12.699999988079073
+  y: 102.0
+  z: -244.25016348564463
+  yaw: -89.52586
+  pitch: 10.872374
+logoutlocation:
+  world: spawn
+  x: 11.43671593690506
+  y: 94.0
+  z: -237.99056476966808
+  yaw: -19.71503
+  pitch: -29.21012
+money: '30.0'

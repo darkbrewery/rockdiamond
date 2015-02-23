@@ -1,0 +1,31 @@
+uuid: 8cadda1f-0cc2-43e2-8b6f-81df85b11fd6
+timestamps:
+  login: 1420735976420
+  lastteleport: 1420737819068
+  kits:
+    novice: 1420736406901
+    pvp: 1420736428564
+    color: 1417033883608
+    alpha: 1417044198979
+    adept: 1420736414312
+    stoner: 1417047000643
+  logout: 1420737893729
+ipAddress: 99.9.46.1
+lastlocation:
+  world: spawn
+  x: 0.30929052688773234
+  y: 68.0625
+  z: 2.0843126740082654
+  yaw: -154.3501
+  pitch: 1.9499503
+logoutlocation:
+  world: plotworld
+  x: 40.0
+  y: 65.0
+  z: -15.0
+  yaw: 0.0
+  pitch: 0.0
+money: '30580.144311594195'
+godmode: false
+nickname: TNTDUDE712
+lastAccountName: TNTDUDE712

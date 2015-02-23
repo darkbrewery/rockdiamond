@@ -1,0 +1,25 @@
+uuid: 3a0cb69b-2cde-4ce0-a87f-fb25b4cc198c
+timestamps:
+  login: 1419847703010
+  lastteleport: 1419847753360
+  kits:
+    novice: 1419839315145
+    color: 1419839660956
+  logout: 1419847773305
+ipAddress: 110.142.248.52
+lastlocation:
+  world: spawn
+  x: 12.026681528875208
+  y: 94.0
+  z: -239.26103948821086
+  yaw: 191.69836
+  pitch: -2.8499813
+money: '16.0'
+logoutlocation:
+  world: mines
+  x: 26.29461547080438
+  y: 63.0
+  z: -10.5
+  yaw: 232.50235
+  pitch: 12.4500065
+lastAccountName: yo12000

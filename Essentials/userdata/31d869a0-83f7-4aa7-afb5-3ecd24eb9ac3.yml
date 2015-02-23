@@ -1,0 +1,22 @@
+uuid: 31d869a0-83f7-4aa7-afb5-3ecd24eb9ac3
+timestamps:
+  login: 1419717296042
+  lastteleport: 1419717526286
+  logout: 1419717532948
+ipAddress: 98.112.59.230
+lastlocation:
+  world: spawn
+  x: 0.294127480430304
+  y: 55.0
+  z: 9.14502967226842
+  yaw: 2.1016808
+  pitch: 9.900018
+money: '24930.0'
+logoutlocation:
+  world: spawn
+  x: 22.674902366654337
+  y: 113.0
+  z: -249.29861628589592
+  yaw: 136.49901
+  pitch: 64.20006
+lastAccountName: devinkolb

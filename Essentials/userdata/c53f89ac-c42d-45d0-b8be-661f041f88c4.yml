@@ -1,0 +1,33 @@
+uuid: c53f89ac-c42d-45d0-b8be-661f041f88c4
+timestamps:
+  login: 1423951492949
+  lastteleport: 1423289455021
+  logout: 1423951573786
+  kits:
+    novice: 1423289466426
+    pvp: 1419025480047
+    color: 1423288657762
+    alpha: 1417474241282
+    adept: 1420170180761
+    stoner: 1417474243381
+  jail: 0
+ipAddress: 216.49.8.67
+lastlocation:
+  world: mines
+  x: 317.0176378403716
+  y: 64.0
+  z: -1.3000000119209292
+  yaw: 65.209564
+  pitch: 45.699562
+money: '26238.82'
+logoutlocation:
+  world: plotworld
+  x: 9.266199491256206
+  y: 70.0
+  z: 23.340652700235616
+  yaw: -102.52542
+  pitch: 37.328747
+nickname: §1x§6X§aDuke§6X§1x
+afk: false
+jailed: false
+lastAccountName: DukeDoesGames

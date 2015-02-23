@@ -1,0 +1,24 @@
+uuid: 885503b0-cce9-4d9e-a51c-dbaf7f21a065
+timestamps:
+  login: 1418589066448
+  lastteleport: 1418589218604
+  kits:
+    novice: 1418589273810
+  logout: 1418589385729
+ipAddress: 75.69.17.166
+lastlocation:
+  world: plotworld
+  x: -6.730828787917273
+  y: 67.0
+  z: 8.515502504538745
+  yaw: 89.399956
+  pitch: 0.9000094
+logoutlocation:
+  world: spawn
+  x: -0.4859846054953257
+  y: 26.0
+  z: -11.30532728147227
+  yaw: 90.449394
+  pitch: 33.000004
+money: '30.0'
+lastAccountName: crzydave42569

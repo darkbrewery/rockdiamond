@@ -1,0 +1,22 @@
+uuid: ec920620-99fd-4c0d-a513-a1854d38a94f
+timestamps:
+  login: 1419465056224
+  logout: 1419465241338
+  lastteleport: 1419465184171
+ipAddress: 101.178.32.22
+logoutlocation:
+  world: mines
+  x: 181.78905603958145
+  y: 58.0
+  z: -9.300000011920927
+  yaw: 118.35458
+  pitch: 12.899992
+money: '13980.0'
+lastlocation:
+  world: spawn
+  x: 11.659820352054792
+  y: 123.0
+  z: -251.28066186845814
+  yaw: -182.29987
+  pitch: -19.499996
+lastAccountName: shaunsheep1998

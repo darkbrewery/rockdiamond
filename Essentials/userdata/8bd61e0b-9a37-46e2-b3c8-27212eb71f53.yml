@@ -1,0 +1,24 @@
+uuid: 8bd61e0b-9a37-46e2-b3c8-27212eb71f53
+timestamps:
+  login: 1417925854863
+  lastteleport: 1417923432919
+  kits:
+    color: 1417923105115
+  logout: 1417925858163
+ipAddress: 50.88.54.223
+lastlocation:
+  world: spawn
+  x: -1.699999988079071
+  y: 26.0
+  z: -4.351995202701807
+  yaw: 335.39874
+  pitch: 10.350002
+money: '65.0'
+logoutlocation:
+  world: spawn
+  x: 0.5070060557356216
+  y: 32.0
+  z: -2.9320051682674357
+  yaw: 176.69865
+  pitch: 36.450024
+lastAccountName: william23s

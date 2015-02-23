@@ -1,0 +1,24 @@
+uuid: f131c2b3-ed85-4fba-8d4a-d7eb84590fbe
+timestamps:
+  login: 1418737608326
+  lastteleport: 1418737783416
+  kits:
+    pvp: 1418737732204
+  logout: 1418737830897
+ipAddress: 68.196.121.94
+lastlocation:
+  world: spawn
+  x: 0.8227557496089728
+  y: 29.0
+  z: 53.14605248560136
+  yaw: -2.4004517
+  pitch: 2.8500042
+logoutlocation:
+  world: spawn
+  x: 0.23917456785718602
+  y: 33.0
+  z: -28.816305897996248
+  yaw: 193.95299
+  pitch: -47.399986
+money: '30.0'
+lastAccountName: haydenmunzer

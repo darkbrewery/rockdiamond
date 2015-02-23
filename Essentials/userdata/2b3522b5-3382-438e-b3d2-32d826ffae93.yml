@@ -1,0 +1,26 @@
+uuid: 2b3522b5-3382-438e-b3d2-32d826ffae93
+timestamps:
+  login: 1417759584261
+  lastteleport: 1417498166556
+  kits:
+    color: 1417385254416
+    alpha: 1417253991803
+    stoner: 1417385271369
+  logout: 1417759707021
+ipAddress: 121.219.253.228
+lastlocation:
+  world: mines
+  x: 244.69238539785147
+  y: 48.0
+  z: -13.380003172587067
+  yaw: 50.75525
+  pitch: -56.91249
+logoutlocation:
+  world: plotworld
+  x: -1.9330816426021662
+  y: 65.5
+  z: 33.97386227340879
+  yaw: -94.45491
+  pitch: -0.3360306
+money: '30.0'
+lastAccountName: technozbros123

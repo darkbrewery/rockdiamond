@@ -1,0 +1,24 @@
+lastAccountName: acethesquid
+timestamps:
+  login: 1422212686168
+  lastteleport: 1422212746136
+  kits:
+    pvp: 1422132665398
+    novice: 1422132652366
+  logout: 1422212753432
+ipAddress: 96.18.77.9
+lastlocation:
+  world: spawn
+  x: 12.798204657331617
+  y: 106.0
+  z: -252.28756055254973
+  yaw: 180.89893
+  pitch: 1.2000784
+logoutlocation:
+  world: spawn
+  x: 0.41478615580126643
+  y: 55.0
+  z: 7.3471671602086435
+  yaw: 211.9516
+  pitch: 5.849999
+money: '44.0'

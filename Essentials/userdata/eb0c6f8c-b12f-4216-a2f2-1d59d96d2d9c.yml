@@ -1,0 +1,21 @@
+lastAccountName: EXPLOSION02
+timestamps:
+  login: 1422844710823
+  lastteleport: 1422844857182
+  logout: 1422844860429
+ipAddress: 184.18.79.87
+lastlocation:
+  world: spawn
+  x: 0.7190418179379776
+  y: 29.0
+  z: 52.63824665779248
+  yaw: 3.7494426
+  pitch: 0.89999336
+logoutlocation:
+  world: spawn
+  x: 26.164270537905395
+  y: 34.5
+  z: -6.947943280451
+  yaw: 282.45288
+  pitch: -2.8500297
+money: '30.0'

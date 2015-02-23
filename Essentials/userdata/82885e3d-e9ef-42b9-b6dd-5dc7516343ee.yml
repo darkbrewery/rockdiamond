@@ -1,0 +1,27 @@
+lastAccountName: trent694
+timestamps:
+  login: 1424508555057
+  lastteleport: 1424508713142
+  kits:
+    expert: 1423016891049
+    pvp: 1423009836764
+    novice: 1423205411472
+    color: 1422864111982
+    adept: 1423009825457
+  logout: 1424508765878
+ipAddress: 1.120.162.50
+lastlocation:
+  world: world_the_end
+  x: -140.5760730029869
+  y: 62.0
+  z: 4.434207672387523
+  yaw: -270.65128
+  pitch: 23.357197
+money: '17659565.909617666'
+logoutlocation:
+  world: spawn
+  x: 7.019470549793185
+  y: 82.0
+  z: -1238.9529974760494
+  yaw: 279.47205
+  pitch: 5.8917522

@@ -1,0 +1,24 @@
+uuid: 5a65a1e1-c801-41e2-b334-81c3b8d44aa1
+timestamps:
+  login: 1417212800646
+  kits:
+    alpha: 1417212886180
+  lastteleport: 1417212902163
+  logout: 1417212951022
+ipAddress: 187.158.67.199
+lastlocation:
+  world: spawn
+  x: 14.169944480459048
+  y: 36.0
+  z: -7.418144410323684
+  yaw: 83.552826
+  pitch: -13.950025
+logoutlocation:
+  world: spawn
+  x: 1.535936298744889
+  y: 37.0
+  z: -12.579049735763759
+  yaw: 22.349537
+  pitch: 2.699994
+money: '30.0'
+lastAccountName: thegamer138

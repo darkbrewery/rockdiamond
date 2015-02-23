@@ -1,0 +1,23 @@
+lastAccountName: amymines
+timestamps:
+  login: 1422814171899
+  lastteleport: 1422814791170
+  kits:
+    novice: 1422814216617
+  logout: 1422814893547
+ipAddress: 77.100.197.99
+lastlocation:
+  world: spawn
+  x: -20.622202463181587
+  y: 35.0
+  z: -6.795066914882777
+  yaw: -198.60042
+  pitch: -12.900008
+logoutlocation:
+  world: spawn
+  x: -1.1073540588036392
+  y: 55.0
+  z: -7.926531112210622
+  yaw: -238.34863
+  pitch: 14.549996
+money: '125.0'

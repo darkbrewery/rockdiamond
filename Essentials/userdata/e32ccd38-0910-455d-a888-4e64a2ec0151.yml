@@ -1,0 +1,22 @@
+uuid: e32ccd38-0910-455d-a888-4e64a2ec0151
+timestamps:
+  login: 1416391624401
+  lastteleport: 1416391875624
+  logout: 1416391900187
+ipAddress: 188.2.4.160
+lastlocation:
+  world: spawn
+  x: 24.084204279438236
+  y: 36.0
+  z: -11.442602768511605
+  yaw: 172.77191
+  pitch: 13.474156
+money: '10.0'
+logoutlocation:
+  world: spawn
+  x: -6.389947636195545
+  y: 33.0
+  z: -30.704952470685896
+  yaw: 4.2184143
+  pitch: -34.48814
+lastAccountName: mikecgames

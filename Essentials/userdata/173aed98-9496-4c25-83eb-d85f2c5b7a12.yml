@@ -1,0 +1,22 @@
+timestamps:
+  lastteleport: 1418181977163
+  logout: 1418182151161
+  login: 1418182101499
+lastlocation:
+  world: spawn
+  x: 0.47567928284585054
+  y: 34.0
+  z: 8.694018163349355
+  yaw: -124.200806
+  pitch: 10.349997
+logoutlocation:
+  world: spawn
+  x: 0.9733777610704892
+  y: 36.0
+  z: -19.10942453026817
+  yaw: -17.250435
+  pitch: 14.549987
+uuid: 173aed98-9496-4c25-83eb-d85f2c5b7a12
+ipAddress: 98.201.106.197
+money: '30.0'
+lastAccountName: yoshi2255

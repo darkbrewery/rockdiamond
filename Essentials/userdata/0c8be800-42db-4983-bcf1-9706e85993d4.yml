@@ -1,0 +1,29 @@
+uuid: 0c8be800-42db-4983-bcf1-9706e85993d4
+timestamps:
+  login: 1420146332166
+  jail: 0
+  lastteleport: 1420149291345
+  kits:
+    novice: 1420148479907
+    pvp: 1420146838440
+    color: 1420146685361
+    adept: 1420146890196
+  logout: 1420149359677
+ipAddress: 71.201.97.189
+lastlocation:
+  world: spawn
+  x: 22.907813214708312
+  y: 75.0
+  z: -209.46218499059927
+  yaw: 222.72998
+  pitch: 5.8500133
+jailed: false
+money: '111567.67999999996'
+logoutlocation:
+  world: mines
+  x: 328.1476078204621
+  y: 63.0
+  z: -10.171669764181924
+  yaw: -95.24745
+  pitch: -35.250008
+lastAccountName: panda3xpress

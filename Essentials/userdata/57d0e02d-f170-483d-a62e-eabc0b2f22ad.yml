@@ -1,0 +1,25 @@
+uuid: 57d0e02d-f170-483d-a62e-eabc0b2f22ad
+timestamps:
+  login: 1420000045594
+  lastteleport: 1420000052085
+  kits:
+    pvp: 1419999786279
+    novice: 1419999784194
+  logout: 1420000642460
+ipAddress: 50.153.129.41
+lastlocation:
+  world: mines
+  x: 210.6560785845269
+  y: 53.0
+  z: -8.733780749703113
+  yaw: 56.702026
+  pitch: 46.499996
+money: '54211.149999999994'
+logoutlocation:
+  world: mines
+  x: 22.200965599469775
+  y: 62.0
+  z: -9.247331377175374
+  yaw: -249.44751
+  pitch: 14.550012
+lastAccountName: nickyispretty

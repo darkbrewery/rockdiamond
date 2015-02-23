@@ -1,0 +1,24 @@
+uuid: 2dd723ea-d1ec-4b90-9ccb-b7db3ff39c7b
+timestamps:
+  login: 1419712385171
+  lastteleport: 1419712795000
+  kits:
+    novice: 1419712484889
+  logout: 1419712942649
+ipAddress: 75.131.146.125
+lastlocation:
+  world: spawn
+  x: 3.795837488600699
+  y: 106.0
+  z: -245.51632337904206
+  yaw: 87.89884
+  pitch: 6.4500914
+logoutlocation:
+  world: spawn
+  x: -0.41788571221025633
+  y: 26.0
+  z: -12.699999988079073
+  yaw: 358.64963
+  pitch: 20.249989
+money: '88.0'
+lastAccountName: csfootball55

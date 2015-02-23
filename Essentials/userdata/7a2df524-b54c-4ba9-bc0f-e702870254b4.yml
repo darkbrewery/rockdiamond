@@ -1,0 +1,21 @@
+lastAccountName: Taterman814
+timestamps:
+  login: 1420917070918
+  lastteleport: 1420848199234
+  logout: 1420917078719
+ipAddress: 137.118.235.85
+lastlocation:
+  world: world_the_end
+  x: -34.14686209840431
+  y: 33.0
+  z: 123.55720481536328
+  yaw: 129.2597
+  pitch: 1.9189684
+logoutlocation:
+  world: spawn
+  x: 9.101930963908586
+  y: 82.0
+  z: -1235.9835694104893
+  yaw: 155.16127
+  pitch: 13.005073
+money: '64.42'

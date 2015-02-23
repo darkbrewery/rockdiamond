@@ -1,0 +1,24 @@
+uuid: 3bb91ea3-1b3a-408b-a5e9-1c1367ff5fb7
+timestamps:
+  login: 1417132074331
+  lastteleport: 1417127237576
+  kits:
+    alpha: 1417127246086
+  logout: 1417132088983
+ipAddress: 74.74.192.217
+lastlocation:
+  world: spawn
+  x: -0.614081166843725
+  y: 34.0
+  z: 8.21998576630733
+  yaw: -237.5998
+  pitch: -0.59998214
+logoutlocation:
+  world: spawn
+  x: -7.077655533507251
+  y: 36.5
+  z: -6.809799968254899
+  yaw: 273.90018
+  pitch: -1.3499455
+money: '69.5'
+lastAccountName: joey14626

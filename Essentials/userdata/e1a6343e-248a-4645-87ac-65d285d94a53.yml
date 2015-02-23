@@ -1,0 +1,22 @@
+uuid: e1a6343e-248a-4645-87ac-65d285d94a53
+timestamps:
+  login: 1420157587061
+  lastteleport: 1420088937804
+  logout: 1420157789129
+ipAddress: 74.112.104.209
+lastlocation:
+  world: spawn
+  x: 0.5041694990200739
+  y: 107.0
+  z: -246.94300308332257
+  yaw: 99.7532
+  pitch: 21.763296
+logoutlocation:
+  world: spawn
+  x: -1.6973413502564654
+  y: 27.0
+  z: -8.639087091061159
+  yaw: -357.8929
+  pitch: -20.951351
+money: '62.0'
+lastAccountName: caitanddot

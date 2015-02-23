@@ -1,0 +1,25 @@
+uuid: 40ff4b10-495c-4f12-b69a-9d61ca4a92a2
+timestamps:
+  login: 1418766410791
+  lastteleport: 1418687540221
+  kits:
+    novice: 1418682365713
+    pvp: 1418682343665
+  logout: 1418767246719
+ipAddress: 173.119.207.196
+lastlocation:
+  world: mines
+  x: 604.144740289358
+  y: 63.0
+  z: -11.775556983431855
+  yaw: -44.41455
+  pitch: -15.600017
+logoutlocation:
+  world: spawn
+  x: 2.532932377405044
+  y: 34.0
+  z: 18.358641887048133
+  yaw: -27.000916
+  pitch: 11.250016
+money: '4118.18'
+lastAccountName: cheesypiston123

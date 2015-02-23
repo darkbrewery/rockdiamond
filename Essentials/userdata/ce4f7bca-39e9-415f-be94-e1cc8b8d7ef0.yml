@@ -1,0 +1,22 @@
+uuid: ce4f7bca-39e9-415f-be94-e1cc8b8d7ef0
+timestamps:
+  login: 1420331226503
+  lastteleport: 1418866525922
+  logout: 1420331308263
+ipAddress: 69.120.1.77
+lastlocation:
+  world: plotworld
+  x: 60.30000001192093
+  y: 64.0
+  z: -28.30000001192093
+  yaw: -52.49938
+  pitch: 68.39995
+logoutlocation:
+  world: spawn
+  x: 1.6144377639634158
+  y: 29.0
+  z: 14.647949397654246
+  yaw: -210.59991
+  pitch: -21.450006
+money: '10388.289999999995'
+lastAccountName: aanthony_47

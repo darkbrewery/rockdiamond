@@ -1,0 +1,25 @@
+uuid: bbbd7c74-92cf-488b-a9ad-a8aa8982b928
+timestamps:
+  login: 1419155440638
+  lastteleport: 1419155735266
+  kits:
+    pvp: 1419155562636
+    novice: 1419155554734
+  logout: 1419155790231
+ipAddress: 101.176.153.16
+lastlocation:
+  world: spawn
+  x: 2.039754614256988
+  y: 32.0
+  z: -1.300000011920927
+  yaw: -349.76343
+  pitch: 16.392342
+money: '0.09375'
+logoutlocation:
+  world: spawn
+  x: -0.9557100303459589
+  y: 35.5
+  z: -0.701839259935402
+  yaw: 75.363266
+  pitch: 56.949417
+lastAccountName: iamthebest0706

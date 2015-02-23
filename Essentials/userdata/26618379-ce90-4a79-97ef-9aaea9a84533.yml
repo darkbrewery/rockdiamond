@@ -1,0 +1,21 @@
+lastAccountName: epicmonkey21
+timestamps:
+  login: 1423795775999
+  lastteleport: 1423795974011
+  logout: 1423796081791
+ipAddress: 172.6.137.92
+lastlocation:
+  world: spawn
+  x: 1.2221852611782937
+  y: 29.0
+  z: -4.191809056925713
+  yaw: -52.650585
+  pitch: -46.050034
+logoutlocation:
+  world: spawn
+  x: 19.087489230268726
+  y: 82.0
+  z: -1237.7267138466818
+  yaw: 260.8269
+  pitch: 10.199973
+money: '30.0'

@@ -1,0 +1,24 @@
+timestamps:
+  lastteleport: 1421705745090
+  kits:
+    novice: 1419899118032
+  logout: 1421705794575
+  login: 1421705254392
+lastlocation:
+  world: mines
+  x: 322.46966968307277
+  y: 63.0
+  z: -10.102620655179518
+  yaw: -90.1086
+  pitch: 14.376682
+money: '664368.0582246376'
+logoutlocation:
+  world: spawn
+  x: 0.947386527760484
+  y: 124.0
+  z: -244.7338069795594
+  yaw: -200.02742
+  pitch: -3.9691722
+uuid: 84f50543-87af-4394-a7e9-9e2175a6580f
+ipAddress: 71.28.106.113
+lastAccountName: Catamount14

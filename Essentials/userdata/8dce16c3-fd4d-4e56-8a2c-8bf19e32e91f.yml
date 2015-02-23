@@ -1,0 +1,22 @@
+uuid: 8dce16c3-fd4d-4e56-8a2c-8bf19e32e91f
+timestamps:
+  login: 1424209591439
+  logout: 1424210430678
+  lastteleport: 1424210306052
+ipAddress: 65.25.200.224
+logoutlocation:
+  world: spawn
+  x: -0.30000001192093073
+  y: 55.0
+  z: -7.881867366557554
+  yaw: 275.5512
+  pitch: 6.4500175
+lastlocation:
+  world: spawn
+  x: 0.5
+  y: 55.0
+  z: 9.5
+  yaw: -179.24841
+  pitch: -4.050001
+money: '97.38000000000002'
+lastAccountName: littleeddy6

@@ -1,0 +1,26 @@
+uuid: 91048a29-9ac6-45a8-b38a-f257e4709a46
+timestamps:
+  login: 1419068476689
+  lastteleport: 1419068639141
+  kits:
+    pvp: 1419068724944
+    novice: 1419067925868
+    color: 1419068295277
+  logout: 1419068744494
+ipAddress: 86.136.137.81
+lastlocation:
+  world: spawn
+  x: 0.9189941404579705
+  y: 107.0
+  z: -242.80063801863577
+  yaw: 299.5489
+  pitch: 34.20007
+logoutlocation:
+  world: mines
+  x: 46.855224684213944
+  y: 63.0
+  z: -17.37678538630187
+  yaw: 93.45215
+  pitch: 4.800005
+money: '306.0'
+lastAccountName: jolly_peanut

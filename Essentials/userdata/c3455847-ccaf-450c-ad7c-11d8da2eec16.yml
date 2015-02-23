@@ -1,0 +1,28 @@
+uuid: c3455847-ccaf-450c-ad7c-11d8da2eec16
+timestamps:
+  login: 1424564858343
+  lastteleport: 1424564884414
+  logout: 1424565022655
+  kits:
+    novice: 1424130666324
+    pvp: 1424129814854
+    alpha: 1417464151342
+    adept: 1424130658663
+ipAddress: 70.26.46.59
+lastlocation:
+  world: mines
+  x: 348.4265408050272
+  y: 63.0
+  z: -7.853873534853533
+  yaw: -138.59738
+  pitch: 19.649994
+logoutlocation:
+  world: spawn
+  x: 0.5135627005780856
+  y: 40.5
+  z: -1985.0859913405313
+  yaw: 181.00824
+  pitch: -21.900085
+money: '396189.2984837964'
+lastAccountName: Great_Noah
+afk: false

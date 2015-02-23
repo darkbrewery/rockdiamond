@@ -1,0 +1,28 @@
+timestamps:
+  lastteleport: 1424129596008
+  kits:
+    novice: 1419831356630
+    pvp: 1419920747872
+    color: 1419831427362
+    adept: 1423052000595
+  login: 1424130045122
+  logout: 1424130061550
+lastlocation:
+  world: mines
+  x: -12.539847719798777
+  y: 63.0
+  z: -4.106031280841081
+  yaw: 296.40262
+  pitch: -4.0499873
+money: '73092.80351449277'
+uuid: c94086f2-8e0c-468d-a296-bbfc4a67c17d
+ipAddress: 75.107.58.171
+logoutlocation:
+  world: mines
+  x: 269.89985181587264
+  y: 63.0
+  z: -15.940181480427913
+  yaw: -88.19732
+  pitch: 21.149994
+afk: false
+lastAccountName: Budderalwayswin

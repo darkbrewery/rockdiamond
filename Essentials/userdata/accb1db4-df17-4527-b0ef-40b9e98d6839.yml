@@ -1,0 +1,29 @@
+uuid: accb1db4-df17-4527-b0ef-40b9e98d6839
+timestamps:
+  login: 1423797813564
+  kits:
+    pvp: 1423431528170
+    color: 1416862659221
+    alpha: 1416862661258
+    adept: 1421105282567
+    stoner: 1416862655458
+  lastteleport: 1423798317100
+  logout: 1423798433381
+ipAddress: 97.93.139.225
+lastlocation:
+  world: mines
+  x: 298.3724442426302
+  y: 48.0
+  z: -8.769531631483394
+  yaw: -159.29747
+  pitch: -55.499966
+money: '154003.89826086958'
+logoutlocation:
+  world: mines
+  x: 296.3052063070218
+  y: 66.0
+  z: -7.324764930964349
+  yaw: -201.74722
+  pitch: 8.250005
+nickname: §4KFC
+lastAccountName: KillerChickenz

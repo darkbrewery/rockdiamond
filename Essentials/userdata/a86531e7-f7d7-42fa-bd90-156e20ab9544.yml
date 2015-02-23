@@ -1,0 +1,27 @@
+uuid: a86531e7-f7d7-42fa-bd90-156e20ab9544
+timestamps:
+  login: 1419002332117
+  lastteleport: 1418875893224
+  kits:
+    pvp: 1418870693392
+    novice: 1418869776762
+    adept: 1418872866050
+  logout: 1419002481654
+ipAddress: 71.222.65.223
+lastlocation:
+  world: spawn
+  x: -0.7713012143624839
+  y: 78.0
+  z: -251.4795359528022
+  yaw: -54.164154
+  pitch: 10.769666
+money: '56579.14326923077'
+godmode: false
+logoutlocation:
+  world: plotworld
+  x: 34.35531339797775
+  y: 65.5
+  z: -77.42347824945944
+  yaw: 341.62534
+  pitch: 29.667532
+lastAccountName: realmonsterlilz

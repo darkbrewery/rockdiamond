@@ -1,0 +1,21 @@
+lastAccountName: RobbieSpeedyNL
+timestamps:
+  login: 1423846068128
+  lastteleport: 1423846159486
+  logout: 1423846201445
+ipAddress: 92.108.199.191
+lastlocation:
+  world: spawn
+  x: 0.5
+  y: 29.0
+  z: 20.5
+  yaw: -0.3005128
+  pitch: -29.549994
+logoutlocation:
+  world: spawn
+  x: -18.7139283164566
+  y: 35.0
+  z: -6.429093569736736
+  yaw: -95.10059
+  pitch: -7.950014
+money: '25.0'

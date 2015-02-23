@@ -1,0 +1,22 @@
+uuid: 65e2a6b5-bf35-4ada-83fb-c5e6a19145df
+timestamps:
+  login: 1419796903197
+  lastteleport: 1419797158380
+  logout: 1419797169201
+ipAddress: 78.97.215.221
+lastlocation:
+  world: spawn
+  x: -0.03485947637083983
+  y: 33.0
+  z: -38.41620926627043
+  yaw: -156.8033
+  pitch: 7.0751944
+logoutlocation:
+  world: spawn
+  x: 1.2304734282449212
+  y: 107.0
+  z: -243.82417881529335
+  yaw: 111.48843
+  pitch: 22.272053
+money: '45.79999999999998'
+lastAccountName: srqkids03

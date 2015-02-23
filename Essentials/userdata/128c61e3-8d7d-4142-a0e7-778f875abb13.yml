@@ -1,0 +1,22 @@
+uuid: 128c61e3-8d7d-4142-a0e7-778f875abb13
+timestamps:
+  login: 1419291319200
+  lastteleport: 1419291379848
+  logout: 1419291399412
+ipAddress: 123.3.44.206
+lastlocation:
+  world: spawn
+  x: 0.6203477500821464
+  y: 29.0
+  z: 52.87098065219055
+  yaw: -0.16163446
+  pitch: 2.6697807
+logoutlocation:
+  world: spawn
+  x: -21.669932090663483
+  y: 35.0
+  z: -5.975929197633924
+  yaw: 17.953033
+  pitch: -13.171488
+money: '30.0'
+lastAccountName: swagboy_07

@@ -1,0 +1,23 @@
+lastAccountName: Ruggercraft
+timestamps:
+  login: 1422628506641
+  lastteleport: 1422628755880
+  kits:
+    pvp: 1422628691406
+  logout: 1422629584215
+ipAddress: 151.74.183.120
+lastlocation:
+  world: spawn
+  x: 0.14868943799245643
+  y: 29.0
+  z: 53.50270170016919
+  yaw: -12.600403
+  pitch: 1.3499985
+logoutlocation:
+  world: plotworld
+  x: -5.586884527912305
+  y: 65.0
+  z: -7.2672887573194345
+  yaw: -193.64993
+  pitch: 17.999989
+money: '30.0'

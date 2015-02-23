@@ -1,0 +1,24 @@
+uuid: 50331438-63ac-434b-8b9d-7280461c3681
+timestamps:
+  login: 1416081006887
+  lastteleport: 1416081036003
+  logout: 1416081034950
+  kits:
+    alpha: 1416004189349
+ipAddress: 68.4.237.239
+lastlocation:
+  world: mines
+  x: -9.542496725935226
+  y: 48.0
+  z: -14.699999988079073
+  yaw: -11.664768
+  pitch: 66.898285
+money: '233.57999999999998'
+logoutlocation:
+  world: mines
+  x: -3.5
+  y: 63.000000004768374
+  z: -17.5
+  yaw: -315.14746
+  pitch: -2.3999918
+lastAccountName: piemaster64

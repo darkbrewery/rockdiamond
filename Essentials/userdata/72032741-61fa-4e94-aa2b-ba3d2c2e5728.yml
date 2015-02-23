@@ -1,0 +1,26 @@
+uuid: 72032741-61fa-4e94-aa2b-ba3d2c2e5728
+timestamps:
+  login: 1418698247427
+  lastteleport: 1418617853621
+  kits:
+    pvp: 1418616370640
+    novice: 1418616355329
+    adept: 1418617041291
+  logout: 1418698369310
+ipAddress: 98.181.40.198
+lastlocation:
+  world: plotworld
+  x: -50.58703478438612
+  y: 66.0
+  z: -41.822304716508185
+  yaw: -89.24988
+  pitch: 36.14992
+logoutlocation:
+  world: mines
+  x: 576.4723043598872
+  y: 63.0
+  z: -11.13996485101963
+  yaw: -88.79791
+  pitch: 14.700034
+money: '47204.75'
+lastAccountName: gamergirl404

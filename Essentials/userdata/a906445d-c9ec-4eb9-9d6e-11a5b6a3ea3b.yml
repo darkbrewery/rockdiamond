@@ -1,0 +1,24 @@
+lastAccountName: Machoman155
+timestamps:
+  login: 1420729065893
+  lastteleport: 1420730651004
+  kits:
+    pvp: 1420729267840
+    novice: 1420729262990
+  logout: 1420730715320
+ipAddress: 142.162.65.44
+lastlocation:
+  world: plotworld
+  x: -9.067491926419567
+  y: 65.0
+  z: -51.68356765937893
+  yaw: 61.500267
+  pitch: 28.499989
+logoutlocation:
+  world: mines
+  x: 64.51249998807907
+  y: 63.0
+  z: -10.699999988079071
+  yaw: -73.19729
+  pitch: 28.050066
+money: '353.32999999999925'

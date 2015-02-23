@@ -1,0 +1,28 @@
+uuid: c3010eb2-9f81-4ac5-94d6-c035a099492c
+timestamps:
+  login: 1419921059247
+  lastteleport: 1419759491480
+  kits:
+    pvp: 1419680798935
+    novice: 1419677176351
+    color: 1419678527772
+    adept: 1419749888352
+  logout: 1419921096352
+ipAddress: 70.209.1.69
+lastlocation:
+  world: mines
+  x: 378.9467714450501
+  y: 49.0
+  z: -12.17818036542715
+  yaw: 230.53076
+  pitch: 14.873206
+money: '316537.4185869565'
+logoutlocation:
+  world: spawn
+  x: 19.512883865685968
+  y: 123.0
+  z: -249.56100027524263
+  yaw: 347.7038
+  pitch: 0.9538034
+afk: false
+lastAccountName: daviddisaster

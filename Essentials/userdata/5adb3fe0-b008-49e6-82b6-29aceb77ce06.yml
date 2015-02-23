@@ -1,0 +1,19 @@
+timestamps:
+  lastteleport: 1419517156372
+  logout: 1419517181609
+lastlocation:
+  world: spawn
+  x: 0.45719581537083975
+  y: 34.0
+  z: 8.845676094709354
+  yaw: -177.14954
+  pitch: 16.649973
+logoutlocation:
+  world: spawn
+  x: 0.32519357459687503
+  y: 29.0
+  z: 23.88676333303896
+  yaw: 1.7994832
+  pitch: -2.1000204
+money: '30.0'
+lastAccountName: math551j

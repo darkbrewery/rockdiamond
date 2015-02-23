@@ -1,0 +1,25 @@
+lastAccountName: Kyrkjefjellet
+timestamps:
+  login: 1421777253474
+  lastteleport: 1421778204849
+  kits:
+    novice: 1421693437761
+    color: 1421777313588
+    adept: 1421694852696
+  logout: 1421778228725
+ipAddress: 85.167.39.48
+lastlocation:
+  world: spawn
+  x: 19.7162150822724
+  y: 35.0
+  z: -10.699999988079071
+  yaw: 175.65315
+  pitch: -3.0000224
+money: '702953.9690940129'
+logoutlocation:
+  world: mines
+  x: 41.757371200347556
+  y: 63.10408037809304
+  z: -11.327566681644022
+  yaw: 65.10263
+  pitch: 29.85

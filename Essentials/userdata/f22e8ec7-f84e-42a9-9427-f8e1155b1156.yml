@@ -1,0 +1,29 @@
+uuid: f22e8ec7-f84e-42a9-9427-f8e1155b1156
+timestamps:
+  login: 1423848138187
+  lastteleport: 1423589362997
+  kits:
+    pvp: 1421257713611
+    novice: 1421257621595
+    color: 1417720566195
+    alpha: 1417540005374
+    adept: 1421257611443
+  logout: 1423848307249
+ipAddress: 80.44.107.198
+lastlocation:
+  world: spawn
+  x: 1.9191742096120987
+  y: 41.4807108763317
+  z: -2019.6472027692244
+  yaw: 25.60727
+  pitch: 14.249952
+money: '361741.959343066'
+logoutlocation:
+  world: spawn
+  x: 0.8318012329466113
+  y: 40.5
+  z: -1986.7461092943288
+  yaw: -4.9943724
+  pitch: 13.0499935
+afk: false
+lastAccountName: 007123asd

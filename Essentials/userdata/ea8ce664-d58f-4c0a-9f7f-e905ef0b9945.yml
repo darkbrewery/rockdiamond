@@ -1,0 +1,21 @@
+lastAccountName: Reuben2013
+timestamps:
+  login: 1422704705447
+  lastteleport: 1422705086600
+  logout: 1422705103754
+ipAddress: 2.216.106.243
+lastlocation:
+  world: spawn
+  x: 12.699999988079071
+  y: 102.0
+  z: -244.2851134583658
+  yaw: -99.90126
+  pitch: 5.8500237
+logoutlocation:
+  world: spawn
+  x: 11.964344828116758
+  y: 94.0
+  z: -236.4185045248485
+  yaw: -6.9007
+  pitch: 0.4500124
+money: '30.0'

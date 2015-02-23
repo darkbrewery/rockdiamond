@@ -1,0 +1,24 @@
+lastAccountName: dragon90uk
+timestamps:
+  login: 1421855890637
+  lastteleport: 1420575135678
+  logout: 1421856011879
+  kits:
+    pvp: 1420569319572
+    adept: 1420573765984
+ipAddress: 86.21.33.181
+lastlocation:
+  world: mines
+  x: 269.76979203708174
+  y: 63.0
+  z: -17.264814668543117
+  yaw: -217.34332
+  pitch: 3.1501257
+logoutlocation:
+  world: mines
+  x: 297.4266495373374
+  y: 66.0
+  z: -11.538010794889656
+  yaw: -49.196968
+  pitch: 30.899933
+money: '93016.9302173913'

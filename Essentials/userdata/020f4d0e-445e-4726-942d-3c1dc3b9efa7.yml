@@ -1,0 +1,25 @@
+uuid: 020f4d0e-445e-4726-942d-3c1dc3b9efa7
+timestamps:
+  login: 1417921980217
+  lastteleport: 1417922188482
+  kits:
+    pvp: 1417922218297
+    novice: 1417922208939
+  logout: 1417922226695
+ipAddress: 108.228.7.4
+lastlocation:
+  world: spawn
+  x: -18.5
+  y: 35.0
+  z: -6.5
+  yaw: -268.6505
+  pitch: -2.4000077
+logoutlocation:
+  world: spawn
+  x: 5.802202030401265
+  y: 55.0
+  z: -2.5841861109030697
+  yaw: -225.29832
+  pitch: 10.349999
+money: '29.0'
+lastAccountName: timeguy54

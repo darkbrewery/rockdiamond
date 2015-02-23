@@ -1,0 +1,23 @@
+lastAccountName: A_ROD_01
+timestamps:
+  login: 1423886655640
+  lastteleport: 1423739456123
+  kits:
+    novice: 1423738936631
+  logout: 1423886658144
+ipAddress: 98.160.139.152
+lastlocation:
+  world: spawn
+  x: 12.455776164702517
+  y: 102.0
+  z: -244.11542717943664
+  yaw: -103.65133
+  pitch: 1.3500602
+logoutlocation:
+  world: spawn
+  x: 15.030906275244629
+  y: 94.0
+  z: -249.2285765757108
+  yaw: 93.599365
+  pitch: -10.199985
+money: '40.75'

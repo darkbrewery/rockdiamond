@@ -1,0 +1,25 @@
+uuid: 83854c89-1c4a-4782-abf3-5b4bb847ab0f
+timestamps:
+  login: 1417225223085
+  logout: 1417225255050
+  lastteleport: 1417063864801
+  kits:
+    color: 1417053118067
+    alpha: 1417053621672
+ipAddress: 50.102.110.136
+logoutlocation:
+  world: spawn
+  x: -8.242149905982362
+  y: 36.0
+  z: -6.133969940251169
+  yaw: 73.54757
+  pitch: 30.080204
+lastlocation:
+  world: spawn
+  x: 0.08243774270855309
+  y: 34.0
+  z: 6.916029404579084
+  yaw: -180.61566
+  pitch: -29.926992
+money: '355.0'
+lastAccountName: kmayawesome

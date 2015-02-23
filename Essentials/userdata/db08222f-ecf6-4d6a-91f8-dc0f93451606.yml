@@ -1,0 +1,24 @@
+uuid: db08222f-ecf6-4d6a-91f8-dc0f93451606
+timestamps:
+  login: 1416937857291
+  lastteleport: 1416938163353
+  kits:
+    alpha: 1415900432964
+  logout: 1416938279552
+ipAddress: 2.30.166.128
+lastlocation:
+  world: spawn
+  x: -2.922603821936764
+  y: 55.0
+  z: 5.330540229816069
+  yaw: -345.24176
+  pitch: 13.723666
+money: '14.5'
+logoutlocation:
+  world: spawn
+  x: 0.5661973293785402
+  y: 102.0
+  z: -11.765950864616569
+  yaw: -350.75208
+  pitch: 24.625025
+lastAccountName: szymonplaysmc

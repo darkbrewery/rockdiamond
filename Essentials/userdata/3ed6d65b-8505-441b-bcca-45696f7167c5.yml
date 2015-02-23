@@ -1,0 +1,26 @@
+lastAccountName: Andyz118
+timestamps:
+  login: 1423261496855
+  lastteleport: 1423158294909
+  logout: 1423261688747
+  kits:
+    pvp: 1422979285166
+    color: 1422978677866
+    adept: 1422978671265
+ipAddress: 31.185.226.99
+money: '131300.6549275363'
+lastlocation:
+  world: spawn
+  x: 14.5
+  y: 81.5
+  z: -1237.5
+  yaw: 88.596504
+  pitch: -0.26015997
+logoutlocation:
+  world: mines
+  x: 297.0010121487463
+  y: 64.0
+  z: -9.641088852839676
+  yaw: 46.59424
+  pitch: 19.931313
+afk: false

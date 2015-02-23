@@ -1,0 +1,21 @@
+lastAccountName: maamayhem18
+timestamps:
+  login: 1421386146917
+  lastteleport: 1421386300962
+  logout: 1421386307262
+ipAddress: 172.1.160.100
+lastlocation:
+  world: spawn
+  x: 12.384675058972089
+  y: 102.0
+  z: -243.34925336374806
+  yaw: 229.7988
+  pitch: 8.10008
+logoutlocation:
+  world: spawn
+  x: 13.488978086267014
+  y: 94.0
+  z: -243.04473525068758
+  yaw: 182.39941
+  pitch: 21.15002
+money: '30.0'

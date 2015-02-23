@@ -1,0 +1,24 @@
+uuid: bceee2d7-c60d-4007-a577-b29f870b1a33
+timestamps:
+  login: 1420970864656
+  lastteleport: 1419677731228
+  kits:
+    novice: 1419677773192
+  logout: 1420970931533
+ipAddress: 94.0.110.164
+lastlocation:
+  world: spawn
+  x: 0.696216400171213
+  y: 33.0
+  z: -37.80223084394193
+  yaw: -180.15056
+  pitch: 1.6499914
+money: '2355.0'
+logoutlocation:
+  world: spawn
+  x: 1.3568572563257209
+  y: 34.0
+  z: 5.395628539984132
+  yaw: -173.49353
+  pitch: 5.874021
+lastAccountName: minecrafterben1

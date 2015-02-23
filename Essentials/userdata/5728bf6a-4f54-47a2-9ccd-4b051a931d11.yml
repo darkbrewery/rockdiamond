@@ -1,0 +1,24 @@
+uuid: 5728bf6a-4f54-47a2-9ccd-4b051a931d11
+timestamps:
+  login: 1420163606180
+  logout: 1420163689114
+  lastteleport: 1420163638140
+  kits:
+    novice: 1420163625887
+ipAddress: 138.130.109.1
+logoutlocation:
+  world: spawn
+  x: -4.6787871267108
+  y: 37.0
+  z: -7.414512836910153
+  yaw: -116.55056
+  pitch: 1.350002
+money: '30.0'
+lastlocation:
+  world: spawn
+  x: 20.217052963547918
+  y: 35.5
+  z: -0.8841236483965275
+  yaw: 26.852856
+  pitch: -0.15002811
+lastAccountName: fire_village

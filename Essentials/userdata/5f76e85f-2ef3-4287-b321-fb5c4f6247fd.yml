@@ -1,0 +1,22 @@
+timestamps:
+  lastteleport: 1417637360241
+  kits:
+    pvp: 1417635432020
+    novice: 1417635180105
+  logout: 1417637397556
+lastlocation:
+  world: spawn
+  x: 14.558623906515866
+  y: 107.0
+  z: -245.86652640257432
+  yaw: 299.85
+  pitch: 7.0499554
+logoutlocation:
+  world: spawn
+  x: -5.589206010973459
+  y: 55.0
+  z: 2.652075969250901
+  yaw: -148.19832
+  pitch: -88.05001
+money: '34.5'
+lastAccountName: theawesomekid_13

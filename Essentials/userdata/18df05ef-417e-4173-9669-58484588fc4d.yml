@@ -1,0 +1,22 @@
+uuid: 18df05ef-417e-4173-9669-58484588fc4d
+timestamps:
+  login: 1418419025209
+  lastteleport: 1417347518611
+  logout: 1418419060160
+ipAddress: 85.247.177.234
+lastlocation:
+  world: mines
+  x: -10.50525208127121
+  y: 63.0
+  z: -17.486688021406863
+  yaw: -297.44748
+  pitch: 19.950008
+money: '30.0'
+logoutlocation:
+  world: spawn
+  x: 0.4557369146112078
+  y: 30.0
+  z: -11.770557332296766
+  yaw: -69.91917
+  pitch: 14.399999
+lastAccountName: davidpt8

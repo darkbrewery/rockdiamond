@@ -1,0 +1,26 @@
+uuid: 2ac3195f-97d3-4e8b-9276-84a99e8bcc2b
+timestamps:
+  login: 1418293746765
+  lastteleport: 1418294040994
+  kits:
+    novice: 1418294104687
+    pvp: 1418294095159
+    color: 1418294087781
+  logout: 1418294132023
+ipAddress: 24.190.200.246
+lastlocation:
+  world: spawn
+  x: 0.2823758202338714
+  y: 55.0
+  z: 8.32769828888829
+  yaw: 7.051605
+  pitch: 48.750004
+logoutlocation:
+  world: spawn
+  x: 3.226105587640002
+  y: 100.0
+  z: -0.7973456978817883
+  yaw: -113.85043
+  pitch: -13.499995
+money: '89.0'
+lastAccountName: jordan2568

@@ -1,0 +1,23 @@
+lastAccountName: TheMallardDuck25
+timestamps:
+  login: 1421282435120
+  lastteleport: 1421282759167
+  kits:
+    novice: 1421282514389
+  logout: 1421283722471
+ipAddress: 98.247.233.127
+lastlocation:
+  world: plotworld
+  x: -6.521777426398075
+  y: 65.0
+  z: -62.42650386173257
+  yaw: -7.0500746
+  pitch: 38.699978
+logoutlocation:
+  world: plotworld
+  x: 7.300000011920929
+  y: 65.0
+  z: -71.5581176627627
+  yaw: 209.9989
+  pitch: 54.000004
+money: '1206.47'

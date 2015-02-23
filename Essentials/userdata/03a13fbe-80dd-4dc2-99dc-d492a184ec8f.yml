@@ -1,0 +1,24 @@
+lastAccountName: doginthehat__
+timestamps:
+  login: 1423361443071
+  lastteleport: 1423361500092
+  kits:
+    pvp: 1423361367890
+    novice: 1423361358271
+  logout: 1423361689263
+ipAddress: 75.118.248.242
+lastlocation:
+  world: spawn
+  x: 0.20388514501876617
+  y: 29.5
+  z: 53.93180836862759
+  yaw: 339.899
+  pitch: 35.999947
+logoutlocation:
+  world: spawn
+  x: 10.69999998807908
+  y: 32.0
+  z: 4.602040266159422
+  yaw: 287.10126
+  pitch: 22.800007
+money: '68.25999999999999'

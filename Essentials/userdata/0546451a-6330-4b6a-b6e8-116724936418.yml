@@ -1,0 +1,23 @@
+uuid: 0546451a-6330-4b6a-b6e8-116724936418
+timestamps:
+  login: 1417644983085
+  lastteleport: 1417558931316
+  logout: 1417645032703
+ipAddress: 173.95.153.38
+lastlocation:
+  world: spawn
+  x: 2.9991834446727306
+  y: 34.0
+  z: 10.881128542779052
+  yaw: 350.39948
+  pitch: 24.149992
+money: '907.0'
+godmode: false
+logoutlocation:
+  world: plotworld
+  x: -19.571176535559804
+  y: 65.0
+  z: -59.30000001192093
+  yaw: 281.4024
+  pitch: 22.649973
+lastAccountName: xev22

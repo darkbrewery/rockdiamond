@@ -1,0 +1,23 @@
+uuid: 046f0391-4e85-438d-bd9a-3f0b0ce2bbf0
+timestamps:
+  login: 1420311134681
+  logout: 1420311212451
+  lastteleport: 1419974903544
+ipAddress: 99.64.62.150
+logoutlocation:
+  world: spawn
+  x: -4.906933817875563
+  y: 24.0
+  z: -2.545872881422663
+  yaw: 209.07768
+  pitch: 69.47679
+lastlocation:
+  world: spawn
+  x: 0.5026833816082217
+  y: 102.0
+  z: -13.277128692522462
+  yaw: 0.2850444
+  pitch: -0.2850444
+afk: false
+money: '163.66'
+lastAccountName: 3craftmaniac

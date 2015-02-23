@@ -1,0 +1,21 @@
+lastAccountName: MobEater123
+timestamps:
+  login: 1420541880191
+  lastteleport: 1420541945766
+  logout: 1420541949581
+ipAddress: 71.200.44.148
+lastlocation:
+  world: spawn
+  x: 0.576920280778352
+  y: 34.0
+  z: 8.944731989439514
+  yaw: 178.52444
+  pitch: 15.146055
+logoutlocation:
+  world: spawn
+  x: 0.12141612246091613
+  y: 29.0
+  z: 42.00473270865118
+  yaw: -0.30051196
+  pitch: 3.4575772
+money: '30.0'

@@ -1,0 +1,24 @@
+lastAccountName: soldies501
+timestamps:
+  login: 1423030388325
+  lastteleport: 1423031313234
+  kits:
+    novice: 1423030440169
+    adept: 1423030579350
+  logout: 1423032270067
+ipAddress: 70.94.97.174
+logoutlocation:
+  world: parkour
+  x: -33.32545949821201
+  y: 80.0
+  z: -33.73772940106754
+  yaw: -190.26633
+  pitch: 24.555777
+lastlocation:
+  world: spawn
+  x: -12.629014787978019
+  y: 85.0
+  z: -1215.599408255182
+  yaw: 39.32539
+  pitch: 24.70575
+money: '138387.0625'

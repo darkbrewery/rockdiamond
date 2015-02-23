@@ -1,0 +1,23 @@
+lastAccountName: OogleManiac
+timestamps:
+  login: 1421135038122
+  lastteleport: 1421135425012
+  kits:
+    novice: 1421135330891
+  logout: 1421135520908
+ipAddress: 68.60.85.229
+lastlocation:
+  world: spawn
+  x: 0.5988789123531193
+  y: 29.0
+  z: 51.91964519179437
+  yaw: -1.2005122
+  pitch: 1.6500014
+logoutlocation:
+  world: spawn
+  x: -10.626474428325027
+  y: 33.0
+  z: -27.467407999261802
+  yaw: -164.3967
+  pitch: 11.700011
+money: '30.0'

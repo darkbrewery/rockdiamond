@@ -1,0 +1,22 @@
+uuid: 97295b61-c4d4-4ee4-9f61-08585c62988a
+timestamps:
+  login: 1419568080507
+  lastteleport: 1419568398587
+  logout: 1419568406786
+ipAddress: 24.60.80.107
+lastlocation:
+  world: spawn
+  x: 13.974666224193601
+  y: 94.5
+  z: -237.80514422353843
+  yaw: 16.799133
+  pitch: 16.499994
+logoutlocation:
+  world: spawn
+  x: 23.505781527747242
+  y: 112.0
+  z: -238.2658843190391
+  yaw: 20.548838
+  pitch: 26.850075
+money: '30.0'
+lastAccountName: hiu_

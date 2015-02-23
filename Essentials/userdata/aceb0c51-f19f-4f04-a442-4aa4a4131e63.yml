@@ -1,0 +1,24 @@
+uuid: aceb0c51-f19f-4f04-a442-4aa4a4131e63
+timestamps:
+  login: 1419910938887
+  lastteleport: 1419911043906
+  kits:
+    novice: 1419911024790
+  logout: 1419911063835
+ipAddress: 58.174.65.198
+lastlocation:
+  world: spawn
+  x: 12.300000011920927
+  y: 102.0
+  z: -244.49699400237253
+  yaw: 277.94882
+  pitch: 6.1500564
+logoutlocation:
+  world: spawn
+  x: 12.483514231606105
+  y: 94.0
+  z: -237.70667104715156
+  yaw: 20.399384
+  pitch: 2.100015
+money: '30.0'
+lastAccountName: kall30

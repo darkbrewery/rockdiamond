@@ -1,0 +1,25 @@
+uuid: 09e1dc54-2369-4d7c-91ad-79ef155f9f26
+timestamps:
+  login: 1419568085841
+  lastteleport: 1419568334726
+  kits:
+    pvp: 1419568206904
+    novice: 1419568197902
+  logout: 1419568406786
+ipAddress: 24.60.80.107
+lastlocation:
+  world: spawn
+  x: 11.177754277289125
+  y: 106.0
+  z: -251.84324662938812
+  yaw: 166.79883
+  pitch: 3.900085
+logoutlocation:
+  world: spawn
+  x: 0.4736396779430214
+  y: 32.0
+  z: -31.509710904866058
+  yaw: 167.54958
+  pitch: 58.35002
+money: '30.0'
+lastAccountName: gummib12

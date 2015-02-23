@@ -1,0 +1,20 @@
+general:
+  name: PS_Y2
+  world: spawn
+  type: rent
+  signs:
+    '0':
+      location:
+        world: spawn
+        x: 11.0
+        y: 41.0
+        z: -1990.0
+      facing: WEST
+      signType: WALL_SIGN
+rent:
+  price: 10000.0
+  duration: 10 days
+  rentedUntil: 1672582294905
+  renter: 38233860-c41b-4349-bf28-7c6c02aea580
+  renterName: jacob25934
+  timesExtended: 287

@@ -1,0 +1,27 @@
+uuid: d26f84e5-9308-4a17-b41d-b79449c4eb65
+timestamps:
+  login: 1420863539903
+  lastteleport: 1420236425320
+  logout: 1420863546889
+  kits:
+    pvp: 1420072714158
+    novice: 1419883401502
+    color: 1419835012871
+    adept: 1420072703657
+ipAddress: 173.25.83.64
+lastlocation:
+  world: mines
+  x: 185.33480155408236
+  y: 58.0
+  z: -11.080503151627406
+  yaw: -244.4958
+  pitch: 25.950005
+logoutlocation:
+  world: spawn
+  x: 14.461826923640048
+  y: 81.5
+  z: -1237.536211174398
+  yaw: 89.07641
+  pitch: -0.450001
+money: '352447.7028623189'
+lastAccountName: LeeannMAHONE

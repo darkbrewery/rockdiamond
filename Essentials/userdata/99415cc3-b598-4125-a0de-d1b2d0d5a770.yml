@@ -1,0 +1,21 @@
+lastAccountName: dcoolb67
+timestamps:
+  login: 1422160363384
+  lastteleport: 1422160415330
+  logout: 1422160496192
+ipAddress: 158.222.151.119
+lastlocation:
+  world: spawn
+  x: 0.5
+  y: 29.0
+  z: 20.5
+  yaw: 359.6995
+  pitch: -29.549994
+logoutlocation:
+  world: spawn
+  x: -21.194346502015094
+  y: 35.0
+  z: -5.509285230764305
+  yaw: -29.700726
+  pitch: 35.399998
+money: '34.25'

@@ -1,0 +1,56 @@
+Parkour:
+  PrefixColour: b
+  Join: Joined &b%COURSE%
+  Leave: You have left &b%COURSE%
+  Created: Created and Selected &b%COURSE%
+  Delete: '&b%COURSE% &fhas been deleted!'
+  Reset: '&b%COURSE% &fscores have been reset!'
+  Finish: '&b%COURSE% &fhas been set to finished!'
+  Lobby: You have joined the lobby
+  LobbyOther: You have joined the &b%LOBBY% lobby
+  Continue: Continuing Parkour on &b%COURSE%
+  Teleport: You have teleported to &b%COURSE%
+  Invite:
+    Send: Invitation to &b%COURSE% &fsent to &b%TARGET%
+    Recieve1: '&b%PLAYER% &fhas invited you to &b%COURSE%'
+    Recieve2: To accept, type &3/pa join %COURSE%
+  MaxDeaths: 'Sorry, you reached the maximum amount of deaths: &b%AMOUNT%'
+  Die1: You died! Going back to the Start!
+  Die2: You died! Going back to Point &b%POINT%
+Event:
+  Join: '&0[&bThis server uses &3Parkour &b%VERSION%&0]'
+  Checkpoint: 'Point set to: '
+  AllCheckpoints: All check points achieved!
+  HideAll1: All players have magically reappeared!
+  HideAll2: All players have magically disappeared!
+Error:
+  TooMany: Too many arguments!
+  TooLittle: Not enough arguments!
+  Exist: This course already exists!
+  NoExist: '%COURSE% doesn''t exist!'
+  Unknown: Unknown course!
+  Command: Commands have been disabled!
+  Selected: You have not selected a course!
+  Something: 'Something went wrong: %ERROR%'
+  RequiredLvl: You need to be a required level of &b%LEVEL%
+  Finished1: This course is not ready for you to play yet!
+  Finished2: The creator of this course has not set it to finished.
+Other:
+  Item_Suicide: '&7SHIFT + &6Right click to commit suicide'
+  Item_HideAll: '&7SHIFT + &6Right click to toggle visibility'
+  Item_Leave: '&7SHIFT + &6Right click to leave course'
+  Item_Book: '&6View course stats'
+  Reload: Config Reloaded!
+  Kit: Kit Given!
+Kit:
+  Speed: '&bSpeed Block'
+  Climb: '&bClimb Block'
+  Launch: '&bLaunch Block'
+  Finish: '&bFinish Block'
+  Repulse: '&bRepulse Block'
+  NoRun: '&bNoRun Block'
+  NoFall: '&bNoFall Block'
+  NoPotion: '&bNoPotion Block'
+  Sign: '&bSign'
+  Death: '&bDeath Block'
+NoPermission: 'You do not have Permission: &b%PERMISSION%'

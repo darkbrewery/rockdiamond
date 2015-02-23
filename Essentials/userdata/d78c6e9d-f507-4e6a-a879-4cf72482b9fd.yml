@@ -1,0 +1,22 @@
+uuid: d78c6e9d-f507-4e6a-a879-4cf72482b9fd
+timestamps:
+  login: 1419491490051
+  lastteleport: 1419491726738
+  logout: 1419492153755
+ipAddress: 167.114.28.20
+lastlocation:
+  world: spawn
+  x: 14.461826923640048
+  y: 81.5
+  z: -1237.536211174398
+  yaw: 89.07641
+  pitch: -0.450001
+logoutlocation:
+  world: spawn
+  x: 0.5
+  y: 29.0
+  z: 20.5
+  yaw: -0.3005128
+  pitch: -29.549994
+money: '30.0'
+lastAccountName: guest_relations

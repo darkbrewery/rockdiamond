@@ -1,0 +1,24 @@
+timestamps:
+  lastteleport: 1416384975338
+  kits:
+    alpha: 1416384985253
+  logout: 1416457376189
+  login: 1416457119353
+lastlocation:
+  world: spawn
+  x: 0.539192644386851
+  y: 34.0
+  z: 9.329636867666022
+  yaw: -168.59998
+  pitch: 3.2999718
+money: '26.0'
+logoutlocation:
+  world: spawn
+  x: 4.309754506311254
+  y: 37.0
+  z: -3.925000011920929
+  yaw: -222.60103
+  pitch: 5.700036
+uuid: 2b0845bd-7f11-4a2c-a336-8d54bbcbd591
+ipAddress: 72.28.233.231
+lastAccountName: almitchell02

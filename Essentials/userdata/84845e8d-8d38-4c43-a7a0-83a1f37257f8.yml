@@ -1,0 +1,25 @@
+timestamps:
+  lastteleport: 1417615986276
+  logout: 1417616003677
+  login: 1417615875972
+  kits:
+    alpha: 1417540685414
+    stoner: 1417540695718
+lastlocation:
+  world: mines
+  x: 134.57499998807907
+  y: 49.0
+  z: -10.699999988079071
+  yaw: -104.42017
+  pitch: -62.796734
+money: '21700.68365384616'
+logoutlocation:
+  world: mines
+  x: 121.985155737213
+  y: 63.0
+  z: -9.329896077234224
+  yaw: -11.583567
+  pitch: 4.581582
+uuid: 84845e8d-8d38-4c43-a7a0-83a1f37257f8
+ipAddress: 162.202.240.149
+lastAccountName: gunner6304

@@ -1,0 +1,24 @@
+uuid: a2e8be6e-d134-4c0f-8e7d-e3b37cbd2b2b
+timestamps:
+  login: 1417389852682
+  kits:
+    alpha: 1417390307722
+  lastteleport: 1417391163507
+  logout: 1417391197064
+ipAddress: 66.222.253.54
+lastlocation:
+  world: spawn
+  x: 8.304616527658734
+  y: 55.0
+  z: -12.143235339565651
+  yaw: -145.04836
+  pitch: 27.750006
+money: '3.0'
+logoutlocation:
+  world: mines
+  x: -8.69999998807907
+  y: 54.015555072702206
+  z: -13.30000001192093
+  yaw: -1.7975193
+  pitch: 20.699976
+lastAccountName: minermaster4066

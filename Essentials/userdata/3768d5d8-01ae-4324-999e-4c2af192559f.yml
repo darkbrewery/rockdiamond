@@ -1,0 +1,26 @@
+lastAccountName: jordancover
+timestamps:
+  login: 1423164405499
+  logout: 1423165625836
+  lastteleport: 1423165539280
+  kits:
+    pvp: 1423164216654
+    novice: 1423163145489
+    color: 1423165090328
+    adept: 1423165083576
+ipAddress: 5.66.34.135
+logoutlocation:
+  world: plotworld
+  x: -81.52817495333848
+  y: 65.5
+  z: -5.328790851947172
+  yaw: 3.4498467
+  pitch: 9.600005
+money: '132612.75000000003'
+lastlocation:
+  world: mines
+  x: 334.69999998807907
+  y: 64.0
+  z: -19.00646659246191
+  yaw: -229.94737
+  pitch: -53.999977

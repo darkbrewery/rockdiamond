@@ -1,0 +1,22 @@
+uuid: 51b68bcd-e180-4a4d-a8f9-51b064294289
+timestamps:
+  login: 1419997385644
+  logout: 1419998245260
+  lastteleport: 1419998242639
+ipAddress: 174.48.108.102
+money: '30.0'
+logoutlocation:
+  world: spawn
+  x: 0.5614295364357531
+  y: 37.0
+  z: -9.728185928428278
+  yaw: 182.39946
+  pitch: 13.499991
+lastlocation:
+  world: spawn
+  x: 23.5
+  y: 114.0
+  z: -244.5
+  yaw: -87.60116
+  pitch: 7.0500627
+lastAccountName: xerogravity11

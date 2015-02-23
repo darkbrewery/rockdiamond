@@ -1,0 +1,22 @@
+uuid: c0b73703-afbc-4db8-92a4-e0ed8dc83d9a
+timestamps:
+  login: 1419382252085
+  lastteleport: 1419382299464
+  logout: 1419382332170
+ipAddress: 191.33.3.83
+lastlocation:
+  world: spawn
+  x: 0.35754573795909206
+  y: 29.0
+  z: 52.83301315957745
+  yaw: 1.0350858
+  pitch: -1.669447
+logoutlocation:
+  world: spawn
+  x: 0.9144597294177944
+  y: 37.0
+  z: -3.2570611351982763
+  yaw: 178.84503
+  pitch: 9.238138
+money: '30.0'
+lastAccountName: vinibiel2001

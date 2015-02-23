@@ -1,0 +1,24 @@
+lastAccountName: DLEG16
+timestamps:
+  login: 1422280701642
+  lastteleport: 1422215496755
+  kits:
+    pvp: 1422207335686
+    novice: 1422207311763
+  logout: 1422280771825
+ipAddress: 85.164.131.160
+lastlocation:
+  world: spawn
+  x: 0.6205479267332032
+  y: 34.0
+  z: 7.445541449543407
+  yaw: -182.20822
+  pitch: 12.113685
+money: '30.0'
+logoutlocation:
+  world: spawn
+  x: -23.01089633819464
+  y: 35.5
+  z: -5.171690420347737
+  yaw: 96.44739
+  pitch: 13.527399

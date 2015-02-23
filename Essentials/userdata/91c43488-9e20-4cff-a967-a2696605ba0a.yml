@@ -1,0 +1,22 @@
+timestamps:
+  lastteleport: 1418321508240
+  logout: 1418321888793
+  login: 1418321833425
+lastlocation:
+  world: spawn
+  x: 9.441188228642929
+  y: 106.0
+  z: -250.24250332465684
+  yaw: 200.09906
+  pitch: 1.9500767
+logoutlocation:
+  world: spawn
+  x: 1.2698774278744405
+  y: 34.0
+  z: 10.257694686949284
+  yaw: -187.80084
+  pitch: 20.400026
+uuid: 91c43488-9e20-4cff-a967-a2696605ba0a
+ipAddress: 71.40.112.113
+money: '30.0'
+lastAccountName: ethan_shawn_

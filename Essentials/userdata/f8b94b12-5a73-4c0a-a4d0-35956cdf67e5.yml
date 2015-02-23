@@ -1,0 +1,24 @@
+uuid: f8b94b12-5a73-4c0a-a4d0-35956cdf67e5
+timestamps:
+  login: 1417194177603
+  lastteleport: 1416425979320
+  kits:
+    alpha: 1416425986442
+  logout: 1417194251374
+ipAddress: 80.100.205.11
+lastlocation:
+  world: spawn
+  x: 27.521467987984295
+  y: 35.0
+  z: -7.198639960991029
+  yaw: 220.20279
+  pitch: 5.999974
+logoutlocation:
+  world: spawn
+  x: 0.5864961321740909
+  y: 36.0
+  z: -20.72548137573732
+  yaw: -357.901
+  pitch: 27.449917
+money: '34.64516129032258'
+lastAccountName: eninjacreeper7

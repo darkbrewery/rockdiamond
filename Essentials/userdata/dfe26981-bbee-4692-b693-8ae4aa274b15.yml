@@ -1,0 +1,24 @@
+uuid: dfe26981-bbee-4692-b693-8ae4aa274b15
+timestamps:
+  login: 1419991683317
+  lastteleport: 1419955845657
+  kits:
+    pvp: 1419954186618
+  logout: 1419991825122
+ipAddress: 71.31.46.194
+lastlocation:
+  world: plotworld
+  x: 41.335299519011095
+  y: 65.0
+  z: -87.22768597772595
+  yaw: -32.849762
+  pitch: 44.250004
+money: '24.039999999999992'
+logoutlocation:
+  world: spawn
+  x: 1.4859714823749572
+  y: 55.0
+  z: 4.511828706004893
+  yaw: 28.051727
+  pitch: 17.85
+lastAccountName: blockedchain85

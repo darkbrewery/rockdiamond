@@ -1,0 +1,24 @@
+uuid: 8efe6586-6a6d-4544-bf71-0eb05348d3a7
+timestamps:
+  login: 1418326500766
+  lastteleport: 1418326617538
+  kits:
+    novice: 1418327161132
+  logout: 1418327203037
+ipAddress: 82.22.202.190
+lastlocation:
+  world: spawn
+  x: 10.509567309192327
+  y: 106.0
+  z: -253.3960623299459
+  yaw: 160.23676
+  pitch: 8.964028
+logoutlocation:
+  world: spawn
+  x: 2.0777358533238077
+  y: 26.0
+  z: -5.899626289335975
+  yaw: 25.464233
+  pitch: 23.584389
+money: '30.0'
+lastAccountName: cameront0509

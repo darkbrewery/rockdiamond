@@ -1,0 +1,21 @@
+lastAccountName: Motorpaza
+timestamps:
+  login: 1424367992295
+  lastteleport: 1424368211450
+  logout: 1424368338646
+ipAddress: 2.216.37.235
+lastlocation:
+  world: spawn
+  x: 8.699999988079071
+  y: 25.0
+  z: -1.6566471885170722
+  yaw: 226.95932
+  pitch: 17.945772
+logoutlocation:
+  world: spawn
+  x: 0.5531240498690383
+  y: 37.0
+  z: -6.303782182300619
+  yaw: 14.926885
+  pitch: -2.4945989
+money: '30.0'

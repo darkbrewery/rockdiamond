@@ -1,0 +1,25 @@
+uuid: 72af471e-1884-4d33-b44a-8df0dfaf6358
+timestamps:
+  login: 1420170495407
+  lastteleport: 1419876629459
+  kits:
+    pvp: 1419875756006
+    novice: 1419831188609
+  logout: 1420170507656
+ipAddress: 162.228.149.66
+lastlocation:
+  world: spawn
+  x: 19.76982669543301
+  y: 123.0
+  z: -243.69756172552064
+  yaw: -104.45015
+  pitch: -20.55
+money: '102384.37304347829'
+logoutlocation:
+  world: mines
+  x: 292.69999998807907
+  y: 64.0
+  z: -5.777180065976766
+  yaw: 174.15387
+  pitch: -90.0
+lastAccountName: gtfokittykat

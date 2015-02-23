@@ -1,0 +1,25 @@
+uuid: da45fa29-1bbe-4707-a343-39effff88bd6
+timestamps:
+  login: 1419391829084
+  lastteleport: 1419392033231
+  kits:
+    pvp: 1419392002911
+    novice: 1419391994092
+  logout: 1419392067951
+ipAddress: 50.183.111.158
+lastlocation:
+  world: spawn
+  x: 0.47482982880215274
+  y: 29.0
+  z: 52.9390920121319
+  yaw: -0.75053483
+  pitch: 4.1999865
+logoutlocation:
+  world: spawn
+  x: -6.868110408671089
+  y: 33.0
+  z: -33.92383545408738
+  yaw: 217.95285
+  pitch: 9.449994
+money: '30.0'
+lastAccountName: tomwarrior217

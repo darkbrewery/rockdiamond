@@ -1,0 +1,24 @@
+lastAccountName: AlexTLG
+timestamps:
+  login: 1424646960153
+  lastteleport: 1424648091303
+  logout: 1424648508191
+  mute: 0
+ipAddress: 216.15.36.226
+money: '170239.98766666665'
+lastlocation:
+  world: plotworld
+  x: -69.28881081437733
+  y: 64.0
+  z: 76.48312447855221
+  yaw: -250.66553
+  pitch: 11.099977
+logoutlocation:
+  world: mines
+  x: 270.6617926036845
+  y: 63.0
+  z: -9.504833505269236
+  yaw: -293.4043
+  pitch: 90.0
+afk: false
+muted: false

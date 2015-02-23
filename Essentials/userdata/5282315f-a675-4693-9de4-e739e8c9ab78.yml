@@ -1,0 +1,28 @@
+uuid: 5282315f-a675-4693-9de4-e739e8c9ab78
+timestamps:
+  login: 1423349894062
+  lastteleport: 1423350956373
+  logout: 1423351151027
+  kits:
+    pvp: 1423350987291
+    novice: 1420448654061
+    color: 1420449402483
+    adept: 1422400642812
+ipAddress: 162.205.68.56
+lastlocation:
+  world: world_nether
+  x: 484.2719619555679
+  y: 53.0
+  z: 107.18976861582611
+  yaw: 267.60437
+  pitch: 1.8000003
+money: '108846.26804347866'
+logoutlocation:
+  world: mines
+  x: 346.9223696675372
+  y: 63.0
+  z: -3.2360670233841495
+  yaw: -325.49744
+  pitch: -78.450005
+lastAccountName: flyinzombie101
+afk: false

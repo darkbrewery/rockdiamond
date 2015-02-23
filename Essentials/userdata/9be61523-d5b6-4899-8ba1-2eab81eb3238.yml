@@ -1,0 +1,21 @@
+lastAccountName: nico_d_a
+timestamps:
+  login: 1423313871166
+  logout: 1423313995771
+  lastteleport: 1423313908725
+ipAddress: 80.197.75.239
+logoutlocation:
+  world: spawn
+  x: -0.6999999880790713
+  y: 27.0
+  z: -4.446398798262458
+  yaw: 325.6526
+  pitch: 59.549812
+lastlocation:
+  world: spawn
+  x: 0.16197529018631143
+  y: 29.5
+  z: 53.98857664867746
+  yaw: 350.24957
+  pitch: 23.850002
+money: '30.0'

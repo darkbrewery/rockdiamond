@@ -1,0 +1,22 @@
+uuid: f239f170-252d-4d38-87a9-e8caa3c89b81
+timestamps:
+  login: 1419764219602
+  lastteleport: 1419764365267
+  logout: 1419764603045
+ipAddress: 86.84.77.122
+lastlocation:
+  world: spawn
+  x: 0.5562880831888085
+  y: 29.0
+  z: 52.43207185475825
+  yaw: -0.75051093
+  pitch: 6.600003
+logoutlocation:
+  world: spawn
+  x: -6.947352563063757
+  y: 42.0
+  z: -11.074999988079066
+  yaw: -179.99602
+  pitch: 45.749844
+money: '0.0'
+lastAccountName: fambosvelt

@@ -1,0 +1,24 @@
+lastAccountName: Lyscir
+timestamps:
+  login: 1421597137740
+  lastteleport: 1421597913596
+  kits:
+    pvp: 1421597291623
+    novice: 1421597273910
+  logout: 1421597965306
+ipAddress: 68.102.196.103
+lastlocation:
+  world: spawn
+  x: 10.942028044759562
+  y: 106.0
+  z: -252.00357631933736
+  yaw: -181.20117
+  pitch: 3.0001247
+logoutlocation:
+  world: spawn
+  x: 0.35754453602348113
+  y: 34.0
+  z: -25.36819280220289
+  yaw: -219.75037
+  pitch: 26.249971
+money: '67.07'

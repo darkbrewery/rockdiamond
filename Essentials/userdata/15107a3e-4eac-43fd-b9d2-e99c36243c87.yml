@@ -1,0 +1,25 @@
+uuid: 15107a3e-4eac-43fd-b9d2-e99c36243c87
+timestamps:
+  login: 1419831167150
+  lastteleport: 1419831752753
+  kits:
+    pvp: 1419831267161
+    novice: 1419831254626
+  logout: 1419831917909
+ipAddress: 71.95.99.37
+lastlocation:
+  world: plotworld
+  x: -11.249666652537726
+  y: 65.0
+  z: -92.01731672235157
+  yaw: -18.300049
+  pitch: 22.350014
+logoutlocation:
+  world: spawn
+  x: 1.720431925267146
+  y: 37.0625
+  z: -6.495582686656886
+  yaw: 350.24933
+  pitch: 23.850018
+money: '59.5'
+lastAccountName: invisibletable

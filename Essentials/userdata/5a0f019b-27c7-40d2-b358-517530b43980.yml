@@ -1,0 +1,25 @@
+uuid: 5a0f019b-27c7-40d2-b358-517530b43980
+timestamps:
+  login: 1417132616210
+  lastteleport: 1417130822965
+  kits:
+    color: 1417130568905
+    alpha: 1417130749377
+  logout: 1417132619107
+ipAddress: 75.117.100.21
+lastlocation:
+  world: mines
+  x: -16.297339384705644
+  y: 63.0
+  z: -6.015825045030736
+  yaw: 109.052795
+  pitch: 1.3500137
+logoutlocation:
+  world: spawn
+  x: 2.7540476213964737
+  y: 106.0
+  z: -244.12197063953542
+  yaw: -37.199955
+  pitch: 14.249958
+money: '4.5'
+lastAccountName: mylladee

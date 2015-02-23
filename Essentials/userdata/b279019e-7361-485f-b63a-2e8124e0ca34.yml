@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1419430419405
+  kits:
+    pvp: 1419430309899
+  logout: 1419430672645
+lastlocation:
+  world: spawn
+  x: 0.6877109430858981
+  y: 37.0
+  z: -12.583570902992527
+  yaw: -2.7001648
+  pitch: 7.9499936
+logoutlocation:
+  world: spawn
+  x: -1.0310440387557318
+  y: 29.0
+  z: -9.541913338640525
+  yaw: 338.24872
+  pitch: 40.20009
+money: '88.5'
+lastAccountName: gimic9912

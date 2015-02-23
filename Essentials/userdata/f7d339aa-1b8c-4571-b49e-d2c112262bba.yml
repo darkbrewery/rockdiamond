@@ -1,0 +1,21 @@
+lastAccountName: frankie189
+timestamps:
+  login: 1424063530107
+  lastteleport: 1424063741174
+  logout: 1424063921690
+ipAddress: 74.197.201.42
+lastlocation:
+  world: spawn
+  x: 11.011912540912252
+  y: 106.0
+  z: -252.61309405157863
+  yaw: 155.84872
+  pitch: 8.100094
+logoutlocation:
+  world: spawn
+  x: -1.5838505412956885
+  y: 26.7
+  z: -12.581592128443843
+  yaw: 310.64914
+  pitch: -6.6000075
+money: '45.15'

@@ -1,0 +1,21 @@
+lastAccountName: JustMe3D
+timestamps:
+  login: 1422765199567
+  logout: 1422765349438
+  lastteleport: 1422765345289
+ipAddress: 70.126.173.217
+logoutlocation:
+  world: spawn
+  x: -23.76753147743276
+  y: 35.5
+  z: -7.535241208642634
+  yaw: -275.9714
+  pitch: 0.59496635
+lastlocation:
+  world: spawn
+  x: 0.40774101679390423
+  y: 55.0
+  z: -14.328137914215095
+  yaw: -159.28204
+  pitch: 20.90803
+money: '636.0'

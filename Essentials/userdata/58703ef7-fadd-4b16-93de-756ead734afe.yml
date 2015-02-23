@@ -1,0 +1,22 @@
+uuid: 58703ef7-fadd-4b16-93de-756ead734afe
+timestamps:
+  login: 1418999232025
+  lastteleport: 1418999347173
+  logout: 1418999744334
+ipAddress: 37.75.184.159
+lastlocation:
+  world: spawn
+  x: 12.864682610427147
+  y: 106.0
+  z: -249.67774420812475
+  yaw: -186.90135
+  pitch: 8.399998
+logoutlocation:
+  world: spawn
+  x: 1.225145672913928
+  y: 26.0
+  z: -8.300000011920934
+  yaw: -20.549438
+  pitch: -35.550163
+money: '430.75'
+lastAccountName: preieulven

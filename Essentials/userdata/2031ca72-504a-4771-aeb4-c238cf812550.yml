@@ -1,0 +1,25 @@
+uuid: 2031ca72-504a-4771-aeb4-c238cf812550
+timestamps:
+  login: 1419558355804
+  lastteleport: 1419554496585
+  logout: 1419558671003
+  kits:
+    novice: 1419456230385
+    adept: 1419458855180
+ipAddress: 99.43.185.89
+lastlocation:
+  world: mines
+  x: 293.34396813114967
+  y: 49.0
+  z: -12.678201538673282
+  yaw: -158.69643
+  pitch: 36.000027
+money: '140300.07797101446'
+logoutlocation:
+  world: mines
+  x: 298.4914880617736
+  y: 66.0
+  z: -12.0122877031441
+  yaw: 1.9527842
+  pitch: 31.649931
+lastAccountName: kacobcris

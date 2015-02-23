@@ -1,0 +1,21 @@
+lastAccountName: KILLER_ASSASSINR
+timestamps:
+  login: 1422116149889
+  lastteleport: 1422116285417
+  logout: 1422116327129
+ipAddress: 109.79.7.97
+lastlocation:
+  world: spawn
+  x: 0.7715762355942446
+  y: 37.0625
+  z: -8.42627854344233
+  yaw: 169.01822
+  pitch: 70.30955
+logoutlocation:
+  world: spawn
+  x: -9.483810006389882
+  y: 33.0
+  z: -26.107809102404577
+  yaw: 174.4519
+  pitch: -40.451523
+money: '30.0'

@@ -1,0 +1,25 @@
+lastAccountName: CoIored
+timestamps:
+  login: 1423693967118
+  lastteleport: 1423694259578
+  kits:
+    pvp: 1423694172119
+    novice: 1423694164668
+    color: 1423694160467
+  logout: 1423694270531
+ipAddress: 67.167.218.241
+lastlocation:
+  world: mines
+  x: 717.7564429249375
+  y: 66.5
+  z: -15.918762313584129
+  yaw: 351.30774
+  pitch: 33.450005
+money: '238.5'
+logoutlocation:
+  world: mines
+  x: 42.30000001192093
+  y: 62.0
+  z: -10.186708414640352
+  yaw: 228.90251
+  pitch: 28.500004

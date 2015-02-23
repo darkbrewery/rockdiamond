@@ -1,0 +1,24 @@
+uuid: a0316ef9-4201-484c-98f3-41f736f30cb1
+timestamps:
+  login: 1418621472715
+  lastteleport: 1418621535464
+  kits:
+    novice: 1418621512809
+  logout: 1418621590994
+ipAddress: 50.191.186.15
+lastlocation:
+  world: spawn
+  x: 23.394827657379043
+  y: 34.0
+  z: -6.285362567873932
+  yaw: 76.00694
+  pitch: -12.234824
+logoutlocation:
+  world: spawn
+  x: -1.3000000119209294
+  y: 30.0
+  z: -12.699999988079071
+  yaw: -128.38287
+  pitch: 52.790073
+money: '30.0'
+lastAccountName: syntheno

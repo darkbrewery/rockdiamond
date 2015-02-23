@@ -1,0 +1,21 @@
+lastAccountName: JeebersI2
+timestamps:
+  login: 1423505640209
+  lastteleport: 1423506460926
+  logout: 1423506520904
+ipAddress: 32.213.109.30
+lastlocation:
+  world: spawn
+  x: 0.7613243588674093
+  y: 59.0
+  z: 10.212051393984094
+  yaw: 22.801443
+  pitch: 28.04997
+logoutlocation:
+  world: mines
+  x: -8.527039610831094
+  y: 63.0
+  z: -17.975487926324284
+  yaw: 60.452637
+  pitch: 3.150052
+money: '69.0'

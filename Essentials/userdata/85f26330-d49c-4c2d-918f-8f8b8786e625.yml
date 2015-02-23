@@ -1,0 +1,21 @@
+lastAccountName: Deathstar2004
+timestamps:
+  login: 1422757205013
+  lastteleport: 1422757371171
+  logout: 1422757455749
+ipAddress: 124.176.0.142
+lastlocation:
+  world: spawn
+  x: -11.315575349787077
+  y: 85.0
+  z: -1215.2455961703447
+  yaw: -290.57324
+  pitch: 22.04997
+logoutlocation:
+  world: parkour
+  x: 25.5
+  y: 86.0
+  z: -35.5
+  yaw: -189.0
+  pitch: 0.0
+money: '29.0'

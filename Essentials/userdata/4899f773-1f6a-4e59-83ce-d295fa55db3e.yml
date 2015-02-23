@@ -1,0 +1,21 @@
+lastAccountName: XLCreepers
+timestamps:
+  login: 1422575898884
+  lastteleport: 1422576010650
+  logout: 1422576035825
+ipAddress: 68.98.129.249
+lastlocation:
+  world: spawn
+  x: -1.699999988079071
+  y: 28.0
+  z: -12.699999988079071
+  yaw: 0.7492973
+  pitch: 22.950056
+logoutlocation:
+  world: spawn
+  x: 0.8364487666559746
+  y: 124.0
+  z: -247.85627578000748
+  yaw: 122.50011
+  pitch: 26.400005
+money: '31026.0'

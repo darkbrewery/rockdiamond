@@ -1,0 +1,24 @@
+lastAccountName: tiger91011
+timestamps:
+  login: 1422232487292
+  logout: 1422232545064
+  lastteleport: 1422121714944
+  kits:
+    color: 1422049913842
+    adept: 1422049898688
+ipAddress: 69.138.122.133
+logoutlocation:
+  world: mines
+  x: 244.6210220300613
+  y: 62.0
+  z: -13.69999998807907
+  yaw: -94.73762
+  pitch: 30.431217
+lastlocation:
+  world: mines
+  x: 156.67277113705734
+  y: 64.0
+  z: -2.3627578314558306
+  yaw: 0.6158741
+  pitch: -32.825256
+money: '25636.013043478262'

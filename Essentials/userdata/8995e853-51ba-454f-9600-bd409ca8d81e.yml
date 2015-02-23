@@ -1,0 +1,24 @@
+uuid: 8995e853-51ba-454f-9600-bd409ca8d81e
+timestamps:
+  login: 1421272626695
+  lastteleport: 1421273993679
+  kits:
+    adept: 1421272713244
+  logout: 1421274247114
+ipAddress: 70.241.145.242
+money: '350245.20999999996'
+lastlocation:
+  world: mines
+  x: 297.01376040044437
+  y: 73.0
+  z: -11.138037270923164
+  yaw: 242.97261
+  pitch: -2.0359554
+logoutlocation:
+  world: plotworld
+  x: -5.169314707656817
+  y: 65.0
+  z: -116.28008721468171
+  yaw: -118.99495
+  pitch: 31.488964
+lastAccountName: purplesnowrabbit

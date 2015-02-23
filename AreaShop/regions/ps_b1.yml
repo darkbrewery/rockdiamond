@@ -1,0 +1,20 @@
+general:
+  name: PS_B1
+  world: spawn
+  type: rent
+  signs:
+    '0':
+      location:
+        world: spawn
+        x: 18.0
+        y: 41.0
+        z: -2010.0
+      facing: WEST
+      signType: WALL_SIGN
+rent:
+  price: 10000.0
+  duration: 10 days
+  rentedUntil: 1425229836812
+  renter: 745edc7c-ddcc-4c20-8287-47164f708e69
+  renterName: sslendurman
+  timesExtended: 0

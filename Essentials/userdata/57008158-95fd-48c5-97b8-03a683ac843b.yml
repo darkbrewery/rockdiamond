@@ -1,0 +1,24 @@
+uuid: 57008158-95fd-48c5-97b8-03a683ac843b
+timestamps:
+  login: 1418584197668
+  lastteleport: 1418584450899
+  kits:
+    novice: 1418584434468
+  logout: 1418584537469
+ipAddress: 108.180.119.191
+lastlocation:
+  world: spawn
+  x: 12.100397321000509
+  y: 106.0
+  z: -252.29528815439375
+  yaw: 140.39871
+  pitch: -0.29998544
+logoutlocation:
+  world: spawn
+  x: -3.7811405243645666
+  y: 37.0
+  z: -7.772061664655926
+  yaw: -94.05219
+  pitch: 16.050024
+money: '47.0'
+lastAccountName: loketar1

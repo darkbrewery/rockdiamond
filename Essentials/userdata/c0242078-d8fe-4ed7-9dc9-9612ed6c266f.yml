@@ -1,0 +1,26 @@
+uuid: c0242078-d8fe-4ed7-9dc9-9612ed6c266f
+timestamps:
+  login: 1418336112688
+  lastteleport: 1418340020107
+  kits:
+    pvp: 1418336478631
+    novice: 1418336444079
+  logout: 1418340071923
+ipAddress: 24.247.56.53
+lastlocation:
+  world: mines
+  x: 130.61571206861035
+  y: 63.0
+  z: -16.05002580052836
+  yaw: -334.34735
+  pitch: 26.250004
+money: '41820.1735576923'
+godmode: false
+logoutlocation:
+  world: mines
+  x: 67.24889463657387
+  y: 63.0
+  z: -10.300000011920929
+  yaw: -54.89746
+  pitch: 17.699986
+lastAccountName: purplepanda719

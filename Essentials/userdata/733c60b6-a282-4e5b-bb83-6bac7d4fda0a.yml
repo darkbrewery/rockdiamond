@@ -1,0 +1,25 @@
+uuid: 733c60b6-a282-4e5b-bb83-6bac7d4fda0a
+timestamps:
+  login: 1419441681476
+  lastteleport: 1419441819951
+  kits:
+    novice: 1419441539005
+    pvp: 1419441526503
+  logout: 1419442000088
+ipAddress: 71.161.122.242
+lastlocation:
+  world: spawn
+  x: 23.07649860630933
+  y: 114.0
+  z: -245.0997841816121
+  yaw: 85.35092
+  pitch: 9.841404
+logoutlocation:
+  world: spawn
+  x: 0.4145688479352376
+  y: 34.0
+  z: 9.218301292741259
+  yaw: -9.813873
+  pitch: 23.396698
+money: '30.0'
+lastAccountName: skydoesminekraft

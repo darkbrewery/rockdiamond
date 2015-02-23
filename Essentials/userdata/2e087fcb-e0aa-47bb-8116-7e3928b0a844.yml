@@ -1,0 +1,25 @@
+lastAccountName: RedMegaFire24
+timestamps:
+  login: 1420564562241
+  lastteleport: 1420565826105
+  kits:
+    pvp: 1420564736475
+    novice: 1420564723022
+    color: 1420565851411
+  logout: 1420566091095
+ipAddress: 76.122.33.244
+lastlocation:
+  world: spawn
+  x: 1.0172673191627497
+  y: 59.0
+  z: 8.743456158914439
+  yaw: -198.14795
+  pitch: 16.500015
+money: '629.3'
+logoutlocation:
+  world: mines
+  x: 10.956501954632515
+  y: 63.0
+  z: -10.03404476458912
+  yaw: 306.00204
+  pitch: 55.199986

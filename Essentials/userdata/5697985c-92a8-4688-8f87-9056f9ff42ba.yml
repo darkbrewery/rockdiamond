@@ -1,0 +1,22 @@
+uuid: 5697985c-92a8-4688-8f87-9056f9ff42ba
+timestamps:
+  login: 1419831772327
+  lastteleport: 1419831872022
+  logout: 1419831912900
+ipAddress: 66.176.164.65
+lastlocation:
+  world: spawn
+  x: 0.4236783636427261
+  y: 33.0
+  z: -38.13891487882975
+  yaw: -179.85045
+  pitch: 15.149977
+logoutlocation:
+  world: spawn
+  x: 0.04672974897429355
+  y: 107.0
+  z: -245.41749340216273
+  yaw: -273.30115
+  pitch: 11.250049
+money: '30.0'
+lastAccountName: pudding852

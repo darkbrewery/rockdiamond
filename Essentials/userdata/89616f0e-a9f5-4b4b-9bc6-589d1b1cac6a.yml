@@ -1,0 +1,26 @@
+lastAccountName: creepergaming25
+timestamps:
+  login: 1420682949846
+  logout: 1420682972957
+  lastteleport: 1420648227272
+  kits:
+    pvp: 1420595818098
+    novice: 1420595814448
+    color: 1420595840003
+ipAddress: 68.43.93.116
+logoutlocation:
+  world: plotworld
+  x: -89.82626159728852
+  y: 65.0
+  z: -4.718562105450918
+  yaw: 17.550001
+  pitch: 11.249984
+lastlocation:
+  world: mines
+  x: 48.279557362233646
+  y: 48.0
+  z: -7.693075690034455
+  yaw: -282.14752
+  pitch: 4.0500035
+afk: false
+money: '954.8499999999999'

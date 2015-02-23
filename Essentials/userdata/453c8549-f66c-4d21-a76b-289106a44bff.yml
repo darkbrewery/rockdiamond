@@ -1,0 +1,26 @@
+lastAccountName: JustinAngryBird
+timestamps:
+  login: 1423687961313
+  lastteleport: 1423612597431
+  kits:
+    expert: 1423427685868
+    pvp: 1423446763304
+    novice: 1422918695962
+    adept: 1423342809268
+  logout: 1423688028179
+ipAddress: 184.18.79.87
+lastlocation:
+  world: parkour
+  x: 0.5
+  y: 80.0
+  z: 0.5
+  yaw: 103.46062
+  pitch: 9.845589
+logoutlocation:
+  world: spawn
+  x: -13.281888222010942
+  y: 83.0
+  z: -1216.300000011921
+  yaw: 260.50375
+  pitch: 7.2367554
+money: '1640137.6943116104'

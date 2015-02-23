@@ -1,0 +1,21 @@
+lastAccountName: justintimba2424
+timestamps:
+  login: 1421412664821
+  lastteleport: 1421412852735
+  logout: 1421412898511
+ipAddress: 109.93.228.115
+lastlocation:
+  world: world_the_end
+  x: 8.754393688756268
+  y: 64.0
+  z: 16.264080996636153
+  yaw: -275.8493
+  pitch: 17.850061
+logoutlocation:
+  world: spawn
+  x: -0.021896479278025016
+  y: 34.0
+  z: 8.44352860756877
+  yaw: -174.00009
+  pitch: 25.650034
+money: '30.0'

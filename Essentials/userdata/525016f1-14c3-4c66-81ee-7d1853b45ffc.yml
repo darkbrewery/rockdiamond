@@ -1,0 +1,21 @@
+lastAccountName: FVZA
+timestamps:
+  login: 1421979040034
+  lastteleport: 1421979394476
+  logout: 1421979596392
+ipAddress: 76.113.3.228
+lastlocation:
+  world: spawn
+  x: 43.86445249381769
+  y: 111.5
+  z: -773.3507176561724
+  yaw: -221.29626
+  pitch: -11.100017
+logoutlocation:
+  world: mines
+  x: 710.7219328433065
+  y: 68.0
+  z: -15.321052141435876
+  yaw: 235.51025
+  pitch: 8.4000225
+money: '30.0'

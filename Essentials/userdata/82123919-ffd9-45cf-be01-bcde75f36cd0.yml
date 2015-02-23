@@ -1,0 +1,26 @@
+uuid: 82123919-ffd9-45cf-be01-bcde75f36cd0
+timestamps:
+  login: 1418831102250
+  lastteleport: 1418835454597
+  kits:
+    pvp: 1418833631257
+    novice: 1418832140361
+    color: 1418832123082
+  logout: 1418835541207
+ipAddress: 71.122.231.147
+money: '10022.32076923077'
+lastlocation:
+  world: plotworld
+  x: 34.865699630113554
+  y: 65.0
+  z: -32.07553908511454
+  yaw: 28.13097
+  pitch: 1.8364435
+logoutlocation:
+  world: plotworld
+  x: -56.1452890396505
+  y: 65.5
+  z: -14.075626277373765
+  yaw: 201.4921
+  pitch: 21.678875
+lastAccountName: disco_drama

@@ -1,0 +1,25 @@
+lastAccountName: Ellianna357
+timestamps:
+  login: 1421800474155
+  lastteleport: 1421800756302
+  kits:
+    novice: 1421800521826
+    color: 1421800799799
+    adept: 1421800788147
+  logout: 1421801067677
+ipAddress: 216.49.52.182
+lastlocation:
+  world: spawn
+  x: -23.314623897444655
+  y: 35.0
+  z: -5.4495576224489914
+  yaw: 95.30429
+  pitch: -17.40319
+money: '30035.260869565212'
+logoutlocation:
+  world: mines
+  x: 133.69999998807907
+  y: 49.0
+  z: -9.434827350829316
+  yaw: -84.26492
+  pitch: 44.000053

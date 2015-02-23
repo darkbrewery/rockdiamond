@@ -1,0 +1,21 @@
+lastAccountName: nedden7
+timestamps:
+  login: 1424114078887
+  lastteleport: 1424114195454
+  logout: 1424114233302
+ipAddress: 216.40.66.55
+lastlocation:
+  world: spawn
+  x: 1.1062579716945637
+  y: 107.0
+  z: -241.16701855493358
+  yaw: 179.981
+  pitch: 17.904675
+logoutlocation:
+  world: parkour
+  x: -32.98615169204737
+  y: 86.0
+  z: -27.200783025588912
+  yaw: 0.0
+  pitch: 1.0
+money: '1030.0'

@@ -1,0 +1,24 @@
+lastAccountName: passpass6677
+timestamps:
+  login: 1421223640210
+  lastteleport: 1421223805058
+  kits:
+    pvp: 1421214520889
+    color: 1421215790665
+  logout: 1421223912022
+ipAddress: 220.253.67.127
+lastlocation:
+  world: spawn
+  x: 13.626955635637394
+  y: 114.5
+  z: -799.2604694102639
+  yaw: -3.6214666
+  pitch: 20.135479
+logoutlocation:
+  world: mines
+  x: 160.27930691752422
+  y: 62.5
+  z: -6.210233538762402
+  yaw: 170.92845
+  pitch: 17.554668
+money: '16140.2625'

@@ -1,0 +1,25 @@
+logoutlocation:
+  world: spawn
+  x: 1.0936972419664404
+  y: 37.0
+  z: -7.522419095458124
+  yaw: 63.59933
+  pitch: 33.6
+timestamps:
+  logout: 1420708923464
+  login: 1420708574711
+  lastteleport: 1420708716751
+  kits:
+    pvp: 1420708808783
+    novice: 1419082031505
+money: '0.0'
+uuid: 28d44710-0632-4ffa-be01-02a09e084c0b
+ipAddress: 2.91.16.243
+lastlocation:
+  world: spawn
+  x: 0.46304320839602703
+  y: 107.0
+  z: -247.83192951930573
+  yaw: 195.74876
+  pitch: 8.10008
+lastAccountName: aaaz2040

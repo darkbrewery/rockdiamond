@@ -1,0 +1,27 @@
+lastAccountName: navyship
+timestamps:
+  login: 1422256432692
+  lastteleport: 1422258828093
+  kits:
+    novice: 1421899452596
+    pvp: 1421899475650
+    color: 1421902815441
+    adept: 1421912292080
+  logout: 1422259096571
+ipAddress: 124.170.10.224
+money: '13622.332826086973'
+lastlocation:
+  world: plotworld
+  x: -8.990730840867563
+  y: 69.0
+  z: 84.75422126530866
+  yaw: 204.30026
+  pitch: 52.499767
+logoutlocation:
+  world: plotworld
+  x: -8.710332332719851
+  y: 71.5
+  z: 87.56301396914189
+  yaw: -73.949585
+  pitch: 27.600061
+afk: false

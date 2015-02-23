@@ -1,0 +1,23 @@
+lastAccountName: pT_Snow
+timestamps:
+  login: 1421096544601
+  lastteleport: 1421096958389
+  kits:
+    novice: 1421096783014
+  logout: 1421096980108
+ipAddress: 98.221.45.204
+lastlocation:
+  world: spawn
+  x: 12.546806218326152
+  y: 94.0
+  z: -239.52943547709108
+  yaw: 10.049483
+  pitch: -0.4499853
+logoutlocation:
+  world: spawn
+  x: 0.5926279062553034
+  y: 36.0
+  z: -17.305595612258998
+  yaw: 356.6996
+  pitch: 1.1999855
+money: '48.0'

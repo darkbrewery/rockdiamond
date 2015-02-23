@@ -1,0 +1,25 @@
+lastAccountName: Brady150r
+timestamps:
+  login: 1420585288070
+  lastteleport: 1420586837523
+  logout: 1420586857036
+  kits:
+    pvp: 1420548462891
+    color: 1420548929763
+    adept: 1420548428985
+ipAddress: 122.62.96.146
+lastlocation:
+  world: spawn
+  x: 9.255706711467537
+  y: 123.0
+  z: -248.74005585985833
+  yaw: -308.9514
+  pitch: 11.359723
+logoutlocation:
+  world: mines
+  x: 349.4601222353556
+  y: 62.0
+  z: -9.18027239080586
+  yaw: -131.91818
+  pitch: 42.881195
+money: '350561.5138768116'

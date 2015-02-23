@@ -1,0 +1,25 @@
+uuid: b36061f0-c4bd-46ed-920c-cde55fbd12f7
+timestamps:
+  login: 1419659737937
+  lastteleport: 1419659751810
+  kits:
+    novice: 1417737537070
+    color: 1417737828058
+  logout: 1419659795809
+ipAddress: 121.211.16.4
+lastlocation:
+  world: spawn
+  x: 1.8985969665067395
+  y: 32.0
+  z: -1.860327190545977
+  yaw: 168.29938
+  pitch: 21.149992
+money: '72.0'
+logoutlocation:
+  world: mines
+  x: -5.145777172108701
+  y: 63.0
+  z: -8.358942321090783
+  yaw: 24.302628
+  pitch: 33.449993
+lastAccountName: godofmuff

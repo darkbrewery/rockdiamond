@@ -1,0 +1,24 @@
+uuid: 5ae761fd-2c6c-4c19-a9d4-deb170d6e462
+timestamps:
+  login: 1420074138776
+  lastteleport: 1419648692070
+  kits:
+    adept: 1419599314614
+  logout: 1420074146078
+ipAddress: 2.221.50.7
+lastlocation:
+  world: mines
+  x: 185.17247941195805
+  y: 58.0
+  z: -8.308663172719314
+  yaw: -162.01105
+  pitch: 22.280405
+money: '47340.946521739126'
+logoutlocation:
+  world: mines
+  x: 240.30000001192093
+  y: 48.0
+  z: -9.287469131466779
+  yaw: -277.2013
+  pitch: 90.0
+lastAccountName: mannminer

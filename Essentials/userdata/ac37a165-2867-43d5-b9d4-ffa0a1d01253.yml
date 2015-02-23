@@ -1,0 +1,23 @@
+lastAccountName: BrettBusiness
+timestamps:
+  login: 1423698329677
+  lastteleport: 1423581048568
+  kits:
+    pvp: 1423580666225
+  logout: 1423698472174
+ipAddress: 70.104.16.34
+lastlocation:
+  world: spawn
+  x: -0.6772282001641703
+  y: 30.0
+  z: -9.368767716331686
+  yaw: -3.5232189
+  pitch: 16.251707
+logoutlocation:
+  world: spawn
+  x: 1.9943759169986324
+  y: 37.0625
+  z: -8.371483162888524
+  yaw: 6.7322702
+  pitch: 29.526907
+money: '229.0'

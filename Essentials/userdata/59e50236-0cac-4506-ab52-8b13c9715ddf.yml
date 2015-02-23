@@ -1,0 +1,26 @@
+lastAccountName: CheyySage
+timestamps:
+  login: 1422139251894
+  lastteleport: 1422145565645
+  kits:
+    pvp: 1422139415535
+    novice: 1422139396262
+  logout: 1422145635687
+ipAddress: 108.247.89.196
+lastlocation:
+  world: spawn
+  x: 3.4074790993013946
+  y: 123.0
+  z: -238.34305322203346
+  yaw: -3.7999573
+  pitch: 13.800001
+money: '286085.8680434787'
+jailed: true
+jail: jail
+logoutlocation:
+  world: spawn
+  x: 54.512722631714006
+  y: 76.5625
+  z: -249.17182955581316
+  yaw: 74.0706
+  pitch: 14.781929

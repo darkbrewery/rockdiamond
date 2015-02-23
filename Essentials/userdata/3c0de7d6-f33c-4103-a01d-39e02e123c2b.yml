@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1416419785941
+  kits:
+    alpha: 1416419791686
+  logout: 1416419943340
+lastlocation:
+  world: spawn
+  x: 0.5075653308449546
+  y: 33.0
+  z: -28.125048608368648
+  yaw: -179.88313
+  pitch: -7.200009
+logoutlocation:
+  world: spawn
+  x: 10.13975857398993
+  y: 36.0
+  z: -6.674306439822432
+  yaw: 88.431946
+  pitch: -1.2794815
+money: '30.0'
+lastAccountName: playerslayer47

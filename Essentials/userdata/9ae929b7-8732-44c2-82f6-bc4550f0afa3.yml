@@ -1,0 +1,28 @@
+uuid: 9ae929b7-8732-44c2-82f6-bc4550f0afa3
+timestamps:
+  login: 1424474834108
+  lastteleport: 1422568610923
+  kits:
+    pvp: 1418431751870
+    novice: 1417880886015
+    adept: 1420925310796
+  logout: 1424474853791
+ipAddress: 71.190.146.183
+lastlocation:
+  world: spawn
+  x: 6.281210160417063
+  y: 74.0
+  z: -251.81623976190153
+  yaw: 84.28076
+  pitch: -2.8500059
+money: '10539.574615384614'
+logoutlocation:
+  world: plotworld
+  x: -9.052688645287999
+  y: 65.0
+  z: 17.315357720828963
+  yaw: 87.150154
+  pitch: 27.0
+afk: false
+godmode: false
+lastAccountName: cojo30438

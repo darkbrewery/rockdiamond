@@ -1,0 +1,21 @@
+lastAccountName: EsLoVeJames
+timestamps:
+  login: 1423978622203
+  lastteleport: 1423799263203
+  logout: 1423978639362
+ipAddress: 174.6.142.207
+lastlocation:
+  world: spawn
+  x: -2.137499988079071
+  y: 30.0
+  z: 51.74600168588887
+  yaw: 233.84946
+  pitch: 8.850035
+logoutlocation:
+  world: spawn
+  x: -7.550820349294335
+  y: 29.0
+  z: 4.118000427323507
+  yaw: 199.05284
+  pitch: -32.849987
+money: '30.0'

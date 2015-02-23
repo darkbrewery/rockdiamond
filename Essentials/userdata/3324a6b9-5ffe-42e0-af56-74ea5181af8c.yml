@@ -1,0 +1,21 @@
+lastAccountName: rexxy727
+timestamps:
+  login: 1421008374829
+  lastteleport: 1421008489631
+  logout: 1421008513849
+ipAddress: 69.124.144.152
+lastlocation:
+  world: spawn
+  x: 24.239375435087567
+  y: 34.5
+  z: -4.6004492314791685
+  yaw: 101.40287
+  pitch: 18.899965
+logoutlocation:
+  world: spawn
+  x: -22.324769373691563
+  y: 35.0
+  z: -7.09566352958277
+  yaw: 88.79947
+  pitch: 7.3499837
+money: '30.0'

@@ -1,0 +1,24 @@
+timestamps:
+  lastteleport: 1421817411968
+  kits:
+    pvp: 1421216371793
+    adept: 1421215777096
+  logout: 1421817956589
+  login: 1421817342303
+lastlocation:
+  world: plotworld
+  x: 41.50968984876518
+  y: 65.0
+  z: -16.38885960511395
+  yaw: -224.8479
+  pitch: 0.149971
+money: '76477.09058695655'
+logoutlocation:
+  world: plotworld
+  x: 44.61719118782716
+  y: 47.0
+  z: -20.65725133333484
+  yaw: -335.09985
+  pitch: 22.949987
+lastAccountName: turnipmaster
+ipAddress: 58.164.170.232

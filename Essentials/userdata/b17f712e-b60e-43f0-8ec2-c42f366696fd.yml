@@ -1,0 +1,22 @@
+uuid: b17f712e-b60e-43f0-8ec2-c42f366696fd
+timestamps:
+  login: 1418777775887
+  lastteleport: 1418777820808
+  logout: 1418777879415
+ipAddress: 174.99.40.216
+lastlocation:
+  world: spawn
+  x: 12.474291739489455
+  y: 102.0
+  z: -244.52855613539097
+  yaw: 96.898834
+  pitch: 3.1500754
+logoutlocation:
+  world: spawn
+  x: 2.4980652152704756
+  y: 115.0
+  z: -748.7900091360799
+  yaw: -88.546875
+  pitch: -4.8000193
+money: '30.0'
+lastAccountName: cuteblade

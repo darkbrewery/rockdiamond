@@ -1,0 +1,24 @@
+lastAccountName: daveinli
+timestamps:
+  login: 1420295756604
+  logout: 1420298118843
+  lastteleport: 1420297980858
+  kits:
+    pvp: 1420296262363
+    novice: 1420296127195
+ipAddress: 71.125.12.29
+logoutlocation:
+  world: spawn
+  x: 0.09229373897540516
+  y: 55.0
+  z: 9.639575477806048
+  yaw: -94.49833
+  pitch: 4.2000203
+lastlocation:
+  world: mines
+  x: -10.319772123505171
+  y: 63.0
+  z: -17.767613001814986
+  yaw: -180.2981
+  pitch: -15.299928
+money: '1569.2800000000004'

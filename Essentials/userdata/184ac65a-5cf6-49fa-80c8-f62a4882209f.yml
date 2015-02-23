@@ -1,0 +1,24 @@
+timestamps:
+  lastteleport: 1422064961084
+  kits:
+    color: 1418675061125
+  logout: 1422064980187
+  login: 1422064737412
+lastlocation:
+  world: mines
+  x: 215.30000001192093
+  y: 53.0
+  z: -10.15616800314493
+  yaw: -183.92578
+  pitch: 23.664135
+money: '36932.91'
+logoutlocation:
+  world: mines
+  x: 204.90246678636387
+  y: 65.0
+  z: -21.540949566135623
+  yaw: -46.22295
+  pitch: 26.520031
+uuid: 184ac65a-5cf6-49fa-80c8-f62a4882209f
+ipAddress: 96.30.156.20
+lastAccountName: pokemasterjacob

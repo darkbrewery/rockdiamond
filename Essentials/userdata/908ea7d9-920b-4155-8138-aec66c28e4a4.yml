@@ -1,0 +1,27 @@
+timestamps:
+  lastteleport: 1419101838996
+  kits:
+    pvp: 1419101637429
+    novice: 1419101612674
+    color: 1419101650331
+    alpha: 1416361373969
+  logout: 1419142049836
+  login: 1419141870936
+lastlocation:
+  world: spawn
+  x: 18.963257581617093
+  y: 106.0
+  z: -244.81080965933495
+  yaw: 340.64883
+  pitch: -6.8999534
+money: '91.46000000000001'
+logoutlocation:
+  world: plotworld
+  x: -52.00775805075721
+  y: 65.0
+  z: 41.51706997879654
+  yaw: 4.1968756
+  pitch: 41.24995
+uuid: 908ea7d9-920b-4155-8138-aec66c28e4a4
+ipAddress: 50.173.214.51
+lastAccountName: jusfofun

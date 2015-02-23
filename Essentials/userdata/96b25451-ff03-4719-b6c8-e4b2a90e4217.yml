@@ -1,0 +1,21 @@
+lastAccountName: RyanHavens33
+timestamps:
+  login: 1420870000937
+  lastteleport: 1420870215337
+  logout: 1420870219189
+ipAddress: 65.24.151.151
+lastlocation:
+  world: spawn
+  x: 0.7151998579521088
+  y: 33.0
+  z: -37.87254905746276
+  yaw: 174.14943
+  pitch: 10.649972
+logoutlocation:
+  world: spawn
+  x: 22.86250001192093
+  y: 114.0
+  z: -244.467936843168
+  yaw: 2.5488353
+  pitch: 33.150074
+money: '30.0'

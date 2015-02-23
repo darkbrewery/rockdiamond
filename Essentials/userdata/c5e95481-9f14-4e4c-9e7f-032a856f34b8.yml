@@ -1,0 +1,24 @@
+lastAccountName: AlphaWolf0719
+timestamps:
+  login: 1420732576892
+  lastteleport: 1420732999508
+  kits:
+    novice: 1420732854203
+    pvp: 1420732826194
+  logout: 1420733033929
+ipAddress: 24.15.47.204
+lastlocation:
+  world: spawn
+  x: 10.036238199842769
+  y: 106.0
+  z: -252.0444168160367
+  yaw: 190.04884
+  pitch: 2.700079
+logoutlocation:
+  world: spawn
+  x: -22.660679912224847
+  y: 35.0
+  z: -6.3622971388539735
+  yaw: 186.89941
+  pitch: -2.4000034
+money: '30.0'

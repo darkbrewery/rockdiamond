@@ -1,0 +1,19 @@
+timestamps:
+  lastteleport: 1419325039682
+  logout: 1419325080184
+lastlocation:
+  world: spawn
+  x: 0.24557270806141746
+  y: 29.0
+  z: 31.483600180354145
+  yaw: -359.70053
+  pitch: 21.900003
+logoutlocation:
+  world: spawn
+  x: 0.40209153438855466
+  y: 31.0
+  z: -6.300000011920931
+  yaw: -357.45032
+  pitch: 25.800014
+money: '30.0'
+lastAccountName: natethebrave

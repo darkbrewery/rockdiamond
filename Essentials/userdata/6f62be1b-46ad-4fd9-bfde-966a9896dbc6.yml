@@ -1,0 +1,21 @@
+lastAccountName: harryptman
+timestamps:
+  login: 1424367992593
+  lastteleport: 1424368265872
+  logout: 1424368278860
+ipAddress: 94.174.71.203
+lastlocation:
+  world: spawn
+  x: 12.568274598490483
+  y: 94.0
+  z: -237.2397781921396
+  yaw: 338.24875
+  pitch: 4.500028
+logoutlocation:
+  world: spawn
+  x: 12.50061726307314
+  y: 102.0
+  z: -244.38678805307052
+  yaw: -47.400753
+  pitch: 90.0
+money: '30.0'

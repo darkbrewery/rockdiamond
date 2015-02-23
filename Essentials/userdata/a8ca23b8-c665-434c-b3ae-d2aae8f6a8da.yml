@@ -1,0 +1,19 @@
+timestamps:
+  lastteleport: 1417204356914
+  logout: 1417204616236
+lastlocation:
+  world: plotworld
+  x: -7.528320824093333
+  y: 67.0
+  z: 8.909255068186146
+  yaw: -359.01257
+  pitch: -15.839775
+logoutlocation:
+  world: spawn
+  x: 0.664398005796031
+  y: 27.0
+  z: -5.54624273935414
+  yaw: -192.1347
+  pitch: -14.436416
+money: '30.0'
+lastAccountName: johnveach

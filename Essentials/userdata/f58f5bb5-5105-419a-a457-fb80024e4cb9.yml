@@ -1,0 +1,22 @@
+uuid: f58f5bb5-5105-419a-a457-fb80024e4cb9
+timestamps:
+  login: 1423886178771
+  lastteleport: 1423886224180
+  logout: 1423886340511
+ipAddress: 122.107.0.110
+lastlocation:
+  world: spawn
+  x: 1.0163897028298141
+  y: 34.0
+  z: 7.11544520534128
+  yaw: 93.75017
+  pitch: 77.54998
+logoutlocation:
+  world: mines
+  x: -17.275138867616146
+  y: 63.0
+  z: -6.306403350981842
+  yaw: -179.09743
+  pitch: 40.050022
+money: '4.6299999999999955'
+lastAccountName: ZiebenE

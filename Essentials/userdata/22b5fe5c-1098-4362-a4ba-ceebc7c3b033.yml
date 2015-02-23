@@ -1,0 +1,19 @@
+timestamps:
+  lastteleport: 1419427522176
+  logout: 1419427613526
+lastlocation:
+  world: spawn
+  x: 0.5899421072721055
+  y: 29.0
+  z: 53.07777276799324
+  yaw: 0.7494809
+  pitch: 7.6500077
+logoutlocation:
+  world: spawn
+  x: -2.5544087865713636
+  y: 37.0
+  z: -6.18438840849063
+  yaw: -88.646576
+  pitch: 11.399943
+money: '30.0'
+lastAccountName: '720325'

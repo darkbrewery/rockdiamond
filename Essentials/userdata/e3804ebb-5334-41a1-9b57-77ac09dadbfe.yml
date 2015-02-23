@@ -1,0 +1,25 @@
+lastAccountName: thatpiegy
+timestamps:
+  login: 1421216449382
+  lastteleport: 1421216235614
+  kits:
+    novice: 1421215477078
+    pvp: 1421214160011
+    color: 1421215430754
+  logout: 1421216744019
+ipAddress: 73.11.130.26
+lastlocation:
+  world: plotworld
+  x: -5.199560800112901
+  y: 65.0
+  z: -55.52939294464744
+  yaw: -276.60007
+  pitch: 14.249976
+money: '5660.105652173913'
+logoutlocation:
+  world: plotworld
+  x: -14.055350539887163
+  y: 65.5
+  z: -41.40357843349176
+  yaw: -296.40005
+  pitch: 27.750025

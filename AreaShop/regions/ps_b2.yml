@@ -1,0 +1,16 @@
+general:
+  name: ps_b2
+  world: spawn
+  type: rent
+  signs:
+    '0':
+      location:
+        world: spawn
+        x: 11.0
+        y: 41.0
+        z: -2010.0
+      facing: WEST
+      signType: WALL_SIGN
+rent:
+  price: 10000.0
+  duration: 10 days

@@ -1,0 +1,24 @@
+lastAccountName: GirlStory11
+timestamps:
+  login: 1422158837352
+  lastteleport: 1422159754599
+  kits:
+    pvp: 1422159010052
+    novice: 1422159003651
+  logout: 1422159813528
+ipAddress: 71.65.50.220
+lastlocation:
+  world: spawn
+  x: -21.729657618024383
+  y: 35.0
+  z: -5.81486194584483
+  yaw: 16.64862
+  pitch: -23.700012
+logoutlocation:
+  world: spawn
+  x: -0.24120992399618735
+  y: 55.0
+  z: -3.640392409729535
+  yaw: 30.001461
+  pitch: 14.549977
+money: '239.0'

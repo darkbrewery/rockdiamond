@@ -1,0 +1,24 @@
+lastAccountName: DanteBudder
+timestamps:
+  login: 1424635757925
+  lastteleport: 1424642840952
+  logout: 1424642886611
+  kits:
+    adept: 1423939748085
+ipAddress: 107.220.254.183
+lastlocation:
+  world: mines
+  x: 306.6856399528333
+  y: 62.0
+  z: -5.9499999880790675
+  yaw: 175.35199
+  pitch: 22.799934
+money: '867478.3361594203'
+afk: false
+logoutlocation:
+  world: spawn
+  x: 12.710715073412414
+  y: 82.0
+  z: -1230.7892552679928
+  yaw: 93.57678
+  pitch: 11.399985

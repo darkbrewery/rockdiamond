@@ -1,0 +1,23 @@
+uuid: dcfb630e-333e-4125-aa09-1c29d90ee58b
+timestamps:
+  login: 1422126454195
+  lastteleport: 1422127374444
+  logout: 1422127389852
+ipAddress: 24.187.176.90
+lastlocation:
+  world: mines
+  x: 99.4297180538674
+  y: 48.0
+  z: -12.635080978566135
+  yaw: -218.04974
+  pitch: 27.4955
+afk: false
+logoutlocation:
+  world: mines
+  x: 100.2755578739483
+  y: 64.0
+  z: -2.3278382601598766
+  yaw: 42.302647
+  pitch: 2.2499964
+money: '814.0625'
+lastAccountName: andy617

@@ -1,0 +1,24 @@
+lastAccountName: Jayce004
+timestamps:
+  login: 1422982356502
+  lastteleport: 1422982652641
+  kits:
+    pvp: 1422982040776
+    novice: 1422982032183
+  logout: 1422982693336
+ipAddress: 62.20.173.26
+money: '2355.0'
+lastlocation:
+  world: plotworld
+  x: 59.68162469964726
+  y: 65.0
+  z: -6.515123080225866
+  yaw: 30.299866
+  pitch: 5.4000096
+logoutlocation:
+  world: mines
+  x: -12.196931895626182
+  y: 63.0
+  z: -17.869025188672545
+  yaw: -203.39746
+  pitch: -5.399989

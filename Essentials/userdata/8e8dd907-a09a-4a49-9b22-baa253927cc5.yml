@@ -1,0 +1,22 @@
+uuid: 8e8dd907-a09a-4a49-9b22-baa253927cc5
+timestamps:
+  login: 1419115232391
+  lastteleport: 1419115290837
+  logout: 1419115305905
+ipAddress: 24.89.70.239
+lastlocation:
+  world: spawn
+  x: -0.7457047792036647
+  y: 37.0
+  z: -2.345093623034645
+  yaw: 27.452852
+  pitch: 37.349968
+logoutlocation:
+  world: spawn
+  x: -28.439598234326688
+  y: 75.0
+  z: -245.69999998807907
+  yaw: -4.9697027
+  pitch: 24.599993
+money: '55.0'
+lastAccountName: rolfolcopter2345

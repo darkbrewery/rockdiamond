@@ -1,0 +1,131 @@
+mine:
+  ==: pMine
+  region:
+    ==: PrisonRegion
+    minimum:
+      ==: Vector
+      x: 125.0
+      y: 48.0
+      z: -15.0
+    maximum:
+      ==: Vector
+      x: 133.0
+      y: 62.0
+      z: -7.0
+    world: mines
+  flags: []
+  breakBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  parent: null
+  blocks:
+  - ==: MineBlock
+    blockData: 1
+    blockId: 35
+    chance: 0.0625
+  - ==: MineBlock
+    blockData: 2
+    blockId: 35
+    chance: 0.0625
+  - ==: MineBlock
+    blockData: 3
+    blockId: 35
+    chance: 0.0625
+  - ==: MineBlock
+    blockData: 4
+    blockId: 35
+    chance: 0.0625
+  - ==: MineBlock
+    blockData: 5
+    blockId: 35
+    chance: 0.0625
+  - ==: MineBlock
+    blockData: 6
+    blockId: 35
+    chance: 0.0625
+  - ==: MineBlock
+    blockData: 7
+    blockId: 35
+    chance: 0.0625
+  - ==: MineBlock
+    blockData: 8
+    blockId: 35
+    chance: 0.0625
+  - ==: MineBlock
+    blockData: 9
+    blockId: 35
+    chance: 0.0625
+  - ==: MineBlock
+    blockData: 10
+    blockId: 35
+    chance: 0.0625
+  - ==: MineBlock
+    blockData: 0
+    blockId: 35
+    chance: 0.0625
+  - ==: MineBlock
+    blockData: 11
+    blockId: 35
+    chance: 0.0625
+  - ==: MineBlock
+    blockData: 12
+    blockId: 35
+    chance: 0.0625
+  - ==: MineBlock
+    blockData: 13
+    blockId: 35
+    chance: 0.0625
+  - ==: MineBlock
+    blockData: 14
+    blockId: 35
+    chance: 0.0625
+  - ==: MineBlock
+    blockData: 15
+    blockId: 35
+    chance: 0.0625
+  - ==: MineBlock
+    blockData: 0
+    blockId: 0
+    chance: 5.551115123125783E-17
+  tpPoint:
+    ==: SimpleLoc
+    yaw: 90.752495
+    pitch: -0.59998316
+    z: -10.5
+    y: 63.0
+    world: mines
+    x: 137.5
+  blocksLeft: 1215
+  resetTriggers:
+  - ==: CompositionTrigger
+    percent: '0.5'
+    mine: H
+  id: H
+  warningTimes: []
+  placeBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  cooldownPeriod: 0
+  name: ''
+  blockReplaceBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  protectionRegion:
+    ==: PrisonRegion
+    minimum:
+      ==: Vector
+      x: 125.0
+      y: 48.0
+      z: -15.0
+    maximum:
+      ==: Vector
+      x: 133.0
+      y: 62.0
+      z: -7.0
+    world: mines
+  world: mines
+  enabledProtection: []
+  cooldownEnabled: false

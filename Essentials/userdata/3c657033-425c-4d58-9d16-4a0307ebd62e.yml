@@ -1,0 +1,26 @@
+uuid: 3c657033-425c-4d58-9d16-4a0307ebd62e
+timestamps:
+  login: 1420229978594
+  lastteleport: 1418986855810
+  kits:
+    pvp: 1418944419877
+    novice: 1418942931946
+  logout: 1420230000934
+ipAddress: 98.15.145.180
+lastlocation:
+  world: plotworld
+  x: -80.0894321233018
+  y: 65.0
+  z: -30.623499585663772
+  yaw: -265.20007
+  pitch: -4.350003
+money: '17064.289230769224'
+afk: false
+logoutlocation:
+  world: mines
+  x: 184.22944970040783
+  y: 63.0
+  z: -11.699999988079071
+  yaw: -87.146
+  pitch: 13.5
+lastAccountName: littlemacro

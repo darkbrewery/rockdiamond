@@ -1,0 +1,21 @@
+lastAccountName: Lepicachoo
+timestamps:
+  login: 1421012537838
+  lastteleport: 1420970150844
+  logout: 1421012581941
+ipAddress: 73.37.79.15
+lastlocation:
+  world: spawn
+  x: 7.279075724899253
+  y: 55.0
+  z: 5.496951835185502
+  yaw: 174.90865
+  pitch: 23.626284
+logoutlocation:
+  world: spawn
+  x: 5.753994698494413
+  y: 33.0
+  z: -35.95717012324868
+  yaw: -308.86447
+  pitch: 5.994618
+money: '12.0'

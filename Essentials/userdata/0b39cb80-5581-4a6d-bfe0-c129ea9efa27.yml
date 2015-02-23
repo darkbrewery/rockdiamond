@@ -1,0 +1,26 @@
+lastAccountName: TMT9999
+timestamps:
+  login: 1422379127106
+  lastteleport: 1422380044847
+  kits:
+    pvp: 1421343118930
+    novice: 1421353702868
+    color: 1421343098475
+    adept: 1421346878132
+  logout: 1422380200086
+ipAddress: 84.209.56.39
+lastlocation:
+  world: spawn
+  x: 23.974504252518862
+  y: 114.0
+  z: -243.03491665056012
+  yaw: -241.6511
+  pitch: 40.800068
+money: '1945897.1400000001'
+logoutlocation:
+  world: spawn
+  x: 8.876085661485435
+  y: 82.0
+  z: -1237.186940123318
+  yaw: -262.073
+  pitch: 25.199942

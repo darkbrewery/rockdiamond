@@ -1,0 +1,27 @@
+uuid: ea4e8ab9-4c6c-4eed-b5dc-01383e10edc2
+timestamps:
+  login: 1422960922853
+  kits:
+    color: 1417555695703
+    alpha: 1417559191190
+    stoner: 1417557614182
+  lastteleport: 1422961093530
+  logout: 1422961327411
+ipAddress: 46.65.160.144
+lastlocation:
+  world: plotworld
+  x: -10.940345832247994
+  y: 59.5
+  z: 8.727215117449443
+  yaw: 90.73525
+  pitch: -17.250008
+money: '9485262.559999999'
+logoutlocation:
+  world: plotworld
+  x: 77.10206160455459
+  y: 71.0
+  z: -82.15975043295407
+  yaw: 11.999448
+  pitch: 36.30001
+lastAccountName: bertieboy23
+godmode: false

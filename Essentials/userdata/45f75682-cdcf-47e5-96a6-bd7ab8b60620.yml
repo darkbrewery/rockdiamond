@@ -1,0 +1,25 @@
+uuid: 45f75682-cdcf-47e5-96a6-bd7ab8b60620
+timestamps:
+  login: 1421679442886
+  lastteleport: 1421681010217
+  kits:
+    pvp: 1419456239137
+    novice: 1419456237740
+  logout: 1421681109347
+ipAddress: 107.193.77.40
+lastlocation:
+  world: mines
+  x: 159.43955469747272
+  y: 54.0
+  z: -9.69999998807907
+  yaw: -86.95932
+  pitch: -52.87958
+logoutlocation:
+  world: mines
+  x: 156.0426067318382
+  y: 64.0
+  z: -3.506989516875279
+  yaw: -307.1777
+  pitch: -2.1610656
+money: '42198.17'
+lastAccountName: FrostedBlade

@@ -1,0 +1,22 @@
+uuid: c03c28f2-94fc-4af7-9ec2-d5f8cc3d73d2
+timestamps:
+  login: 1419653158142
+  lastteleport: 1419653435549
+  logout: 1419653518063
+ipAddress: 99.231.125.9
+lastlocation:
+  world: spawn
+  x: 25.682603941394277
+  y: 114.0
+  z: -244.8420060844713
+  yaw: 75.748726
+  pitch: 3.1500752
+logoutlocation:
+  world: spawn
+  x: 1.5957673478657424
+  y: 26.0
+  z: -10.041778798768064
+  yaw: 97.648544
+  pitch: 35.400005
+money: '35.0'
+lastAccountName: an29dy

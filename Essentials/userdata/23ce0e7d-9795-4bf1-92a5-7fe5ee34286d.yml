@@ -1,0 +1,25 @@
+uuid: 23ce0e7d-9795-4bf1-92a5-7fe5ee34286d
+timestamps:
+  login: 1419447228714
+  logout: 1419450774268
+  lastteleport: 1419450644219
+  kits:
+    pvp: 1419431623114
+    novice: 1419431606841
+ipAddress: 99.89.22.2
+logoutlocation:
+  world: spawn
+  x: 4.608060673157496
+  y: 123.0
+  z: -239.70639898008076
+  yaw: -213.5509
+  pitch: 42.203716
+money: '341.7282608695641'
+lastlocation:
+  world: mines
+  x: 185.69999998807907
+  y: 58.0
+  z: -11.76249998807907
+  yaw: -186.29797
+  pitch: 23.675623
+lastAccountName: spartakiller3000

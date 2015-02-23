@@ -1,0 +1,22 @@
+uuid: ae61c6fc-1dec-4725-8f2f-1a7785218eab
+timestamps:
+  login: 1419700948141
+  lastteleport: 1419701017759
+  logout: 1419701096327
+ipAddress: 95.160.218.217
+lastlocation:
+  world: spawn
+  x: 0.4142695191962032
+  y: 29.0
+  z: 53.09020013540282
+  yaw: -0.6005129
+  pitch: 4.0500093
+logoutlocation:
+  world: spawn
+  x: 9.50242768923571
+  y: 33.0
+  z: -33.60755528999094
+  yaw: 61.952698
+  pitch: 17.099968
+money: '30.0'
+lastAccountName: oleg3250

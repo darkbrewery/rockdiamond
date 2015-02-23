@@ -1,0 +1,25 @@
+uuid: 42e104a9-22df-4947-a4e9-f55967d829b5
+timestamps:
+  login: 1416686856360
+  lastteleport: 1416690966751
+  kits:
+    color: 1416687365596
+    alpha: 1416688234295
+  logout: 1416691006812
+ipAddress: 73.174.162.26
+lastlocation:
+  world: mines
+  x: 10.051037272454822
+  y: 63.0
+  z: -14.33661155396635
+  yaw: 349.20248
+  pitch: 27.749983
+logoutlocation:
+  world: mines
+  x: -6.294165285546385
+  y: 44.0
+  z: -6.300000011920929
+  yaw: -6.2972207
+  pitch: -90.0
+money: '1573.25'
+lastAccountName: msphoenix420

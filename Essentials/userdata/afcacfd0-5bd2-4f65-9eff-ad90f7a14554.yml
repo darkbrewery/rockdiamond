@@ -1,0 +1,22 @@
+uuid: afcacfd0-5bd2-4f65-9eff-ad90f7a14554
+timestamps:
+  login: 1422178823379
+  lastteleport: 1419434524242
+  logout: 1422179102321
+ipAddress: 80.195.210.2
+lastlocation:
+  world: spawn
+  x: -1.9057873556524518
+  y: 32.0
+  z: -1.8698513578480656
+  yaw: 292.1964
+  pitch: 21.000069
+logoutlocation:
+  world: plotworld
+  x: -58.655013031596226
+  y: 58.0
+  z: 41.23290846328016
+  yaw: 247.34993
+  pitch: 38.399944
+money: '60.0'
+lastAccountName: MinecraftDcb

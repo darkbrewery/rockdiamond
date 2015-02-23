@@ -1,0 +1,26 @@
+uuid: 23d8647f-5819-498b-9c45-bea56779f719
+timestamps:
+  login: 1419886067068
+  lastteleport: 1419888250102
+  kits:
+    pvp: 1419886329129
+    novice: 1419886305881
+    adept: 1419887286594
+  logout: 1419888306823
+ipAddress: 67.231.33.100
+lastlocation:
+  world: mines
+  x: 190.30000001192093
+  y: 63.88769346100205
+  z: -1.3000000119209298
+  yaw: 207.00421
+  pitch: 34.94999
+money: '29117.5'
+logoutlocation:
+  world: spawn
+  x: 0.696042653583097
+  y: 37.0
+  z: -7.034685566935627
+  yaw: 356.99966
+  pitch: -9.599998
+lastAccountName: drag0nborn94

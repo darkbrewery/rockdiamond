@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1417843454845
+  logout: 1422494576710
+  login: 1422494459322
+lastlocation:
+  world: spawn
+  x: 10.832288197964976
+  y: 106.0
+  z: -251.81470462796122
+  yaw: -181.57993
+  pitch: 7.190334
+logoutlocation:
+  world: plotworld
+  x: -73.55185902529416
+  y: 65.0
+  z: -18.69999998807907
+  yaw: 173.62415
+  pitch: 55.243004
+money: '190.16'
+lastAccountName: Team_Vex
+ipAddress: 98.208.104.91

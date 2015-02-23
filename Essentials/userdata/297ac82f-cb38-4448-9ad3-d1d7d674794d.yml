@@ -1,0 +1,27 @@
+timestamps:
+  lastteleport: 1418652882151
+  kits:
+    pvp: 1418652388150
+    novice: 1418651848700
+    color: 1418597415707
+    adept: 1418651480551
+  logout: 1418653231609
+  login: 1418651437742
+lastlocation:
+  world: spawn
+  x: -0.25039132988597906
+  y: 100.0
+  z: -3.859884067164427
+  yaw: -5.4295044
+  pitch: 7.5727806
+money: '27271.019230769238'
+logoutlocation:
+  world: mines
+  x: 187.24779859971923
+  y: 58.0
+  z: -10.0473981825011
+  yaw: -288.09882
+  pitch: 10.176795
+uuid: 297ac82f-cb38-4448-9ad3-d1d7d674794d
+ipAddress: 67.185.224.101
+lastAccountName: greyjames

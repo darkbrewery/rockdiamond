@@ -1,0 +1,24 @@
+uuid: 60f3e66f-b7a5-4221-ae4e-4b3b47453f21
+timestamps:
+  login: 1418345519310
+  lastteleport: 1418346782215
+  kits:
+    novice: 1418345656624
+  logout: 1418346874420
+ipAddress: 50.43.77.51
+lastlocation:
+  world: spawn
+  x: -20.445962793703412
+  y: 35.0
+  z: -7.830918206808821
+  yaw: -246.45053
+  pitch: 7.199987
+logoutlocation:
+  world: spawn
+  x: 5.827630863665223
+  y: 55.0
+  z: -1.6579863685586822
+  yaw: -216.14832
+  pitch: 6.599991
+money: '89.5'
+lastAccountName: turrtleman132

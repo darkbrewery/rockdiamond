@@ -1,0 +1,24 @@
+uuid: efd874b7-3b49-4426-bf04-5a64e8882429
+timestamps:
+  login: 1417544783262
+  kits:
+    alpha: 1417544822577
+  lastteleport: 1417544829521
+  logout: 1417544840922
+ipAddress: 212.10.83.26
+lastlocation:
+  world: spawn
+  x: 0.12700598447956357
+  y: 100.0
+  z: -1.6368299278999334
+  yaw: -1.9504395
+  pitch: 3.3000038
+logoutlocation:
+  world: spawn
+  x: -0.9631519961028758
+  y: 33.0
+  z: -27.76422393512284
+  yaw: -110.70056
+  pitch: 11.999993
+money: '30.0'
+lastAccountName: silleandoscar

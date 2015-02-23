@@ -1,0 +1,26 @@
+uuid: 94560f75-a7be-4420-b408-f42443717c30
+timestamps:
+  login: 1418984214864
+  kits:
+    color: 1417248628706
+    alpha: 1417220531088
+    stoner: 1417249640105
+  lastteleport: 1418984272387
+  logout: 1418984296116
+ipAddress: 176.76.74.142
+lastlocation:
+  world: mines
+  x: 94.03184915744383
+  y: 63.0
+  z: -8.066196297257678
+  yaw: 108.90221
+  pitch: 9.300017
+money: '30.0'
+logoutlocation:
+  world: spawn
+  x: 0.5
+  y: 102.0
+  z: -11.5
+  yaw: -359.85046
+  pitch: 1.3500036
+lastAccountName: viciousslime

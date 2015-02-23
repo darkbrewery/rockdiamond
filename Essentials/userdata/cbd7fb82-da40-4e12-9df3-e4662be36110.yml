@@ -1,0 +1,26 @@
+lastAccountName: babolat1265
+timestamps:
+  login: 1422100390693
+  lastteleport: 1421866300608
+  kits:
+    novice: 1421864359003
+    pvp: 1421182021007
+    color: 1420833468947
+    adept: 1421862514388
+  logout: 1422100545381
+ipAddress: 77.86.120.81
+lastlocation:
+  world: mines
+  x: 237.5
+  y: 62.0
+  z: -20.5
+  yaw: -28.64502
+  pitch: 0.15003052
+logoutlocation:
+  world: mines
+  x: 213.33390516901966
+  y: 64.0
+  z: -16.226290080048337
+  yaw: 1.2026062
+  pitch: 12.599994
+money: '184363.4386231887'

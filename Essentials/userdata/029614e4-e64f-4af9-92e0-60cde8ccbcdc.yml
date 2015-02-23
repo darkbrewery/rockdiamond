@@ -1,0 +1,25 @@
+uuid: 029614e4-e64f-4af9-92e0-60cde8ccbcdc
+timestamps:
+  login: 1424127396259
+  lastteleport: 1424127597542
+  kits:
+    novice: 1420065807583
+    pvp: 1424127610015
+  logout: 1424127811025
+ipAddress: 69.76.228.160
+lastlocation:
+  world: spawn
+  x: 27.74195791474417
+  y: 35.5
+  z: -7.807861468658221
+  yaw: -265.68964
+  pitch: 16.146324
+logoutlocation:
+  world: plotworld
+  x: 0.17204202517666667
+  y: 65.0
+  z: 68.07057544259952
+  yaw: 67.44397
+  pitch: 66.107346
+money: '171.04999999999998'
+lastAccountName: mdaahb

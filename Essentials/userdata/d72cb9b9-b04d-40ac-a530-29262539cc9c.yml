@@ -1,0 +1,23 @@
+money: '15711.0'
+timestamps:
+  lastteleport: 1419473659776
+  kits:
+    pvp: 1419473519296
+    novice: 1419472897364
+    adept: 1419473486331
+  logout: 1419473755496
+lastlocation:
+  world: mines
+  x: 180.56083249988777
+  y: 63.0
+  z: -13.144054664069664
+  yaw: -181.64569
+  pitch: 15.900001
+logoutlocation:
+  world: spawn
+  x: 12.771069183391628
+  y: 123.0
+  z: -241.12995993934499
+  yaw: -130.09988
+  pitch: -65.55
+lastAccountName: xkermanatorx

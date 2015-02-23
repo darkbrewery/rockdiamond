@@ -1,0 +1,21 @@
+lastAccountName: fredrik323
+timestamps:
+  login: 1420919551798
+  lastteleport: 1420919825439
+  logout: 1420919827338
+ipAddress: 212.242.187.194
+lastlocation:
+  world: spawn
+  x: 13.192723416173958
+  y: 94.5
+  z: -235.86592897537975
+  yaw: -16.950764
+  pitch: 34.350025
+logoutlocation:
+  world: spawn
+  x: 23.5
+  y: 114.0
+  z: -244.5
+  yaw: 208.79884
+  pitch: 17.700077
+money: '30.0'

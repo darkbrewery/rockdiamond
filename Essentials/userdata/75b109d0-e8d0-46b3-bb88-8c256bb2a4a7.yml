@@ -1,0 +1,25 @@
+uuid: 75b109d0-e8d0-46b3-bb88-8c256bb2a4a7
+timestamps:
+  login: 1416412718376
+  kits:
+    color: 1416411227170
+    alpha: 1416411304337
+  lastteleport: 1416411440033
+  logout: 1416412724575
+ipAddress: 98.255.28.3
+lastlocation:
+  world: spawn
+  x: -3.284615488581478
+  y: 55.0
+  z: -2.457131723406756
+  yaw: -308.54956
+  pitch: 28.64998
+money: '11.0'
+logoutlocation:
+  world: spawn
+  x: -21.026687931775534
+  y: 35.0
+  z: -5.592701653798198
+  yaw: -91.05047
+  pitch: 4.799971
+lastAccountName: bananacow571

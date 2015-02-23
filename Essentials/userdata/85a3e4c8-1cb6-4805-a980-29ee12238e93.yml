@@ -1,0 +1,21 @@
+lastAccountName: Funkeyroll
+timestamps:
+  login: 1422159385192
+  lastteleport: 1422159117184
+  logout: 1422159447439
+ipAddress: 24.247.118.52
+lastlocation:
+  world: spawn
+  x: 0.44200297686620615
+  y: 29.0
+  z: 52.44874858336941
+  yaw: -0.60051244
+  pitch: 2.400005
+logoutlocation:
+  world: spawn
+  x: -3.721508797192686
+  y: 37.0
+  z: -6.553444007692257
+  yaw: 97.35281
+  pitch: 16.349983
+money: '30.0'

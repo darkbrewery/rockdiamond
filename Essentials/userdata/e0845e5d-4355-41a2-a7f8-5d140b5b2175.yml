@@ -1,0 +1,21 @@
+lastAccountName: niklas101006
+timestamps:
+  login: 1420887461009
+  lastteleport: 1420887596197
+  logout: 1420887737088
+ipAddress: 83.94.247.86
+lastlocation:
+  world: spawn
+  x: 0.54006195966789
+  y: 29.0
+  z: 53.41692994798924
+  yaw: 7.64949
+  pitch: 4.800012
+logoutlocation:
+  world: spawn
+  x: -21.65808799816253
+  y: 35.0
+  z: -6.334368564330115
+  yaw: 280.95215
+  pitch: -5.8500423
+money: '0.0'

@@ -1,0 +1,22 @@
+logoutlocation:
+  world: plotworld
+  x: 44.12945763331862
+  y: 65.0
+  z: 24.79593421888927
+  yaw: -287.84973
+  pitch: 12.600015
+timestamps:
+  logout: 1419111734549
+  login: 1419110838463
+  lastteleport: 1419111545295
+uuid: 2393b45d-5057-4bb5-97e6-84c0d2a5ec8e
+ipAddress: 70.65.85.123
+lastlocation:
+  world: mines
+  x: -4.326984217940998
+  y: 63.0
+  z: -9.341619121030348
+  yaw: 310.9524
+  pitch: 15.600007
+money: '146.75'
+lastAccountName: bitdroidhd

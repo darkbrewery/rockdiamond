@@ -1,0 +1,21 @@
+uuid: 35c52fa7-781a-4482-8784-e69a9b7c2c19
+timestamps:
+  login: 1417721850359
+  lastteleport: 1417725935309
+  logout: 1417726113019
+ipAddress: 82.173.34.62
+lastlocation:
+  world: spawn
+  x: 0.24858801887559934
+  y: 29.0
+  z: 51.42742005182371
+  yaw: -6.1505113
+  pitch: -12.599999
+logoutlocation:
+  world: plotworld
+  x: 5.3000000119209165
+  y: 65.0
+  z: 76.69999998807907
+  yaw: 199.94952
+  pitch: 22.050028
+lastAccountName: cocogil61

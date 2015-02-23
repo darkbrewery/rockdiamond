@@ -1,0 +1,23 @@
+lastAccountName: LlamaDoomFace
+timestamps:
+  login: 1423005176030
+  lastteleport: 1423005684484
+  kits:
+    pvp: 1423005270497
+  logout: 1423005745141
+ipAddress: 68.37.4.73
+lastlocation:
+  world: spawn
+  x: 12.581995596206273
+  y: 107.0
+  z: -241.80364894001852
+  yaw: -185.401
+  pitch: 7.6500673
+logoutlocation:
+  world: spawn
+  x: -1.0749176492110768
+  y: 29.0
+  z: -5.4687830734367315
+  yaw: 223.64973
+  pitch: 42.299953
+money: '43.0'

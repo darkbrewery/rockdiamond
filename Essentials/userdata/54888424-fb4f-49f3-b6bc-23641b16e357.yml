@@ -1,0 +1,22 @@
+uuid: 54888424-fb4f-49f3-b6bc-23641b16e357
+timestamps:
+  login: 1419997204934
+  lastteleport: 1419997510253
+  logout: 1419997711716
+ipAddress: 174.48.108.102
+money: '30.0'
+lastlocation:
+  world: spawn
+  x: 1.0229762196540833
+  y: 29.0
+  z: 46.370303271032896
+  yaw: -2.550513
+  pitch: 4.050006
+logoutlocation:
+  world: spawn
+  x: -9.086833965016973
+  y: 33.0
+  z: -32.64763400489838
+  yaw: -229.35052
+  pitch: 65.84998
+lastAccountName: antbo_dragneel

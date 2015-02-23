@@ -1,0 +1,21 @@
+lastAccountName: ChristinaH123
+timestamps:
+  login: 1421742543145
+  lastteleport: 1421743321988
+  logout: 1421743359949
+ipAddress: 98.253.229.107
+lastlocation:
+  world: spawn
+  x: 0.5315396595500819
+  y: 55.0
+  z: -13.47183496602894
+  yaw: -181.19824
+  pitch: 6.599993
+logoutlocation:
+  world: spawn
+  x: -1.0521747023511463
+  y: 32.0
+  z: -1.6173797957500209
+  yaw: -303.3006
+  pitch: 19.35001
+money: '88.4'

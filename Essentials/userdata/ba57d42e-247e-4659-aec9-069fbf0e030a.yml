@@ -1,0 +1,26 @@
+uuid: ba57d42e-247e-4659-aec9-069fbf0e030a
+timestamps:
+  login: 1420670870532
+  lastteleport: 1419988379893
+  kits:
+    novice: 1419986386727
+    pvp: 1420670910419
+    color: 1419987403446
+  logout: 1420670913668
+ipAddress: 209.6.194.42
+lastlocation:
+  world: spawn
+  x: 3.7291499656854565
+  y: 106.0
+  z: -244.56864024143218
+  yaw: -269.40115
+  pitch: 4.350043
+money: '12.129999999999995'
+logoutlocation:
+  world: spawn
+  x: -4.329827984099928
+  y: 80.5
+  z: -1237.731377331928
+  yaw: -268.3735
+  pitch: 8.850004
+lastAccountName: spiderpiggy99

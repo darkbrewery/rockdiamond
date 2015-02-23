@@ -1,0 +1,22 @@
+uuid: 816acdcf-9b75-42a0-904e-52319cef9964
+timestamps:
+  login: 1416435459128
+  lastteleport: 1416435689498
+  logout: 1416435967025
+ipAddress: 173.74.218.253
+lastlocation:
+  world: spawn
+  x: 0.6151827309094542
+  y: 34.0
+  z: 7.028631505962171
+  yaw: 183.1648
+  pitch: -25.56045
+logoutlocation:
+  world: spawn
+  x: 22.96640786483283
+  y: 34.0
+  z: -6.597125791089119
+  yaw: 94.899635
+  pitch: 7.8703914
+money: '71.37903225806451'
+lastAccountName: sweden_ftw

@@ -1,0 +1,24 @@
+lastAccountName: GenXerGuy
+timestamps:
+  login: 1423920657355
+  lastteleport: 1423920768353
+  kits:
+    novice: 1423401013980
+    color: 1423401714679
+  logout: 1423920781017
+ipAddress: 71.207.12.41
+lastlocation:
+  world: spawn
+  x: 21.122008609984437
+  y: 35.0
+  z: -10.35703320440389
+  yaw: 168.89949
+  pitch: 4.9500012
+money: '3864.771739130435'
+logoutlocation:
+  world: mines
+  x: 130.69999998807904
+  y: 60.0
+  z: -10.699999988079071
+  yaw: 102.902374
+  pitch: 4.65002

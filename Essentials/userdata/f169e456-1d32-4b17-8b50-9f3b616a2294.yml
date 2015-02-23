@@ -1,0 +1,26 @@
+lastAccountName: ratboy5
+timestamps:
+  login: 1421787846261
+  logout: 1421787877523
+  lastteleport: 1421732414997
+  kits:
+    pvp: 1421732373157
+    novice: 1421318418269
+    color: 1421732269581
+    adept: 1421318032798
+ipAddress: 121.222.52.24
+logoutlocation:
+  world: mines
+  x: 241.684151426739
+  y: 52.0
+  z: -5.584793621987101
+  yaw: 144.3653
+  pitch: 11.436227
+lastlocation:
+  world: mines
+  x: 214.22839435758146
+  y: 64.0
+  z: -15.588310089544988
+  yaw: 26.512695
+  pitch: 26.664368
+money: '22431.3'

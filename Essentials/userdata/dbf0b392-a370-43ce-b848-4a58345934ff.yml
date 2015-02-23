@@ -1,0 +1,25 @@
+lastAccountName: BudderGod32
+timestamps:
+  login: 1422133438935
+  lastteleport: 1422134012084
+  kits:
+    pvp: 1422133522574
+    novice: 1422133516573
+    color: 1422133920383
+  logout: 1422134021055
+ipAddress: 70.191.241.207
+lastlocation:
+  world: spawn
+  x: 8.953291188602812
+  y: 55.0
+  z: -1.1847794704978605
+  yaw: -5.4500732
+  pitch: -21.187191
+logoutlocation:
+  world: spawn
+  x: -0.3000000119209297
+  y: 28.0
+  z: -6.110283025821299
+  yaw: 203.23502
+  pitch: 17.624405
+money: '4.009999999999991'

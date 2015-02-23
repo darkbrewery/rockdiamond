@@ -1,0 +1,21 @@
+lastAccountName: trace1243
+timestamps:
+  login: 1421198397873
+  logout: 1421198575199
+  lastteleport: 1421198504082
+ipAddress: 24.23.84.68
+logoutlocation:
+  world: spawn
+  x: 0.23741502166626632
+  y: 36.0
+  z: -17.780242624546307
+  yaw: 359.10266
+  pitch: -1.9500278
+money: '30.0'
+lastlocation:
+  world: spawn
+  x: 0.3007370507111773
+  y: 29.0
+  z: 53.476418718379975
+  yaw: -3.6005132
+  pitch: 8.100008

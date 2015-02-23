@@ -1,0 +1,25 @@
+uuid: 70770dcd-9747-47a6-bd02-352dc234d5b4
+timestamps:
+  login: 1420999093746
+  logout: 1421000426257
+  lastteleport: 1421000420007
+  kits:
+    novice: 1420999980436
+    pvp: 1420999958180
+ipAddress: 77.96.244.252
+logoutlocation:
+  world: mines
+  x: -11.854760835248737
+  y: 63.0
+  z: -3.9394763872385408
+  yaw: -125.24751
+  pitch: 13.050012
+money: '10.75'
+lastAccountName: Lavanis
+lastlocation:
+  world: spawn
+  x: 0.8359730957046648
+  y: 55.0
+  z: 7.54552221358751
+  yaw: -357.59863
+  pitch: 49.04999

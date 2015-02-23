@@ -1,0 +1,24 @@
+uuid: 9bce6aa8-b386-4c15-aa56-ba7c86e7f135
+timestamps:
+  login: 1416387470822
+  lastteleport: 1416387548120
+  kits:
+    alpha: 1416387582038
+  logout: 1416387624681
+ipAddress: 199.190.58.113
+lastlocation:
+  world: spawn
+  x: 0.9398647016231756
+  y: 34.0
+  z: 8.512606636720887
+  yaw: -103.684074
+  pitch: -7.0559883
+logoutlocation:
+  world: spawn
+  x: 0.08957180850024235
+  y: 37.0
+  z: -12.143528344925844
+  yaw: 7.3783264
+  pitch: 2.2176147
+money: '30.0'
+lastAccountName: poopmembrane

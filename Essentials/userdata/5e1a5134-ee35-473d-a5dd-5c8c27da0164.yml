@@ -1,0 +1,23 @@
+lastAccountName: TheDrizzlyBear
+timestamps:
+  login: 1422116191842
+  lastteleport: 1422116973600
+  kits:
+    novice: 1422116515069
+  logout: 1422117132702
+ipAddress: 174.109.143.253
+lastlocation:
+  world: spawn
+  x: 11.57484236679645
+  y: 106.0
+  z: -250.12696327426215
+  yaw: 244.04875
+  pitch: 6.450058
+logoutlocation:
+  world: spawn
+  x: 0.24187797433209154
+  y: 37.0625
+  z: -5.13800916165804
+  yaw: 180.58563
+  pitch: 6.3280525
+money: '68.0'

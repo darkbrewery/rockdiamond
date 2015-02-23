@@ -1,0 +1,22 @@
+uuid: f6db9ccd-7058-4d26-b13d-a46e8fa51fff
+timestamps:
+  login: 1418666660131
+  lastteleport: 1418666732135
+  logout: 1418666761588
+ipAddress: 189.11.111.28
+lastlocation:
+  world: spawn
+  x: 0.5949766196670028
+  y: 34.0
+  z: 8.077351797017101
+  yaw: -177.90051
+  pitch: 40.19998
+logoutlocation:
+  world: spawn
+  x: -1.7822718562347166
+  y: 33.0
+  z: -29.645547453220658
+  yaw: -198.60052
+  pitch: 9.599982
+money: '30.0'
+lastAccountName: mrjoe_hd

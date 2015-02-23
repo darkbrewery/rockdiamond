@@ -1,0 +1,28 @@
+uuid: 5d30089b-60eb-4028-9c82-9924a70ab532
+timestamps:
+  login: 1424013704934
+  logout: 1424013917058
+  lastteleport: 1424013866476
+  kits:
+    expert: 1421879097562
+    alpha: 1417544597273
+    adept: 1421878422344
+ipAddress: 70.122.244.58
+lastlocation:
+  world: mines
+  x: 429.4154927213676
+  y: 67.0
+  z: 4.501079410782638
+  yaw: -3.297943
+  pitch: 2.7000477
+logoutlocation:
+  world: spawn
+  x: 2.776479370056581
+  y: 60.0
+  z: -251.24202639599633
+  yaw: -82.2015
+  pitch: 10.050004
+money: '776433.3867447051'
+nickname: whiteyoshi645
+afk: false
+lastAccountName: whiteyoshi645

@@ -1,0 +1,25 @@
+uuid: d6ef4430-2222-4f17-b91e-6be2090cc577
+timestamps:
+  login: 1423265112336
+  lastteleport: 1423265086514
+  logout: 1423265233944
+  kits:
+    pvp: 1421187502957
+    adept: 1421192540099
+ipAddress: 75.12.90.0
+lastlocation:
+  world: mines
+  x: 212.30000001192093
+  y: 59.0
+  z: -7.69999998807907
+  yaw: -75.74768
+  pitch: -11.1000185
+logoutlocation:
+  world: plotworld
+  x: 41.24511873933773
+  y: 65.0
+  z: -31.96836614350051
+  yaw: -45.450073
+  pitch: 34.349995
+money: '8778.642753623288'
+lastAccountName: maniacslayer9991

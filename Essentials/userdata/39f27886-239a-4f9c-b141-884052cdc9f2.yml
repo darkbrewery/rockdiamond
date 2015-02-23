@@ -1,0 +1,22 @@
+uuid: 39f27886-239a-4f9c-b141-884052cdc9f2
+timestamps:
+  login: 1418346972360
+  lastteleport: 1418347605921
+  logout: 1418348687057
+ipAddress: 71.213.16.160
+money: '110.0'
+lastlocation:
+  world: spawn
+  x: 0.13886361808504172
+  y: 29.0
+  z: 46.13671583016663
+  yaw: 0.29948828
+  pitch: 18.000004
+logoutlocation:
+  world: spawn
+  x: 1.4393615125754704
+  y: 55.0
+  z: 9.857011488849373
+  yaw: -54.59837
+  pitch: 43.050003
+lastAccountName: ougcast

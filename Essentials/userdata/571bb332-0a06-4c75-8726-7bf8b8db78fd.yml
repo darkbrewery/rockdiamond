@@ -1,0 +1,24 @@
+uuid: 571bb332-0a06-4c75-8726-7bf8b8db78fd
+timestamps:
+  login: 1418448391117
+  lastteleport: 1418448950122
+  kits:
+    novice: 1418448557007
+  logout: 1418449327550
+ipAddress: 173.173.74.175
+lastlocation:
+  world: spawn
+  x: 0.6200984224646063
+  y: 101.0
+  z: -5.888883624870561
+  yaw: -0.15039062
+  pitch: 12.900005
+logoutlocation:
+  world: spawn
+  x: 0.12581187869132282
+  y: 36.0
+  z: -1.2076262799554855
+  yaw: -191.70215
+  pitch: 3.7500143
+money: '76.0'
+lastAccountName: mrkickass1337

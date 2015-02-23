@@ -1,0 +1,22 @@
+uuid: 9278b521-338e-46bc-b67f-3b21cf3d40bb
+timestamps:
+  login: 1419605158769
+  lastteleport: 1419604712119
+  logout: 1419605168818
+ipAddress: 82.73.55.92
+lastlocation:
+  world: spawn
+  x: 0.4405060007754622
+  y: 29.0
+  z: 52.441835829286944
+  yaw: -1.500509
+  pitch: 4.35003
+logoutlocation:
+  world: spawn
+  x: 14.324508416921622
+  y: 81.5
+  z: -1237.6462188552916
+  yaw: 87.42695
+  pitch: 23.399992
+money: '30.0'
+lastAccountName: lightningzombie7

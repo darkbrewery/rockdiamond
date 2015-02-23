@@ -1,0 +1,23 @@
+timestamps:
+  lastteleport: 1420015839023
+  kits:
+    pvp: 1420015457263
+    novice: 1420014541010
+    color: 1420014765420
+  logout: 1420015854608
+lastlocation:
+  world: plotworld
+  x: 37.35917657411584
+  y: 65.5
+  z: 50.340911336778575
+  yaw: -0.43902588
+  pitch: 9.162809
+money: '648.6000000000003'
+logoutlocation:
+  world: spawn
+  x: 14.5
+  y: 81.5
+  z: -1237.5
+  yaw: 68.76786
+  pitch: 20.62662
+lastAccountName: loekiekoekie

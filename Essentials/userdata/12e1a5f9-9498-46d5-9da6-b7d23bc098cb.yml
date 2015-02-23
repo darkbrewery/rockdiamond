@@ -1,0 +1,25 @@
+lastAccountName: Street250
+timestamps:
+  login: 1420930763987
+  lastteleport: 1420926899685
+  kits:
+    pvp: 1420906170547
+    novice: 1420906167697
+    color: 1420906771043
+  logout: 1420930770639
+ipAddress: 173.17.222.200
+lastlocation:
+  world: mines
+  x: 104.43491037362904
+  y: 48.0
+  z: -14.69999998807907
+  yaw: -76.2218
+  pitch: -17.125513
+logoutlocation:
+  world: mines
+  x: 102.30029542366154
+  y: 63.0
+  z: -5.1243094314367825
+  yaw: -192.37949
+  pitch: 43.822784
+money: '987.4399999999998'

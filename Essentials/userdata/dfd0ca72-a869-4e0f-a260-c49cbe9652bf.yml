@@ -1,0 +1,25 @@
+lastAccountName: Inputx
+timestamps:
+  login: 1424483064123
+  lastteleport: 1424479561150
+  kits:
+    pvp: 1424475107549
+    color: 1424479699276
+  logout: 1424483177352
+ipAddress: 66.41.233.113
+lastlocation:
+  world: mines
+  x: -10.5
+  y: 63.0
+  z: -2.5
+  yaw: -179.54744
+  pitch: 3.9000115
+logoutlocation:
+  world: plotworld
+  x: -21.03172048560463
+  y: 65.0
+  z: -116.5046530680847
+  yaw: 303.74585
+  pitch: 12.449975
+money: '1832.28'
+afk: false

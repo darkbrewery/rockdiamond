@@ -1,0 +1,21 @@
+lastAccountName: AwesomeSaucee1
+timestamps:
+  login: 1424348091748
+  lastteleport: 1424348130886
+  logout: 1424348145161
+ipAddress: 98.122.14.213
+lastlocation:
+  world: spawn
+  x: 7.468928854446984
+  y: 82.0
+  z: -1236.717800560275
+  yaw: -8.703727
+  pitch: 20.207788
+logoutlocation:
+  world: spawn
+  x: 0.507901560402388
+  y: 29.0
+  z: 48.07094323141677
+  yaw: 359.18307
+  pitch: 4.449265
+money: '30.0'

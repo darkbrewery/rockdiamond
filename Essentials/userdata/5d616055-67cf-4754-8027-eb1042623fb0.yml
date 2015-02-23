@@ -1,0 +1,25 @@
+uuid: 5d616055-67cf-4754-8027-eb1042623fb0
+timestamps:
+  login: 1424352082052
+  lastteleport: 1424352092287
+  logout: 1424352092011
+  kits:
+    color: 1422779228456
+    adept: 1422777960093
+ipAddress: 139.193.175.95
+lastlocation:
+  world: mines
+  x: 323.39603010320275
+  y: 63.0
+  z: -13.618372173816157
+  yaw: 169.84233
+  pitch: 24.771692
+logoutlocation:
+  world: mines
+  x: 304.5
+  y: 73.0
+  z: -10.5
+  yaw: 90.00265
+  pitch: 0.45001796
+money: '217097.49039855067'
+lastAccountName: BronzeNews0312

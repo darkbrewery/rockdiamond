@@ -1,0 +1,21 @@
+lastAccountName: mads050605
+timestamps:
+  login: 1420887474485
+  lastteleport: 1420887597299
+  logout: 1420887734589
+ipAddress: 83.94.247.86
+lastlocation:
+  world: spawn
+  x: 0.7724351125847382
+  y: 29.0
+  z: 53.12838030798582
+  yaw: -5.127549E-4
+  pitch: 8.250004
+logoutlocation:
+  world: spawn
+  x: -14.871921807832178
+  y: 36.0
+  z: -5.747789203499164
+  yaw: 260.70148
+  pitch: 7.499969
+money: '1.0'

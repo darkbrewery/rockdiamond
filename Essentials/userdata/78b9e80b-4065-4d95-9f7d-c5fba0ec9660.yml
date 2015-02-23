@@ -1,0 +1,22 @@
+uuid: 78b9e80b-4065-4d95-9f7d-c5fba0ec9660
+timestamps:
+  login: 1419873669656
+  lastteleport: 1419555772359
+  logout: 1419873673270
+ipAddress: 207.38.201.254
+lastlocation:
+  world: spawn
+  x: 0.9625428727387806
+  y: 29.0
+  z: 23.320500662336194
+  yaw: 13.713151
+  pitch: 5.663823
+logoutlocation:
+  world: spawn
+  x: 4.9991165668692705
+  y: 33.0
+  z: -31.726191771966498
+  yaw: 142.47969
+  pitch: 12.070429
+money: '30.0'
+lastAccountName: herotrickshotz

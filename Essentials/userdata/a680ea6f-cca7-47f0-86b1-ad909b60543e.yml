@@ -1,0 +1,24 @@
+uuid: a680ea6f-cca7-47f0-86b1-ad909b60543e
+timestamps:
+  login: 1419453659947
+  lastteleport: 1419454472540
+  kits:
+    novice: 1419454463920
+  logout: 1419454520327
+ipAddress: 173.74.180.92
+lastlocation:
+  world: mines
+  x: -15.136925078735286
+  y: 63.0
+  z: -6.780284307678547
+  yaw: 80.85248
+  pitch: 4.200021
+logoutlocation:
+  world: spawn
+  x: 0.7236647084321564
+  y: 107.0
+  z: -242.19939845846451
+  yaw: 147.14867
+  pitch: 13.950086
+money: '23.75'
+lastAccountName: fireballxd3

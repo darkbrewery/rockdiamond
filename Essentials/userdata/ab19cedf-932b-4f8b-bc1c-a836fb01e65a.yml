@@ -1,0 +1,25 @@
+uuid: ab19cedf-932b-4f8b-bc1c-a836fb01e65a
+timestamps:
+  login: 1419530016396
+  lastteleport: 1419424399064
+  kits:
+    pvp: 1419423569337
+    novice: 1419423556963
+  logout: 1419530037595
+ipAddress: 86.8.29.200
+lastlocation:
+  world: spawn
+  x: 11.69999998807907
+  y: 108.0
+  z: -244.86449863102575
+  yaw: 264.29874
+  pitch: 12.300069
+money: '224.4375'
+logoutlocation:
+  world: mines
+  x: 16.149815828667478
+  y: 62.0
+  z: -5.300000011920927
+  yaw: 5.2520447
+  pitch: 35.699997
+lastAccountName: oliverbrown

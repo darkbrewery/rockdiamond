@@ -1,0 +1,27 @@
+uuid: dd4cdd98-93a2-46e6-b5fb-7ac90df22f1e
+timestamps:
+  login: 1417729199717
+  lastteleport: 1417730688624
+  logout: 1417730909644
+  kits:
+    pvp: 1417721264917
+    novice: 1417730046146
+    color: 1417722296240
+    adept: 1417729501150
+ipAddress: 99.17.80.242
+lastlocation:
+  world: mines
+  x: 121.78273529746012
+  y: 63.0
+  z: -10.994770976624956
+  yaw: -22.297016
+  pitch: -25.17599
+logoutlocation:
+  world: plotworld
+  x: -71.6582495310227
+  y: 65.0
+  z: -52.34028187119904
+  yaw: -0.65283203
+  pitch: 24.57601
+money: '22362.861538461537'
+lastAccountName: garmadonnega12

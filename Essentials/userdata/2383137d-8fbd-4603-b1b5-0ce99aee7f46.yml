@@ -1,0 +1,21 @@
+lastAccountName: shawn555555554
+timestamps:
+  login: 1420559879482
+  lastteleport: 1420559109681
+  logout: 1420560504003
+ipAddress: 204.29.66.88
+lastlocation:
+  world: spawn
+  x: 1.0378762394922791
+  y: 29.0
+  z: 52.216278470803665
+  yaw: -350.8506
+  pitch: -4.0499997
+logoutlocation:
+  world: spawn
+  x: 0.3000000119209292
+  y: 26.0
+  z: -8.223471270836166
+  yaw: 149.84985
+  pitch: -90.0
+money: '54.29'

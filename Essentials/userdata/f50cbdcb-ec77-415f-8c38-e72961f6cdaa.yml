@@ -1,0 +1,27 @@
+uuid: f50cbdcb-ec77-415f-8c38-e72961f6cdaa
+timestamps:
+  login: 1420648298217
+  lastteleport: 1420648401645
+  kits:
+    pvp: 1420065078431
+    novice: 1419908833112
+    color: 1419909795070
+    adept: 1420648329058
+  logout: 1420648414747
+ipAddress: 99.37.176.112
+lastlocation:
+  world: mines
+  x: 301.69999998807907
+  y: 48.0
+  z: -12.137318549549112
+  yaw: 46.6528
+  pitch: 8.249957
+logoutlocation:
+  world: mines
+  x: 268.90608761250127
+  y: 48.0
+  z: -7.793817255599024
+  yaw: -90.147415
+  pitch: 23.700006
+money: '46495.12057971015'
+lastAccountName: mcclure2004

@@ -1,0 +1,25 @@
+lastAccountName: MCMaster503
+timestamps:
+  login: 1422078049641
+  lastteleport: 1422079086348
+  kits:
+    pvp: 1421662382035
+    color: 1421657321143
+    adept: 1421661394278
+  logout: 1422079117554
+ipAddress: 38.126.76.138
+lastlocation:
+  world: mines
+  x: 267.3040601404079
+  y: 48.0
+  z: -6.528672303779204
+  yaw: 41.207092
+  pitch: -42.24339
+money: '17374.707427536217'
+logoutlocation:
+  world: mines
+  x: 269.5
+  y: 63.0
+  z: -16.5
+  yaw: 0.15261206
+  pitch: -0.5999815

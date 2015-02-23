@@ -1,0 +1,21 @@
+lastAccountName: GamerILMinecraft
+timestamps:
+  login: 1424112155683
+  lastteleport: 1424112174472
+  logout: 1424112177253
+ipAddress: 85.130.234.231
+lastlocation:
+  world: spawn
+  x: 0.46286024515339586
+  y: 29.5
+  z: 53.86101875625137
+  yaw: 354.74948
+  pitch: 29.100008
+logoutlocation:
+  world: spawn
+  x: 22.17052480754018
+  y: 34.0
+  z: -6.5982824685343076
+  yaw: 107.55286
+  pitch: 3.299972
+money: '30.0'

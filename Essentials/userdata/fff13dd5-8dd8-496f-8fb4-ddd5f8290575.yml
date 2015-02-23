@@ -1,0 +1,21 @@
+lastAccountName: chrisz2420
+timestamps:
+  login: 1424035373479
+  lastteleport: 1424035833812
+  logout: 1424035893360
+ipAddress: 68.228.221.24
+lastlocation:
+  world: spawn
+  x: -21.06770502557411
+  y: 35.0
+  z: -4.687656517072966
+  yaw: 147.60045
+  pitch: 29.699984
+logoutlocation:
+  world: spawn
+  x: -0.3411598886629392
+  y: 55.0
+  z: -2.773117460632608
+  yaw: -317.9988
+  pitch: 5.5499983
+money: '7.0'

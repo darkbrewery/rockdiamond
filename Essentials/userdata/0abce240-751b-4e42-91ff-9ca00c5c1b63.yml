@@ -1,0 +1,26 @@
+lastAccountName: xXunkillable7Xx
+timestamps:
+  login: 1422847758486
+  lastteleport: 1422848689336
+  logout: 1422848785268
+  kits:
+    pvp: 1421206190576
+    adept: 1421107595434
+  jail: 0
+ipAddress: 184.61.46.221
+lastlocation:
+  world: spawn
+  x: 15.699999988079071
+  y: 58.0
+  z: -236.30000001192093
+  yaw: -291.9015
+  pitch: 90.0
+money: '28276.855036233574'
+logoutlocation:
+  world: spawn
+  x: 0.5
+  y: 37.0
+  z: -6.5
+  yaw: 202.49948
+  pitch: 9.449991
+jailed: false

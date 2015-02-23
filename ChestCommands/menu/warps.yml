@@ -1,0 +1,388 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&9[&aRD-Prison&9]&r'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'warps'
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'sound: note pling; tell: &eYou opened the menu.'
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+Spawn:
+  COMMAND: 'warp spawn'
+  NAME: '&eSpawn'
+  LORE:
+    - 'Warp to &eSpawn'
+  ID: compass
+  POSITION-X: 1
+  POSITION-Y: 1
+Library:
+  COMMAND: 'warp library'
+  NAME: '&eLibrary'
+  LORE:
+    - 'Warp to &eLibrary'
+  ID: bookshelf
+  POSITION-X: 2
+  POSITION-Y: 1
+Tutorial:
+  COMMAND: 'warp tutorial'
+  NAME: '&eTutorial'
+  LORE:
+    - 'Warp to &eTutorial'
+  ID: book
+  POSITION-X: 3
+  POSITION-Y: 1
+PlayerShops:
+  COMMAND: 'warp PlayerShops'
+  NAME: '&ePlayer Shops'
+  LORE:
+    - 'Warp to &ePlayer Shops'
+  ID: skull:3
+  POSITION-X: 4
+  POSITION-Y: 1
+Plots:
+  COMMAND: 'warp plots'
+  NAME: '&ePlots'
+  LORE:
+    - 'Warp to &ePlots'
+  ID: stone_brick
+  POSITION-X: 5
+  POSITION-Y: 1
+TheMoon:
+  COMMAND: 'warp TheMoon'
+  NAME: '&eThe Moon'
+  LORE:
+    - 'Warp to &eThe Moon'
+  ID: Ender_stone
+  POSITION-X: 6
+  POSITION-Y: 1  
+Novice:
+  COMMAND: 'warp novice'
+  NAME: '&eNovice'
+  LORE:
+    - 'Warp to &eNovice'
+  ID: iron_pickaxe
+  POSITION-X: 7
+  POSITION-Y: 1
+Adept:
+  COMMAND: 'warp adept'
+  NAME: '&eAdept'
+  LORE:
+    - 'Warp to &eAdept'
+  ID: gold_pickaxe
+  POSITION-X: 8
+  POSITION-Y: 1
+Expert:
+  COMMAND: 'warp expert'
+  NAME: '&eExpert'
+  LORE:
+    - 'Warp to &eExpert'
+  ID: diamond_pickaxe
+  POSITION-X: 9
+  POSITION-Y: 1
+A:
+  COMMAND: 'warp a'
+  NAME: '&aAssHat'
+  LORE:
+    - 'Warp to &aAssHat'
+  KEEP-OPEN: false
+  ID: iron_block
+  POSITION-X: 1
+  POSITION-Y: 2
+B:
+  COMMAND: 'warp b'
+  NAME: '&aBarfBreath'
+  LORE:
+    - 'Warp to &aBarfBreath'
+  KEEP-OPEN: false
+  ID: iron_block
+  POSITION-Y: 2
+  POSITION-X: 2
+C:
+  COMMAND: 'warp c'
+  NAME: '&aCamelToe'
+  LORE:
+    - 'Warp to &aCamelToe'
+  KEEP-OPEN: false
+  ID: iron_block
+  POSITION-Y: 2
+  POSITION-X: 3  
+D:
+  COMMAND: 'warp d'
+  NAME: '&aDoucheBag'
+  LORE:
+    - 'Warp to &aDoucheBag'
+  KEEP-OPEN: false
+  ID: iron_block
+  POSITION-Y: 2
+  POSITION-X: 4
+E:
+  COMMAND: 'warp e'
+  NAME: '&aErection'
+  LORE:
+    - 'Warp to &aErection'
+  KEEP-OPEN: false
+  ID: iron_block
+  POSITION-Y: 2
+  POSITION-X: 5
+F:
+  COMMAND: 'warp f'
+  NAME: '&aFartKnocker'
+  LORE:
+    - 'Warp to &aFartKnocker'
+  KEEP-OPEN: false
+  ID: iron_block
+  POSITION-Y: 2
+  POSITION-X: 6
+G:
+  COMMAND: 'warp g'
+  NAME: '&aGoof'
+  LORE:
+    - 'Warp to &aGoof'
+  KEEP-OPEN: false
+  ID: iron_block
+  POSITION-Y: 2
+  POSITION-X: 7
+H:
+  COMMAND: 'warp h'
+  NAME: '&aHoser'
+  LORE:
+    - 'Warp to &aHoser'
+  KEEP-OPEN: false
+  ID: iron_block
+  POSITION-Y: 2
+  POSITION-X: 8
+I:
+  COMMAND: 'warp I'
+  NAME: '&aImbecile'
+  LORE:
+    - 'Warp to &aImbecile'
+  KEEP-OPEN: false
+  ID: iron_block
+  POSITION-Y: 2
+  POSITION-X: 9
+J:
+  COMMAND: 'warp j'
+  NAME: '&9JerkOff'
+  LORE:
+    - 'Warp to &9JerkOff'
+  KEEP-OPEN: false
+  ID: gold_block
+  POSITION-X: 1
+  POSITION-Y: 3
+K:
+  COMMAND: 'warp k'
+  NAME: '&9KnobGoblin'
+  LORE:
+    - 'Warp to &9KnobGoblin'
+  KEEP-OPEN: false
+  ID: gold_block
+  POSITION-Y: 3
+  POSITION-X: 2
+L:
+  COMMAND: 'warp l'
+  NAME: '&9LardAss'
+  LORE:
+    - 'Warp to &9LardAss'
+  KEEP-OPEN: false
+  ID: gold_block
+  POSITION-Y: 3
+  POSITION-X: 3  
+M:
+  COMMAND: 'warp m'
+  NAME: '&9McFaggot'
+  LORE:
+    - 'Warp to &9McFaggot'
+  KEEP-OPEN: false
+  ID: gold_block
+  POSITION-Y: 3
+  POSITION-X: 4
+N:
+  COMMAND: 'warp n'
+  NAME: '&9NutSack'
+  LORE:
+    - 'Warp to &9NutSack'
+  KEEP-OPEN: false
+  ID: gold_block
+  POSITION-Y: 3
+  POSITION-X: 5
+O:
+  COMMAND: 'warp o'
+  NAME: '&9OldBastard'
+  LORE:
+    - 'Warp to &9OldBastard'
+  KEEP-OPEN: false
+  ID: gold_block
+  POSITION-Y: 3
+  POSITION-X: 6
+P:
+  COMMAND: 'warp p'
+  NAME: '&9PissFlap'
+  LORE:
+    - 'Warp to &9Pissflap'
+  KEEP-OPEN: false
+  ID: gold_block
+  POSITION-Y: 3
+  POSITION-X: 7
+Q:
+  COMMAND: 'warp q'
+  NAME: '&9Queef'
+  LORE:
+    - 'Warp to &9Queef'
+  KEEP-OPEN: false
+  ID: gold_block
+  POSITION-Y: 3
+  POSITION-X: 8
+R:
+  COMMAND: 'warp r'
+  NAME: '&9Retard'
+  LORE:
+    - 'Warp to &9Retard'
+  KEEP-OPEN: false
+  ID: gold_block
+  POSITION-Y: 3
+  POSITION-X: 9
+S:
+  COMMAND: 'warp s'
+  NAME: '&cScumbag'
+  LORE:
+    - 'Warp to &cScumbag'
+  KEEP-OPEN: false
+  ID: diamond_block
+  POSITION-X: 1
+  POSITION-Y: 4
+T:
+  COMMAND: 'warp t'
+  NAME: '&cThunderCunt'
+  LORE:
+    - 'Warp to &cThunderCunt'
+  KEEP-OPEN: false
+  ID: diamond_block
+  POSITION-Y: 4
+  POSITION-X: 2
+U:
+  COMMAND: 'warp u'
+  NAME: '&cUrethra'
+  LORE:
+    - 'Warp to &cUrethra'
+  KEEP-OPEN: false
+  ID: diamond_block
+  POSITION-Y: 4
+  POSITION-X: 3  
+V:
+  COMMAND: 'warp v'
+  NAME: '&cVajayjay'
+  LORE:
+    - 'Warp to &cVajayjay'
+  KEEP-OPEN: false
+  ID: diamond_block
+  POSITION-Y: 4
+  POSITION-X: 4
+W:
+  COMMAND: 'warp w'
+  NAME: '&cWanker'
+  LORE:
+    - 'Warp to &cWanker'
+  KEEP-OPEN: false
+  ID: diamond_block
+  POSITION-Y: 4
+  POSITION-X: 5
+X:
+  COMMAND: 'warp x'
+  NAME: '&cXunt'
+  LORE:
+    - 'Warp to &cXunt'
+  KEEP-OPEN: false
+  ID: diamond_block
+  POSITION-Y: 4
+  POSITION-X: 6
+Y:
+  COMMAND: 'warp y'
+  NAME: '&cYuppie'
+  LORE:
+    - 'Warp to &cYuppie'
+  KEEP-OPEN: false
+  ID: diamond_block
+  POSITION-Y: 4
+  POSITION-X: 7
+Z:
+  COMMAND: 'warp z'
+  NAME: '&cZitlicker'
+  LORE:
+    - 'Warp to &cZitlicker'
+  KEEP-OPEN: false
+  ID: diamond_block
+  POSITION-Y: 4
+  POSITION-X: 8
+Free:
+  COMMAND: 'warp free'
+  NAME: '&cFree'
+  LORE:
+    - 'Warp to &cFree'
+  KEEP-OPEN: false
+  ID: diamond_block
+  POSITION-Y: 4
+  POSITION-X: 9
+HiddenWarps:
+  COMMAND: 'open: hiddenwarps.yml'
+  NAME: '&eHidden Warps'
+  LORE:
+    - 'Open the &eHidden Warps&7 menu'
+  ID: enderchest
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 6
+Shops:
+  COMMAND: 'open: shops.yml'
+  NAME: '&eShops'
+  LORE:
+    - 'Open the &eShops&7 menu'
+  ID: Chest
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 6
+PVP:
+  COMMAND: 'warp pvp'
+  NAME: '&ePVP'
+  LORE:
+    - 'Warp to &ePVP'
+  ID: Diamond_sword
+  POSITION-X: 1
+  POSITION-Y: 5
+Parkour:
+  COMMAND: 'warp parkour'
+  NAME: '&eParkour'
+  LORE:
+    - 'Warp to &eParkour'
+  ID: diamond_boots
+  POSITION-X: 2
+  POSITION-Y: 5
+Close:
+  COMMAND: ''
+  NAME: '&4Close'
+  LORE: 
+    - 'Close this menu.'
+  ID: barrier
+  POSITION-Y: 6
+  POSITION-X: 9

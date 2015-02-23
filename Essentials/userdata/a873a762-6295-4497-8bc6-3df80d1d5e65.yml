@@ -1,0 +1,22 @@
+uuid: a873a762-6295-4497-8bc6-3df80d1d5e65
+timestamps:
+  login: 1418695277644
+  lastteleport: 1418695378156
+  logout: 1418695397371
+ipAddress: 69.116.56.202
+lastlocation:
+  world: spawn
+  x: 10.812954507144262
+  y: 106.0
+  z: -251.59024242483957
+  yaw: -190.50114
+  pitch: -0.5999157
+logoutlocation:
+  world: spawn
+  x: -1.567550562170812
+  y: 32.0
+  z: -1.807921984370704
+  yaw: -177.75067
+  pitch: 87.15
+money: '30.0'
+lastAccountName: joejoe188

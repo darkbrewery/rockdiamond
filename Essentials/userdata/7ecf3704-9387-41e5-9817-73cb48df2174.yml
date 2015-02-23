@@ -1,0 +1,21 @@
+logoutlocation:
+  world: spawn
+  x: 0.196458472531643
+  y: 37.0
+  z: -10.19236099225219
+  yaw: -179.55054
+  pitch: 19.199986
+timestamps:
+  logout: 1420924902192
+  lastteleport: 1420924899892
+  kits:
+    novice: 1420924213959
+    color: 1420924578066
+money: '319.76'
+lastlocation:
+  world: plotworld
+  x: 8.21096202085473
+  y: 65.0
+  z: -73.71687436752855
+  yaw: -5.700001
+  pitch: 14.850002

@@ -1,0 +1,25 @@
+uuid: d6c9162f-73f5-4c55-a73c-1825d9fe5169
+timestamps:
+  login: 1419703625606
+  logout: 1419703746337
+  lastteleport: 1419660844849
+  kits:
+    pvp: 1419658271036
+    novice: 1419658252309
+ipAddress: 70.190.254.46
+logoutlocation:
+  world: mines
+  x: 99.31402312091525
+  y: 52.0
+  z: -9.916689882345533
+  yaw: 60.155243
+  pitch: -71.399956
+lastlocation:
+  world: spawn
+  x: 0.47666135025792755
+  y: 100.0
+  z: 0.33601168448519847
+  yaw: 0.75
+  pitch: 2.5500004
+money: '1897.75'
+lastAccountName: 77shotgunpuppy77

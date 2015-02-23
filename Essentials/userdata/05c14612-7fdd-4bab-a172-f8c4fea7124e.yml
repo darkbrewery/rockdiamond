@@ -1,0 +1,22 @@
+uuid: 05c14612-7fdd-4bab-a172-f8c4fea7124e
+timestamps:
+  login: 1417730502873
+  lastteleport: 1417730535774
+  logout: 1417731052326
+ipAddress: 92.233.223.52
+lastlocation:
+  world: spawn
+  x: 0.43786149226582755
+  y: 100.0
+  z: -4.005230087249981
+  yaw: -358.80023
+  pitch: 25.650007
+logoutlocation:
+  world: spawn
+  x: 0.5223001489255741
+  y: 101.0
+  z: -8.95791988413013
+  yaw: -355.6504
+  pitch: 15.000003
+money: '28.5'
+lastAccountName: horselove170

@@ -1,0 +1,24 @@
+lastAccountName: MysticalPickle
+timestamps:
+  login: 1421978421590
+  lastteleport: 1421979212249
+  kits:
+    pvp: 1421978507053
+    novice: 1421978481494
+  logout: 1421979233666
+ipAddress: 24.10.238.86
+lastlocation:
+  world: spawn
+  x: 44.799285314095094
+  y: 114.5
+  z: -713.0902262011413
+  yaw: -301.09244
+  pitch: 11.85003
+logoutlocation:
+  world: mines
+  x: 96.50031929195279
+  y: 63.0
+  z: -13.351216003402916
+  yaw: 208.95267
+  pitch: 49.94999
+money: '1441.0'

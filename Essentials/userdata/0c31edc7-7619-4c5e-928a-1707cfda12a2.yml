@@ -1,0 +1,30 @@
+uuid: 0c31edc7-7619-4c5e-928a-1707cfda12a2
+timestamps:
+  login: 1419814048327
+  lastteleport: 1418087184723
+  kits:
+    novice: 1418085500059
+    pvp: 1418085504209
+    alpha: 1415914886869
+  logout: 1419814050946
+  lastheal: 1418081181534
+ipAddress: 65.92.18.244
+lastlocation:
+  world: plotworld
+  x: -27.74669199673337
+  y: 66.0
+  z: -43.356679463663156
+  yaw: 6.8999887
+  pitch: 4.8000007
+money: '923.4900000000007'
+logoutlocation:
+  world: plotworld
+  x: -12.578072481860449
+  y: 65.0
+  z: -67.57892873209819
+  yaw: -164.09999
+  pitch: 16.649994
+nickname: §ka§5Ashley§ka
+godmode: false
+afk: false
+lastAccountName: neavs

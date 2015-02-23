@@ -1,0 +1,21 @@
+lastAccountName: MerleCorey87
+timestamps:
+  login: 1422533792068
+  lastteleport: 1422533882690
+  logout: 1422534146511
+ipAddress: 100.0.166.216
+lastlocation:
+  world: spawn
+  x: 1.9459105234925875
+  y: 29.5
+  z: 36.42156682189243
+  yaw: -177.7505
+  pitch: 15.150008
+logoutlocation:
+  world: spawn
+  x: -1.336583364062661
+  y: 26.0
+  z: -8.421894293742943
+  yaw: 22.34929
+  pitch: -30.150003
+money: '25.0'

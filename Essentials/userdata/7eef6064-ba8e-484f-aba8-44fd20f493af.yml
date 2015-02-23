@@ -1,0 +1,25 @@
+lastAccountName: redchili8
+timestamps:
+  login: 1423444980026
+  lastteleport: 1423445314951
+  logout: 1423445436289
+  kits:
+    pvp: 1422634356212
+    novice: 1422634345861
+    color: 1422634375229
+ipAddress: 162.247.145.27
+lastlocation:
+  world: mines
+  x: 99.36708820842584
+  y: 63.0
+  z: -9.101741256063015
+  yaw: 163.80267
+  pitch: 13.500004
+logoutlocation:
+  world: mines
+  x: 326.7803938732434
+  y: 63.0
+  z: -12.699999988079071
+  yaw: 273.90247
+  pitch: 76.64999
+money: '101643.82999999996'

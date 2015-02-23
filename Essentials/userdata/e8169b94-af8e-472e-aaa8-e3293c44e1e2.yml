@@ -1,0 +1,21 @@
+lastAccountName: BrainDome
+timestamps:
+  login: 1423191332611
+  lastteleport: 1422119501905
+  logout: 1423191344531
+ipAddress: 68.61.254.142
+money: '97355.0'
+lastlocation:
+  world: spawn
+  x: 2.2155666646723686
+  y: 115.0
+  z: -747.0334127660708
+  yaw: -87.19684
+  pitch: 1.9499077
+logoutlocation:
+  world: spawn
+  x: 0.2924156340469643
+  y: 29.0
+  z: 15.507312892219018
+  yaw: 85.050354
+  pitch: 15.000114

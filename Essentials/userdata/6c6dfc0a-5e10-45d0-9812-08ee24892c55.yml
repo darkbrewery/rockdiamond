@@ -1,0 +1,24 @@
+uuid: 6c6dfc0a-5e10-45d0-9812-08ee24892c55
+timestamps:
+  login: 1418328161199
+  lastteleport: 1418328546281
+  kits:
+    novice: 1418328257464
+  logout: 1418328598468
+ipAddress: 217.137.187.109
+lastlocation:
+  world: spawn
+  x: 15.691973775764641
+  y: 36.0
+  z: -6.1595789557841165
+  yaw: -113.26825
+  pitch: 24.278362
+logoutlocation:
+  world: plotworld
+  x: -29.212268391734696
+  y: 65.0
+  z: 32.85051296124544
+  yaw: 3.7248535
+  pitch: 26.41921
+money: '30.0'
+lastAccountName: coollewi

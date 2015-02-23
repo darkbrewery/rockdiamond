@@ -1,0 +1,23 @@
+lastAccountName: baileyxrocks117
+timestamps:
+  login: 1420929920205
+  lastteleport: 1420930116393
+  kits:
+    novice: 1420930020033
+  logout: 1420930255373
+ipAddress: 192.40.139.222
+lastlocation:
+  world: spawn
+  x: 19.82811488343041
+  y: 35.0
+  z: -10.154843657330968
+  yaw: 180.15276
+  pitch: -3.750032
+logoutlocation:
+  world: spawn
+  x: -20.188817648403493
+  y: 35.0
+  z: -6.963766005039152
+  yaw: -84.45022
+  pitch: 1.2000148
+money: '83.0'

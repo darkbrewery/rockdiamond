@@ -1,0 +1,21 @@
+lastAccountName: elias23456
+timestamps:
+  login: 1422705646235
+  lastteleport: 1422700902201
+  logout: 1422700922504
+ipAddress: 217.211.67.60
+lastlocation:
+  world: mines
+  x: -12.096278057355747
+  y: 63.0
+  z: -14.184777979007869
+  yaw: -166.79704
+  pitch: 6.149977
+logoutlocation:
+  world: plotworld
+  x: 73.04931098529428
+  y: 65.0
+  z: 20.165569096072925
+  yaw: 317.10016
+  pitch: 28.049997
+money: '6.6875'

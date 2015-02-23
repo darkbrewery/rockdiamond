@@ -1,0 +1,22 @@
+timestamps:
+  lastteleport: 1419289409871
+  logout: 1419289443273
+  login: 1419289288459
+lastlocation:
+  world: spawn
+  x: 2.03873274790125
+  y: 30.0
+  z: -12.284474210290117
+  yaw: 293.99896
+  pitch: 17.550058
+logoutlocation:
+  world: spawn
+  x: -21.6180575795017
+  y: 35.0
+  z: -6.282339370231983
+  yaw: 93.59942
+  pitch: 0.74998456
+uuid: 645303a8-74bf-4e93-b6e8-259702a7c6a5
+ipAddress: 74.102.20.236
+money: '70.75'
+lastAccountName: antvenom486

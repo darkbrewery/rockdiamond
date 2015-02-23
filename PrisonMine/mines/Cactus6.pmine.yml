@@ -1,0 +1,72 @@
+mine:
+  ==: pMine
+  region:
+    ==: PrisonRegion
+    minimum:
+      ==: Vector
+      x: 777.0
+      y: 65.0
+      z: -15.0
+    maximum:
+      ==: Vector
+      x: 777.0
+      y: 67.0
+      z: -15.0
+    world: mines
+  flags:
+  - Silent
+  breakBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  parent: null
+  blocks:
+  - ==: MineBlock
+    blockData: 0
+    blockId: 0
+    chance: 0.0
+  - ==: MineBlock
+    blockData: 0
+    blockId: 81
+    chance: 1.0
+  tpPoint:
+    ==: SimpleLoc
+    yaw: -100.516174
+    pitch: 37.42162
+    z: -13.904715112079344
+    y: 65.0
+    world: mines
+    x: 775.3000000119209
+  blocksLeft: 3
+  resetTriggers:
+  - ==: CompositionTrigger
+    percent: '0.001'
+    mine: Cactus6
+  id: Cactus6
+  warningTimes: []
+  placeBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  cooldownPeriod: 0
+  name: ''
+  blockReplaceBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  protectionRegion:
+    ==: PrisonRegion
+    minimum:
+      ==: Vector
+      x: 777.0
+      y: 65.0
+      z: -15.0
+    maximum:
+      ==: Vector
+      x: 777.0
+      y: 67.0
+      z: -15.0
+    world: mines
+  world: mines
+  enabledProtection: []
+  cooldownEnabled: false

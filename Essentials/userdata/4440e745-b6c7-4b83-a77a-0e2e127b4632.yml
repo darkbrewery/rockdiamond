@@ -1,0 +1,25 @@
+uuid: 4440e745-b6c7-4b83-a77a-0e2e127b4632
+timestamps:
+  login: 1420099678998
+  lastteleport: 1420100062257
+  kits:
+    pvp: 1420099805285
+    novice: 1420099790832
+  logout: 1420100084801
+ipAddress: 142.197.221.136
+lastlocation:
+  world: spawn
+  x: 0.6177191578187069
+  y: 34.0
+  z: 10.23360716367561
+  yaw: -7.6500573
+  pitch: -1.949998
+logoutlocation:
+  world: plotworld
+  x: -4.794001617055594
+  y: 67.0
+  z: 8.566559067448564
+  yaw: 107.99995
+  pitch: 7.0500083
+money: '30.0'
+lastAccountName: gothicgod2002

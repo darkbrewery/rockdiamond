@@ -1,0 +1,22 @@
+lastAccountName: Agony66
+timestamps:
+  login: 1421881912137
+  logout: 1421881921842
+  jail: 0
+ipAddress: 74.115.1.73
+money: '31.0'
+lastlocation:
+  world: spawn
+  x: 55.57499998807907
+  y: 76.3125
+  z: -248.42500001192093
+  yaw: 113.565315
+  pitch: -3.2531285
+jailed: false
+logoutlocation:
+  world: spawn
+  x: 55.69999998807907
+  y: 76.5625
+  z: -249.69999998807907
+  yaw: 64.8977
+  pitch: 18.959194

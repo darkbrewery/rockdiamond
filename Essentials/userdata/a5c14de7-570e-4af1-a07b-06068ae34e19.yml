@@ -1,0 +1,21 @@
+lastAccountName: Adriantr02
+timestamps:
+  login: 1423757766306
+  lastteleport: 1423757819614
+  logout: 1423757836239
+ipAddress: 109.205.201.226
+lastlocation:
+  world: spawn
+  x: 1.0245298709301416
+  y: 33.0
+  z: -37.79867576697328
+  yaw: -202.59872
+  pitch: 1.3555871
+logoutlocation:
+  world: spawn
+  x: -0.37493747035299674
+  y: 107.0
+  z: -241.76933189700384
+  yaw: 85.74123
+  pitch: 4.8480124
+money: '30.0'

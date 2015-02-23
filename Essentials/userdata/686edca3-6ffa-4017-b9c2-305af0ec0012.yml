@@ -1,0 +1,25 @@
+uuid: 686edca3-6ffa-4017-b9c2-305af0ec0012
+timestamps:
+  login: 1419658470960
+  lastteleport: 1419659408312
+  kits:
+    pvp: 1419658711502
+    novice: 1419658698377
+  logout: 1419659495191
+ipAddress: 174.26.239.108
+lastlocation:
+  world: spawn
+  x: 24.95136737833624
+  y: 114.5
+  z: -747.8637079173096
+  yaw: 32.50291
+  pitch: 31.950006
+logoutlocation:
+  world: spawn
+  x: 0.375780410458725
+  y: 34.0
+  z: 6.139822170967482
+  yaw: -31.199837
+  pitch: 23.849977
+money: '30.0'
+lastAccountName: racecarpe

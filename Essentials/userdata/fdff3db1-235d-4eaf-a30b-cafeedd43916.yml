@@ -1,0 +1,38 @@
+lastAccountName: DarkLord_dugsiii
+timestamps:
+  login: 1423757431795
+  lastteleport: 1423707859925
+  kits:
+    expert: 1423706312244
+    pvp: 1422546537383
+    novice: 1423703271784
+    color: 1423637784247
+    guard: 1423447212209
+    changelog: 1423507859680
+    adept: 1423545694360
+  logout: 1423757593534
+  jail: 0
+ipAddress: 69.181.137.113
+lastlocation:
+  world: mines
+  x: 47.69999998807907
+  y: 53.0
+  z: -12.652689387083718
+  yaw: 8.85278
+  pitch: -50.699986
+money: '0.5700000000000003'
+logoutlocation:
+  world: world_the_end
+  x: -175.02424296712988
+  y: 37.0
+  z: 11.453560917197567
+  yaw: -85.79974
+  pitch: -89.25
+afk: false
+jailed: false
+nickname: §0Dugs
+godmode: false
+powertools:
+  '291':
+  - break
+socialspy: true

@@ -1,0 +1,22 @@
+uuid: 6329b940-22a2-4d5b-acd3-1774e922a16f
+timestamps:
+  login: 1419652165678
+  lastteleport: 1419652298117
+  logout: 1419652304665
+ipAddress: 96.242.148.125
+lastlocation:
+  world: spawn
+  x: 0.5812184060923755
+  y: 36.0
+  z: -15.979139449785244
+  yaw: -178.05057
+  pitch: 25.049992
+logoutlocation:
+  world: spawn
+  x: 22.514084160104982
+  y: 115.0
+  z: -244.50696391565725
+  yaw: -3.3011768
+  pitch: 28.350065
+money: '30.0'
+lastAccountName: rabbilarrycarl

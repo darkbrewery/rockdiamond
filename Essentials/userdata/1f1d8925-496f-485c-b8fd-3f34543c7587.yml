@@ -1,0 +1,25 @@
+uuid: 1f1d8925-496f-485c-b8fd-3f34543c7587
+timestamps:
+  login: 1417833251901
+  kits:
+    novice: 1417833355852
+    pvp: 1417833342097
+  lastteleport: 1417833362153
+  logout: 1417833368951
+ipAddress: 75.142.222.171
+lastlocation:
+  world: spawn
+  x: 0.31580251749900834
+  y: 34.0
+  z: 5.617093358345734
+  yaw: 186.74951
+  pitch: -52.799995
+logoutlocation:
+  world: spawn
+  x: 0.5657475490588695
+  y: 29.00000000476837
+  z: 32.52051589466291
+  yaw: -2.100511
+  pitch: 15.000007
+money: '30.0'
+lastAccountName: dylanl2005

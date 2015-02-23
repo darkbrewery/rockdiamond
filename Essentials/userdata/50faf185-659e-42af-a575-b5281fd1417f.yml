@@ -1,0 +1,24 @@
+lastAccountName: Heinchecker
+timestamps:
+  login: 1422625590145
+  lastteleport: 1422625610876
+  logout: 1422625618134
+  kits:
+    novice: 1422538310026
+    adept: 1422546755846
+ipAddress: 46.223.129.2
+lastlocation:
+  world: spawn
+  x: 5.300000011920929
+  y: 66.0
+  z: -12.728220631368458
+  yaw: 95.86421
+  pitch: 7.529123
+logoutlocation:
+  world: mines
+  x: 348.4812001082886
+  y: 63.0
+  z: -15.84527176063527
+  yaw: 191.99783
+  pitch: 83.72689
+money: '549091.3975000001'

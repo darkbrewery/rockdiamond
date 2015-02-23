@@ -1,0 +1,29 @@
+uuid: d4a47a77-b862-4d6b-9c3c-8e92cb0eb914
+timestamps:
+  login: 1420574198918
+  lastteleport: 1420574245335
+  kits:
+    novice: 1419926102850
+    pvp: 1419926611724
+    color: 1419929608926
+    adept: 1420574216723
+  logout: 1420574269952
+  jail: 0
+ipAddress: 79.103.203.184
+lastlocation:
+  world: spawn
+  x: 32.861919402291164
+  y: 81.0
+  z: -1238.2968619479502
+  yaw: 254.07655
+  pitch: 0.60000604
+money: '642274.0793840582'
+logoutlocation:
+  world: spawn
+  x: 24.150514600509894
+  y: 35.0
+  z: -3.5659100465297513
+  yaw: 31.949615
+  pitch: 24.149986
+jailed: false
+lastAccountName: dmitris

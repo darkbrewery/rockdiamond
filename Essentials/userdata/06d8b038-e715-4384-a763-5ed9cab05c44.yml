@@ -1,0 +1,24 @@
+lastAccountName: lokeolof
+timestamps:
+  login: 1422981783075
+  lastteleport: 1422982555333
+  kits:
+    pvp: 1422982089976
+    novice: 1422982071833
+  logout: 1422982619893
+ipAddress: 90.229.190.16
+money: '2355.0'
+lastlocation:
+  world: mines
+  x: 95.65619457680847
+  y: 63.0
+  z: -5.852626229664354
+  yaw: 180.47174
+  pitch: 26.102396
+logoutlocation:
+  world: plotworld
+  x: 56.96289937868534
+  y: 65.0
+  z: -8.744321143475775
+  yaw: 25.804804
+  pitch: 3.369597

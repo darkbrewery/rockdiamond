@@ -1,0 +1,27 @@
+lastAccountName: samstoer007
+timestamps:
+  login: 1421598641254
+  lastteleport: 1421598666322
+  kits:
+    pvp: 1421322410356
+    novice: 1421262140337
+    adept: 1421261388143
+  logout: 1421598890579
+ipAddress: 84.107.13.228
+lastlocation:
+  world: spawn
+  x: -11.679838831568773
+  y: 85.0
+  z: -1215.385662851387
+  yaw: 57.25342
+  pitch: 25.153587
+money: '86272.65630434785'
+logoutlocation:
+  world: parkour
+  x: -1.5698146144541307
+  y: 80.0
+  z: 2.3669911745656296
+  yaw: 312.3719
+  pitch: 24.623638
+ignore:
+- kylschildpad007

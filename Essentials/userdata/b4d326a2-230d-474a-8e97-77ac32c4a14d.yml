@@ -1,0 +1,25 @@
+uuid: b4d326a2-230d-474a-8e97-77ac32c4a14d
+timestamps:
+  login: 1419842788528
+  lastteleport: 1419843407332
+  kits:
+    pvp: 1419842947121
+    novice: 1419842928317
+  logout: 1419843654651
+ipAddress: 204.13.128.224
+lastlocation:
+  world: spawn
+  x: 24.51235530964083
+  y: 114.0
+  z: -242.1117060716251
+  yaw: 74.24873
+  pitch: 16.65
+logoutlocation:
+  world: spawn
+  x: 27.640343921417145
+  y: 35.0
+  z: -3.3570807985079973
+  yaw: 249.45375
+  pitch: 82.95002
+money: '30.0'
+lastAccountName: slogoman123546

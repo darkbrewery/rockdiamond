@@ -1,0 +1,24 @@
+lastAccountName: Flawless_Sniper
+timestamps:
+  login: 1421568736543
+  lastteleport: 1421569509000
+  kits:
+    pvp: 1421569458486
+    novice: 1421569431432
+  logout: 1421570137155
+ipAddress: 64.235.73.207
+lastlocation:
+  world: spawn
+  x: 18.10694182527261
+  y: 35.5
+  z: -6.500583468034165
+  yaw: 90.002846
+  pitch: 0.5999722
+logoutlocation:
+  world: spawn
+  x: 6.714519028753439
+  y: 33.0
+  z: -36.10219691099839
+  yaw: 139.50073
+  pitch: 7.500002
+money: '77.0'

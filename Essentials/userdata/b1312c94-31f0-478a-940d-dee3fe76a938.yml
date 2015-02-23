@@ -1,0 +1,21 @@
+lastAccountName: OzzyAndBlake
+timestamps:
+  login: 1424557095229
+  lastteleport: 1424557393496
+  logout: 1424557556633
+ipAddress: 24.61.69.59
+lastlocation:
+  world: spawn
+  x: -21.037192007353752
+  y: 35.0
+  z: -6.84849931490418
+  yaw: 85.499695
+  pitch: 2.4000072
+logoutlocation:
+  world: spawn
+  x: 1.9318239449872356
+  y: 55.0
+  z: 2.599417184045821
+  yaw: -202.49908
+  pitch: 6.1500163
+money: '145.0'

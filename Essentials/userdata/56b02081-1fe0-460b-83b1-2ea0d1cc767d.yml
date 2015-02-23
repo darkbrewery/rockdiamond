@@ -1,0 +1,25 @@
+uuid: 56b02081-1fe0-460b-83b1-2ea0d1cc767d
+timestamps:
+  login: 1419820028580
+  lastteleport: 1419820550314
+  kits:
+    pvp: 1419820259879
+    novice: 1419820214414
+  logout: 1419820744232
+ipAddress: 71.211.30.32
+lastlocation:
+  world: spawn
+  x: -0.005216523708239357
+  y: 33.0
+  z: -37.81115408327735
+  yaw: 198.30304
+  pitch: 1.0500352
+logoutlocation:
+  world: spawn
+  x: 6.495591339619658
+  y: 106.0
+  z: -238.9721389965895
+  yaw: 0.44869995
+  pitch: -82.200005
+money: '30.0'
+lastAccountName: _tazmaniac_

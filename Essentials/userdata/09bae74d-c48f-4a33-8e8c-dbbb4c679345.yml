@@ -1,0 +1,23 @@
+lastAccountName: igordalepro
+timestamps:
+  login: 1422740086224
+  lastteleport: 1422741127492
+  kits:
+    adept: 1422740827796
+  logout: 1422741414927
+ipAddress: 187.39.163.180
+lastlocation:
+  world: mines
+  x: 319.49176644756756
+  y: 63.0
+  z: -10.386004295861985
+  yaw: -184.19736
+  pitch: 13.35002
+money: '197755.625'
+logoutlocation:
+  world: spawn
+  x: 0.18372793620484928
+  y: 124.0
+  z: -245.10902426610585
+  yaw: -108.45317
+  pitch: 80.1

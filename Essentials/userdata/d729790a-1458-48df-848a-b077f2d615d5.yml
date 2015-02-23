@@ -1,0 +1,21 @@
+lastAccountName: CynderSam
+timestamps:
+  login: 1424044570493
+  lastteleport: 1424044945401
+  logout: 1424044986508
+ipAddress: 66.68.237.56
+lastlocation:
+  world: spawn
+  x: 0.502770279571826
+  y: 34.0
+  z: 5.764194869501
+  yaw: -181.79984
+  pitch: 16.800003
+logoutlocation:
+  world: spawn
+  x: 0.7146414673690976
+  y: 29.0
+  z: 21.902657767656628
+  yaw: 178.3493
+  pitch: 18.750015
+money: '30.0'

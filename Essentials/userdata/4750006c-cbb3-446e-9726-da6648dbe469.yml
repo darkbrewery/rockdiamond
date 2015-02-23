@@ -1,0 +1,22 @@
+timestamps:
+  lastteleport: 1417819040380
+  logout: 1419111757075
+  login: 1419111756631
+lastlocation:
+  world: spawn
+  x: -4.743252500042138
+  y: 37.0
+  z: -6.14823236537627
+  yaw: -144.60063
+  pitch: 9.600001
+money: '54459.167995284275'
+logoutlocation:
+  world: mines
+  x: 268.9519679720172
+  y: 63.0
+  z: -16.268516476714396
+  yaw: -275.8506
+  pitch: 20.549976
+uuid: 4750006c-cbb3-446e-9726-da6648dbe469
+ipAddress: 84.105.69.201
+lastAccountName: dummieking

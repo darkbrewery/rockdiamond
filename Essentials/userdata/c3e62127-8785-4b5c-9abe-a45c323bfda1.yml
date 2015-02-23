@@ -1,0 +1,32 @@
+uuid: c3e62127-8785-4b5c-9abe-a45c323bfda1
+timestamps:
+  login: 1418862424804
+  lastteleport: 1418863713799
+  kits:
+    pvp: 1418861390717
+    novice: 1418786870133
+    color: 1418780632716
+    adept: 1418861380836
+  jail: 0
+  logout: 1418863861885
+  mute: 0
+ipAddress: 97.71.47.152
+lastlocation:
+  world: mines
+  x: 138.1555838170556
+  y: 58.0
+  z: -1.375697396338624
+  yaw: 200.44319
+  pitch: -25.588467
+money: '246336.82069397985'
+jailed: false
+logoutlocation:
+  world: spawn
+  x: 7.1514564119528305
+  y: 139.5
+  z: -232.72786272715905
+  yaw: 0.8493686
+  pitch: 29.16692
+muted: false
+godmode: false
+lastAccountName: armyboy310

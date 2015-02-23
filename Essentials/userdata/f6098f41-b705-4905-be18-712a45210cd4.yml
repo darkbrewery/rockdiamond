@@ -1,0 +1,21 @@
+lastAccountName: Henry_jm
+timestamps:
+  login: 1422550644460
+  lastteleport: 1422550814323
+  logout: 1422550839477
+ipAddress: 84.27.37.81
+money: '1030.0'
+lastlocation:
+  world: spawn
+  x: 0.7624501495164643
+  y: 29.0
+  z: 53.64561047991549
+  yaw: 8.572172
+  pitch: 5.8869476
+logoutlocation:
+  world: spawn
+  x: -23.84664404835564
+  y: 36.0
+  z: -4.714757842001626
+  yaw: 109.562935
+  pitch: 12.09782

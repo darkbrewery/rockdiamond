@@ -1,0 +1,25 @@
+lastAccountName: OMG_itz_Sam
+timestamps:
+  login: 1422555128304
+  lastteleport: 1422556746865
+  kits:
+    novice: 1422556636151
+    pvp: 1422555971890
+    color: 1422555942379
+  logout: 1422557070632
+ipAddress: 86.173.1.154
+lastlocation:
+  world: mines
+  x: 127.84640489488719
+  y: 48.0
+  z: -8.932799350734019
+  yaw: -81.14744
+  pitch: -53.399952
+money: '7800.054347826089'
+logoutlocation:
+  world: mines
+  x: 130.6339340605162
+  y: 61.0
+  z: -9.032750717827872
+  yaw: -180.89716
+  pitch: 21.150023

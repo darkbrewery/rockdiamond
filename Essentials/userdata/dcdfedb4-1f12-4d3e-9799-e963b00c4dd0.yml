@@ -1,0 +1,21 @@
+lastAccountName: rooster52
+timestamps:
+  login: 1422575322914
+  logout: 1422575325708
+  lastteleport: 1422393456196
+ipAddress: 68.229.224.77
+logoutlocation:
+  world: spawn
+  x: 2.2749284384772186
+  y: 30.0
+  z: 28.543352164649203
+  yaw: 357.96432
+  pitch: 19.978786
+money: '30.0'
+lastlocation:
+  world: spawn
+  x: 10.863661180764323
+  y: 82.0
+  z: -1232.699999988079
+  yaw: -180.65022
+  pitch: 10.501605

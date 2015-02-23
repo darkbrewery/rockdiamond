@@ -1,0 +1,22 @@
+uuid: a3d19b94-0809-4177-be89-6eee76ed2e67
+timestamps:
+  login: 1420509698337
+  lastteleport: 1420509734191
+  logout: 1420509737941
+ipAddress: 74.254.244.62
+lastlocation:
+  world: spawn
+  x: 12.723368276262052
+  y: 94.0
+  z: -237.27406451306746
+  yaw: 345.74823
+  pitch: 2.0999644
+logoutlocation:
+  world: spawn
+  x: 15.899223471553565
+  y: 106.5
+  z: -238.79072369390482
+  yaw: 93.59886
+  pitch: 49.350056
+money: '4.25'
+lastAccountName: troller81301

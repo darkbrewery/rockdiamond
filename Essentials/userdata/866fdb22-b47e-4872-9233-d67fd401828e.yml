@@ -1,0 +1,24 @@
+uuid: 866fdb22-b47e-4872-9233-d67fd401828e
+timestamps:
+  login: 1419555094568
+  lastteleport: 1419555164332
+  kits:
+    pvp: 1419555236029
+  logout: 1419555246375
+ipAddress: 72.23.181.109
+lastlocation:
+  world: spawn
+  x: 0.5299948641458044
+  y: 34.0
+  z: 9.113010774968762
+  yaw: -178.20161
+  pitch: -5.5730343E-6
+logoutlocation:
+  world: spawn
+  x: 0.5622813571200035
+  y: 29.0
+  z: 31.381370021352115
+  yaw: -3.3486967
+  pitch: 1.869763
+money: '30.0'
+lastAccountName: onceler005

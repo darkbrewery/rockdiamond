@@ -1,0 +1,25 @@
+uuid: dbcba43d-14aa-4ddf-b3ad-f15eda13ea53
+timestamps:
+  login: 1417637912073
+  kits:
+    pvp: 1417638010042
+    novice: 1417638003296
+  lastteleport: 1417638103516
+  logout: 1417638120720
+ipAddress: 70.31.128.9
+lastlocation:
+  world: spawn
+  x: 0.27249116058456946
+  y: 32.0
+  z: -2.4726920030363244
+  yaw: -8.049305
+  pitch: 1.8662133
+logoutlocation:
+  world: spawn
+  x: 10.030144940725107
+  y: 107.1707870772188
+  z: -237.1004671016961
+  yaw: -134.84988
+  pitch: 14.549914
+money: '30.0'
+lastAccountName: demdiamondz

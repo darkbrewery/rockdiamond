@@ -1,0 +1,29 @@
+uuid: 705b4ce8-ef52-4176-8dea-c70ab4514a62
+timestamps:
+  login: 1421514579750
+  kits:
+    pvp: 1419300896582
+    novice: 1419300877981
+    color: 1419355076330
+    alpha: 1417297546292
+    adept: 1421514610398
+  lastteleport: 1421514887384
+  logout: 1421514914445
+ipAddress: 66.114.183.20
+lastlocation:
+  world: mines
+  x: 329.57499998807907
+  y: 65.76391591238838
+  z: -10.535200019258879
+  yaw: -271.49734
+  pitch: 62.699966
+money: '281590.1889687848'
+logoutlocation:
+  world: mines
+  x: 296.22404535784904
+  y: 48.875
+  z: -7.47386187004947
+  yaw: 174.60286
+  pitch: 67.80002
+afk: false
+lastAccountName: nathantepp

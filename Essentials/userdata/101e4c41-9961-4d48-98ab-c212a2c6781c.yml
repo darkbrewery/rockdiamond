@@ -1,0 +1,24 @@
+lastAccountName: BLAKJAK909
+timestamps:
+  login: 1424198192013
+  lastteleport: 1424199737382
+  logout: 1424200320624
+  kits:
+    novice: 1424193740572
+ipAddress: 76.30.21.0
+lastlocation:
+  world: parkour
+  x: 25.64559715360605
+  y: 86.0
+  z: -36.51024476348981
+  yaw: -250.95003
+  pitch: 23.1
+afk: false
+money: '5829.80260869566'
+logoutlocation:
+  world: parkour
+  x: 7.954862232385953
+  y: 87.0
+  z: -36.94223527950963
+  yaw: -269.40005
+  pitch: 45.749977

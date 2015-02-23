@@ -1,0 +1,24 @@
+uuid: 4388b226-7dc6-4ea6-a1fc-9d2b3b4a802a
+timestamps:
+  login: 1416423186872
+  kits:
+    alpha: 1416423242436
+  lastteleport: 1416423399643
+  logout: 1416423443409
+ipAddress: 109.130.13.16
+lastlocation:
+  world: spawn
+  x: -22.47972806116926
+  y: 35.0
+  z: -6.51087294441151
+  yaw: -250.64966
+  pitch: 53.55
+money: '33.935483870967744'
+logoutlocation:
+  world: spawn
+  x: -0.7632795470580845
+  y: 33.0
+  z: -29.00072729962069
+  yaw: -30.600616
+  pitch: 4.1999936
+lastAccountName: woriorcraft123

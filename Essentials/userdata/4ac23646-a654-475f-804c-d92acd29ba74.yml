@@ -1,0 +1,22 @@
+uuid: 4ac23646-a654-475f-804c-d92acd29ba74
+timestamps:
+  login: 1420236459329
+  lastteleport: 1420237770666
+  logout: 1420237803467
+ipAddress: 67.193.18.228
+lastlocation:
+  world: spawn
+  x: 11.422214582710518
+  y: 106.0
+  z: -252.1795768438265
+  yaw: -206.40108
+  pitch: 3.7500718
+money: '99368.75'
+logoutlocation:
+  world: spawn
+  x: 15.699999988079071
+  y: 36.5
+  z: -9.300000011920929
+  yaw: 91.349365
+  pitch: 47.54999
+lastAccountName: jjdc118

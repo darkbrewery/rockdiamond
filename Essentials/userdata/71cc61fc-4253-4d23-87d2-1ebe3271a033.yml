@@ -1,0 +1,25 @@
+lastAccountName: davidos1063
+timestamps:
+  login: 1421854351029
+  lastteleport: 1421855093720
+  kits:
+    pvp: 1421854958698
+    novice: 1421854688089
+    color: 1421854860757
+  logout: 1421855128977
+ipAddress: 82.209.185.210
+lastlocation:
+  world: spawn
+  x: 0.8432102268050401
+  y: 104.5
+  z: 11.934451227176083
+  yaw: 0.0
+  pitch: 0.0
+money: '3664.9525000000003'
+logoutlocation:
+  world: mines
+  x: 687.1150604042878
+  y: 68.0
+  z: -10.688666248522681
+  yaw: -87.29514
+  pitch: -37.650032

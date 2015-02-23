@@ -1,0 +1,24 @@
+uuid: 58bf64b0-8b5d-4c92-9554-f85bbabecbcd
+timestamps:
+  login: 1419647921345
+  lastteleport: 1419648998891
+  kits:
+    color: 1419649021362
+  logout: 1419649070935
+ipAddress: 50.69.86.215
+lastlocation:
+  world: mines
+  x: -12.004187177809213
+  y: 63.0
+  z: -2.505458804545924
+  yaw: -179.54744
+  pitch: 7.6500115
+logoutlocation:
+  world: plotworld
+  x: -88.5099577492829
+  y: 65.0
+  z: 43.192320757703264
+  yaw: 50.25
+  pitch: 29.24998
+money: '86.1875'
+lastAccountName: sethsprout

@@ -1,0 +1,21 @@
+lastAccountName: InsaneNinjaFTW
+timestamps:
+  login: 1424560215049
+  lastteleport: 1424560322162
+  logout: 1424560323509
+ipAddress: 186.45.181.108
+lastlocation:
+  world: spawn
+  x: 0.529653086559847
+  y: 29.0
+  z: 24.409251807817405
+  yaw: 1.6494875
+  pitch: 8.700008
+logoutlocation:
+  world: spawn
+  x: 0.6324156937181967
+  y: 36.0
+  z: -17.50493775765898
+  yaw: -178.50058
+  pitch: 22.79999
+money: '30.0'

@@ -1,0 +1,15 @@
+general:
+  title: '[Overlord]'
+  title-success: '&a[Overlord]'
+  title-error: '&c[Overlord]'
+error:
+  command: Invalid command! Use &e/mine help for help.
+  arguments: Invalid parameters. Check your argument count!
+  access: You do not have permission to do that
+  invalid-block: Block &c<BLOCK>&f does not exist
+  invalid-direction: 'Unknown direction: &c<DIRECTION>&f'
+  sender-is-not-player: This command can only be executed by a living player
+protection:
+  pvp: Hey moron! PvP is not allowed in this area
+  break: Retard! You are not allowed to break &c<BLOCK>&f in this area!
+  place: Hey dumbass! You are not allowed to place &c<BLOCK>&f in this area!

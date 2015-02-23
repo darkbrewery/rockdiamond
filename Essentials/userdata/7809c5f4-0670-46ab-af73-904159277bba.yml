@@ -1,0 +1,21 @@
+lastAccountName: kampus5321
+timestamps:
+  login: 1420919557777
+  lastteleport: 1420919828539
+  logout: 1420919867347
+ipAddress: 80.71.135.104
+lastlocation:
+  world: spawn
+  x: 12.462519410199503
+  y: 94.0
+  z: -236.41166609038538
+  yaw: -33.150658
+  pitch: 8.550005
+logoutlocation:
+  world: spawn
+  x: 17.311843790562975
+  y: 108.5
+  z: -234.77345058680976
+  yaw: -27.151236
+  pitch: 25.200039
+money: '30.0'

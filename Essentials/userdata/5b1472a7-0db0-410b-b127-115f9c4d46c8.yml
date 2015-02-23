@@ -1,0 +1,29 @@
+uuid: 5b1472a7-0db0-410b-b127-115f9c4d46c8
+timestamps:
+  login: 1424196128216
+  lastteleport: 1422461902646
+  logout: 1424196194330
+  kits:
+    color: 1416423136906
+    alpha: 1416064822112
+    adept: 1420710429461
+    stoner: 1416488136685
+ipAddress: 93.172.138.211
+godmode: false
+money: '30.0'
+logoutlocation:
+  world: plotworld
+  x: -41.69999998807907
+  y: 65.875
+  z: 12.519121839158775
+  yaw: -270.59937
+  pitch: 37.050014
+lastlocation:
+  world: mines
+  x: 334.6705862356582
+  y: 64.0
+  z: -19.69999998807907
+  yaw: -287.99744
+  pitch: -52.34998
+afk: false
+lastAccountName: erezushiMC

@@ -1,0 +1,23 @@
+lastAccountName: lucasarend15
+timestamps:
+  login: 1423782507713
+  lastteleport: 1423783291586
+  kits:
+    novice: 1423782770817
+  logout: 1423783380517
+ipAddress: 186.251.163.18
+lastlocation:
+  world: spawn
+  x: -22.384468569480052
+  y: 35.0
+  z: -6.438689121599912
+  yaw: -289.49976
+  pitch: 3.1499758
+logoutlocation:
+  world: spawn
+  x: 2.5715967101563533
+  y: 55.0
+  z: 0.47812895264597943
+  yaw: -300.4487
+  pitch: 6.300003
+money: '3.25'

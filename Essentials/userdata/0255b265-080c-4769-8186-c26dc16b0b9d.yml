@@ -1,0 +1,24 @@
+uuid: 0255b265-080c-4769-8186-c26dc16b0b9d
+timestamps:
+  login: 1419658450288
+  lastteleport: 1419659363588
+  kits:
+    pvp: 1419658703072
+  logout: 1419659490190
+ipAddress: 68.230.76.125
+lastlocation:
+  world: spawn
+  x: 3.0200726323467735
+  y: 114.5
+  z: -745.9887350418139
+  yaw: 296.50024
+  pitch: 38.85
+logoutlocation:
+  world: spawn
+  x: -0.30363739007517404
+  y: 34.0
+  z: 5.754359451853523
+  yaw: 312.4485
+  pitch: 17.10003
+money: '36.25'
+lastAccountName: sugarcookimaster

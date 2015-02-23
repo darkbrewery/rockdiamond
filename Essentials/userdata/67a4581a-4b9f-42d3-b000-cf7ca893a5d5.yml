@@ -1,0 +1,21 @@
+lastAccountName: hot_pie_123
+timestamps:
+  login: 1423353779043
+  lastteleport: 1423353854989
+  logout: 1423353853801
+ipAddress: 67.55.182.13
+lastlocation:
+  world: spawn
+  x: 14.5
+  y: 81.5
+  z: -1237.5
+  yaw: -90.0
+  pitch: 90.0
+logoutlocation:
+  world: spawn
+  x: 14.5
+  y: 81.5
+  z: -1237.5
+  yaw: -90.0
+  pitch: 90.0
+money: '30.0'

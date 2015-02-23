@@ -1,0 +1,35 @@
+uuid: 26ec29ba-4d82-492a-ad0b-61c926f5a892
+timestamps:
+  login: 1423236925673
+  lastteleport: 1423236937596
+  kits:
+    expert: 1420570366505
+    novice: 1417810668409
+    pvp: 1419509383735
+    color: 1416835090548
+    alpha: 1416937794170
+    changelog: 1419510021104
+    adept: 1417809898331
+    stoner: 1417007470497
+  logout: 1423236978025
+  lastheal: 1418756132277
+ipAddress: 31.210.186.50
+lastlocation:
+  world: mines
+  x: 380.3083656760441
+  y: 48.0
+  z: -8.300000011920929
+  yaw: -174.89801
+  pitch: 42.149975
+money: '4044952.304999996'
+logoutlocation:
+  world: spawn
+  x: 19.459322731238316
+  y: 36.0
+  z: -10.762988373344271
+  yaw: -267.60043
+  pitch: 6.6000075
+afk: false
+nickname: §6mc§eminer
+socialspy: false
+lastAccountName: MCminerworld

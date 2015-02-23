@@ -1,0 +1,22 @@
+uuid: 1e74e1e2-96f1-4bd1-aae0-40a3d14658d6
+timestamps:
+  login: 1418792196130
+  lastteleport: 1417843787380
+  logout: 1418792434557
+ipAddress: 73.18.224.18
+lastlocation:
+  world: spawn
+  x: 9.81670958119018
+  y: 106.0
+  z: -253.03369377008607
+  yaw: -152.1876
+  pitch: 9.094769
+money: '0.0'
+logoutlocation:
+  world: spawn
+  x: 29.30000001192093
+  y: 35.0
+  z: -6.833134843243428
+  yaw: -35.174385
+  pitch: -14.526638
+lastAccountName: fenix1166

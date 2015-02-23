@@ -1,0 +1,22 @@
+uuid: 80bc5b82-720f-4404-ba87-1c5baded8cf1
+timestamps:
+  login: 1419805706543
+  lastteleport: 1419805856573
+  logout: 1419805866841
+ipAddress: 73.47.221.50
+lastlocation:
+  world: spawn
+  x: 12.699999988079071
+  y: 102.0
+  z: -245.00119985276237
+  yaw: 80.61074
+  pitch: 0.9870116
+logoutlocation:
+  world: spawn
+  x: 1.6113588921195172
+  y: 114.5
+  z: -744.1916338685213
+  yaw: 85.45954
+  pitch: -7.604869
+money: '30.0'
+lastAccountName: m_doyle

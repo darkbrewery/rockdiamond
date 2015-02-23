@@ -1,0 +1,23 @@
+lastAccountName: RyanBAwesome
+timestamps:
+  login: 1422585235831
+  lastteleport: 1422586297432
+  kits:
+    novice: 1422585380029
+  logout: 1422586400756
+ipAddress: 70.20.35.242
+lastlocation:
+  world: spawn
+  x: -12.046402361524205
+  y: 85.0
+  z: -1214.5579978119733
+  yaw: 83.6769
+  pitch: 26.999973
+logoutlocation:
+  world: parkour
+  x: -27.856724424761204
+  y: 83.0
+  z: -32.70464671077887
+  yaw: -90.0
+  pitch: -3.0
+money: '46.41'

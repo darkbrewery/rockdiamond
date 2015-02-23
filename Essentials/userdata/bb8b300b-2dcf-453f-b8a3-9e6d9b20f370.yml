@@ -1,0 +1,24 @@
+lastAccountName: Nobodywantshim
+timestamps:
+  login: 1422206025452
+  lastteleport: 1422206443081
+  kits:
+    pvp: 1422206178104
+    novice: 1422206154822
+  logout: 1422206781683
+ipAddress: 83.249.84.107
+lastlocation:
+  world: spawn
+  x: 11.72618360581694
+  y: 106.0
+  z: -251.99596451458837
+  yaw: 148.049
+  pitch: 4.2000656
+logoutlocation:
+  world: spawn
+  x: 20.985845724594487
+  y: 34.5
+  z: -7.738333886785076
+  yaw: 171.89923
+  pitch: -6.149935
+money: '94.5'

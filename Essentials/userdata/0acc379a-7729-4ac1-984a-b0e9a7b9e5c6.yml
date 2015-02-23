@@ -1,0 +1,27 @@
+uuid: 0acc379a-7729-4ac1-984a-b0e9a7b9e5c6
+timestamps:
+  login: 1420031290991
+  lastteleport: 1420031375847
+  kits:
+    pvp: 1419974508838
+    novice: 1419974411680
+    color: 1419974525773
+    adept: 1419976363561
+  logout: 1420031384373
+ipAddress: 83.82.209.3
+lastlocation:
+  world: spawn
+  x: 1.5918324223161109
+  y: 124.0
+  z: -240.9201229449745
+  yaw: 161.79997
+  pitch: 6.899995
+money: '490184.369221015'
+logoutlocation:
+  world: mines
+  x: 269.4984591800021
+  y: 63.0
+  z: -16.294640860199472
+  yaw: 201.15259
+  pitch: -11.999979
+lastAccountName: devin_010_

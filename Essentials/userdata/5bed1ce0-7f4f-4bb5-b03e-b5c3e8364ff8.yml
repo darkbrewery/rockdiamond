@@ -1,0 +1,24 @@
+uuid: 5bed1ce0-7f4f-4bb5-b03e-b5c3e8364ff8
+timestamps:
+  login: 1416412701550
+  lastteleport: 1416412778432
+  kits:
+    alpha: 1416412785607
+  logout: 1416412934710
+ipAddress: 82.46.11.95
+lastlocation:
+  world: spawn
+  x: 0.07775995425828272
+  y: 100.0
+  z: 2.466514067639074
+  yaw: -273.80438
+  pitch: 31.390993
+logoutlocation:
+  world: spawn
+  x: 28.618775781994046
+  y: 35.5
+  z: -2.481149707607868
+  yaw: 17.407715
+  pitch: 18.763985
+money: '30.0'
+lastAccountName: muzzledcoyote

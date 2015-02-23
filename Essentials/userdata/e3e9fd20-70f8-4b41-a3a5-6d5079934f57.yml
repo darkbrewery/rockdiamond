@@ -1,0 +1,22 @@
+uuid: e3e9fd20-70f8-4b41-a3a5-6d5079934f57
+timestamps:
+  login: 1418313803352
+  lastteleport: 1418313855340
+  logout: 1418314087649
+ipAddress: 86.128.249.50
+lastlocation:
+  world: spawn
+  x: -1.1672449883893696
+  y: 100.0
+  z: 0.48187792733419565
+  yaw: -272.7018
+  pitch: 15.896908
+logoutlocation:
+  world: spawn
+  x: 1.7166414565581365
+  y: 29.5
+  z: 45.154959218537215
+  yaw: -0.3005128
+  pitch: -29.549994
+money: '30.0'
+lastAccountName: alexshephard

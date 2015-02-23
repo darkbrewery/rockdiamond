@@ -1,0 +1,25 @@
+uuid: 15aaaddf-5650-4341-950a-d8a6173eecf0
+timestamps:
+  login: 1419451476923
+  lastteleport: 1419455512920
+  kits:
+    novice: 1419452364765
+    pvp: 1419446973596
+  logout: 1419455514016
+ipAddress: 70.49.85.202
+lastlocation:
+  world: plotworld
+  x: -86.63838839476038
+  y: 65.0
+  z: -24.485562308996077
+  yaw: -39.360046
+  pitch: 30.720024
+money: '20941.14652173912'
+logoutlocation:
+  world: spawn
+  x: 14.5
+  y: 81.5
+  z: -1237.5
+  yaw: 89.826904
+  pitch: 0.1499731
+lastAccountName: tripinmonkey10

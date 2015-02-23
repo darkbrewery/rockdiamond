@@ -1,0 +1,26 @@
+uuid: d885ff15-1a2c-4b06-8f8b-78a10752e1f0
+timestamps:
+  login: 1421507074723
+  lastteleport: 1421507219096
+  kits:
+    novice: 1419453729379
+    pvp: 1419436743900
+    adept: 1420968010699
+  logout: 1421507228448
+ipAddress: 69.113.88.241
+lastlocation:
+  world: mines
+  x: 238.79684475536527
+  y: 63.0
+  z: -17.495393478927102
+  yaw: 171.90498
+  pitch: 12.900031
+money: '92287.81768115939'
+logoutlocation:
+  world: mines
+  x: 268.9352646359119
+  y: 63.0
+  z: -17.40181207770214
+  yaw: -314.99734
+  pitch: 8.850029
+lastAccountName: TBgamer14

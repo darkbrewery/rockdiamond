@@ -1,0 +1,24 @@
+uuid: 9225421c-3c09-4d97-bb80-f6a77c1f360b
+timestamps:
+  login: 1417716546470
+  lastteleport: 1417717982368
+  kits:
+    alpha: 1417544717799
+  logout: 1417718017390
+ipAddress: 71.40.112.113
+lastlocation:
+  world: mines
+  x: 129.30000001192093
+  y: 54.0
+  z: -10.300000011920927
+  yaw: 202.05264
+  pitch: -15.900001
+money: '5319.015384615383'
+logoutlocation:
+  world: mines
+  x: 124.87612442238739
+  y: 63.0
+  z: -15.721102787962282
+  yaw: 235.35258
+  pitch: 15.750007
+lastAccountName: jxl8437

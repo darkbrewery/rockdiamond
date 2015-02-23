@@ -1,0 +1,25 @@
+uuid: 835ff2ae-f8a2-433f-8230-00ec71d092c7
+timestamps:
+  login: 1419696558033
+  lastteleport: 1419677955329
+  kits:
+    pvp: 1419677976093
+    novice: 1419677968082
+  logout: 1419696773304
+ipAddress: 5.69.177.35
+lastlocation:
+  world: spawn
+  x: 0.7636893026134126
+  y: 29.0
+  z: 23.50118437151256
+  yaw: 334.7996
+  pitch: 8.7000065
+logoutlocation:
+  world: spawn
+  x: -24.10042310554098
+  y: 35.5
+  z: -7.1411407216818485
+  yaw: 255.29857
+  pitch: 8.99998
+money: '30.0'
+lastAccountName: callum_op2006

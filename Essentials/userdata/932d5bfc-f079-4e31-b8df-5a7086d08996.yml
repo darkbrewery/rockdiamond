@@ -1,0 +1,24 @@
+uuid: 932d5bfc-f079-4e31-b8df-5a7086d08996
+timestamps:
+  login: 1420408028195
+  lastteleport: 1420411479387
+  kits:
+    adept: 1419832248142
+  logout: 1420411930911
+ipAddress: 72.209.156.242
+lastlocation:
+  world: spawn
+  x: 20.245636469186643
+  y: 123.0625
+  z: -244.31192589682465
+  yaw: -94.5499
+  pitch: -23.25
+money: '85650.92999999992'
+lastAccountName: F1R3FART
+logoutlocation:
+  world: plotworld
+  x: -103.79698993457235
+  y: 65.0
+  z: 21.719220517522167
+  yaw: -136.04999
+  pitch: 32.699997

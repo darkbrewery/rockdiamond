@@ -1,0 +1,33 @@
+uuid: 7ae4f8fe-d90a-4b0b-bdca-f490b819e65b
+timestamps:
+  login: 1420841331933
+  logout: 1420842180349
+  lastteleport: 1420761365441
+  kits:
+    novice: 1417731052181
+    pvp: 1420760452388
+    color: 1420760315168
+    alpha: 1417357326478
+    changelog: 1420760433185
+    adept: 1420760464590
+    stoner: 1417285701834
+  lastheal: 1417825876364
+ipAddress: 50.100.105.119
+logoutlocation:
+  world: mines
+  x: 24.910376592997977
+  y: 65.0
+  z: -10.704430890149869
+  yaw: 86.8518
+  pitch: 21.450043
+lastlocation:
+  world: plotworld
+  x: -25.817177638286005
+  y: 76.0
+  z: -37.67546405858258
+  yaw: 161.39996
+  pitch: 9.299987
+money: '2723.410000000008'
+godmode: false
+afk: false
+lastAccountName: Jasmimi

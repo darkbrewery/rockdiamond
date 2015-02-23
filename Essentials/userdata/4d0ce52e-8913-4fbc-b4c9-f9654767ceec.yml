@@ -1,0 +1,21 @@
+timestamps:
+  lastteleport: 1419336269738
+  kits:
+    pvp: 1419335652778
+  logout: 1419336358296
+lastlocation:
+  world: spawn
+  x: 12.300000011920929
+  y: 102.0
+  z: -243.54119684508694
+  yaw: 131.9988
+  pitch: 11.700081
+logoutlocation:
+  world: spawn
+  x: 16.864959754124563
+  y: 114.0
+  z: -751.4245963621518
+  yaw: 290.05313
+  pitch: -1.3499992
+money: '194.0'
+lastAccountName: puzzydestr0yer

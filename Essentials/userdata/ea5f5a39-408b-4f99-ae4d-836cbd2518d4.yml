@@ -1,0 +1,24 @@
+uuid: ea5f5a39-408b-4f99-ae4d-836cbd2518d4
+timestamps:
+  login: 1420215047016
+  lastteleport: 1420215528516
+  kits:
+    adept: 1420215287272
+  logout: 1420215609959
+ipAddress: 151.225.23.179
+lastlocation:
+  world: mines
+  x: 317.5974460753023
+  y: 63.0
+  z: -10.049596342169556
+  yaw: -154.94725
+  pitch: 13.950026
+money: '141548.125'
+logoutlocation:
+  world: spawn
+  x: 5.383602659647918
+  y: 123.0
+  z: -252.72704826577657
+  yaw: -162.20003
+  pitch: -21.749985
+lastAccountName: golfmad41

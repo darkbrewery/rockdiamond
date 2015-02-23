@@ -1,0 +1,22 @@
+uuid: 63c3ff92-5765-447f-9e85-ece20f4b5211
+timestamps:
+  login: 1419674230457
+  lastteleport: 1419674489972
+  logout: 1419674519994
+ipAddress: 50.72.64.226
+lastlocation:
+  world: spawn
+  x: 23.915425562465035
+  y: 113.5
+  z: -241.30340555831162
+  yaw: 90.84928
+  pitch: 27.881443
+logoutlocation:
+  world: spawn
+  x: 0.026891934354163427
+  y: 28.0
+  z: -7.283141413877233
+  yaw: 160.06587
+  pitch: 45.89158
+money: '30.0'
+lastAccountName: klein259

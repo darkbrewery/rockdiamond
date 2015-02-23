@@ -1,0 +1,24 @@
+uuid: df75a881-67c6-4138-a495-0328c87cc085
+timestamps:
+  login: 1420095507620
+  lastteleport: 1419485920173
+  kits:
+    novice: 1419485823332
+  logout: 1420095527971
+ipAddress: 98.177.152.204
+lastlocation:
+  world: spawn
+  x: 12.699999988079071
+  y: 102.0
+  z: -243.92897674871753
+  yaw: 243.14882
+  pitch: -1.3499364
+money: '30.0'
+logoutlocation:
+  world: spawn
+  x: 7.699999988079071
+  y: 93.0
+  z: -244.99797152923765
+  yaw: -173.10077
+  pitch: 64.80003
+lastAccountName: xxsliderdriftxx

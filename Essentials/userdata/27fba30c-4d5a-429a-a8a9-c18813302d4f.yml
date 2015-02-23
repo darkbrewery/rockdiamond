@@ -1,0 +1,24 @@
+uuid: 27fba30c-4d5a-429a-a8a9-c18813302d4f
+timestamps:
+  login: 1418440101199
+  lastteleport: 1418440246711
+  kits:
+    pvp: 1418440191424
+  logout: 1418440457726
+ipAddress: 112.150.195.44
+lastlocation:
+  world: spawn
+  x: 0.5120903515489772
+  y: 29.0
+  z: 52.47425762529067
+  yaw: 3.7494683
+  pitch: -20.099983
+logoutlocation:
+  world: spawn
+  x: 0.8496722564791455
+  y: 37.0
+  z: -9.481622848000619
+  yaw: -190.19733
+  pitch: -2.3999841
+money: '30.0'
+lastAccountName: _kandi_girl_

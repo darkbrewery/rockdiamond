@@ -1,0 +1,864 @@
+settings:
+  permissionsdebug:
+    enabled: false
+  declinerules:
+    enabled: false
+    rankup: prisoner
+  acceptrules:
+    enabled: false
+    rankup: a
+    rulepages: 1
+    playersneedtoreadrules: true
+  signtext: '[RankUp]'
+  vault:
+    enabled: true
+  tellplayerstoreadrules:
+    scheduletime: 30
+    enabled: false
+    antipermission: CommandRank.DoNotToReadRules
+  rankupinformation:
+    enabled: true
+  dontadddefaults: false
+autorankups:
+  main:
+    enabled: false
+    scheduletime: 600
+  explevel:
+    enabled: false
+    list:
+    - 5:user
+    - 30:builder
+  points:
+    enabled: false
+    list:
+    - 500:user
+    - 2500:builder
+  kills:
+    enabled: false
+    list:
+    - 10:prisoner
+  onlinetime:
+    enabled: false
+    list:
+    - 3600:user
+    - 36000:builder
+commandrankuplist:
+  enabled: true
+  list:
+  - CommandRank.isGroup.Z:free
+  - CommandRank.isGroup.y:z
+  - CommandRank.isGroup.x:y
+  - CommandRank.isGroup.w:x
+  - CommandRank.isGroup.v:w
+  - CommandRank.isGroup.u:v
+  - CommandRank.isGroup.t:u
+  - CommandRank.isGroup.s:t
+  - CommandRank.isGroup.r:s
+  - CommandRank.isGroup.q:r
+  - CommandRank.isGroup.p:q
+  - CommandRank.isGroup.o:p
+  - CommandRank.isGroup.n:o
+  - CommandRank.isGroup.m:n
+  - CommandRank.isGroup.l:m
+  - CommandRank.isGroup.k:l
+  - CommandRank.isGroup.j:k
+  - CommandRank.isGroup.i:j
+  - CommandRank.isGroup.h:i
+  - CommandRank.isGroup.g:h
+  - CommandRank.isGroup.f:g
+  - CommandRank.isGroup.e:f
+  - CommandRank.isGroup.d:e
+  - CommandRank.isGroup.c:d
+  - CommandRank.isGroup.b:c
+  - CommandRank.isGroup.a:b
+  - CommandRank.isGroup.FreshMeat:a
+passwordrankuplist:
+  enabled: false
+  list:
+  - password:user
+  - 9f8zfsio:builder
+rankups:
+  user:
+    message: '&4You are now user!'
+    economy:
+      price: 500
+      enabled: false
+    onlinetime:
+      time: 3600
+      enabled: true
+    needxplevel:
+      amount: 10
+      enabled: false
+    needitems:
+      list:
+      - LOG:10
+      - DIRT:60
+      enabled: false
+    needkills:
+      amount: 0
+      enabled: false
+    commands:
+      byplayer:
+        list:
+        - warp user
+        - me is now user
+        enabled: true
+      byconsole:
+        list:
+        - permissions player setgroup %name% user
+        - heal %name%
+        - feed %name%
+        enabled: true
+    giveitems:
+      list:
+      - LOG:10
+      - TORCH:15
+      equiparmor: false
+      enabled: true
+  builder:
+    message: '&4You are now builder!'
+    economy:
+      price: 1500
+      enabled: false
+    onlinetime:
+      time: 36000
+      enabled: false
+    needxplevel:
+      amount: 40
+      enabled: true
+    needkills:
+      amount: 50
+      enabled: false
+    needitems:
+      list:
+      - DIAMOND_BLOCK:2
+      - IRON_INGOT:40
+      enabled: false
+    commands:
+      byplayer:
+        list:
+        - warp builder
+        - me is now builder
+        enabled: true
+      byconsole:
+        list:
+        - permissions player setgroup %name% builder
+        - heal %name%
+        - feed %name%
+        enabled: true
+    giveitems:
+      list:
+      - WOOL:64
+      - GLASS:64
+      - OBSIDIAN:10
+      equiparmor: false
+      enabled: false
+  prisoner:
+    message: '&4You are now prisoner!'
+    economy:
+      price: 0
+      enabled: false
+    onlinetime:
+      time: 0
+      enabled: false
+    needxplevel:
+      amount: 0
+      enabled: false
+    needkills:
+      amount: 0
+      enabled: false
+    needitems:
+      list:
+      - DIRT:1
+      enabled: false
+    commands:
+      byplayer:
+        list:
+        - warp prison
+        - me is now prisoner...
+        enabled: true
+      byconsole:
+        list:
+        - permissions player setgroup %name% prisoner
+        enabled: true
+    giveitems:
+      list:
+      - DIRT:1
+      equiparmor: false
+      enabled: false
+  a:
+    message: You can now use &a/warp A &rand &a/warp Novice
+    economy:
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        list:
+        - warp Tutorial
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to Asshat!
+        - pex user %name% group set A
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  b:
+    message: You can now use &a/warp B
+    economy:
+      price: 100
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to BarfBreath!
+        - pex user %name% group add B
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  c:
+    message: You can now use &a/warp C
+    economy:
+      price: 200
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become a Cameltoe!
+        - pex user %name% group add C
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  d:
+    message: You can now use &a/warp D
+    economy:
+      price: 375
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become a DoucheBag!
+        - pex user %name% group add D
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  e:
+    message: You can now use &a/warp E
+    economy:
+      price: 700
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become someones Erection!
+        - pex user %name% group add E
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  f:
+    message: You can now use &a/warp F
+    economy:
+      price: 1300
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become a FartKnocker!
+        - pex user %name% group add F
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  g:
+    message: You can now use &a/warp G
+    economy:
+      price: 2500
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become a true Goof!
+        - pex user %name% group add G
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  h:
+    message: You can now use &a/warp H
+    economy:
+      price: 4800
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become a pissy Hoser!
+        - pex user %name% group add H
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  i:
+    message: You can now use &a/warp I
+    economy:
+      price: 9100
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become an Imbecile!
+        - pex user %name% group add I
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  j:
+    message: You can now use &a/warp J &rand &a/warp Adept
+    economy:
+      price: 17000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become a Jerkoff!
+        - pex user %name% group add J
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  k:
+    message: You can now use &a/warp K
+    economy:
+      price: 33000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become a KnobGoblin!
+        - pex user %name% group add K
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  l:
+    message: You can now use &a/warp L
+    economy:
+      price: 62000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become a Lardass!
+        - pex user %name% group add L
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  m:
+    message: You can now use &a/warp M
+    economy:
+      price: 120000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become a McFaggot!
+        - pex user %name% group add M
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  n:
+    message: You can now use &a/warp N
+    economy:
+      price: 220000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become a Nutsack!
+        - pex user %name% group add N
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  o:
+    message: You can now use &a/warp O
+    economy:
+      price: 430000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become an OldBastard!
+        - pex user %name% group add O
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  p:
+    message: You can now use &a/warp P
+    economy:
+      price: 815000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become a Pissflap!
+        - pex user %name% group add P
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  q:
+    message: You can now use &a/warp Q
+    economy:
+      price: 1500000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has just Queefed and ranked up!
+        - pex user %name% group add Q
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  r:
+    message: You can now use &a/warp R
+    economy:
+      price: 2950000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% is a Retard and just ranked up!
+        - pex user %name% group add R
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  s:
+    message: You can now use &a/warp S &rand &a/warp Expert
+    economy:
+      price: 5500000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become a Scumbag!
+        - pex user %name% group add S
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  t:
+    message: You can now use &a/warp T
+    economy:
+      price: 10000000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become a ThunderCunt!
+        - pex user %name% group add T
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  u:
+    message: You can now use &a/warp U
+    economy:
+      price: 20000000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become a Urethra!
+        - pex user %name% group add U
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  v:
+    message: You can now use &a/warp V
+    economy:
+      price: 40000000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become a VajayJay!
+        - pex user %name% group add V
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  w:
+    message: You can now use &a/warp W
+    economy:
+      price: 75000000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% is a bloody Wanker!
+        - pex user %name% group add W
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  x:
+    message: You can now use &a/warp X
+    economy:
+      price: 140000000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become a Xunt!
+        - pex user %name% group add X
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  y:
+    message: You can now use &a/warp Y
+    economy:
+      price: 260000000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become a Yuppie!
+        - pex user %name% group add Y
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  z:
+    message: You can now use &a/warp Z
+    economy:
+      price: 500000000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become a ZipperHead!
+        - pex user %name% group add Z
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  free:
+    message: You can now use &a/warp Free
+    economy:
+      price: 1000000000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to become Free!!!
+        - pex user %name% group add Free
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false

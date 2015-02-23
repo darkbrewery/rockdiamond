@@ -1,0 +1,25 @@
+uuid: 929470c7-7a65-49cf-9cd5-632716912372
+timestamps:
+  login: 1420687641857
+  lastteleport: 1420689538857
+  kits:
+    novice: 1420002211016
+    pvp: 1420689744634
+  logout: 1420690529107
+ipAddress: 24.130.47.190
+lastlocation:
+  world: plotworld
+  x: -5.324076008824699
+  y: 67.0
+  z: 9.500148249069266
+  yaw: 287.4
+  pitch: 16.200006
+money: '432.51'
+logoutlocation:
+  world: mines
+  x: 1.3000000119209283
+  y: 62.5
+  z: -10.034926432359484
+  yaw: -128.54785
+  pitch: 31.649992
+lastAccountName: CireRock

@@ -1,0 +1,52 @@
+Main:
+  NoPermissions: '&9[&aRD-Prison&9] &cYou are not allowed to do this!'
+  RankUpNotExisting: '&9[&aRD-Prison&9] &cThe RankUp is not existing...'
+  TellPlayersToReadRules: '&4Accept the rules and become &cUser&4! &c/AcceptRules'
+  Excluded: '&9[&aRD-Prison&9] &c*Nothing happens*'
+Economy:
+  AccountMissing: '&cYou don''t have an economy account...!'
+  NotEnoughMoney: '&9[&aRD-Prison&9] &cYou don''t have enough money (%money%/%needed%)!'
+Kills:
+  NotEnoughKills: '&cYou don''t have enough kills!'
+OnlineTime:
+  NotEnoughTime: '&cYou were not online long enough to use the &4RankUp&c!'
+XP:
+  NotEnoughXP: '&cYou don''t have enough XP!'
+NeedItems:
+  NotEnoughItems:
+    user: '&cYou need 10 Log and 60 Dirt to become User!'
+    builder: '&cYou need 40 iron ingots and 2 diamond blocks to become Builder!'
+    prisoner: '&cYou need nothing to become Prisoner xD'
+AcceptRulesCommand:
+  PlayerDidNotReadRules: '&cYou have to read the rules first!'
+RankUpCommand:
+  PlayerCantUseRankUp: '&cYou can not use a RankUp at the moment!'
+PasswordCommand:
+  WrongPassword: '&cThis is the wrong password...'
+  PlayerDidNotEnterAnyPassword: '&1/password &4<pw> &1!'
+AdminCommand:
+  TargetNotFound: '&4%target% &cis not online!'
+  ShowKills: '&4%target% &chas &4%kills% &ckills!'
+  ShowTime: '&4%target% &cwas &4%time% &conline!'
+  PlayerRankUpExecuted: '&cSuccessfully executed rankup &4%rankup% &cfor player &4%target%!'
+  PlayerRankUpFailed: '&cRankup &4%rankup% &cfor player &4%target% &cfailed!'
+  Reload:
+    Start: '&4CommandRank reload starting...'
+    End: '&4...finished!!!'
+  ArgumentIsNotInteger: '&4%argument% &cis not an integer!'
+  SetTime: '&4%target%''s &cold time: &4%oldtime%&c. The time was set to &4%newtime%&c!'
+  SetKills: '&4%target%''s &cold amount of kills: &4%oldkills%&c. The amount was set
+    to &4%newkills%&c!'
+UserCommand:
+  ShowKills: '&cYour amount of kills: &4%kills%&c!'
+  ShowTime: '&cYour were already &4%time%&c online!'
+RankUpInformation:
+  Template:
+    RankUpName: '&4%name%'
+    EconomyPrice: '&4Price: &c%price%'
+    OnlineTime: '&4Online time: &c%time%'
+    XPLevel: '&4XP level: &c%level%'
+    Items:
+      Title: '&4Items:'
+      OneLine: '  &8- &6%itemAmount% &c%itemName%'
+    Kills: '&4Kills: &c%kills%'

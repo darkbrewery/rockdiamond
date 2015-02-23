@@ -1,0 +1,22 @@
+uuid: 8f9fbf18-9ef7-4966-950d-79c3c5b86c5a
+timestamps:
+  login: 1416391588832
+  lastteleport: 1416391645907
+  logout: 1416391655069
+ipAddress: 222.153.137.172
+lastlocation:
+  world: spawn
+  x: 1.6999999880790715
+  y: 34.0
+  z: 7.925653492694895
+  yaw: 164.04204
+  pitch: -15.620243
+logoutlocation:
+  world: spawn
+  x: -2.1222291653424996
+  y: 37.0
+  z: -7.3858718978925575
+  yaw: 113.12573
+  pitch: 0.21278226
+money: '30.0'
+lastAccountName: xxps3gamerxx13

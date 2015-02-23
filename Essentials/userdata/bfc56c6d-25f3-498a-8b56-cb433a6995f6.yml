@@ -1,0 +1,26 @@
+lastAccountName: AlexABZ
+timestamps:
+  login: 1423947924444
+  lastteleport: 1423081781487
+  kits:
+    pvp: 1421353307809
+    novice: 1421255551021
+    color: 1421233205387
+  logout: 1423947928803
+ipAddress: 78.32.116.125
+lastlocation:
+  world: spawn
+  x: 30.49074147678227
+  y: 144.0
+  z: -242.24218050183697
+  yaw: 183.91284
+  pitch: 47.803482
+logoutlocation:
+  world: spawn
+  x: 9.320262890288571
+  y: 82.0
+  z: -1244.7964701550259
+  yaw: 57.632282
+  pitch: 18.712652
+money: '3346720.1774999998'
+afk: false

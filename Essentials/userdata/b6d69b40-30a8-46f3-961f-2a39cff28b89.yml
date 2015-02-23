@@ -1,0 +1,27 @@
+uuid: b6d69b40-30a8-46f3-961f-2a39cff28b89
+timestamps:
+  login: 1419031065724
+  lastteleport: 1419034036020
+  kits:
+    pvp: 1418852494381
+    novice: 1418852785722
+    color: 1418852797418
+    adept: 1419033061964
+  logout: 1419036667154
+ipAddress: 47.55.188.34
+money: '13568.790769230764'
+lastlocation:
+  world: spawn
+  x: -6.595481496892256
+  y: 34.0
+  z: -23.34299322748467
+  yaw: -254.25061
+  pitch: 25.499998
+logoutlocation:
+  world: mines
+  x: 217.69999998807907
+  y: 57.0
+  z: -11.300000011920927
+  yaw: 56.40249
+  pitch: 62.850014
+lastAccountName: baconear

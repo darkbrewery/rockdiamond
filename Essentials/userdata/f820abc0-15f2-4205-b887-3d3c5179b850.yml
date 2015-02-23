@@ -1,0 +1,24 @@
+lastAccountName: Steve2110
+timestamps:
+  login: 1421802832337
+  lastteleport: 1421803405049
+  kits:
+    novice: 1421802906946
+    adept: 1421803051235
+  logout: 1421803505259
+ipAddress: 68.149.156.139
+lastlocation:
+  world: mines
+  x: 158.85870134874278
+  y: 58.0
+  z: -10.349273057913157
+  yaw: 214.18634
+  pitch: 49.946934
+money: '40863.0'
+logoutlocation:
+  world: mines
+  x: 158.0479109418001
+  y: 64.0
+  z: -2.771479575841483
+  yaw: -52.945007
+  pitch: 8.074571

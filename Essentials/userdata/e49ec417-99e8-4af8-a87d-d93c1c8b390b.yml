@@ -1,0 +1,33 @@
+uuid: e49ec417-99e8-4af8-a87d-d93c1c8b390b
+timestamps:
+  login: 1424304635099
+  lastteleport: 1424236439035
+  kits:
+    expert: 1420932301848
+    pvp: 1419585418456
+    novice: 1419834466648
+    color: 1419985035861
+    adept: 1420078548292
+  logout: 1424304698389
+  jail: 0
+ipAddress: 138.75.187.135
+lastlocation:
+  world: mines
+  x: 47.50279036477903
+  y: 63.0
+  z: -14.646007708410668
+  yaw: -272.99738
+  pitch: 49.79999
+money: '27962418.79749999'
+logoutlocation:
+  world: parkour
+  x: -42.93384294054777
+  y: 87.0
+  z: -27.30000001192093
+  yaw: -84.19999
+  pitch: 45.6
+jailed: false
+afk: false
+nickname: §aA§ba§9a
+godmode: false
+lastAccountName: aaa27070

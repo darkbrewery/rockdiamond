@@ -1,0 +1,26 @@
+lastAccountName: PMO88794
+timestamps:
+  login: 1424081424705
+  lastteleport: 1424081460583
+  logout: 1424082121643
+  kits:
+    pvp: 1421911025828
+    novice: 1422096372405
+    adept: 1422096232965
+ipAddress: 178.251.183.83
+money: '104851.1869565217'
+lastlocation:
+  world: plotworld
+  x: 47.56799341475329
+  y: 65.0
+  z: -44.35921353376188
+  yaw: 24.45044
+  pitch: 10.649989
+logoutlocation:
+  world: parkour
+  x: -16.158399841296536
+  y: 82.0
+  z: -56.46842613343774
+  yaw: -94.35014
+  pitch: 40.80001
+afk: false

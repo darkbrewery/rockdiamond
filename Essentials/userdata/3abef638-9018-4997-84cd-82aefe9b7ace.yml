@@ -1,0 +1,27 @@
+timestamps:
+  lastteleport: 1423183898665
+  kits:
+    novice: 1421116194266
+    pvp: 1421116254387
+    color: 1417662719625
+    adept: 1421116123811
+  logout: 1423183910172
+  login: 1423183809156
+lastlocation:
+  world: world_the_end
+  x: -86.35579390510853
+  y: -134.17774842236432
+  z: 5.7762236827360205
+  yaw: -16.932648
+  pitch: 90.0
+money: '877522.1500000001'
+logoutlocation:
+  world: spawn
+  x: 15.812116726646686
+  y: 82.0
+  z: -1235.550300773609
+  yaw: 82.62674
+  pitch: 30.899992
+uuid: 3abef638-9018-4997-84cd-82aefe9b7ace
+ipAddress: 66.17.121.172
+lastAccountName: Brandonmeens
