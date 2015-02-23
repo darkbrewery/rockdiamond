@@ -35,7 +35,7 @@ Donate:
     - '&7the &bdonation &7perks!'
   ID: emerald_block
   KEEP-OPEN: true
-  POSITION-X: 7
+  POSITION-X: 6
   POSITION-Y: 4
 Shops:
   COMMAND: 'open: shops.yml'
