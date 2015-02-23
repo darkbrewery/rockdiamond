@@ -18,7 +18,7 @@ menu-settings:
 
   # This command command will be execute when the menu is opened.
   # Supports all the icon command types.
-  open-action: 'sound: note pling; tell: &eYou opened the menu.'
+  open-action: 'sound: note pling'
 
   # open-with-item - OPTIONAL
   # The menu will open only right-clicking with orange wool [35:1]
