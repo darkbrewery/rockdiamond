@@ -370,6 +370,14 @@ PVP:
   ID: Diamond_sword
   POSITION-X: 1
   POSITION-Y: 5
+HELL:
+  COMMAND: 'warp hell'
+  NAME: '&eHell'
+  LORE:
+    - 'Burn in &eHell'
+  ID: Netherbrick
+  POSITION-X: 3
+  POSITION-Y: 5
 Parkour:
   COMMAND: 'warp parkour'
   NAME: '&eParkour'
