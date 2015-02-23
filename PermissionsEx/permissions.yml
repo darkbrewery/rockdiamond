@@ -57,6 +57,8 @@ groups:
     - Base
   A:
     permissions:
+    - essentials.warps.hell
+    - essentials.warp.hell
     - essentials.tpaccept
     - essentials.warps.A
     - essentials.warps.donate
@@ -2161,8 +2163,8 @@ users:
     options:
       name: Great_Noah
     permissions:
-    - essentials.warps.petstore
     - essentials.warps.blackmarket
+    - essentials.warps.petstore
     - essentials.warps.hellbox
     - essentials.warps.fishinghole
   03be80d7-f1f9-461b-881e-4d7e5f21cb38:
@@ -2582,6 +2584,7 @@ users:
     options:
       name: MrVeyron
     permissions:
+    - essentials.warps.woodshed
     - essentials.warps.fishinghole
   4a6b3b1c-8b8f-448f-a712-844b9901cb7d:
     group:
@@ -13009,6 +13012,7 @@ users:
       name: Kingjakeboy
   6acf0b30-ccda-454b-adb8-5a19bfb6b5fe:
     group:
+    - S
     - R
     - Q
     - P
@@ -13030,11 +13034,12 @@ users:
     options:
       name: lokol1000
     permissions:
-    - essentials.warps.farmtown
-    - essentials.warps.wartfarm
-    - essentials.warps.petstore
     - essentials.warps.animalfarm
+    - essentials.warps.hellbox
     - essentials.warps.wheatfarm
+    - essentials.warps.wartfarm
+    - essentials.warps.farmtown
+    - essentials.warps.petstore
     - essentials.warps.woodshed
     - essentials.warps.flowerbox
     - essentials.warps.junkyard
@@ -13122,3 +13127,8 @@ users:
     group: []
     options:
       name: CCB4
+  91f61a37-dae8-4903-affd-e68cdf451383:
+    group:
+    - A
+    options:
+      name: tkbeal12

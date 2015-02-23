@@ -25,6 +25,9 @@ worlds:
   free:
     monsterLimit: 2400
     animalLimit: 2400
+  hell:
+    monsterLimit: 2400
+    animalLimit: 2400
   world_nether:
     monsterLimit: 2400
     animalLimit: 2400

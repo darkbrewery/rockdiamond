@@ -7,7 +7,7 @@
 menu-settings:
 
   # name - appears as the title - REQUIRED
-  name: '&9[&aRD-Prison&9]&r'
+  name: '&9[&aRock Diamond Prison&9]&r'
 
   # rows - the number of rows of the chest - REQUIRED
   rows: 6
@@ -66,7 +66,7 @@ Plots:
   NAME: '&ePlots'
   LORE:
     - 'Warp to &ePlots'
-  ID: stone_brick
+  ID: bed
   POSITION-X: 5
   POSITION-Y: 1
 TheMoon:

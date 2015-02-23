@@ -15,8 +15,8 @@ regions:
         priority: 0
         flags:
             pvp: deny
-            chest-access: allow
             enderpearl: deny
+            chest-access: allow
             use: allow
             build: deny
             blocked-cmds: [/mc, /magiccarpet]
@@ -132,19 +132,19 @@ regions:
         max: {x: 211.0, y: 257.0, z: -2802.0}
         priority: 0
         flags:
-            pvp: deny
-            invincible: allow
-            fire-spread: deny
-            lighter: deny
-            mob-spawning: deny
             receive-chat: allow
-            lava-fire: deny
             creeper-explosion: deny
+            lava-fire: deny
             lava-flow: deny
+            pvp: deny
             tnt: deny
             enderpearl: deny
+            invincible: allow
+            fire-spread: deny
             other-explosion: deny
+            lighter: deny
             ghast-fireball: deny
+            mob-spawning: deny
             blocked-cmds: [/mc, /magiccarpet, /f claim, /f claim a]
         owners:
             players: [silent_f1nish]
@@ -232,7 +232,8 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members: {}
+        members:
+            players: [lokol1000]
     ps_g4:
         type: cuboid
         min: {x: -7.0, y: 39.0, z: -2009.0}
