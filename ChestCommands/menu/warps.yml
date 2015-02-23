@@ -378,6 +378,15 @@ HELL:
   ID: Netherbrick
   POSITION-X: 3
   POSITION-Y: 5
+Donate:
+  COMMAND: 'warp donate;buy'
+  NAME: '&bDonate!'
+  LORE:
+    - '&eClick&7 to warp to'
+    - '&7the &bdonation &7perks!'
+  ID: emerald_block
+  POSITION-X: 6
+  POSITION-Y: 6
 Parkour:
   COMMAND: 'warp parkour'
   NAME: '&eParkour'
