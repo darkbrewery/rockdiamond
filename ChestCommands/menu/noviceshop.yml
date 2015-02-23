@@ -1,0 +1,340 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&9[&aNovice Shop&9]&r'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 4
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+Netherrack:
+  COMMAND: 'givemoney: 384'
+  REQUIRED-ITEM: Netherrack, 64
+  NAME: '&cNetherrack'
+  LORE: 
+    - '&eClick&7 to sell'
+    - '&cSell &764 &cNetherrack'
+    - '&eFor &6$384'
+  ID: netherrack
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 1
+Coal:
+  COMMAND: 'givemoney: 256'
+  REQUIRED-ITEM: Coal, 64
+  NAME: '&7Coal'
+  LORE:
+    - '&eClick&7 to sell'
+    - '&cSell &764 &7Coal'
+    - '&eFor &6$256'
+  ID: coal
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 1
+Redstone:
+  COMMAND: 'givemoney: 512'
+  REQUIRED-ITEM: redstone, 64
+  NAME: '&cRedstone'
+  LORE:
+    - '&eClick&7 to sell'
+    - '&cSell &764 &cRedstone'
+    - '&eFor &6$512'
+  ID: redstone
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 1
+Lapis:
+  COMMAND: 'givemoney: 2048'
+  REQUIRED-ITEM: 351:4, 64
+  NAME: '&9Lapis Lazuli'
+  LORE:
+    - '&eClick&7 to sell'
+    - '&cSell &764 &9Lapis Lazuli'
+    - '&eFor &6$2048'
+  ID: 351
+  DATA-VALUE: 4
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 1
+GoldIngot:
+  COMMAND: 'givemoney: 4096'
+  REQUIRED-ITEM: gold_ingot, 64
+  NAME: '&6Gold Ingot'
+  LORE:
+    - '&eClick&7 to sell'
+    - '&cSell &764 &6Gold Ingot'
+    - '&eFor &6$4096'
+  ID: gold_ingot
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 1
+IronIngot:
+  COMMAND: 'givemoney: 1024'
+  REQUIRED-ITEM: iron_ingot, 64
+  NAME: '&fIron Ingot'
+  LORE:
+    - '&eClick&7 to sell'
+    - '&cSell &764 &fIron Ingot'
+    - '&eFor &6$1024'
+  ID: iron_ingot
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 1
+Cobblestone:
+  COMMAND: 'givemoney: 64'
+  REQUIRED-ITEM: cobblestone, 64
+  NAME: '&7Cobblestone'
+  LORE:
+    - '&eClick&7 to sell'
+    - '&cSell &764 Cobblestone'
+    - '&eFor &6$64'
+  ID: cobblestone
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 1
+Log:
+  COMMAND: 'givemoney: 128'
+  REQUIRED-ITEM: log:1, 64
+  NAME: '&2Spruce Wood'
+  LORE:
+    - '&eClick&7 to sell'
+    - '&cSell &764 &2Spruce Wood'
+    - '&eFor &6$128'
+  ID: log:1
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 1
+Log1:
+  COMMAND: 'givemoney: 64'
+  REQUIRED-ITEM: log:2, 64
+  NAME: '&2Birch Wood'
+  LORE:
+    - '&eClick&7 to sell'
+    - '&cSell &764 &2Birch Wood'
+    - '&eFor &6$64'
+  ID: log:2
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 1
+Dirt:
+  COMMAND: 'givemoney: 16'
+  REQUIRED-ITEM: dirt, 64
+  NAME: '&3Dirt'
+  LORE:
+    - '&eClick&7 to sell'
+    - '&cSell &764 &3Dirt'
+    - '&eFor &6$16'
+  ID: dirt
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 2
+Sand:
+  COMMAND: 'givemoney: 256'
+  REQUIRED-ITEM: sand, 64
+  NAME: '&eSand'
+  LORE:
+    - '&eClick&7 to sell'
+    - '&cSell &764 &eSand'
+    - '&eFor &6$256'
+  ID: sand
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 2
+Gravel:
+  COMMAND: 'givemoney: 16'
+  REQUIRED-ITEM: gravel, 64
+  NAME: '&7Gravel'
+  LORE:
+    - '&eClick&7 to sell'
+    - '&cSell &764 &7Gravel'
+    - '&eFor &6$16'
+  ID: gravel
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 2 
+Sandstone:
+  COMMAND: 'givemoney: 1500'
+  REQUIRED-ITEM: sandstone, 1000
+  NAME: '&eSandstone'
+  LORE:
+    - '&eClick&7 to sell'
+    - '&cSell &71,000 &eSandstone'
+    - '&eFor &6$1,500'
+  ID: sandstone
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 2
+Sandstone1:
+  COMMAND: 'givemoney: 1500'
+  REQUIRED-ITEM: sandstone:1, 1000
+  NAME: '&eChiseled Sandstone'
+  LORE:
+    - '&eClick&7 to sell'
+    - '&cSell &71,000 &eChiseled Sandstone'
+    - '&eFor &6$1,500'
+  ID: sandstone
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 2
+Sandstone2:
+  COMMAND: 'givemoney: 1500'
+  REQUIRED-ITEM: sandstone:2, 1000
+  NAME: '&eSmooth Sandstone'
+  LORE:
+    - '&eClick&7 to sell'
+    - '&cSell &71,000 &eSmooth Sandstone'
+    - '&eFor &6$1,500'
+  ID: sandstone
+  DATA-VALUE: 2
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 2
+RedSandstone:
+  COMMAND: 'givemoney: 1500'
+  REQUIRED-ITEM: red_sandstone, 1000
+  NAME: '&cRed Sandstone'
+  LORE:
+    - '&eClick&7 to sell'
+    - '&cSell &71,000 &cRed Sandstone'
+    - '&eFor &6$1,500'
+  ID: red_sandstone
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 2
+RedSandstone1:
+  COMMAND: 'givemoney: 1500'
+  REQUIRED-ITEM: red_sandstone:1, 1000
+  NAME: '&cRed Chiseled Sandstone'
+  LORE:
+    - '&eClick&7 to sell'
+    - '&cSell &71,000 &cChiseled Red Sandstone'
+    - '&eFor &6$1,500'
+  ID: red_sandstone
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 2
+RedSandstone2:
+  COMMAND: 'givemoney: 1500'
+  REQUIRED-ITEM: red_sandstone:2, 1000
+  NAME: '&cSmooth Red Sandstone'
+  LORE:
+    - '&eClick&7 to sell'
+    - '&cSell &71,000 &cSmooth Red Sandstone'
+    - '&eFor &6$1,500'
+  ID: red_sandstone
+  DATA-VALUE: 2
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 2  
+Steak:
+  COMMAND: 'give: steak,32'
+  PRICE: 160
+  NAME: '&cSteak'
+  LORE:
+    - '&eClick&7 to buy'
+    - '&bBuy &732 &cSteak'
+    - '&eFor &6$160'
+  ID: steak
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 3
+Bonemeal:
+  COMMAND: 'give: bonemeal,32'
+  PRICE: 5
+  NAME: '&fBonemeal'
+  LORE:
+    - '&eClick&7 to buy'
+    - '&bBuy &732 &fBonemeal'
+    - '&eFor &6$5'
+  ID: 351
+  DATA-VALUE: 15
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 3
+Bread:
+  COMMAND: 'give: bread,32'
+  PRICE: 128
+  NAME: '&cBread'
+  LORE:
+    - '&eClick&7 to buy'
+    - '&bBuy &732 &cBread'
+    - '&eFor &6$128'
+  ID: bread
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 3
+IronPickaxe:
+  COMMAND: 'give: ironpickaxe'
+  PRICE: 256
+  NAME: '&fIron Pickaxe'
+  LORE:
+    - '&eClick&7 to buy'
+    - '&bBuy &71 &fIron Pickaxe'
+    - '&eFor &6$256'
+  ID: iron_pickaxe
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 3 
+Donate:
+  COMMAND: 'warp donate'
+  NAME: '&bDonate!'
+  LORE:
+    - '&eClick&7 to warp to'
+    - '&7the &bdonation &7perks!'
+  ID: emerald_block
+  POSITION-X: 5
+  POSITION-Y: 4
+Shops:
+  COMMAND: 'open: shops.yml'
+  NAME: '&eShops'
+  LORE:
+    - 'Open the &eShops&7 menu'
+  ID: chest
+  POSITION-X: 6
+  POSITION-Y: 4
+hiddenWarps:
+  COMMAND: 'open: hiddenwarps.yml'
+  NAME: '&eHidden Warps'
+  LORE:
+    - 'Open the &eHidden Warps&7 menu'
+  ID: enderchest
+  POSITION-X: 7
+  POSITION-Y: 4
+Warps:
+  COMMAND: 'open: warps.yml'
+  NAME: '&eWarps'
+  LORE:
+    - 'Open the &eWarps&7 menu'
+  ID: compass
+  POSITION-X: 8
+  POSITION-Y: 4
+Close:
+  NAME: '&4Close'
+  LORE:
+    - '&4Close&7 this menu'
+  ID: Barrier
+  POSITION-X: 9
+  POSITION-Y: 4
