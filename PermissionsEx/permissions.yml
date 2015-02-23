@@ -2584,6 +2584,7 @@ users:
     options:
       name: MrVeyron
     permissions:
+    - essentials.warps.hellbox
     - essentials.warps.woodshed
     - essentials.warps.fishinghole
   4a6b3b1c-8b8f-448f-a712-844b9901cb7d:
@@ -3005,8 +3006,8 @@ users:
     options:
       name: darkbrewery
     permissions:
-    - essentials.warps.blackmarket
     - essentials.warps.hellbox
+    - essentials.warps.blackmarket
     - essentials.warps.Sand
     - essentials.warps.wheatfarm
     - essentials.warps.fishinghole
@@ -9319,6 +9320,7 @@ users:
       name: Derek_Lan
       suffix: ''
     permissions:
+    - essentials.warps.GreenHouse
     - essentials.warps.animalfarm
     - essentials.warps.woodshed
     - essentials.warps.blackmarket
@@ -9328,7 +9330,6 @@ users:
     - essentials.warps.petstore
     - essentials.warps.junkyard
     - essentials.warps.hellbox
-    - essentials.warps.GreenHouse
     - essentials.warps.wartfarm
     - essentials.warps.flowerbox
     - -essentials.afk.kickexempt
