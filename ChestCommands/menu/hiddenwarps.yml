@@ -27,6 +27,16 @@ menu-settings:
 #       ITEMS        #
 #+                  +#
 ######################
+Donate:
+  COMMAND: 'warp donate;buy'
+  NAME: '&bDonate!'
+  LORE:
+    - '&eClick&7 to warp to'
+    - '&7the &bdonation &7perks!'
+  ID: emerald_block
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 4
 Shops:
   COMMAND: 'open: shops.yml'
   NAME: '&eShops'
