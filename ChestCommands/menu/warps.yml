@@ -366,7 +366,7 @@ PVP:
   COMMAND: 'warp pvp'
   NAME: '&ePVP'
   LORE:
-    - 'Warp to &ePVP'
+    - 'Slaughter Noobs'
   ID: Diamond_sword
   POSITION-X: 1
   POSITION-Y: 5
@@ -375,15 +375,15 @@ HELL:
   NAME: '&eHell'
   LORE:
     - 'Burn in &eHell'
-  ID: Netherbrick
+  ID: blaze_powder
   POSITION-X: 3
   POSITION-Y: 5
 Donate:
   COMMAND: 'warp donate;buy'
   NAME: '&bDonate!'
   LORE:
-    - '&eClick&7 to warp to'
-    - '&7the &bdonation &7perks!'
+    - '&eClick&7 to open'
+    - '&7the &bdonation &7menu!'
   ID: emerald_block
   KEEP-OPEN: true
   POSITION-X: 6

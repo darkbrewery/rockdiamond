@@ -1,27 +1,27 @@
 lastAccountName: lokol1000
 timestamps:
-  login: 1424635794873
-  lastteleport: 1424636536830
+  login: 1424682905944
+  lastteleport: 1424685294961
   kits:
     pvp: 1424627956039
     novice: 1424631382620
     color: 1424511818060
     adept: 1424542565254
-  logout: 1424636547112
+  logout: 1424685310313
 ipAddress: 91.140.0.182
 lastlocation:
-  world: spawn
-  x: 11.861804418899254
-  y: 140.0
-  z: -234.96649345502982
-  yaw: 45.999176
-  pitch: 18.599993
+  world: mines
+  x: 418.0867602952914
+  y: 3.0
+  z: -7.634219681677301
+  yaw: 90.60228
+  pitch: 3.1499803
 logoutlocation:
   world: mines
-  x: 348.1781040480244
+  x: 402.96319710966213
   y: 63.0
-  z: -5.550393331491433
-  yaw: 182.8525
-  pitch: 44.399998
+  z: -12.149539360376808
+  yaw: 309.90265
+  pitch: 27.150024
 afk: false
 money: '2581147.0'

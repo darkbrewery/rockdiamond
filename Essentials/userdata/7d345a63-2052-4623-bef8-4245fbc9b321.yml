@@ -1,8 +1,8 @@
 uuid: 7d345a63-2052-4623-bef8-4245fbc9b321
 timestamps:
   login: 1424649746823
-  logout: 1424661964970
-  lastteleport: 1424666805647
+  logout: 1424684512511
+  lastteleport: 1424684514512
   kits:
     expert: 1424554041813
     pvp: 1419962506629
@@ -17,7 +17,7 @@ timestamps:
   jail: 0
   mute: 0
 ipAddress: 23.124.41.10
-money: '174.41'
+money: '384.0'
 logoutlocation:
   world: spawn
   x: 70.69999998807907
@@ -26,12 +26,12 @@ logoutlocation:
   yaw: -77.408966
   pitch: -69.368
 lastlocation:
-  world: spawn
-  x: 13.260967768769715
-  y: 94.0
-  z: -1206.6808137612509
-  yaw: -68.239174
-  pitch: 57.38816
+  world: plotworld
+  x: 14.026878565144475
+  y: 68.0
+  z: 6.580463613560681
+  yaw: -133.78864
+  pitch: 8.5814085
 afk: false
 socialspy: true
 godmode: true

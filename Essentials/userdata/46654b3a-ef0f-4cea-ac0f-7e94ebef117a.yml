@@ -1,7 +1,7 @@
 uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
 timestamps:
   login: 1424649684917
-  lastteleport: 1424668541567
+  lastteleport: 1424685890985
   logout: 1424666438499
   kits:
     expert: 1423771984357
@@ -20,12 +20,12 @@ timestamps:
   jail: 0
 ipAddress: 96.49.84.24
 lastlocation:
-  world: spawn
-  x: 26.574156275665036
-  y: 84.20000004768372
-  z: -1253.4544789493298
-  yaw: 6.2180786
-  pitch: 64.64994
+  world: mines
+  x: 409.39548596695266
+  y: 69.20000004768363
+  z: -9.910633783568084
+  yaw: 181.50241
+  pitch: 21.449991
 godmode: false
 homes:
   villiage1:
