@@ -73,7 +73,7 @@ TheMoon:
   COMMAND: 'warp TheMoon'
   NAME: '&eThe Moon'
   LORE:
-    - 'Warp to &eThe Moon'
+    - 'Fly me to &eThe Moon'
   ID: Ender_stone
   POSITION-X: 6
   POSITION-Y: 1  

@@ -435,6 +435,11 @@
     "millis": 1423688028193
   },
   {
+    "id": "6acf0b30-ccda-454b-adb8-5a19bfb6b5fe",
+    "name": "lokol1000",
+    "millis": 1424687538841
+  },
+  {
     "id": "4fbb704f-18db-42f3-9c54-85fab602636c",
     "name": "jman_zar",
     "millis": 1421299221826
@@ -1783,11 +1788,6 @@
     "id": "5d408a22-29a4-4c74-9841-7a7d58974b92",
     "name": "Derek_Lan",
     "millis": 1424658656118
-  },
-  {
-    "id": "6acf0b30-ccda-454b-adb8-5a19bfb6b5fe",
-    "name": "lokol1000",
-    "millis": 1424685310682
   },
   {
     "id": "c3f8869c-5231-44ca-9c16-7f927c9fbbd0",
