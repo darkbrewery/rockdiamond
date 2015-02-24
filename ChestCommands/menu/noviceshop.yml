@@ -399,7 +399,7 @@ Wool5:
   POSITION-X: 5
   POSITION-Y: 4
 Wool6:
-  COMMAND: 'sell wool:6
+  COMMAND: 'sell wool:6'
   NAME: '&dPink Wool'
   LORE:
     - '&eClick&7 to sell'
