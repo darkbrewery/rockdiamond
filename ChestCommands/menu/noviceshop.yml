@@ -547,7 +547,7 @@ Brick:
     - '&eClick&7 to sell'
     - '&cSell &71 &cBrick'
     - '&eAt &6$20 each'
-  ID: brickblock
+  ID: brick
   KEEP-OPEN: true
   POSITION-X: 9
   POSITION-Y: 5
