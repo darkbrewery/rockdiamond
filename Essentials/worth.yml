@@ -3,7 +3,7 @@ worth:
   cobblestone: 1.0
   ironingot: 16.0
   goldingot: 64.0
-  ink_sac:
+  inksac:
     '4': 32.0
   redstone: 8.0
   coal: 4.0
@@ -31,7 +31,7 @@ worth:
     '0': 1.5
     '1': 1.5
     '2': 1.5
-  red_sandstone:
+  redsandstone:
     '0': 1.5
     '1': 1.5
     '2': 1.5
@@ -72,11 +72,11 @@ worth:
     '15': 3.04
   # I Warp
   # duplicate| Contains: ironingot for $16 | 
-  soul_sand: 40.0
-  clay_ball: 6.0
+  soulsand: 40.0
+  clayball: 6.0
   brick: 20.0
   # Adept Warp
-  redstone_block: 72.0
+  redstoneblock: 72.0
   quartzblock:
     '0': 4778.6
     '1': 8.0
@@ -127,4 +127,4 @@ worth:
   sponge: 500.0
   dispenser: 500.0
   enderchest: 500.0
-  ghast_tear: 500.0
+  ghasttear: 500.0
