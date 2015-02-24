@@ -23,9 +23,7 @@ worth:
   # C Warp
   # Duplicate| Contains: cobblestone for $1 |
   dirt: 0.25
-  sand:
-    '0': 4.0
-    '1': ###
+  sand: 4.0
   flint: 4.0
   gravel: 0.25
   # D Warp
