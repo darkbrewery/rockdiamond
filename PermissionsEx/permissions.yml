@@ -1022,7 +1022,6 @@ users:
     - essentials.warps.animalfarm
     - essentials.warps.zombiefarm
     - -essentials.afk.auto
-    - '*'
     - essentials.warps.wheatfarm
     - bukkit.*
     - -mcmmo.perks.*
