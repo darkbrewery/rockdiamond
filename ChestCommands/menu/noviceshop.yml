@@ -504,7 +504,7 @@ Wool14:
   ID: wool
   DATA-VALUE: 14
   KEEP-OPEN: true
-  POSITION-X: 4
+  POSITION-X: 5
   POSITION-Y: 5
 Wool15:
   COMMAND: 'sell wool:15'
@@ -516,7 +516,7 @@ Wool15:
   ID: wool
   DATA-VALUE: 15
   KEEP-OPEN: true
-  POSITION-X: 5
+  POSITION-X: 6
   POSITION-Y: 5
 SoulSand:
   COMMAND: 'sell soulsand'
@@ -527,7 +527,7 @@ SoulSand:
     - '&eAt &6$40 each'
   ID: soulsand
   KEEP-OPEN: true
-  POSITION-X: 6
+  POSITION-X: 7
   POSITION-Y: 5
 ClayBall:
   COMMAND: 'sell clayball'
@@ -538,7 +538,7 @@ ClayBall:
     - '&eAt &6$6 each'
   ID: soulsand
   KEEP-OPEN: true
-  POSITION-X: 7
+  POSITION-X: 8
   POSITION-Y: 5
 Brick:
   COMMAND: 'sell brickblock'
@@ -549,7 +549,7 @@ Brick:
     - '&eAt &6$20 each'
   ID: brickblock
   KEEP-OPEN: true
-  POSITION-X: 8
+  POSITION-X: 9
   POSITION-Y: 5
 Steak:
   COMMAND: 'give: steak,32'
