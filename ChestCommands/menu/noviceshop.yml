@@ -536,7 +536,7 @@ ClayBall:
     - '&eClick&7 to sell'
     - '&cSell &71 &7Clay Ball'
     - '&eAt &6$6 each'
-  ID: soulsand
+  ID: clayball
   KEEP-OPEN: true
   POSITION-X: 8
   POSITION-Y: 5
