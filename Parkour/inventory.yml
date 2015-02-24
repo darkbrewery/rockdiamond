@@ -119,8 +119,8 @@ s34224:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert GumBoots
       enchants:
-        PROTECTION_ENVIRONMENTAL: 3
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 3
   - ==: org.bukkit.inventory.ItemStack
     type: DIAMOND_LEGGINGS
     damage: 62
@@ -129,8 +129,8 @@ s34224:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert Jeans
       enchants:
-        PROTECTION_ENVIRONMENTAL: 3
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 3
   - ==: org.bukkit.inventory.ItemStack
     type: DIAMOND_CHESTPLATE
     damage: 59
@@ -139,8 +139,8 @@ s34224:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert Shirt
       enchants:
-        PROTECTION_ENVIRONMENTAL: 3
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 3
   - ==: org.bukkit.inventory.ItemStack
     type: SKULL_ITEM
     damage: 3
@@ -244,8 +244,8 @@ Micah4252:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Heels
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_LEGGINGS
     damage: 7
@@ -254,8 +254,8 @@ Micah4252:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Butflap
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_CHESTPLATE
     damage: 4
@@ -264,8 +264,8 @@ Micah4252:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Scraps
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_HELMET
     damage: 3
@@ -274,8 +274,8 @@ Micah4252:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Cap
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 5
 alpha5555: ''
 Kieralove:
   Inventory:
@@ -366,8 +366,8 @@ Kieralove:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert GumBoots
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: DIAMOND_LEGGINGS
     damage: 99
@@ -376,8 +376,8 @@ Kieralove:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert Jeans
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: DIAMOND_CHESTPLATE
     damage: 102
@@ -386,8 +386,8 @@ Kieralove:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert Shirt
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: DIAMOND_HELMET
     damage: 95
@@ -396,8 +396,8 @@ Kieralove:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert Helm
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 5
 valky_natividad: ''
 supremebattler: ''
 CaptainFuzzy9:
@@ -527,8 +527,8 @@ CaptainFuzzy9:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert GumBoots
       enchants:
-        PROTECTION_ENVIRONMENTAL: 3
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 3
   - ==: org.bukkit.inventory.ItemStack
     type: DIAMOND_LEGGINGS
     damage: 372
@@ -537,8 +537,8 @@ CaptainFuzzy9:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert Jeans
       enchants:
-        PROTECTION_ENVIRONMENTAL: 3
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 3
   - ==: org.bukkit.inventory.ItemStack
     type: DIAMOND_CHESTPLATE
     damage: 361
@@ -547,8 +547,8 @@ CaptainFuzzy9:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert Shirt
       enchants:
-        PROTECTION_ENVIRONMENTAL: 3
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 3
   - ==: org.bukkit.inventory.ItemStack
     type: AIR
     damage: -1
@@ -683,8 +683,8 @@ CptnSkullface:
       meta-type: UNSPECIFIC
       display-name: §9§lAdept Booties
       enchants:
-        PROTECTION_ENVIRONMENTAL: 2
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 2
   - ==: org.bukkit.inventory.ItemStack
     type: IRON_LEGGINGS
     damage: 5
@@ -693,8 +693,8 @@ CptnSkullface:
       meta-type: UNSPECIFIC
       display-name: §9§lAdept Jeans
       enchants:
-        PROTECTION_ENVIRONMENTAL: 2
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 2
   - ==: org.bukkit.inventory.ItemStack
     type: IRON_CHESTPLATE
     damage: 4
@@ -703,8 +703,8 @@ CptnSkullface:
       meta-type: UNSPECIFIC
       display-name: §9§lAdept Polo
       enchants:
-        PROTECTION_ENVIRONMENTAL: 2
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 2
   - ==: org.bukkit.inventory.ItemStack
     type: IRON_HELMET
     damage: 4
@@ -713,8 +713,8 @@ CptnSkullface:
       meta-type: UNSPECIFIC
       display-name: §9§lAdept Cap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 2
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 2
 Heinchecker: ''
 TGIxIGotYaSnipe:
   Inventory:
@@ -802,8 +802,8 @@ TGIxIGotYaSnipe:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Heels
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_LEGGINGS
     damage: 5
@@ -812,8 +812,8 @@ TGIxIGotYaSnipe:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Butflap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_CHESTPLATE
     damage: 5
@@ -822,8 +822,8 @@ TGIxIGotYaSnipe:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Scraps
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_HELMET
     damage: 8
@@ -832,8 +832,8 @@ TGIxIGotYaSnipe:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Cap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
 lilathecat: ''
 RyanBAwesome:
   Inventory:
@@ -972,8 +972,8 @@ RyanBAwesome:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Heels
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_LEGGINGS
     damage: 3
@@ -982,8 +982,8 @@ RyanBAwesome:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Butflap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_CHESTPLATE
     meta:
@@ -991,8 +991,8 @@ RyanBAwesome:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Scraps
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_HELMET
     damage: 3
@@ -1001,8 +1001,8 @@ RyanBAwesome:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Cap
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 5
 yoreken: ''
 court1234: ''
 cookeclicker21: ''
@@ -1099,8 +1099,8 @@ Deathstar2004:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Heels
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_LEGGINGS
     meta:
@@ -1108,8 +1108,8 @@ Deathstar2004:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Butflap
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_CHESTPLATE
     meta:
@@ -1117,8 +1117,8 @@ Deathstar2004:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Scraps
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_HELMET
     meta:
@@ -1126,8 +1126,8 @@ Deathstar2004:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Cap
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 5
 AlexABZ: ''
 stealthynija56: ''
 TheSLBPro: ''
@@ -1216,8 +1216,8 @@ soldies501:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert GumBoots
       enchants:
-        PROTECTION_ENVIRONMENTAL: 3
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 3
   - ==: org.bukkit.inventory.ItemStack
     type: DIAMOND_LEGGINGS
     meta:
@@ -1225,8 +1225,8 @@ soldies501:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert Jeans
       enchants:
-        PROTECTION_ENVIRONMENTAL: 3
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 3
   - ==: org.bukkit.inventory.ItemStack
     type: DIAMOND_CHESTPLATE
     meta:
@@ -1234,8 +1234,8 @@ soldies501:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert Shirt
       enchants:
-        PROTECTION_ENVIRONMENTAL: 3
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 3
   - ==: org.bukkit.inventory.ItemStack
     type: DIAMOND_HELMET
     meta:
@@ -1243,8 +1243,8 @@ soldies501:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert Helm
       enchants:
-        PROTECTION_ENVIRONMENTAL: 3
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 3
 MySmilePotato: ''
 I_SPAM_4_: ''
 BLAKJAK910: ''
@@ -1391,8 +1391,8 @@ BLAKJAK909:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Cap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_CHESTPLATE
     meta:
@@ -1400,8 +1400,8 @@ BLAKJAK909:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Scraps
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_LEGGINGS
     meta:
@@ -1409,8 +1409,8 @@ BLAKJAK909:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Butflap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: IRON_BLOCK
     amount: 26
@@ -1421,8 +1421,8 @@ BLAKJAK909:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Heels
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: IRON_PICKAXE
     meta:
@@ -1492,8 +1492,8 @@ BLAKJAK909:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert GumBoots
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: DIAMOND_LEGGINGS
     damage: 382
@@ -1502,8 +1502,8 @@ BLAKJAK909:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert Jeans
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: DIAMOND_CHESTPLATE
     damage: 384
@@ -1512,8 +1512,8 @@ BLAKJAK909:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert Shirt
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: AIR
     damage: -1
@@ -1587,8 +1587,8 @@ iKiwi:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Heels
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_LEGGINGS
     damage: 13
@@ -1597,8 +1597,8 @@ iKiwi:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Butflap
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_CHESTPLATE
     damage: 14
@@ -1607,8 +1607,8 @@ iKiwi:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Scraps
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_HELMET
     damage: 13
@@ -1617,8 +1617,8 @@ iKiwi:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Cap
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 5
 Kegjam: ''
 MrGames: ''
 Buggers99: ''
@@ -1631,8 +1631,8 @@ JulianD26:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Cap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_CHESTPLATE
     meta:
@@ -1640,8 +1640,8 @@ JulianD26:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Scraps
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_LEGGINGS
     meta:
@@ -1649,8 +1649,8 @@ JulianD26:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Butflap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_BOOTS
     meta:
@@ -1658,8 +1658,8 @@ JulianD26:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Heels
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: IRON_PICKAXE
     meta:
@@ -1824,8 +1824,8 @@ AsianQueen:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Heels
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_LEGGINGS
     meta:
@@ -1833,8 +1833,8 @@ AsianQueen:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Butflap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_CHESTPLATE
     meta:
@@ -1842,8 +1842,8 @@ AsianQueen:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Scraps
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_HELMET
     meta:
@@ -1851,8 +1851,8 @@ AsianQueen:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Cap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
 PMO88794:
   Inventory:
   - ==: org.bukkit.inventory.ItemStack
@@ -1932,8 +1932,8 @@ PMO88794:
       meta-type: UNSPECIFIC
       display-name: §9§lAdept Booties
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 2
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: IRON_LEGGINGS
     damage: 30
@@ -1942,8 +1942,8 @@ PMO88794:
       meta-type: UNSPECIFIC
       display-name: §9§lAdept Jeans
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 2
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: IRON_CHESTPLATE
     damage: 27
@@ -1952,8 +1952,8 @@ PMO88794:
       meta-type: UNSPECIFIC
       display-name: §9§lAdept Polo
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 2
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: IRON_HELMET
     damage: 26
@@ -1962,8 +1962,8 @@ PMO88794:
       meta-type: UNSPECIFIC
       display-name: §9§lAdept Cap
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 2
+        DURABILITY: 5
 princess_gabby_2: ''
 zzmaster123: ''
 nedden7:
@@ -1975,8 +1975,8 @@ nedden7:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Heels
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_CHESTPLATE
     meta:
@@ -1984,8 +1984,8 @@ nedden7:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Scraps
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - null
   - null
   - ==: org.bukkit.inventory.ItemStack
@@ -2030,8 +2030,8 @@ nedden7:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Butflap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_HELMET
     meta:
@@ -2039,8 +2039,8 @@ nedden7:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Cap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - null
   - null
   - null
@@ -2076,8 +2076,8 @@ nedden7:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Heels
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_LEGGINGS
     damage: 1
@@ -2086,8 +2086,8 @@ nedden7:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Butflap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_CHESTPLATE
     damage: 2
@@ -2096,8 +2096,8 @@ nedden7:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Scraps
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_HELMET
     meta:
@@ -2105,8 +2105,8 @@ nedden7:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Cap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
 GoatsInMyBelly: ''
 Budderalwayswin: ''
 DannyManFTW:
@@ -2169,8 +2169,8 @@ DannyManFTW:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Cap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_CHESTPLATE
     meta:
@@ -2178,8 +2178,8 @@ DannyManFTW:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Scraps
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_LEGGINGS
     meta:
@@ -2187,8 +2187,8 @@ DannyManFTW:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Butflap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_BOOTS
     meta:
@@ -2196,8 +2196,8 @@ DannyManFTW:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Heels
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: SAPLING
     damage: 1
@@ -2439,8 +2439,8 @@ aaa27070:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert GumBoots
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: DIAMOND_LEGGINGS
     damage: 28
@@ -2449,8 +2449,8 @@ aaa27070:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert Jeans
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: DIAMOND_CHESTPLATE
     damage: 28
@@ -2459,8 +2459,8 @@ aaa27070:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert Shirt
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 5
   - ==: org.bukkit.inventory.ItemStack
     type: DIAMOND_HELMET
     damage: 25
@@ -2469,8 +2469,8 @@ aaa27070:
       meta-type: UNSPECIFIC
       display-name: §4§lExpert Helm
       enchants:
-        DURABILITY: 5
         PROTECTION_ENVIRONMENTAL: 3
+        DURABILITY: 5
 sslendurman: ''
 knekt666:
   Inventory:
@@ -2594,8 +2594,8 @@ knekt666:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Cap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_CHESTPLATE
     meta:
@@ -2603,8 +2603,8 @@ knekt666:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Scraps
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_LEGGINGS
     meta:
@@ -2612,8 +2612,8 @@ knekt666:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Butflap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_BOOTS
     meta:
@@ -2621,8 +2621,8 @@ knekt666:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Heels
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: IRON_PICKAXE
     meta:
@@ -2671,8 +2671,8 @@ knekt666:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Heels
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_LEGGINGS
     damage: 5
@@ -2681,8 +2681,8 @@ knekt666:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Butflap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_CHESTPLATE
     damage: 4
@@ -2691,8 +2691,8 @@ knekt666:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Scraps
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_HELMET
     damage: 5
@@ -2701,8 +2701,8 @@ knekt666:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Cap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
 moggostory:
   Inventory:
   - ==: org.bukkit.inventory.ItemStack
@@ -2783,8 +2783,8 @@ moggostory:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Heels
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_LEGGINGS
     meta:
@@ -2792,8 +2792,8 @@ moggostory:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Butflap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_CHESTPLATE
     meta:
@@ -2801,8 +2801,8 @@ moggostory:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Scraps
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
   - ==: org.bukkit.inventory.ItemStack
     type: LEATHER_HELMET
     meta:
@@ -2810,8 +2810,8 @@ moggostory:
       meta-type: LEATHER_ARMOR
       display-name: §2§lHobo Cap
       enchants:
-        PROTECTION_ENVIRONMENTAL: 1
         DURABILITY: 5
+        PROTECTION_ENVIRONMENTAL: 1
 Lion_Warrior: ''
 NESW312: ''
 General_Mutt1233:
@@ -2875,3 +2875,115 @@ General_Mutt1233:
     type: AIR
     damage: -1
     amount: 0
+diandrew:
+  Inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    type: DIAMOND
+  - null
+  - null
+  - null
+  - ==: org.bukkit.inventory.ItemStack
+    type: IRON_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §2§lNovice Pick
+      enchants:
+        DURABILITY: 20
+        LOOT_BONUS_BLOCKS: 1
+        DIG_SPEED: 5
+  - ==: org.bukkit.inventory.ItemStack
+    type: IRON_AXE
+    damage: 5
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: §2§lNovice Axe
+      enchants:
+        DURABILITY: 10
+        LOOT_BONUS_BLOCKS: 1
+        DIG_SPEED: 3
+  - ==: org.bukkit.inventory.ItemStack
+    type: BREAD
+    amount: 32
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Beggar Scraps
+  - ==: org.bukkit.inventory.ItemStack
+    type: INK_SACK
+    damage: 15
+    amount: 64
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      display-name: Magic Tree Food
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  - null
+  Armor:
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_BOOTS
+    damage: 1
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §2§lHobo Heels
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 5
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_LEGGINGS
+    damage: 1
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §2§lHobo Butflap
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 5
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_CHESTPLATE
+    damage: 2
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §2§lHobo Scraps
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 5
+  - ==: org.bukkit.inventory.ItemStack
+    type: LEATHER_HELMET
+    damage: 1
+    meta:
+      ==: ItemMeta
+      meta-type: LEATHER_ARMOR
+      display-name: §2§lHobo Cap
+      enchants:
+        PROTECTION_ENVIRONMENTAL: 1
+        DURABILITY: 5

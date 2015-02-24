@@ -19,7 +19,7 @@ regions:
             chest-access: allow
             use: allow
             build: deny
-            blocked-cmds: [/mc, /magiccarpet]
+            blocked-cmds: [/magiccarpet, /mc]
         owners:
             players: [silent_f1nish]
         members: {}
@@ -133,8 +133,8 @@ regions:
         priority: 0
         flags:
             receive-chat: allow
-            creeper-explosion: deny
             lava-fire: deny
+            creeper-explosion: deny
             lava-flow: deny
             pvp: deny
             tnt: deny
@@ -145,7 +145,7 @@ regions:
             lighter: deny
             ghast-fireball: deny
             mob-spawning: deny
-            blocked-cmds: [/mc, /magiccarpet, /f claim, /f claim a]
+            blocked-cmds: [/magiccarpet, /mc, /f claim, /f claim a]
         owners:
             players: [silent_f1nish]
         members: {}
@@ -259,8 +259,7 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members:
-            players: [supremebattler]
+        members: {}
     ps_r1:
         type: cuboid
         min: {x: -21.0, y: 39.0, z: -1996.0}
@@ -301,8 +300,7 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members:
-            players: [maxthecool1234]
+        members: {}
     ps_r6:
         type: cuboid
         min: {x: -7.0, y: 39.0, z: -1982.0}
@@ -310,8 +308,7 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members:
-            players: [great_noah]
+        members: {}
     ps_y1:
         type: cuboid
         min: {x: 18.0, y: 39.0, z: -1996.0}
@@ -319,8 +316,7 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members:
-            players: [silent_f1nish]
+        members: {}
     ps_y2:
         type: cuboid
         min: {x: 11.0, y: 39.0, z: -1996.0}
@@ -363,8 +359,7 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members:
-            players: [xnichibondx]
+        members: {}
     pumpkin:
         type: cuboid
         min: {x: 45.0, y: 112.0, z: -827.0}
