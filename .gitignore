@@ -7,10 +7,21 @@
 *.jar
 *.war
 *.ear
+*.db
+*.log
 AreaShop/regions/
+CommandRank/PlayerStorage.yml
 Essentials/userdata/
 MassiveCore/idnamecache.json
 mcMMO/backup/
+mcMMO/flatfile/
+CommandRank/PlayerStorage.yml
+Parkour/courses.yml
+Parkour/inventory.yml
+Parkour/players.yml
+PrisonMine/mines/
+iConomy/accounts.mini
+WorldGuard/worlds/spawn/regions.yml
 Essentials/usermap.csv
 Multiverse-Portals/debug.log.*
 
