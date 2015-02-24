@@ -264,7 +264,7 @@ regions:
     trash:
         type: cuboid
         min: {x: 755.0, y: 67.0, z: -14.0}
-        max: {x: 763.0, y: 73.0, z: -9.0}
+        max: {x: 763.0, y: 73.0, z: -8.0}
         priority: 0
         flags: {build: allow}
         owners: {}

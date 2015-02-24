@@ -36,6 +36,8 @@ groups:
       rank: '1000'
       weight: '30'
     permissions:
+    - chestcommands.open.noviceshop.yml
+    - chestcommands.open.shops.yml
     - multiverse.access.spawn
     - multiverse.access.Spawn
     - multiverse.access.mines
@@ -57,6 +59,9 @@ groups:
     - Base
   A:
     permissions:
+    - essentials.sell
+    - chestcommands.open.noviceshop.yml
+    - chestcommands.open.shops.yml
     - essentials.warps.hell
     - essentials.warp.hell
     - essentials.tpaccept
@@ -596,12 +601,17 @@ groups:
       prefix: '&4&l[Overlord] &r'
       rank-ladder: staff
       weight: '31'
+      suffix: '&4 [&5Owner&4]&r'
     inheritance:
     - Base
     - Guard
     - Admin
     permissions:
     - '*'
+    worlds:
+      '[Owner]':
+        options:
+          suffix: /
 schema-version: 1
 users:
   5b1472a7-0db0-410b-b127-115f9c4d46c8:
@@ -998,6 +1008,7 @@ users:
       prefix: ''
       suffix: ''
     permissions:
+    - essentials.warps.junkyard
     - essentials.warps.GreenHouse2
     - essentials.mute.exempt
     - essentials.warps.farmtown
@@ -3006,6 +3017,7 @@ users:
     options:
       name: darkbrewery
     permissions:
+    - '*'
     - essentials.warps.fishinghole
     - essentials.warps.farmtown
     - essentials.warps.hellbox
@@ -3027,7 +3039,7 @@ users:
     - vanish.vanish
     group:
     - Free
-    - Admin
+    - Owner
   3b129f22-855a-434a-978a-51bad1c1f29d:
     group:
     - Q
@@ -5782,10 +5794,11 @@ users:
     options:
       name: Slykiller255
     permissions:
+    - essentials.warps.fishinghole
+    - essentials.warps.animalfarm
     - essentials.warps.blackmarket
     - essentials.warps.GreenHouse
     - essentials.warps.petstore
-    - essentials.warps.fishinghole
     - essentials.warps.woodshed
     - vanish.effects.toggle.lightning
   6d086e83-5bfd-4609-aa1b-81ae4ec1bd6f:
@@ -11370,6 +11383,7 @@ users:
       name: AmethystFoxyGirl
       suffix: ''
     permissions:
+    - essentials.warps.junkyard
     - essentials.warps.blackmarket
     - essentials.warps.fishinghole
     - essentials.warps.Sand
@@ -11378,7 +11392,6 @@ users:
     - essentials.warps.zombiefarm
     - essentials.warps.farmtown
     - essentials.warps.petstore
-    - essentials.warps.junkyard
     - essentials.warps.claymine
     - essentials.warps.animalfarm
     - essentials.warps.wheatfarm
@@ -13161,6 +13174,7 @@ users:
       name: xNavigator
   7dba2efb-fa2c-4c5b-97ca-a41a904d6105:
     group:
+    - O
     - N
     - M
     - L
@@ -13182,3 +13196,34 @@ users:
     - A
     options:
       name: 1jackalman
+  449b257d-84b0-43cb-8405-2f134048d142:
+    group:
+    - B
+    - A
+    options:
+      name: Insidegamerboy
+  9b545cb4-572a-4633-87d0-bd7fc58a7f00:
+    group:
+    - A
+    options:
+      name: dragonballzman99
+  6194a806-23b1-4986-8721-2db4ccac252a:
+    group:
+    - L
+    - K
+    - J
+    - I
+    - H
+    - G
+    - F
+    - E
+    - D
+    - C
+    - B
+    - A
+    options:
+      name: Dylangreat123
+    permissions:
+    - essentials.warps.farmtown
+  '[user]':
+    group: []
