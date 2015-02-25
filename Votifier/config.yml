@@ -1,0 +1,4 @@
+host: mc.rockdiamond.net
+port: 8192
+debug: false
+listener_folder: plugins/GAListener

@@ -1,0 +1,179 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&9[&eShops&9]&r'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 2
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'shops;shop;sell'
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+NoviceShop:
+  COMMAND: 'open: noviceshop.yml'
+  NAME: '&eNovice Shops'
+  LORE:
+    - 'Open the &eNovice Shops&7 menu'
+  ID: Iron_Block
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 1
+  VIEW-PERMISSION: 'essentials.warps.Novice'
+NoviceShop1:
+  COMMAND: 'open: noviceshop.yml'
+  NAME: '&eNovice Shops'
+  LORE:
+    - 'Open the &eNovice Shops&7 menu'
+  ID: Iron_Block
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 1
+  VIEW-PERMISSION: 'essentials.warps.Novice'
+NoviceShop2:
+  COMMAND: 'open: noviceshop.yml'
+  NAME: '&eNovice Shops'
+  LORE:
+    - 'Open the &eNovice Shops&7 menu'
+  ID: Iron_Block
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 1
+  VIEW-PERMISSION: 'essentials.warps.Novice'
+AdeptShop:
+  COMMAND: 'open: adeptshop.yml'
+  NAME: '&eAdept Shops'
+  LORE:
+    - 'Open the &eAdept Shops&7 menu'
+  ID: Gold_Block
+  KEEP-OPEN: true
+  POSITION-X: 4
+  POSITION-Y: 1
+  VIEW-PERMISSION: 'essentials.warps.Adept'
+AdeptShop1:
+  COMMAND: 'open: adeptshop.yml'
+  NAME: '&eAdept Shops'
+  LORE:
+    - 'Open the &eAdept Shops&7 menu'
+  ID: Gold_Block
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 1
+  VIEW-PERMISSION: 'essentials.warps.Adept'
+AdeptShop2:
+  COMMAND: 'open: adeptshop.yml'
+  NAME: '&eAdept Shops'
+  LORE:
+    - 'Open the &eAdept Shops&7 menu'
+  ID: Gold_Block
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 1
+  VIEW-PERMISSION: 'essentials.warps.Adept'
+ExpertShop:
+  COMMAND: 'open: expertshop.yml'
+  NAME: '&eExpert Shops'
+  LORE:
+    - 'Open the &eExpert Shops&7 menu'
+  ID: Diamond_block
+  KEEP-OPEN: true
+  POSITION-X: 7
+  POSITION-Y: 1
+  VIEW-PERMISSION: 'essentials.warps.Expert'
+ExpertShop1:
+  COMMAND: 'open: expertshop.yml'
+  NAME: '&eExpert Shops'
+  LORE:
+    - 'Open the &eExpert Shops&7 menu'
+  ID: Diamond_block
+  KEEP-OPEN: true
+  POSITION-X: 8
+  POSITION-Y: 1
+  VIEW-PERMISSION: 'essentials.warps.Expert'
+ExpertShop2:
+  COMMAND: 'open: expertshop.yml'
+  NAME: '&eExpert Shops'
+  LORE:
+    - 'Open the &eExpert Shops&7 menu'
+  ID: Diamond_block
+  KEEP-OPEN: true
+  POSITION-X: 9
+  POSITION-Y: 1
+  VIEW-PERMISSION: 'essentials.warps.Expert'
+balance:
+  NAME: '&eBalance'
+  COMMAND: 'bal'
+  LORE:
+    - 'Check your &ebalance'
+  ID: double_plant
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 2
+balance1:
+  NAME: '&eBalance'
+  COMMAND: 'bal'
+  LORE:
+    - 'Check your &ebalance'
+  ID: double_plant
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 2
+balance2:
+  NAME: '&eBalance'
+  COMMAND: 'bal'
+  LORE:
+    - 'Check your &ebalance'
+  ID: double_plant
+  KEEP-OPEN: true
+  POSITION-X: 3
+  POSITION-Y: 2
+Donate:
+  COMMAND: 'warp donate;buy'
+  NAME: '&bDonate!'
+  LORE:
+    - '&eClick&7 to warp to'
+    - '&7the &bdonation &7perks!'
+  ID: emerald_block
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 2
+hiddenWarps:
+  COMMAND: 'open: hiddenwarps.yml'
+  NAME: '&eHidden Warps'
+  LORE:
+    - 'Open the &eHidden Warps&7 menu'
+  ID: enderchest
+  POSITION-X: 7
+  POSITION-Y: 2
+Warps:
+  COMMAND: 'open: warps.yml'
+  NAME: '&eWarps'
+  LORE:
+    - 'Open the &eWarps&7 menu'
+  ID: Compass
+  POSITION-X: 8
+  POSITION-Y: 2
+Close:
+  NAME: '&4Close'
+  LORE:
+    - '&4Close&7 this menu'
+  ID: Barrier
+  POSITION-X: 9
+  POSITION-Y: 2

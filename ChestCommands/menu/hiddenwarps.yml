@@ -1,0 +1,215 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&9[&aHidden Warps&9]&r'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 4
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+Donate:
+  COMMAND: 'warp donate;buy'
+  NAME: '&bDonate!'
+  LORE:
+    - '&eClick&7 to warp to'
+    - '&7the &bdonation &7perks!'
+  ID: emerald_block
+  KEEP-OPEN: true
+  POSITION-X: 6
+  POSITION-Y: 4
+Shops:
+  COMMAND: 'open: shops.yml'
+  NAME: '&eShops'
+  LORE:
+    - 'Open the &eShops&7 menu'
+  ID: chest
+  POSITION-X: 8
+  POSITION-Y: 4
+Warps:
+  COMMAND: 'open: warps.yml'
+  NAME: '&eWarps'
+  LORE:
+    - 'Open the &eWarps&7 menu'
+  ID: compass
+  POSITION-X: 7
+  POSITION-Y: 4
+Close:
+  NAME: '&4Close'
+  LORE:
+    - '&4Close&7 this menu'
+  ID: Barrier
+  POSITION-X: 9
+  POSITION-Y: 4
+AnimalFarm:
+  COMMAND: 'warp AnimalFarm'
+  NAME: '&eAnimal Farm'
+  LORE:
+    - 'Warp to &eAnimalFarm'
+  ID: Steak
+  POSITION-X: 1
+  POSITION-Y: 1
+  VIEW-PERMISSION: 'essentials.warps.AnimalFarm'
+HellBox:
+  COMMAND: 'warp HellBox'
+  NAME: '&eHellBox'
+  LORE:
+    - 'Warp to &eHellBox'
+  ID: Gold_Sword
+  POSITION-X: 2
+  POSITION-Y: 1
+  VIEW-PERMISSION: 'essentials.warps.HellBox'
+FarmTown:
+  COMMAND: 'warp farmtown'
+  NAME: '&eFarm Town'
+  LORE:
+    - 'Warp to &eFarm Town'
+  ID: Diamond_hoe
+  POSITION-X: 3
+  POSITION-Y: 1
+  VIEW-PERMISSION: 'essentials.warps.FarmTown'
+FishingHole:
+  COMMAND: 'warp FishingHole'
+  NAME: '&eFishing Hole'
+  LORE:
+    - 'Warp to &eFishing Hole'
+  ID: Fishing_rod
+  POSITION-X: 4
+  POSITION-Y: 1
+  VIEW-PERMISSION: 'essentials.warps.FishingHole'
+FlowerBox:
+  COMMAND: 'warp flowerbox'
+  NAME: '&eFlower Box'
+  LORE:
+    - 'Warp to &eFlower Box'
+  ID: yellow_flower
+  POSITION-X: 4
+  POSITION-Y: 2
+  VIEW-PERMISSION: 'essentials.warps.FlowerBox'
+WoodShed:
+  COMMAND: 'warp woodshed'
+  NAME: '&eWoodShed'
+  LORE:
+    - 'Warp to &eWoodShed'
+  ID: diamond_axe
+  POSITION-X: 3
+  POSITION-Y: 2
+  VIEW-PERMISSION: 'essentials.warps.WoodShed'
+ZombieFarm:
+  COMMAND: 'warp ZombieFarm'
+  NAME: '&eZombieFarm'
+  LORE:
+    - 'Warp to &eZombie Farm'
+  ID: rotten_flesh
+  POSITION-X: 1
+  POSITION-Y: 2
+  VIEW-PERMISSION: 'essentials.warps.ZombieFarm'
+Blackmarket:
+  COMMAND: 'warp Blackmarket'
+  NAME: '&eBlackmarket'
+  LORE:
+    - 'Warp to &eBlackmarket'
+  ID: brewing_stand
+  POSITION-X: 2
+  POSITION-Y: 2
+  VIEW-PERMISSION: 'essentials.warps.BlackMarket'
+ShroomFarm:
+  COMMAND: 'warp Shroomfarm'
+  NAME: '&eShroomFarm'
+  LORE:
+    - 'Warp to &eShroom Farm'
+  ID: red_mushroom
+  POSITION-X: 5
+  POSITION-Y: 1
+  VIEW-PERMISSION: 'essentials.warps.ShroomFarm'
+Petstore:
+  COMMAND: 'warp Petstore'
+  NAME: '&ePet Store'
+  LORE:
+    - 'Warp to &ePetstore'
+  ID: saddle
+  POSITION-X: 6
+  POSITION-Y: 1
+  VIEW-PERMISSION: 'essentials.warps.petstore'
+WheatFarm:
+  COMMAND: 'warp WheatFarm'
+  NAME: '&eWheat Farm'
+  LORE:
+    - 'Warp to &eWheat Farm'
+  ID: wheat
+  POSITION-X: 5
+  POSITION-Y: 2
+  VIEW-PERMISSION: 'essentials.warps.WheatFarm'
+GreenHouse:
+  COMMAND: 'warp Greenhouse'
+  NAME: '&eGreen House'
+  LORE:
+    - 'Warp to &eGreen House'
+  ID: carrot
+  POSITION-X: 6
+  POSITION-Y: 2
+  VIEW-PERMISSION: 'essentials.warps.GreenHouse'
+GreenHouse2:
+  COMMAND: 'warp Greenhouse2'
+  NAME: '&eGreen House 2'
+  LORE:
+    - 'Warp to &eGreen House 2'
+  ID: melon
+  POSITION-X: 7
+  POSITION-Y: 2
+  VIEW-PERMISSION: 'essentials.warps.GreenHouse2'
+WartFarm:
+  COMMAND: 'warp WartFarm'
+  NAME: '&eWart Farm'
+  LORE:
+    - 'Warp to &eWart Farm'
+  ID: nether_wart
+  POSITION-X: 7
+  POSITION-Y: 1
+  VIEW-PERMISSION: 'essentials.warps.WartFarm'
+ClayMine:
+  COMMAND: 'warp ClayMine'
+  NAME: '&eClayMine'
+  LORE:
+    - 'Warp to &eClaymine'
+  ID: clay_ball
+  POSITION-X: 8
+  POSITION-Y: 1
+  VIEW-PERMISSION: 'essentials.warps.ClayMine'
+Junkyard:
+  COMMAND: 'warp Junkyard'
+  NAME: '&eJunkyard'
+  LORE:
+    - 'Warp to &eJunkyard'
+  ID: slimeblock
+  POSITION-X: 9
+  POSITION-Y: 1
+  VIEW-PERMISSION: 'essentials.warps.junkyard'
+Sand:
+  COMMAND: 'warp Sand'
+  NAME: '&eSand Mine'
+  LORE:
+    - 'Warp to &eSand Mine'
+  ID: sand
+  POSITION-X: 8
+  POSITION-Y: 2
+  VIEW-PERMISSION: 'essentials.warps.Sand'

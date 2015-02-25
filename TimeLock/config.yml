@@ -1,0 +1,15 @@
+#      TimeLock Example Configuration
+# ----------------------------------------
+# Refresh-Rate: 5 (how often TimeLock will reset the time, in seconds)
+# World:     
+#   world: day
+#   world_nether: night
+#   world_the_end: normal
+Refresh-Rate: 5
+World:
+  spawn: normal
+  plotworld: night
+  mines: night
+  parkour: night
+  free: normal
+  world_the_end: night

@@ -1,0 +1,9 @@
+Prefix: false
+Messages:
+  Block Command: Your inventory has been blocked!
+  Block Fail: Your inventory had nothing to be blocked!
+  Smelt Command: Your inventory has been smelted!
+  Smelt Fail: Your inventory had nothing to be smelted!
+  Full Inventory: You're inventory is full!
+  Disable Pickup: Your AutoPickup has been disabled!
+  Enable Pickup: Your AutoPickup has been enabled!

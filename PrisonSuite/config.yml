@@ -1,0 +1,8 @@
+general:
+  tickRate: 20
+  metrics: true
+  debug: false
+  wand: 294
+  language: english
+updater:
+  notifications: true

@@ -1,0 +1,31 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.db
+*.log
+*/regions.yml
+AreaShop/regions/
+Auto_Pickup/Data
+CommandRank/PlayerStorage.yml
+Essentials/userdata/
+Essentials/usermap.csv
+iConomy/accounts.mini
+MassiveCore/idnamecache.json
+mcMMO/backup/
+mcMMO/flatfile/
+Multiverse-Portals/debug.log.*
+Parkour/courses.yml
+Parkour/inventory.yml
+Parkour/players.yml
+PermissionsEx/permissions.yml
+PrisonMine/mines/
+WorldGuard/worlds/spawn/regions.yml
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*

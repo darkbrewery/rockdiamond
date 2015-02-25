@@ -1,0 +1,22 @@
+Tool:
+  Shovel:
+  - DIRT
+  - GRASS
+  - MYCEL
+  - SAND
+  - GRAVEL
+  Pick:
+  - STONE
+  - DIAMOND_ORE
+  - DIAMOND_ORE
+  - IRON_ORE
+  - GOLD_ORE
+  - REDSTONE_ORE
+  Axe:
+  - WOOD
+  - LEAVES
+  - LEAVES_2
+  Hoe:
+  - AIR
+  Shear:
+  - AIR
