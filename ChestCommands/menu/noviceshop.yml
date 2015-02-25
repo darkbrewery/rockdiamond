@@ -35,7 +35,7 @@ Netherrack:
   LORE: 
     - '&eClick&7 to sell'
     - '&cSell &71 &cNetherrack'
-    - '&eAt &6$ each'
+    - '&eAt &6$6 each'
   ID: netherrack
   KEEP-OPEN: true
   POSITION-X: 1
