@@ -8,7 +8,7 @@
 Refresh-Rate: 5
 World:
   spawn: normal
-  plotworld: normal
+  plotworld: night
   mines: night
   parkour: night
   free: normal
