@@ -1,7 +1,0 @@
-regions:
--   region: a
-    flags:
-        treefarm: DENY
--   region: b
-    flags:
-        treefarm: DENY
