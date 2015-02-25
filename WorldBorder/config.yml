@@ -24,10 +24,10 @@ worlds:
     radiusZ: 500
     wrapping: false
   world_the_end:
-    x: 11.5
-    z: 15.5
-    radiusX: 250
-    radiusZ: 250
+    x: 11.220366866042339
+    z: 16.50045295174567
+    radiusX: 300
+    radiusZ: 300
     wrapping: false
   free:
     x: -299.5
