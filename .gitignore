@@ -13,6 +13,7 @@
 AreaShop/regions/
 CommandRank/PlayerStorage.yml
 dynmap/web/
+dynmap/*.pending
 Essentials/userdata/
 Essentials/usermap.csv
 iConomy/accounts.mini
