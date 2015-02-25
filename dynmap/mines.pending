@@ -1,0 +1,24 @@
+tiles:
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 0,8,iso_SE_30_hires,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 0,0,iso_S_90_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 1,7,iso_SE_30_hires,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 0,6,iso_SE_30_hires,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 0,0,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 0,1,iso_SE_60_lowres,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: 0,7,iso_SE_30_hires,0
+-   class: org.dynmap.hdmap.HDMapTile
+    data: -1,0,iso_S_90_lowres,0
+invalid:
+    t:
+    - 0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/1:0/3:0/1:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0
+    flat: [
+        ]
+    ct:
+    - 0/0:0/1:0/1:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0:0/0

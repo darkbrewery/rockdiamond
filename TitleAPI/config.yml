@@ -1,6 +1,6 @@
 Title On Join: true
-Title Message: "&lWelcome %player% to"
-Subtitle Message: "&b&lRock Diamond &c&lPrison"
+Title Message: '&lWelcome %player% to'
+Subtitle Message: '&b&lRock Diamond &c&lPrison'
 Tab Header Enabled: true
-Tab Header Message: "&b&lRock Diamond &c&lPrison"
-Tab Footer Message: "&e&omc.rockdiamond.net"
+Tab Header Message: '&b&lRock Diamond &c&lPrison'
+Tab Footer Message: '&e&omc.rockdiamond.net'

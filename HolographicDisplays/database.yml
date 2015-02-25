@@ -43,3 +43,7 @@ suggestions2:
   location: spawn, -6.521, 84.000, -1233.448
   lines:
   - '&uSuggestions'
+playershops:
+  location: spawn, 33.767, 85.000, -1256.768
+  lines:
+  - '&d&l Player Shops'

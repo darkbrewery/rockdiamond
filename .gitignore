@@ -11,8 +11,8 @@
 *.log
 */regions.yml
 AreaShop/regions/
-Auto_Pickup/Data
 CommandRank/PlayerStorage.yml
+dynmap/web/
 Essentials/userdata/
 Essentials/usermap.csv
 iConomy/accounts.mini
