@@ -35,3 +35,9 @@ worlds:
     radiusX: 5500
     radiusZ: 5500
     wrapping: false
+  plotworld:
+    x: 10.5
+    z: 8.5
+    radiusX: 500
+    radiusZ: 500
+    wrapping: false
