@@ -86,7 +86,7 @@ GoldIngot:
   POSITION-X: 5
   POSITION-Y: 1
 IronIngot:
-  COMMAND: 'sell irongingot'
+  COMMAND: 'sell ironingot'
   NAME: '&fIron Ingot'
   LORE:
     - '&eClick&7 to sell'
@@ -564,7 +564,7 @@ Steak:
   POSITION-X: 1
   POSITION-Y: 6
 Bonemeal:
-  COMMAND: 'give: bonemeal,32'
+  COMMAND: 'give: inksac:15,32'
   PRICE: 5
   NAME: '&fBonemeal'
   LORE:

@@ -1,0 +1,107 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&9[Novice Shop]&r'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: ''
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+RedstoneBlock:
+  COMMAND: 'sell redstoneblock'
+  NAME: '&cRedstone Block'
+  LORE: 
+    - '&eClick&7 to sell'
+    - '&cSell &71 &cRedstone Block'
+    - '&eAt &6$72 each'
+  ID: redstoneblock
+  KEEP-OPEN: true
+  POSITION-X: 1
+  POSITION-Y: 1
+QuartzBlock:
+  COMMAND: 'sell quartzblock:1'
+  NAME: '&fChiseled Quartz Block'
+  LORE: 
+    - '&eClick&7 to sell'
+    - '&cSell &71 &fChiseled Quartz Block'
+    - '&eAt &6$8 each'
+  ID: quartz_block
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 1
+QuartzBlock:
+  COMMAND: 'sell quartzblock:1'
+  NAME: '&fChiseled Quartz Block'
+  LORE: 
+    - '&eClick&7 to sell'
+    - '&cSell &71 &fChiseled Quartz Block'
+    - '&eAt &6$8 each'
+  ID: quartz_block
+  DATA-VALUE: 1
+  KEEP-OPEN: true
+  POSITION-X: 2
+  POSITION-Y: 1
+Donate:
+  COMMAND: 'warp donate;buy'
+  NAME: '&bDonate!'
+  LORE:
+    - '&eClick&7 to warp to'
+    - '&7the &bdonation &7perks!'
+  ID: emerald_block
+  KEEP-OPEN: true
+  POSITION-X: 5
+  POSITION-Y: 6
+Shops:
+  COMMAND: 'open: shops.yml'
+  NAME: '&eShops'
+  LORE:
+    - 'Open the &eShops&7 menu'
+  ID: chest
+  POSITION-X: 6
+  POSITION-Y: 6
+hiddenWarps:
+  COMMAND: 'open: hiddenwarps.yml'
+  NAME: '&eHidden Warps'
+  LORE:
+    - 'Open the &eHidden Warps&7 menu'
+  ID: enderchest
+  POSITION-X: 7
+  POSITION-Y: 6
+Warps:
+  COMMAND: 'open: warps.yml'
+  NAME: '&eWarps'
+  LORE:
+    - 'Open the &eWarps&7 menu'
+  ID: compass
+  POSITION-X: 8
+  POSITION-Y: 6
+Close:
+  NAME: '&4Close'
+  LORE:
+    - '&4Close&7 this menu'
+  ID: Barrier
+  POSITION-X: 9
+  POSITION-Y: 6
