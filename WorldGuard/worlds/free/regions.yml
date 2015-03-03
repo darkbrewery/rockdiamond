@@ -43,7 +43,54 @@ regions:
         min: {x: -5056.0, y: 0.0, z: -5168.0}
         max: {x: -4962.0, y: 255.0, z: -5073.0}
         priority: 0
-        flags: {chest-access: deny}
+        flags: {chest-access: deny, mob-damage: deny}
+        owners:
+            players: [silent_f1nish]
+        members: {}
+    silentp1:
+        type: cuboid
+        min: {x: -5011.0, y: 63.0, z: -5107.0}
+        max: {x: -5002.0, y: 72.0, z: -5100.0}
+        priority: 0
+        flags: {build: allow}
+        owners:
+            players: [silent_f1nish]
+        members:
+            players: [amethystfoxygirl]
+    silentp2:
+        type: cuboid
+        min: {x: -5011.0, y: 63.0, z: -5115.0}
+        max: {x: -5002.0, y: 72.0, z: -5108.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [silent_f1nish]
+        members: {}
+    silentp3:
+        type: cuboid
+        min: {x: -5011.0, y: 63.0, z: -5123.0}
+        max: {x: -5002.0, y: 72.0, z: -5116.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [silent_f1nish]
+        members: {}
+    silentp4:
+        type: cuboid
+        min: {x: -5011.0, y: 63.0, z: -5131.0}
+        max: {x: -5002.0, y: 72.0, z: -5124.0}
+        priority: 0
+        flags: {build: allow}
+        owners:
+            players: [silent_f1nish]
+        members:
+            players: [brewhaus]
+    silentp5:
+        type: cuboid
+        min: {x: -5011.0, y: 63.0, z: -5139.0}
+        max: {x: -5002.0, y: 72.0, z: -5132.0}
+        priority: 0
+        flags: {}
         owners:
             players: [silent_f1nish]
         members: {}

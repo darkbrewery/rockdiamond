@@ -13,8 +13,10 @@ player-killed-bad-spawn: false
 deny-enderpearl: true
 fill-autosave-frequency: 30
 bypass-list-uuids:
-- 7d345a63-2052-4623-bef8-4245fbc9b321
 - 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+- 7d345a63-2052-4623-bef8-4245fbc9b321
+- 3ec20941-3b49-4346-a72c-f6029968a15a
+- 0505df51-06a9-4067-842b-cf171e31b6e6
 fill-memory-tolerance: 500
 worlds:
   hell:
@@ -40,4 +42,10 @@ worlds:
     z: 8.5
     radiusX: 500
     radiusZ: 500
+    wrapping: false
+  spawn:
+    x: 14.5
+    z: -1237.5
+    radiusX: 3500
+    radiusZ: 3500
     wrapping: false
