@@ -37,13 +37,21 @@ Spawn:
   ID: compass
   POSITION-X: 1
   POSITION-Y: 1
+Freshmeat:
+  COMMAND: 'warp FreshMeat'
+  NAME: '&eFreshMeat'
+  LORE:
+    - 'Warp to &eFreshMeat'
+  ID: pork
+  POSITION-X: 3
+  POSITION-Y: 1
 Library:
   COMMAND: 'warp library'
   NAME: '&eLibrary'
   LORE:
     - 'Warp to &eLibrary'
   ID: bookshelf
-  POSITION-X: 2
+  POSITION-X: 4
   POSITION-Y: 1
 Tutorial:
   COMMAND: 'warp tutorial'
@@ -59,7 +67,7 @@ PlayerShops:
   LORE:
     - 'Warp to &ePlayer Shops'
   ID: skull:3
-  POSITION-X: 4
+  POSITION-X: 5
   POSITION-Y: 1
 Plots:
   COMMAND: 'warp plots'
@@ -67,16 +75,16 @@ Plots:
   LORE:
     - 'Warp to &ePlots'
   ID: bed
-  POSITION-X: 5
+  POSITION-X: 6
   POSITION-Y: 1
 TheMoon:
   COMMAND: 'warp TheMoon'
   NAME: '&eThe Moon'
   LORE:
     - 'Fly me to &eThe Moon'
-  ID: Ender_stone
-  POSITION-X: 6
-  POSITION-Y: 1  
+  ID: Ender_pearl
+  POSITION-X: 4
+  POSITION-Y: 5  
 Novice:
   COMMAND: 'warp novice'
   NAME: '&eNovice'
