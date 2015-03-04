@@ -93,6 +93,7 @@ Novice:
   ID: iron_pickaxe
   POSITION-X: 1
   POSITION-Y: 2
+  VIEW-PERMISSION: 'essentials.warps.A'
 Adept:
   COMMAND: 'warp adept'
   NAME: '&eAdept'
@@ -101,6 +102,7 @@ Adept:
   ID: gold_pickaxe
   POSITION-X: 1
   POSITION-Y: 3
+  VIEW-PERMISSION: 'essentials.warps.I'
 Expert:
   COMMAND: 'warp expert'
   NAME: '&eExpert'
@@ -109,6 +111,7 @@ Expert:
   ID: diamond_pickaxe
   POSITION-X: 1
   POSITION-Y: 4
+  VIEW-PERMISSION: 'essentials.warps.Q'
 Pro:
   COMMAND: 'warp pro'
   NAME: '&dPro'
@@ -117,6 +120,7 @@ Pro:
   ID: beacon
   POSITION-X: 1
   POSITION-Y: 5
+  VIEW-PERMISSION: 'essentials.warps.Y'
 A:
   COMMAND: 'warp a'
   NAME: '&aAssHat'
