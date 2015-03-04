@@ -6,3 +6,199 @@ spawns:
     z: -1237.496170738188
     yaw: 89.67692
     pitch: -1.4999936
+  default: 
+    world: spawn
+    x: 0.504055340308696
+    y: 102.38197433982258
+    z: -10.935274753962029
+    yaw: -0.6000003
+    pitch: 6.900009
+  freshmeat: 
+    world: spawn
+    x: 0.5
+    y: 102.0
+    z: -10.5
+    yaw: -0.6000003
+    pitch: 6.900009
+  a: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.826904
+    pitch: 0.1499731
+  b: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.826904
+    pitch: 0.1499731
+  c: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.826904
+    pitch: 0.1499731
+  d: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.826904
+    pitch: 0.1499731
+  e: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.826904
+    pitch: 0.1499731
+  f: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.826904
+    pitch: 0.1499731
+  g: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.826904
+    pitch: 0.1499731
+  h: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936
+  i: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936
+  j: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936
+  k: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936
+  l: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936
+  m: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936
+  n: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936
+  o: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936
+  p: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936
+  q: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936
+  r: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936
+  s: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936
+  t: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936
+  u: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936
+  v: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936
+  w: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936
+  x: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936
+  y: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936
+  z: 
+    world: spawn
+    x: 14.5
+    y: 81.5
+    z: -1237.5
+    yaw: 89.67692
+    pitch: -1.4999936

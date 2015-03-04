@@ -268,10 +268,6 @@ kits:
     delay: 60
     items: 
       - "387 1 title:&4Book_&9o_&6Colors author:KHobbits lore:Ingame_color_codes book:Colors"
-  Changelog:
-    delay: 60
-    items:
-      - "387 1 title:&4Changelog author:Darkbrewery lore:Recent_Updates_To_The Server book:Changelog"
   Guard:
     delay: 60
     items:
@@ -566,7 +562,7 @@ chat:
     F: '&2[&eFartKnocker&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     G: '&2[&eGoof&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     H: '&2[&eHoser&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    I: '&2[&eImbecile&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    I: '&1[&eImbecile&1] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     J: '&1[&eJerkoff&1] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     K: '&1[&eKnobGoblin&1] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     L: '&1[&eLardAss&1] &b{DISPLAYNAME}&7:&r {MESSAGE}'
@@ -574,17 +570,17 @@ chat:
     N: '&1[&eNutSack&1] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     O: '&1[&eOldBastard&1] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     P: '&1[&ePissflap&1] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Q: '&1[&eQueef&1] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    R: '&1[&eRetard&1] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    Q: '&4[&eQueef&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    R: '&4[&eRetard&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     S: '&4[&eScumBag&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     T: '&4[&eThunderCunt&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     U: '&4[&eUrethra&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     V: '&4[&eVajayJay&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     W: '&4[&eWanker&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     X: '&4[&eXunt&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Y: '&4[&eYuppie&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Z: '&4[&eZitLicker&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Free: '&4[&eFree&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    Y: '&5[&eYuppie&5] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    Z: '&5[&eZitLicker&5] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    Free: '&5[&eFree&5] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     Owner: '&b{DISPLAYNAME}&7:&r {MESSAGE}'
 
 ############################################################
