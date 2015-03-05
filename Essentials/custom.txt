@@ -74,8 +74,9 @@ To add /vote, add this to commands.yml:
  ▬▬ι═══- &d[&bZitLicker&d] &a$500,000,000
  ▬▬ι═══- &d[&bFree&d] &a$750,000,000
 ----- Do /ranks 5 for Page 5 -----
+------- Ranks Page 5 of 5 --------
  ▬▬ι═══- &d[&bSavage&d] &a$750,000,000
- ▬▬ι═══- &d[&bDealer&d] &a$750,000,000
+ ▬▬ι═══- &d[&bPsycho&d] &a$750,000,000
  ▬▬ι═══- &d[&bBadass&d] &a$750,000,000
 
 #changelog
