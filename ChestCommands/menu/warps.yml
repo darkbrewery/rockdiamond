@@ -391,6 +391,36 @@ Free:
   POSITION-Y: 5
   POSITION-X: 4
   VIEW-PERMISSION: 'essentials.warps.Free'
+Savage:
+  COMMAND: 'warp Savage'
+  NAME: '&dSavage'
+  LORE:
+    - 'Warp to &dSavage'
+  KEEP-OPEN: false
+  ID: obsidian
+  POSITION-Y: 5
+  POSITION-X: 5
+  VIEW-PERMISSION: 'essentials.warps.Savage'
+Psycho:
+  COMMAND: 'warp Psycho'
+  NAME: '&dPsycho'
+  LORE:
+    - 'Warp to &dPsycho'
+  KEEP-OPEN: false
+  ID: obsidian
+  POSITION-Y: 5
+  POSITION-X: 6
+  VIEW-PERMISSION: 'essentials.warps.Psycho'
+Badass:
+  COMMAND: 'warp Badass'
+  NAME: '&dBadass'
+  LORE:
+    - 'Warp to &dBadass'
+  KEEP-OPEN: false
+  ID: obsidian
+  POSITION-Y: 5
+  POSITION-X: 7
+  VIEW-PERMISSION: 'essentials.warps.Badass'
 HiddenWarps:
   COMMAND: 'open: hiddenwarps.yml'
   NAME: '&eHidden Warps'
