@@ -275,6 +275,34 @@ kits:
       - 303 1 unbreaking:50 protection:3 name:&9&lGuard_Uniform
       - 304 1 unbreaking:50 protection:3 name:&9&lGuard_Uniform
       - 305 1 unbreaking:50 protection:3 name:&9&lGuard_Uniform
+  Scuba:
+    delay: 1
+    items:
+      - 310 1 aquaaffinity:5 respiration:1000 protection:5 unbreaking:10 name:&d&lScuba_Mask
+  AirJordans:
+    delay: 1
+    items:
+      - 313 1 featherfall:1000 protection:5 unbreaking:10 name:&d&lAir_Jordans
+  SilkyShovel:
+    delay: 1
+    items:
+      - 277 1 silktouch:1 efficiency:10 unbreaking:10 name:&d&lSilky_Shovel
+  TreasureShovel:
+    delay: 1
+    items:
+      - 277 1 fortune:3 efficiency:10 unbreaking:10 name:&d&lTreasure_Shovel
+  SilkyPick:
+    delay: 1
+    items:
+      - 278 1 silktouch:1 efficiency:40 unbreaking:30 name:&d&lSilky_Pick
+  BadassPick:
+    delay: 1
+    items:
+      - 278 1 fortune:3 efficiency:40 unbreaking:30 name:&d&lBadass_Pick
+  BadassAxe:
+    delay: 1
+    items:
+      - 279 1 fortune:3 efficiency:40 unbreaking:30 name:&d&lBadass_Axe
 
 # Essentials Sign Control
 # See http://wiki.ess3.net/wiki/Sign_Tutorial for instructions on how to use these.
@@ -581,6 +609,9 @@ chat:
     Y: '&5[&eYuppie&5] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     Z: '&5[&eZitLicker&5] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     Free: '&5[&eFree&5] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    Savage: '&5[&eSavage&5] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    Dealer: '&5[&eDealer&5] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    Badass: '&5[&eBadass&5] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     Owner: '&b{DISPLAYNAME}&7:&r {MESSAGE}'
 
 ############################################################

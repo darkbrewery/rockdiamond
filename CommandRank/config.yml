@@ -45,7 +45,10 @@ autorankups:
 commandrankuplist:
   enabled: true
   list:
-  - CommandRank.isGroup.Z:free
+  - CommandRank.isGroup.dealer:badass
+  - CommandRank.isGroup.savage:dealer
+  - CommandRank.isGroup.free:savage
+  - CommandRank.isGroup.z:free
   - CommandRank.isGroup.y:z
   - CommandRank.isGroup.x:y
   - CommandRank.isGroup.w:x
@@ -840,7 +843,7 @@ rankups:
   free:
     message: You can now use &a/warp Free
     economy:
-      price: 1000000000
+      price: 750000000
       enabled: true
     onlinetime:
       enabled: false
@@ -857,6 +860,81 @@ rankups:
         list:
         - broadcast %name% has ranked up to become Free!!!
         - pex user %name% group add Free
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  savage:
+    message: You are now a Savage
+    economy:
+      price: 750000000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to Savage!!!
+        - pex user %name% group add Savage
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  dealer:
+    message: You are now a Dealer
+    economy:
+      price: 750000000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to Dealer!!!
+        - pex user %name% group add Dealer
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  badass:
+    message: You are now a Badass
+    economy:
+      price: 750000000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to Badass!!!
+        - pex user %name% group add Badass
         - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:

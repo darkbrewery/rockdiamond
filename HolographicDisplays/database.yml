@@ -51,3 +51,15 @@ mine:
   location: spawn, 31.513, 84.000, -1220.420
   lines:
   - '&u&lStarter Mine'
+crate1:
+  location: spawn, 6.591, 85.075, -1232.509
+  lines:
+  - '&u&lRewards Chest'
+  - Opens with Vote & Badass keys
+  - '&b&l/Vote &rfor prizes!'
+crate2:
+  location: spawn, 6.490, 85.075, -1242.507
+  lines:
+  - '&u&lRewards Chest'
+  - Opens with Vote & Badass keys
+  - '&b&l/Vote &rfor prizes!'

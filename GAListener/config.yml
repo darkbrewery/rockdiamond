@@ -64,58 +64,6 @@ luckyvotes:
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Dragon Egg!'
     commands:
     - '/give {username} 122 1'
-  '200':
-    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a vinyl copy of{AQUA} 13!'
-    commands:
-    - '/give {username} 2256 1'
-  '200':
-    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a vinyl copy of{AQUA} Cat!'
-    commands:
-    - '/give {username} 2257 1'
-  '200':
-    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a vinyl copy of{AQUA} Blocks!'
-    commands:
-    - '/give {username} 2258 1'
-  '200':
-    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a vinyl copy of{AQUA} Chirp!'
-    commands:
-    - '/give {username} 2259 1'
-  '200':
-    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a vinyl copy of{AQUA} Far!'
-    commands:
-    - '/give {username} 2260 1'
-  '200':
-    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a vinyl copy of{AQUA} Mall!'
-    commands:
-    - '/give {username} 2261 1'
-  '200':
-    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a vinyl copy of{AQUA} Mellohi!'
-    commands:
-    - '/give {username} 2262 1'
-  '200':
-    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a vinyl copy of{AQUA} Stal!'
-    commands:
-    - '/give {username} 2263 1'
-  '200':
-    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a vinyl copy of{AQUA} Strad!'
-    commands:
-    - '/give {username} 2264 1'
-  '200':
-    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a vinyl copy of{AQUA} Ward!'
-    commands:
-    - '/give {username} 2265 1'
-  '200':
-    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a vinyl copy of{AQUA} 11!'
-    commands:
-    - '/give {username} 2266 1'
-  '200':
-    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a vinyl copy of{AQUA} Wait!'
-    commands:
-    - '/give {username} 2267 1'
-  '150':
-    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a shitload of{AQUA} Dirt because Fuck You!'
-    commands:
-    - '/give {username} 3:2 256'
   '150':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won an assload of stinky{AQUA} Raw Salmon because Fuck You!'
     commands:
@@ -293,9 +241,9 @@ luckyvotes:
     commands:
     - '/money give {username} 500'
   '1':
-    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and has earned a {AQUA}diamond{GREEN} for voting!'
+    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} voted @{GOLD}{service}{GREEN} and has earned a {AQUA}Voting Key{GREEN}!'
     commands:
-    - '/give {username} 264 1'
+    - '/crate givekey {username} vote 1'
 
 #  permission reward section
 #  This example would give players with the permission node "gal.double" 10 Diamonds instead of their regular reward.

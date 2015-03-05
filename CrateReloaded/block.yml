@@ -1,3 +1,10 @@
 world_nether:
 - KEYCRATE:185:127:1:key1
 - KEYCRATE:185:128:1:key1
+free:
+- KEYCRATE:-300:123:-179:vote
+spawn:
+- KEYCRATE:6:83:-1233:vote
+- KEYCRATE:6:83:-1243:vote
+- KEYCRATE:6:83:-1233:badass
+- KEYCRATE:6:83:-1243:badass

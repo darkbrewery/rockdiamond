@@ -1,3 +1,100 @@
+vote:
+    type: KEYCRATE
+    buy:
+        enabled: false
+        cost: 0
+    message:
+        onOpen: ''
+        broadcast: '%yellow%%player% %white%opened a rewards chest with a %gold%Voters Key%white%!'
+    key:
+        item: 'tripwire_hook'
+        name: 'Voters Key'
+        lore:
+            - 'Opens a Rewards Chest!'
+    effect:
+        onOpenFirework: true
+    reward:
+        minimumRewards: 1
+        maximumRewards: 1
+        rewards:
+            - 'item:(122 1,chance:(10)'
+            - 'item:(2256 1,chance:(10)'
+            - 'item:(2257 1,chance:(10)'
+            - 'item:(2258 1,chance:(10)'
+            - 'item:(2259 1,chance:(10)'
+            - 'item:(2260 1,chance:(10)'
+            - 'item:(2261 1,chance:(10)'
+            - 'item:(2262 1,chance:(10)'
+            - 'item:(2263 1,chance:(10)'
+            - 'item:(2264 1,chance:(10)'
+            - 'item:(2265 1,chance:(10)'
+            - 'item:(2266 1,chance:(10)'
+            - 'item:(2267 1,chance:(10)'
+            - 'item:(399 1,chance:(10)'
+            - 'item:(383:50 1,chance:(10)'
+            - 'item:(383:51 1,chance:(10)'
+            - 'item:(383:52 1,chance:(10)'
+            - 'item:(383:54 1,chance:(10)'
+            - 'item:(383:55 1,chance:(10)'
+            - 'item:(383:56 1,chance:(10)'
+            - 'item:(383:57 1,chance:(10)'
+            - 'item:(383:58 1,chance:(10)'
+            - 'item:(383:59 1,chance:(10)'
+            - 'item:(383:61 1,chance:(10)'
+            - 'item:(383:65 1,chance:(10)'
+            - 'item:(383:66 1,chance:(10)'
+            - 'item:(383:90 1,chance:(10)'
+            - 'item:(383:91 1,chance:(10)'
+            - 'item:(383:92 1,chance:(10)'
+            - 'item:(383:93 1,chance:(10)'
+            - 'item:(383:94 1,chance:(10)'
+            - 'item:(383:95 1,chance:(10)'
+            - 'item:(383:96 1,chance:(10)'
+            - 'item:(383:98 1,chance:(10)'
+            - 'item:(383:100 1,chance:(10)'
+            - 'item:(383:120 1,chance:(10)'
+            - 'item:(116 1,chance:(10)'
+            - 'item:(117 1,chance:(10)'
+            - 'item:(130 1,chance:(10)'
+            - 'item:(145 1,chance:(10)'
+            - 'item:(321 1,chance:(10)'
+            - 'item:(347 1,chance:(10)'
+            - 'item:(92 1,chance:(10)'
+            - 'item:(355 1,chance:(10)'
+            - 'item:(372 5,chance:(10)'
+            - 'item:(151 1,chance:(10)'
+            - 'item:(138 1,chance:(10)'
+            - 'item:(335 1,chance:(10)'
+            - 'item:(384 32,chance:(10)'
+            - 'item:(264 1,chance:(10)'
+            - 'cmd:(/crate givekey %player% badass 1),chance:(40),broadcast:(%yellow%%player% %white%found a %gold%Badass Key%white%!)'
+badass:
+    type: KEYCRATE
+    buy:
+        enabled: false
+        cost: 0
+    message:
+        onOpen: ''
+        broadcast: ''
+    key:
+        item: 'tripwire_hook'
+        name: 'Badass Key'
+        lore:
+            - 'Opens a Rewards Chest!'
+    effect:
+        onOpenFirework: true
+    reward:
+        minimumRewards: 1
+        maximumRewards: 1
+        rewards:
+            - 'cmd:(/kit Scuba %player%),chance:(1),broadcast:(%yellow%%player% %white%won a %gold%Scuba Mask %white%using a %gold%Badass Key%white%!)'
+            - 'cmd:(/kit AirJordans %player%),chance:(1),broadcast:(%yellow%%player% %white%won a pair of %gold%Air Jordans %white%using a %gold%Badass Key%white%!)'
+            - 'cmd:(/kit SilkyShovel %player%),chance:(1),broadcast:(%yellow%%player% %white%won a %gold%Silky Shovel %white%using a %gold%Badass Key%white%!)'
+            - 'cmd:(/kit TreasureShovel %player%),chance:(1),broadcast:(%yellow%%player% %white%won a %gold%Treasure Shovel %white%using a %gold%Badass Key%white%!)'
+            - 'cmd:(/kit SilkyPick %player%),chance:(1),broadcast:(%yellow%%player% %white%won a %gold%Silky Pick %white%using a %gold%Badass Key%white%!)'
+            - 'cmd:(/kit BadassPick %player%),chance:(1),broadcast:(%yellow%%player% %white%won a %gold%Badass Pick %white%using a %gold%Badass Key%white%!)'
+            - 'cmd:(/kit BadassAxe %player%),chance:(1),broadcast:(%yellow%%player% %white%won a %gold%Badass Axe %white%using a %gold%Badass Key%white%!)'
+
 food:
     type: SUPPLYCRATE
     buy:

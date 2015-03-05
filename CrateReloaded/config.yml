@@ -1,49 +1,16 @@
-#######################################
+# 
 # +----------------------------------+#
 # |  Crates 1.0.0 by Bart/Dinosawrs  |#
 # +----------------------------------+#
-#######################################
-
-# Developer Notes
-# There are an few noted minor bugs via Known Cavaets.
-# Please read them and notify your players!
-# Enjoy the plugin!~!~!
-
-#######################################
-# +----------------------------------+#
-# |         Admininistration         |#
-# +----------------------------------+#
-#######################################
-
-# Prefix
-# The prefix before every message
 prefix: '%black%[%gold%Crates%black%] %dark_grey%'
-
-# Language
-# Currently Supports: en
 locale: en
-
-# Updater (Disabled Currently)
-# Do you wish to check for updates?
 updater: true
-
-# Debugger
-# Developing Use Only. Disable, if you do not want to recieve debug messages.
 debug: false
-
-#######################################
-# +----------------------------------+#
-# |              Crates              |#
-# +----------------------------------+#
-#######################################
-
-# Menu Display Settings
 menu:
-    name: 'Crate Menu'
-    amountDisplay: 
-        item: 'chest 1 %gold%Crate %white%You_have_%camount%_left.'
-    openCrateDisplay: 
-        item: 'diamond_block 1 %green%Open_Crate'
-    keyDisplay: 
-        item: 'tripwire_hook 1 %gold%Keys %white%You_have_%kamount%_left.'
-    
+  name: Crate Menu
+  amountDisplay:
+    item: chest 1 %gold%Crate %white%You_have_%camount%_left.
+  openCrateDisplay:
+    item: diamond_block 1 %green%Open_Crate
+  keyDisplay:
+    item: tripwire_hook 1 %gold%Keys %white%You_have_%kamount%_left.
