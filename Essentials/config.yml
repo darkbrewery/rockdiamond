@@ -606,12 +606,12 @@ chat:
     V: '&4[&eVajayJay&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     W: '&4[&eWanker&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     X: '&4[&eXunt&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Y: '&5[&eYuppie&5] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Z: '&5[&eZitLicker&5] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Free: '&5[&eFree&5] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Savage: '&5[&eSavage&5] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Dealer: '&5[&eDealer&5] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Badass: '&5[&eBadass&5] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    Y: '&d[&eYuppie&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    Z: '&d[&eZitLicker&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    Free: '&d[&eFree&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    Savage: '&d[&eSavage&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    Psycho: '&d[&ePsycho&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    Badass: '&d[&eBadass&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     Owner: '&b{DISPLAYNAME}&7:&r {MESSAGE}'
 
 ############################################################
