@@ -43,14 +43,3 @@ portals:
     location: -10.0,80.0,-1218.0:-7.0,80.0,-1216.0
     world: spawn
     destination: parkour
-  SpawnFall:
-    entryfee:
-      currency: -1
-      amount: 0.0
-    safeteleport: true
-    teleportnonplayers: false
-    handlerscript: ''
-    owner: SiLeNT_F1NISH
-    location: -66.0,70.0,-1300.0:92.0,70.0,-1150.0
-    world: spawn
-    destination: spawn
