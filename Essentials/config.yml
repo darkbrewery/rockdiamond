@@ -395,20 +395,20 @@ auto-afk-kick: 300
 # Other players or monsters can't push him out of afk mode then.
 # This will also enable temporary god mode for the afk player.
 # The player has to use the command /afk to leave the afk mode.
-freeze-afk-players: false
+freeze-afk-players: true
 
 # When the player is afk, should he be able to pickup items?
 # Enable this, when you don't want people idling in mob traps.
-disable-item-pickup-while-afk: false
+disable-item-pickup-while-afk: true
 
 # This setting controls if a player is marked as active on interaction.
 # When this setting is false, you will need to manually un-AFK using the /afk command.
-cancel-afk-on-interact: true
+cancel-afk-on-interact: false
 
 # Should we automatically remove afk status when the player moves?
 # Player will be removed from AFK on chat/command regardless of this setting.
 # Disable this to reduce server lag.
-cancel-afk-on-move: true
+cancel-afk-on-move: false
 
 # You can disable the death messages of Minecraft here.
 death-messages: true
@@ -419,11 +419,11 @@ allow-silent-join-quit: true
 
 # You can set a custom join message here, set to "none" to disable.
 # You may use color codes, use {USERNAME} the player's name or {PLAYER} for the player's displayname.
-custom-join-message: "none"
+custom-join-message: "&a&l[+]&r&a{USERNAME}"
 
 # You can set a custom quit message here, set to "none" to disable.
 # You may use color codes, use {USERNAME} the player's name or {PLAYER} for the player's displayname.
-custom-quit-message: "none"
+custom-quit-message: "&c&l[-]&r&a{USERNAME}"
 
 # Add worlds to this list, if you want to automatically disable god mode there.
 no-god-in-worlds:
@@ -612,6 +612,8 @@ chat:
     Savage: '&d[&eSavage&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     Psycho: '&d[&ePsycho&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     Badass: '&d[&eBadass&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    Demon: '&d[&eDemon&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    Overlord: '&d[&eOverlord&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'    
     Owner: '&b{DISPLAYNAME}&7:&r {MESSAGE}'
 
 ############################################################

@@ -78,6 +78,9 @@ To add /vote, add this to commands.yml:
  ▬▬ι═══- &d[&bSavage&d] &a$750,000,000
  ▬▬ι═══- &d[&bPsycho&d] &a$750,000,000
  ▬▬ι═══- &d[&bBadass&d] &a$750,000,000
+ ▬▬ι═══- &d[&bDemon&d] &a$750,000,000
+ ▬▬ι═══- &d[&bOverlord&d] &a$750,000,000
+
 
 #changelog
 &b1/8/2014
