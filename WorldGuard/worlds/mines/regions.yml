@@ -178,6 +178,15 @@ regions:
         flags: {build: allow}
         owners: {}
         members: {}
+    psycho:
+        type: cuboid
+        min: {x: 834.0, y: 54.0, z: -15.0}
+        max: {x: 842.0, y: 67.0, z: -7.0}
+        priority: 0
+        flags: {}
+        owners:
+            groups: [psycho]
+        members: {}
     q:
         type: cuboid
         min: {x: 377.0, y: 48.0, z: -15.0}
@@ -218,6 +227,15 @@ regions:
         priority: 0
         flags: {build: allow}
         owners: {}
+        members: {}
+    savage:
+        type: cuboid
+        min: {x: 799.0, y: 50.0, z: -16.0}
+        max: {x: 809.0, y: 67.0, z: -6.0}
+        priority: 0
+        flags: {}
+        owners:
+            groups: [savage]
         members: {}
     sfurn1:
         type: cuboid

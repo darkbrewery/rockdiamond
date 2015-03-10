@@ -22,6 +22,15 @@ regions:
         owners: {}
         members:
             groups: [free]
+    brewhaus:
+        type: cuboid
+        min: {x: -1295.0, y: 0.0, z: -1245.0}
+        max: {x: -1267.0, y: 255.0, z: -1180.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [brewhaus]
+        members: {}
     freemine:
         type: cuboid
         min: {x: -304.0, y: 52.0, z: -169.0}
@@ -101,8 +110,8 @@ regions:
         priority: 0
         flags:
             pvp: deny
-            greeting: Now Entering SafeZone
             farewell: Now Leaving SafeZone
+            greeting: Now Entering SafeZone
             blocked-cmds: [/f claim auto, /f claim, /f claim a]
         owners: {}
         members: {}

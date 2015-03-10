@@ -278,31 +278,31 @@ kits:
   Scuba:
     delay: 1
     items:
-      - 310 1 aquaaffinity:5 respiration:1000 protection:5 unbreaking:10 name:&d&lScuba_Mask
+      - 310 1 aquaaffinity:5 respiration:1000 protection:5 unbreaking:1 name:&d&lScuba_Mask
   AirJordans:
     delay: 1
     items:
-      - 313 1 featherfall:1000 protection:5 unbreaking:10 name:&d&lAir_Jordans
+      - 313 1 featherfall:1000 protection:5 unbreaking:1 name:&d&lAir_Jordans
   SilkyShovel:
     delay: 1
     items:
-      - 277 1 silktouch:1 efficiency:10 unbreaking:10 name:&d&lSilky_Shovel
+      - 277 1 silktouch:1 efficiency:10 unbreaking:1 name:&d&lSilky_Shovel
   TreasureShovel:
     delay: 1
     items:
-      - 277 1 fortune:3 efficiency:10 unbreaking:10 name:&d&lTreasure_Shovel
+      - 277 1 fortune:3 efficiency:10 unbreaking:1 name:&d&lTreasure_Shovel
   SilkyPick:
     delay: 1
     items:
-      - 278 1 silktouch:1 efficiency:40 unbreaking:30 name:&d&lSilky_Pick
+      - 278 1 silktouch:1 efficiency:40 unbreaking:1 name:&d&lSilky_Pick
   BadassPick:
     delay: 1
     items:
-      - 278 1 fortune:3 efficiency:40 unbreaking:30 name:&d&lBadass_Pick
+      - 278 1 fortune:3 efficiency:40 unbreaking:1 name:&d&lBadass_Pick
   BadassAxe:
     delay: 1
     items:
-      - 279 1 fortune:3 efficiency:40 unbreaking:30 name:&d&lBadass_Axe
+      - 279 1 fortune:3 efficiency:40 unbreaking:1 name:&d&lBadass_Axe
 
 # Essentials Sign Control
 # See http://wiki.ess3.net/wiki/Sign_Tutorial for instructions on how to use these.
