@@ -421,6 +421,26 @@ Badass:
   POSITION-Y: 5
   POSITION-X: 7
   VIEW-PERMISSION: 'essentials.warps.Badass'
+Demon:
+  COMMAND: 'warp Demon'
+  NAME: '&Demon'
+  LORE:
+    - 'Warp to &dDemon'
+  KEEP-OPEN: false
+  ID: obsidian
+  POSITION-Y: 5
+  POSITION-X: 8
+  VIEW-PERMISSION: 'essentials.warps.Demon'
+Overlord:
+  COMMAND: 'warp Overlord'
+  NAME: '&dOverlord'
+  LORE:
+    - 'Warp to &dOverlord'
+  KEEP-OPEN: false
+  ID: obsidian
+  POSITION-Y: 5
+  POSITION-X: 9
+  VIEW-PERMISSION: 'essentials.warps.Overlord'
 HiddenWarps:
   COMMAND: 'open: hiddenwarps.yml'
   NAME: '&eHidden Warps'
