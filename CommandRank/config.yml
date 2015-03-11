@@ -208,7 +208,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to Asshat!
+        - broadcast %name% ranked up to AntEater!
         - pex user %name% group set A
         - playsound mob.enderdragon.end %name%
         enabled: true
@@ -233,7 +233,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to BarfBreath!
+        - broadcast %name% ranked up to ButterFace!
         - pex user %name% group add B
         - playsound mob.enderdragon.end %name%
         enabled: true
@@ -258,7 +258,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become a Cameltoe!
+        - broadcast %name% ranked up to Cameltoe!
         - pex user %name% group add C
         - playsound mob.enderdragon.end %name%
         enabled: true
@@ -283,7 +283,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become a DoucheBag!
+        - broadcast %name% is now a DoucheBag!
         - pex user %name% group add D
         - playsound mob.enderdragon.end %name%
         enabled: true
@@ -308,7 +308,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become someones Erection!
+        - broadcast %name% is someones Erection!
         - pex user %name% group add E
         - playsound mob.enderdragon.end %name%
         enabled: true
@@ -333,7 +333,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become a FartKnocker!
+        - broadcast %name% ranked up FartKnocker!
         - pex user %name% group add F
         - playsound mob.enderdragon.end %name%
         enabled: true

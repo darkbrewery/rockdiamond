@@ -583,8 +583,8 @@ chat:
 
   group-formats:
     Freshmeat: '&2Freshmeat &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    A: '&2[&eAssHat&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    B: '&2[&eBarfBreath&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    A: '&2[&eAntEater&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    B: '&2[&eButterFace&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     C: '&2[&eCamelToe&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     D: '&2[&eDoucheBag&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     E: '&2[&eErection&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'

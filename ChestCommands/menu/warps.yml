@@ -123,9 +123,9 @@ Pro:
   VIEW-PERMISSION: 'essentials.warps.Y'
 A:
   COMMAND: 'warp a'
-  NAME: '&aAssHat'
+  NAME: '&aAntEater'
   LORE:
-    - 'Warp to &aAssHat'
+    - 'Warp to &aAntEater'
   KEEP-OPEN: false
   ID: iron_block
   POSITION-X: 2
@@ -133,9 +133,9 @@ A:
   VIEW-PERMISSION: 'essentials.warps.A'
 B:
   COMMAND: 'warp b'
-  NAME: '&aBarfBreath'
+  NAME: '&aButterFace'
   LORE:
-    - 'Warp to &aBarfBreath'
+    - 'Warp to &aButterFace'
   KEEP-OPEN: false
   ID: iron_block
   POSITION-Y: 2

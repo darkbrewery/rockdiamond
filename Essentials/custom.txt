@@ -40,8 +40,8 @@ To add /vote, add this to commands.yml:
 #ranks
 ------- Ranks Page 1 of 5 --------
  ▬▬ι═══- &2[&bFreshMeat&2] &aDefault
- ▬▬ι═══- &2[&bAssHat&2] &a$0
- ▬▬ι═══- &2[&bBarfBreath&2] &a$100
+ ▬▬ι═══- &2[&bAntEater&2] &a$0
+ ▬▬ι═══- &2[&bButterFace&2] &a$100
  ▬▬ι═══- &2[&bCamelToe&2] &a$200
  ▬▬ι═══- &2[&bDoucheBag&2] &a$375
  ▬▬ι═══- &2[&bErection&2] &a$700
