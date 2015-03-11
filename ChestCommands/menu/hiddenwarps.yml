@@ -213,3 +213,13 @@ Sand:
   POSITION-X: 8
   POSITION-Y: 2
   VIEW-PERMISSION: 'essentials.warps.Sand'
+Templ:
+  COMMAND: 'warp Temple'
+  NAME: '&eTemple Mine'
+  LORE:
+    - 'Warp to &eTemple Mine'
+  ID: sponge
+  POSITION-X: 9
+  POSITION-Y: 2
+  VIEW-PERMISSION: 'essentials.warps.Temple'
+
