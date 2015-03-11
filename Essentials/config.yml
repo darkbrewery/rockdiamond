@@ -351,10 +351,11 @@ per-warp-permission: true
 # Detailed instructions and examples can be found on the wiki: http://wiki.ess3.net/wiki/List
 list:
     # To merge groups, list the groups you wish to merge
-    Novice: A B C D E F G H I
-    Adept: J K L M N O P Q R
-    Expert: S T U V W X Y Z
-    Staff: Owner Admin Guard
+    Novice: A B C D E F G H
+    Adept: I J K L M N O P
+    Expert: Q R S T U V W
+    Pro: X Y Z Free Savage Psycho Badass Demon Overlord
+    Staff: Owner Admin Guard Mod
     #Admins: owner admin
     # To limit groups, set a max user limit
     #builder: 20
@@ -419,11 +420,11 @@ allow-silent-join-quit: true
 
 # You can set a custom join message here, set to "none" to disable.
 # You may use color codes, use {USERNAME} the player's name or {PLAYER} for the player's displayname.
-custom-join-message: "&a&l[+]&r&a{USERNAME}"
+custom-join-message: "&a&l[+]&r&a {USERNAME}"
 
 # You can set a custom quit message here, set to "none" to disable.
 # You may use color codes, use {USERNAME} the player's name or {PLAYER} for the player's displayname.
-custom-quit-message: "&c&l[-]&r&c{USERNAME}"
+custom-quit-message: "&c&l[-]&r&c {USERNAME}"
 
 # Add worlds to this list, if you want to automatically disable god mode there.
 no-god-in-worlds:
