@@ -60,187 +60,175 @@ services:
 
 #  luckyvotes section
 luckyvotes:
-  '250':
+  '50':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Dragon Egg!'
     commands:
     - '/give {username} 122 1'
-  '150':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won an assload of stinky{AQUA} Raw Salmon because Fuck You!'
     commands:
     - '/give {username} 349:1 256'
-  '150':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won an {AQUA} Entire Library!'
     commands:
     - '/give {username} 47 128'
-  '100':
-    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a pair of{AQUA} Air Jordans'
-    commands:
-    - '/give {username} 313 1 0 {display:{Name:"Air Jordans"},ench:[{id:2,lvl:1000},{id:0,lvl:5}]}'
-  '100':
-    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Scuba Mask'
-    commands:
-    - '/give {username} 310 1 0 {display:{Name:"Scuba Mask"},ench:[{id:5,lvl:1000},{id:0,lvl:5}]}'
-  '100':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Nether Star!'
     commands:
     - '/give {username} 399 1'
-  '85':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Creeper Fetus!'
     commands:
     - '/give {username} 383:50 1'
-  '85':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Skeleton Fetus!'
     commands:
     - '/give {username} 383:51 1'
-  '85':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Spider Fetus!'
     commands:
     - '/give {username} 383:52 1'
-  '85':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Zombie Fetus!'
     commands:
     - '/give {username} 383:54 1'
-  '85':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Slime Fetus!'
     commands:
     - '/give {username} 383:55 1'
-  '85':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Ghast Fetus!'
     commands:
     - '/give {username} 383:56 1'
-  '85':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Pigman Fetus!'
     commands:
     - '/give {username} 383:57 1'
-  '85':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Enderman Fetus!'
     commands:
     - '/give {username} 383:58 1'
-  '85':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Cave Spider Fetus!'
     commands:
     - '/give {username} 383:59 1'
-  '85':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Magma Cube Fetus!'
     commands:
     - '/give {username} 383:61 1'
-  '85':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Bat Fetus!'
     commands:
     - '/give {username} 383:65 1'
-  '85':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Witch Fetus!'
     commands:
     - '/give {username} 383:66 1'
-  '75':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Pig Fetus!'
     commands:
     - '/give {username} 383:90 1'
-  '75':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Sheep Fetus!'
     commands:
     - '/give {username} 383:91 1'
-  '75':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Cow Fetus!'
     commands:
     - '/give {username} 383:92 1'
-  '75':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Chicken Fetus!'
     commands:
     - '/give {username} 383:93 1'
-  '75':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Squid Fetus!'
     commands:
     - '/give {username} 383:94 1'
-  '75':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Wolf Fetus!'
     commands:
     - '/give {username} 383:95 1'
-  '75':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} MooShroom Fetus!'
     commands:
     - '/give {username} 383:96 1'
-  '75':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Feline Fetus!'
     commands:
     - '/give {username} 383:98 1'
-  '75':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Horse Fetus!'
     commands:
     - '/give {username} 383:100 1'
-  '75':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Villager Fetus!'
     commands:
     - '/give {username} 383:120 1'
-  '75':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won an{AQUA} Enchanting Table!'
     commands:
     - '/give {username} 116 1'
-  '75':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Brewing Stand!'
     commands:
     - '/give {username} 117 1'
-  '75':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won an{AQUA} Ender Chest!'
     commands:
     - '/give {username} 130 1'
-  '75':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won an{AQUA} Anvil!'
     commands:
     - '/give {username} 145 1'
-  '75':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a beautiful{AQUA} Painting!'
     commands:
     - '/give {username} 321 1'
-  '75':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Clock!'
     commands:
     - '/give {username} 347 1'
-  '70':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won{AQUA} $25000!'
     commands:
     - '/money give {username} 25000'
-  '63':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Cake!'
     commands:
     - '/give {username} 92 1'
-  '63':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Bed!'
     commands:
     - '/give {username} 355 1'
-  '62':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won some{AQUA} Warts!'
     commands:
     - '/give {username} 372 5'
-  '61':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Light Sensor!'
     commands:
     - '/give {username} 151 1'
-  '50':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a{AQUA} Beacon!'
     commands:
     - '/give {username} 138 1'
-  '50':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won{AQUA} $10000!'
     commands:
     - '/money give {username} 10000'
-  '45':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won a bucket of{AQUA} Milk from Rihannas Tits!'
     commands:
     - '/give {username} 335 1'
-  '40':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won{AQUA} 32 XP Bottles!'
     commands:
     - '/give {username} 384 32'
-  '15':
+  '20':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won{AQUA} $5000!'
     commands:
     - '/money give {username} 5000'
-  '10':
-    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and won{AQUA} $500!'
-    commands:
-    - '/money give {username} 500'
-  '1':
+  '15':
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} voted @{GOLD}{service}{GREEN} and has earned a {AQUA}Voting Key{GREEN}!'
     commands:
     - '/crate givekey {username} vote 1'

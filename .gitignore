@@ -13,6 +13,7 @@
 AreaShop/regions/
 Auto_Pickup/Data
 CommandRank/PlayerStorage.yml
+CrateReloaded\\lang\\/l_en.properties
 dynmap/web/
 dynmap/*.pending
 dynmap/ids-by-ip.txt

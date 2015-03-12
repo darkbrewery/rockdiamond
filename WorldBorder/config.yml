@@ -38,10 +38,10 @@ worlds:
     radiusZ: 5500
     wrapping: false
   plotworld:
-    x: 10.5
-    z: 8.5
-    radiusX: 500
-    radiusZ: 500
+    x: 0.5114026927490404
+    z: 0.48000159162498857
+    radiusX: 200
+    radiusZ: 200
     wrapping: false
   spawn:
     x: 14.5
