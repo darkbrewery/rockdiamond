@@ -333,7 +333,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% ranked up FartKnocker!
+        - broadcast %name% ranked up to FartKnocker!
         - pex user %name% group add F
         - playsound mob.enderdragon.end %name%
         enabled: true
