@@ -324,6 +324,14 @@ regions:
         owners:
             groups: [x, y, z, free]
         members: {}
+    xp:
+        type: cuboid
+        min: {x: -40.0, y: 52.0, z: -4.0}
+        max: {x: -32.0, y: 65.0, z: 5.0}
+        priority: 0
+        flags: {build: allow}
+        owners: {}
+        members: {}
     y:
         type: cuboid
         min: {x: 601.0, y: 48.0, z: -15.0}
