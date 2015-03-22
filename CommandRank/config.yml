@@ -45,6 +45,8 @@ autorankups:
 commandrankuplist:
   enabled: true
   list:
+  - CommandRank.isGroup.demon.overlord
+  - CommandRank.isGroup.badass:demon 
   - CommandRank.isGroup.psycho:badass
   - CommandRank.isGroup.savage:psycho
   - CommandRank.isGroup.free:savage
@@ -935,6 +937,56 @@ rankups:
         list:
         - broadcast %name% has ranked up to Badass!!!
         - pex user %name% group add Badass
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  demon:
+    message: You are now a demon
+    economy:
+      price: 750000000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to Demon!!!
+        - pex user %name% group add Demon
+        - playsound mob.enderdragon.end %name%
+        enabled: true
+    giveitems:
+      equiparmor: false
+      enabled: false
+  overlord:
+    message: You are now a Overlord
+    economy:
+      price: 750000000
+      enabled: true
+    onlinetime:
+      enabled: false
+    needxplevel:
+      enabled: false
+    needitems:
+      enabled: false
+    needkills:
+      enabled: false
+    commands:
+      byplayer:
+        enabled: true
+      byconsole:
+        list:
+        - broadcast %name% has ranked up to Overlord!!!
+        - pex user %name% group add Overlord
         - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
