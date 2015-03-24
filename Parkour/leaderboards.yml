@@ -195,19 +195,19 @@ Desert_Parkour:
     deaths: 0
     player: dugsiii
   '3':
-    time: 93356
-    deaths: 7
-    player: Derek_Lan
+    time: 51892
+    deaths: 2
+    player: walker907
 Doors:
   '1':
-    time: 21861
-    deaths: 0
-    player: noahrg
+    time: 999999999
+    deaths: 999
+    player: N/A
   '2':
-    time: 22643
-    deaths: 0
-    player: noahrg
+    time: 999999999
+    deaths: 999
+    player: N/A
   '3':
-    time: 22871
-    deaths: 0
-    player: noahrg
+    time: 999999999
+    deaths: 999
+    player: N/A

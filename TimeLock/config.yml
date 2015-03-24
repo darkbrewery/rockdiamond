@@ -7,8 +7,8 @@
 #   world_the_end: normal
 Refresh-Rate: 5
 World:
-  spawn: night
-  plotworld: day
+  spawn: day
+  plotworld: normal
   mines: night
   parkour: night
   free: normal

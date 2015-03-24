@@ -16,6 +16,15 @@ regions:
         flags: {pvp: deny, use: allow}
         owners: {}
         members: {}
+    bladefury12:
+        type: cuboid
+        min: {x: 67.0, y: 0.0, z: -125.0}
+        max: {x: 93.0, y: 255.0, z: -99.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [bladefury12]
+        members: {}
     plotspawn:
         type: cuboid
         min: {x: -14.0, y: 0.0, z: 2.0}
@@ -30,7 +39,7 @@ regions:
         max: {x: -19.0, y: 255.0, z: -51.0}
         priority: 0
         flags:
-            blocked-cmds: [/spawn, /plot, /warp, /home, /plotme, /warps, /p]
+            blocked-cmds: [/spawn, /plot, /warp, /home, /warps, /plotme, /p]
         owners:
             players: [derek_lan]
         members: {}

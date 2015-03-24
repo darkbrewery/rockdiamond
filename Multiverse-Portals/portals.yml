@@ -43,3 +43,14 @@ portals:
     location: -10.0,80.0,-1218.0:-7.0,80.0,-1216.0
     world: spawn
     destination: parkour
+  toasshat:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    handlerscript: ''
+    owner: darkbrewery
+    location: 12.0,91.0,-1308.0:16.0,93.0,-1308.0
+    world: spawn
+    destination: e:spawn:0.5,37.0,-6.5:1.7999914:-180.30057
