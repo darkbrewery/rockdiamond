@@ -105,15 +105,15 @@ FlowerBox:
   POSITION-X: 4
   POSITION-Y: 2
   VIEW-PERMISSION: 'essentials.warps.FlowerBox'
-WoodShed:
-  COMMAND: 'warp woodshed'
+Cactus:
+  COMMAND: 'warp cactus'
   NAME: '&eWoodShed'
   LORE:
-    - 'Warp to &eWoodShed'
-  ID: diamond_axe
+    - 'Warp to &eCactus Farm'
+  ID: cactus
   POSITION-X: 3
   POSITION-Y: 2
-  VIEW-PERMISSION: 'essentials.warps.WoodShed'
+  VIEW-PERMISSION: 'essentials.warps.Cactus'
 ZombieFarm:
   COMMAND: 'warp ZombieFarm'
   NAME: '&eZombieFarm'
