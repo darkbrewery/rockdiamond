@@ -45,6 +45,44 @@ autorankups:
 commandrankuplist:
   enabled: true
   list:
+# - CommandRank.isGroup.demon1:overlord1
+# - CommandRank.isGroup.badass1:demon1
+# - CommandRank.isGroup.psycho1:badass1
+# - CommandRank.isGroup.savage1:psycho1
+# - CommandRank.isGroup.free1:savage1
+# - CommandRank.isGroup.z1:free1
+# - CommandRank.isGroup.y1:z1
+# - CommandRank.isGroup.x1:y1
+# - CommandRank.isGroup.w1:x1  
+# - CommandRank.isGroup.v1:w1
+# - CommandRank.isGroup.u1:v1
+# - CommandRank.isGroup.t1:u1
+# - CommandRank.isGroup.s1:t1
+# - CommandRank.isGroup.r1:s1
+# - CommandRank.isGroup.q1:r1
+# - CommandRank.isGroup.p1:q1
+# - CommandRank.isGroup.o1:p1
+# - CommandRank.isGroup.n1:o1
+# - CommandRank.isGroup.m1:n1
+# - CommandRank.isGroup.l1:m1
+# - CommandRank.isGroup.k1:l1
+# - CommandRank.isGroup.j1:k1
+# - CommandRank.isGroup.i1:j1
+# - CommandRank.isGroup.h1:i1
+# - CommandRank.isGroup.g1:h1
+# - CommandRank.isGroup.f1:g1
+# - CommandRank.isGroup.e1:f1
+# - CommandRank.isGroup.d1:e1
+# - CommandRank.isGroup.c1:d1
+# - CommandRank.isGroup.b1:c1
+# - CommandRank.isGroup.a1:b1
+# We reset their money  when they want to prestige
+# The other way I thought of doing this was a different rank ladder
+# But resetting the other rank ladder to A 
+# Because then they would look like [Overlord][Overlord] %Name%
+# I thought that for a prestige we could make it like the donor symbol
+# Idk if this "♚" is the one you use but if not we can use that or
+# "✔" or "✪" or "♛" or "▲" in different color depending on the prestige
   - CommandRank.isGroup.demon:overlord
   - CommandRank.isGroup.badass:demon 
   - CommandRank.isGroup.psycho:badass
