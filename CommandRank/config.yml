@@ -45,7 +45,7 @@ autorankups:
 commandrankuplist:
   enabled: true
   list:
-  - CommandRank.isGroup.demon.overlord
+  - CommandRank.isGroup.demon:overlord
   - CommandRank.isGroup.badass:demon 
   - CommandRank.isGroup.psycho:badass
   - CommandRank.isGroup.savage:psycho
