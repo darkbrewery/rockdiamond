@@ -7,7 +7,11 @@
 #   world_the_end: normal
 Refresh-Rate: 5
 World:
+<<<<<<< HEAD
   spawn: day
+=======
+  spawn: night
+>>>>>>> 46ada2d94dc03a579d13f3eb4061a67081594a09
   plotworld: normal
   mines: night
   parkour: night
