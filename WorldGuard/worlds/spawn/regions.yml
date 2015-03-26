@@ -13,7 +13,7 @@ regions:
     __global__:
         type: global
         priority: 0
-        flags: {pvp: deny, enderpearl: deny, build: deny, mob-spawning: deny}
+        flags: {pvp: deny, enderpearl: deny, use: allow, build: deny, mob-spawning: deny}
         owners: {}
         members: {}
     a_door:
@@ -97,9 +97,17 @@ regions:
         min: {x: -140.0, y: 0.0, z: -1384.0}
         max: {x: -61.0, y: 255.0, z: -1315.0}
         priority: 0
-        flags: {}
+        flags: {entry: deny}
         owners:
-            players: [bladefury12]
+            groups: [iron, gold, diamond, emerald, obsidian]
+        members: {}
+    donor_mine1:
+        type: cuboid
+        min: {x: -92.0, y: 83.0, z: -1368.0}
+        max: {x: -84.0, y: 108.0, z: -1360.0}
+        priority: 10
+        flags: {build: allow}
+        owners: {}
         members: {}
     e_door:
         type: cuboid
@@ -117,6 +125,15 @@ regions:
         priority: 10
         flags: {build: allow}
         owners: {}
+        members: {}
+    expert:
+        type: cuboid
+        min: {x: -161.0, y: 65.0, z: -1288.0}
+        max: {x: -61.0, y: 84.0, z: -1188.0}
+        priority: 5
+        flags: {}
+        owners:
+            players: [brewhaus]
         members: {}
     f_door:
         type: cuboid
@@ -305,6 +322,38 @@ regions:
         flags: {build: allow}
         owners: {}
         members: {}
+    ps_g2:
+        type: cuboid
+        min: {x: -106.0, y: 105.0, z: -1139.0}
+        max: {x: -103.0, y: 110.0, z: -1134.0}
+        priority: 0
+        flags: {}
+        owners: {}
+        members: {}
+    ps_y5:
+        type: cuboid
+        min: {x: -88.0, y: 105.0, z: -1119.0}
+        max: {x: -85.0, y: 110.0, z: -1114.0}
+        priority: 0
+        flags: {}
+        owners: {}
+        members: {}
+    pvp_arena:
+        type: cuboid
+        min: {x: 97.0, y: 98.0, z: -1153.0}
+        max: {x: 177.0, y: 123.0, z: -1072.0}
+        priority: 5
+        flags: {pvp: allow}
+        owners: {}
+        members: {}
+    pvpmine:
+        type: cuboid
+        min: {x: 133.0, y: 102.0, z: -1117.0}
+        max: {x: 141.0, y: 106.0, z: -1109.0}
+        priority: 10
+        flags: {build: allow}
+        owners: {}
+        members: {}
     q_door:
         type: cuboid
         min: {x: -69.0, y: 70.0, z: -1239.0}
@@ -356,6 +405,23 @@ regions:
         flags: {build: allow}
         owners: {}
         members: {}
+    sand_mine:
+        type: cuboid
+        min: {x: -6.0, y: 85.0, z: -1433.0}
+        max: {x: 0.0, y: 98.0, z: -1421.0}
+        priority: 0
+        flags: {build: allow}
+        owners: {}
+        members: {}
+    smilepotato:
+        type: cuboid
+        min: {x: -90.0, y: 0.0, z: -3203.0}
+        max: {x: -44.0, y: 255.0, z: -3151.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [mysmilepotato]
+        members: {}
     t_door:
         type: cuboid
         min: {x: -144.0, y: 69.0, z: -1203.0}
@@ -370,6 +436,14 @@ regions:
         min: {x: -147.0, y: 54.0, z: -1191.0}
         max: {x: -139.0, y: 69.0, z: -1183.0}
         priority: 10
+        flags: {build: allow}
+        owners: {}
+        members: {}
+    temple_mine:
+        type: cuboid
+        min: {x: 13.0, y: 52.0, z: -1353.0}
+        max: {x: 23.0, y: 60.0, z: -1344.0}
+        priority: 0
         flags: {build: allow}
         owners: {}
         members: {}
