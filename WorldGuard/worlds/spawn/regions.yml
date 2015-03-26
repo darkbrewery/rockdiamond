@@ -13,7 +13,7 @@ regions:
     __global__:
         type: global
         priority: 0
-        flags: {pvp: deny, build: deny}
+        flags: {pvp: deny, enderpearl: deny, build: deny, mob-spawning: deny}
         owners: {}
         members: {}
     a_door:
@@ -63,6 +63,14 @@ regions:
         type: cuboid
         min: {x: -53.0, y: 76.0, z: -1366.0}
         max: {x: -45.0, y: 89.0, z: -1358.0}
+        priority: 10
+        flags: {build: allow}
+        owners: {}
+        members: {}
+    cactus_farm:
+        type: cuboid
+        min: {x: -32.0, y: 82.0, z: -1344.0}
+        max: {x: -20.0, y: 83.0, z: -1332.0}
         priority: 10
         flags: {build: allow}
         owners: {}
@@ -293,6 +301,150 @@ regions:
         type: cuboid
         min: {x: 193.0, y: 62.0, z: -1242.0}
         max: {x: 201.0, y: 75.0, z: -1234.0}
+        priority: 10
+        flags: {build: allow}
+        owners: {}
+        members: {}
+    q_door:
+        type: cuboid
+        min: {x: -69.0, y: 70.0, z: -1239.0}
+        max: {x: -69.0, y: 74.0, z: -1237.0}
+        priority: 10
+        flags: {entry: deny}
+        owners: {}
+        members:
+            groups: [q]
+    q_mine:
+        type: cuboid
+        min: {x: -49.0, y: 53.0, z: -1242.0}
+        max: {x: -41.0, y: 66.0, z: -1234.0}
+        priority: 10
+        flags: {build: allow}
+        owners: {}
+        members: {}
+    r_door:
+        type: cuboid
+        min: {x: -80.0, y: 69.0, z: -1203.0}
+        max: {x: -78.0, y: 72.0, z: -1203.0}
+        priority: 0
+        flags: {entry: deny}
+        owners: {}
+        members:
+            groups: [r]
+    r_mine:
+        type: cuboid
+        min: {x: -83.0, y: 50.0, z: -1194.0}
+        max: {x: -75.0, y: 66.0, z: -1186.0}
+        priority: 10
+        flags: {build: allow}
+        owners: {}
+        members: {}
+    s_door:
+        type: cuboid
+        min: {x: -112.0, y: 69.0, z: -1192.0}
+        max: {x: -110.0, y: 72.0, z: -1192.0}
+        priority: 10
+        flags: {entry: deny}
+        owners: {}
+        members:
+            groups: [s]
+    s_mine:
+        type: cuboid
+        min: {x: -118.0, y: 70.0, z: -1179.0}
+        max: {x: -104.0, y: 76.0, z: -1143.0}
+        priority: 10
+        flags: {build: allow}
+        owners: {}
+        members: {}
+    t_door:
+        type: cuboid
+        min: {x: -144.0, y: 69.0, z: -1203.0}
+        max: {x: -142.0, y: 72.0, z: -1203.0}
+        priority: 10
+        flags: {entry: deny}
+        owners: {}
+        members:
+            groups: [t]
+    t_mine:
+        type: cuboid
+        min: {x: -147.0, y: 54.0, z: -1191.0}
+        max: {x: -139.0, y: 69.0, z: -1183.0}
+        priority: 10
+        flags: {build: allow}
+        owners: {}
+        members: {}
+    u_door:
+        type: cuboid
+        min: {x: -158.0, y: 69.0, z: -1239.0}
+        max: {x: -158.0, y: 72.0, z: -1237.0}
+        priority: 10
+        flags: {entry: deny}
+        owners: {}
+        members:
+            groups: [u]
+    u_mine:
+        type: cuboid
+        min: {x: -189.0, y: 51.0, z: -1242.0}
+        max: {x: -181.0, y: 65.0, z: -1234.0}
+        priority: 10
+        flags: {build: allow}
+        owners: {}
+        members: {}
+    v_door:
+        type: cuboid
+        min: {x: -144.0, y: 69.0, z: -1273.0}
+        max: {x: -142.0, y: 72.0, z: -1273.0}
+        priority: 10
+        flags: {entry: deny}
+        owners: {}
+        members:
+            groups: [v]
+    v_mine:
+        type: cuboid
+        min: {x: -147.0, y: 12.0, z: -1292.0}
+        max: {x: -139.0, y: 26.0, z: -1284.0}
+        priority: 10
+        flags: {build: allow}
+        owners: {}
+        members: {}
+    volcano:
+        type: cuboid
+        min: {x: 115.0, y: 74.0, z: -1384.0}
+        max: {x: 159.0, y: 99.0, z: -1340.0}
+        priority: 0
+        flags: {mob-spawning: allow}
+        owners: {}
+        members: {}
+    w_door:
+        type: cuboid
+        min: {x: -112.0, y: 69.0, z: -1284.0}
+        max: {x: -110.0, y: 72.0, z: -1284.0}
+        priority: 10
+        flags: {entry: deny}
+        owners: {}
+        members:
+            groups: [w]
+    w_mine:
+        type: cuboid
+        min: {x: -108.0, y: 55.0, z: -1303.0}
+        max: {x: -100.0, y: 69.0, z: -1295.0}
+        priority: 10
+        flags: {build: allow}
+        owners: {}
+        members: {}
+    x_door:
+        type: cuboid
+        min: {x: -80.0, y: 69.0, z: -1273.0}
+        max: {x: -78.0, y: 72.0, z: -1273.0}
+        priority: 10
+        flags: {entry: deny}
+        owners: {}
+        members:
+            groups: [x]
+    x_mine:
+        type: cuboid
+        min: {x: -83.0, y: 54.0, z: -1294.0}
+        max: {x: -75.0, y: 68.0, z: -1286.0}
         priority: 10
         flags: {build: allow}
         owners: {}

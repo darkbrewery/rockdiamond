@@ -4,15 +4,15 @@ mine:
     ==: PrisonRegion
     minimum:
       ==: Vector
-      x: 293.0
-      y: 48.0
-      z: -15.0
+      x: 133.0
+      y: 52.0
+      z: -1298.0
     maximum:
       ==: Vector
-      x: 301.0
-      y: 69.0
-      z: -7.0
-    world: mines
+      x: 141.0
+      y: 71.0
+      z: -1290.0
+    world: spawn
   flags: []
   breakBlacklist:
     ==: Blacklist
@@ -27,23 +27,23 @@ mine:
   - ==: MineBlock
     blockData: 0
     blockId: 173
-    chance: 0.24000000000000002
+    chance: 0.24
   - ==: MineBlock
     blockData: 0
     blockId: 152
-    chance: 0.22999000000000003
+    chance: 0.23
   - ==: MineBlock
     blockData: 0
     blockId: 41
-    chance: 0.12000000000000001
+    chance: 0.12
   - ==: MineBlock
     blockData: 0
     blockId: 87
-    chance: 0.04999999999999995
+    chance: 0.05
   - ==: MineBlock
     blockData: 0
     blockId: 88
-    chance: 0.030000000000000006
+    chance: 0.03
   - ==: MineBlock
     blockData: 0
     blockId: 56
@@ -51,28 +51,20 @@ mine:
   - ==: MineBlock
     blockData: 0
     blockId: 21
-    chance: 0.02
+    chance: 0.019999999999999976
   - ==: MineBlock
     blockData: 0
     blockId: 0
-    chance: 9.999999999982245E-6
-  - ==: MineBlock
-    blockData: 0
-    blockId: 42
-    chance: 0.0
-  - ==: MineBlock
-    blockData: 0
-    blockId: 1
     chance: 0.0
   tpPoint:
     ==: SimpleLoc
-    yaw: 90.75282
-    pitch: 22.049961
-    z: -10.456296186997855
-    y: 73.0
-    world: mines
-    x: 302.7742803904677
-  blocksLeft: 1782
+    yaw: -179.81482
+    pitch: 5.1426706
+    z: -1293.43555229854
+    y: 77.0
+    world: spawn
+    x: 137.49608318621074
+  blocksLeft: 1620
   resetTriggers:
   - ==: CompositionTrigger
     percent: '0.4'
@@ -93,15 +85,15 @@ mine:
     ==: PrisonRegion
     minimum:
       ==: Vector
-      x: 293.0
-      y: 48.0
-      z: -15.0
+      x: 133.0
+      y: 52.0
+      z: -1298.0
     maximum:
       ==: Vector
-      x: 301.0
-      y: 69.0
-      z: -7.0
-    world: mines
-  world: mines
+      x: 141.0
+      y: 71.0
+      z: -1290.0
+    world: spawn
+  world: spawn
   enabledProtection: []
   cooldownEnabled: false
