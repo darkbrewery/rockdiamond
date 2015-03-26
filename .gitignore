@@ -28,8 +28,6 @@ Parkour/courses.yml
 Parkour/inventory.yml
 Parkour/players.yml
 PermissionsEx/permissions.yml
-PrisonMine/mines/
-WorldGuard/worlds/spawn/regions.yml
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*

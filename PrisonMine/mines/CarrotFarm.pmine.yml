@@ -1,0 +1,72 @@
+mine:
+  ==: pMine
+  region:
+    ==: PrisonRegion
+    minimum:
+      ==: Vector
+      x: 6.0
+      y: 114.0
+      z: -799.0
+    maximum:
+      ==: Vector
+      x: 12.0
+      y: 114.0
+      z: -785.0
+    world: spawn
+  flags:
+  - Silent
+  breakBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  parent: null
+  blocks:
+  - ==: MineBlock
+    blockData: 7
+    blockId: 141
+    chance: 1.0
+  - ==: MineBlock
+    blockData: 0
+    blockId: 0
+    chance: 0.0
+  tpPoint:
+    ==: SimpleLoc
+    yaw: 254.34836
+    pitch: 38.329494
+    z: -792.1287295900778
+    y: 115.0
+    world: spawn
+    x: 4.845745459921056
+  blocksLeft: 105
+  resetTriggers:
+  - ==: CompositionTrigger
+    percent: '0.99'
+    mine: CarrotFarm
+  id: CarrotFarm
+  warningTimes: []
+  placeBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  cooldownPeriod: 0
+  name: ''
+  blockReplaceBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  protectionRegion:
+    ==: PrisonRegion
+    minimum:
+      ==: Vector
+      x: 6.0
+      y: 114.0
+      z: -799.0
+    maximum:
+      ==: Vector
+      x: 12.0
+      y: 114.0
+      z: -785.0
+    world: spawn
+  world: spawn
+  enabledProtection: []
+  cooldownEnabled: false

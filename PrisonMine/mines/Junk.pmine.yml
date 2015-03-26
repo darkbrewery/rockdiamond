@@ -1,0 +1,115 @@
+mine:
+  ==: pMine
+  region:
+    ==: PrisonRegion
+    minimum:
+      ==: Vector
+      x: 755.0
+      y: 67.0
+      z: -14.0
+    maximum:
+      ==: Vector
+      x: 763.0
+      y: 73.0
+      z: -8.0
+    world: mines
+  flags: []
+  breakBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  parent: null
+  blocks:
+  - ==: MineBlock
+    blockData: 0
+    blockId: 154
+    chance: 0.125
+  - ==: MineBlock
+    blockData: 0
+    blockId: 118
+    chance: 0.125
+  - ==: MineBlock
+    blockData: 5
+    blockId: 61
+    chance: 0.125
+  - ==: MineBlock
+    blockData: 5
+    blockId: 23
+    chance: 0.125
+  - ==: MineBlock
+    blockData: 5
+    blockId: 158
+    chance: 0.125
+  - ==: MineBlock
+    blockData: 5
+    blockId: 29
+    chance: 0.125
+  - ==: MineBlock
+    blockData: 0
+    blockId: 165
+    chance: 0.1
+  - ==: MineBlock
+    blockData: 0
+    blockId: 103
+    chance: 0.05
+  - ==: MineBlock
+    blockData: 0
+    blockId: 0
+    chance: 0.03000000000000002
+  - ==: MineBlock
+    blockData: 0
+    blockId: 84
+    chance: 0.024999999999999994
+  - ==: MineBlock
+    blockData: 0
+    blockId: 25
+    chance: 0.024999999999999994
+  - ==: MineBlock
+    blockData: 0
+    blockId: 57
+    chance: 0.02
+  - ==: MineBlock
+    blockData: 2
+    blockId: 145
+    chance: 0.0
+  tpPoint:
+    ==: SimpleLoc
+    yaw: -89.24963
+    pitch: -39.750004
+    z: -10.581623431501761
+    y: 65.0
+    world: mines
+    x: 750.2582303212612
+  blocksLeft: 426
+  resetTriggers:
+  - ==: CompositionTrigger
+    percent: '0.65'
+    mine: Junk
+  id: Junk
+  warningTimes: []
+  placeBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  cooldownPeriod: 0
+  name: ''
+  blockReplaceBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  protectionRegion:
+    ==: PrisonRegion
+    minimum:
+      ==: Vector
+      x: 755.0
+      y: 67.0
+      z: -14.0
+    maximum:
+      ==: Vector
+      x: 763.0
+      y: 73.0
+      z: -8.0
+    world: mines
+  world: mines
+  enabledProtection: []
+  cooldownEnabled: false

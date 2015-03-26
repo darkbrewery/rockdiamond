@@ -1,0 +1,72 @@
+mine:
+  ==: pMine
+  region:
+    ==: PrisonRegion
+    minimum:
+      ==: Vector
+      x: 14.0
+      y: 114.0
+      z: -799.0
+    maximum:
+      ==: Vector
+      x: 20.0
+      y: 114.0
+      z: -785.0
+    world: spawn
+  flags:
+  - Silent
+  breakBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  parent: null
+  blocks:
+  - ==: MineBlock
+    blockData: 7
+    blockId: 142
+    chance: 1.0
+  - ==: MineBlock
+    blockData: 0
+    blockId: 0
+    chance: 0.0
+  tpPoint:
+    ==: SimpleLoc
+    yaw: 189.12448
+    pitch: 78.92792
+    z: -792.6506558120046
+    y: 115.51721981966637
+    world: spawn
+    x: 18.802820451204973
+  blocksLeft: 105
+  resetTriggers:
+  - ==: CompositionTrigger
+    percent: '0.99'
+    mine: PotatoFarm
+  id: PotatoFarm
+  warningTimes: []
+  placeBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  cooldownPeriod: 0
+  name: ''
+  blockReplaceBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  protectionRegion:
+    ==: PrisonRegion
+    minimum:
+      ==: Vector
+      x: 14.0
+      y: 114.0
+      z: -799.0
+    maximum:
+      ==: Vector
+      x: 20.0
+      y: 114.0
+      z: -785.0
+    world: spawn
+  world: spawn
+  enabledProtection: []
+  cooldownEnabled: false

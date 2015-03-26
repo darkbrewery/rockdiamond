@@ -1,0 +1,91 @@
+mine:
+  ==: pMine
+  region:
+    ==: PrisonRegion
+    minimum:
+      ==: Vector
+      x: 71.0
+      y: 78.0
+      z: -1367.0
+    maximum:
+      ==: Vector
+      x: 81.0
+      y: 91.0
+      z: -1357.0
+    world: spawn
+  flags: []
+  breakBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  parent: null
+  blocks:
+  - ==: MineBlock
+    blockData: 1
+    blockId: 1
+    chance: 0.1666
+  - ==: MineBlock
+    blockData: 2
+    blockId: 1
+    chance: 0.1666
+  - ==: MineBlock
+    blockData: 3
+    blockId: 1
+    chance: 0.1666
+  - ==: MineBlock
+    blockData: 4
+    blockId: 1
+    chance: 0.1666
+  - ==: MineBlock
+    blockData: 5
+    blockId: 1
+    chance: 0.1666
+  - ==: MineBlock
+    blockData: 6
+    blockId: 1
+    chance: 0.1666
+  - ==: MineBlock
+    blockData: 0
+    blockId: 0
+    chance: 4.000000000001225E-4
+  tpPoint:
+    ==: SimpleLoc
+    yaw: 269.67908
+    pitch: 2.3999977
+    z: -1361.4901675520316
+    y: 91.0
+    world: spawn
+    x: 61.50514761380483
+  blocksLeft: 1693
+  resetTriggers:
+  - ==: CompositionTrigger
+    percent: '0.4'
+    mine: G
+  id: G
+  warningTimes: []
+  placeBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  cooldownPeriod: 0
+  name: ''
+  blockReplaceBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  protectionRegion:
+    ==: PrisonRegion
+    minimum:
+      ==: Vector
+      x: 71.0
+      y: 78.0
+      z: -1367.0
+    maximum:
+      ==: Vector
+      x: 81.0
+      y: 91.0
+      z: -1357.0
+    world: spawn
+  world: spawn
+  enabledProtection: []
+  cooldownEnabled: false
