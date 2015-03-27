@@ -100,8 +100,6 @@ donator:
         enabled: false
         cost: 0
     message:
-        onOpen: ''
-        broadcast: '%prefix%%player% has opened an donator crate and recieved...'
     item:
         item: DIAMOND_BLOCK
         name: 'Donator Crate'
@@ -244,14 +242,14 @@ donate6:
         broadcast: '%player% is selling items at 1.5x the price!'
     key:
         item: 'tripwire_hook'
-        name: 'Sell Shop Key!
+        name: 'Sell Shop Key!'
         lore: 
             - 'Make sure you have all the'
             - 'items you want to sell!!!'
             - 'Right click to go to sell shop!'
     reward:
         rewards:
-            - 'cmd:(/warp DonorShop %player%)
+            - 'cmd:(/warp DonorShop %player%)'
 key2:
     type: KEYCRATE
     buy:
@@ -259,7 +257,6 @@ key2:
         cost: 0
     message:
         onOpen: ''
-        broadcast: '%prefix%%player% has opened an key crate and recieved...'
     key:
         item: 'diamond'
         name: 'Key #02'
