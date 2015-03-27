@@ -232,8 +232,8 @@ donate5:
             - 'later.'
         reward:
             rewards:
-                - 'cmd:(/warp Donate5 %player%)
-                - 'cmd:(/give %player% sponge 1024)
+                - 'cmd:(/warp Donate5 %player%)'
+                - 'cmd:(/give %player% sponge 1024)'
 donate6:
     type: SUPPlYCRATE
     buy:
