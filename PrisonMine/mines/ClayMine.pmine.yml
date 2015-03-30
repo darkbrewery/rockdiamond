@@ -108,7 +108,7 @@ mine:
     y: 68.0
     world: mines
     x: 736.5166823755432
-  blocksLeft: 2299
+  blocksLeft: 2298
   resetTriggers:
   - ==: CompositionTrigger
     percent: '0.4'

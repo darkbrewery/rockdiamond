@@ -1,0 +1,28 @@
+minBounty: 50.0
+listLength: 5
+cancelPenalty: 0.25
+awardHeadChance: 1.0
+markSkulls: true
+globalBroadcast: true
+allowAnonymous: true
+anonymousName: anonymous
+enableInAllWorlds: true
+enabledWorlds:
+- list worlds here if 'enableInAllWorlds' is false
+colors:
+  failure: §c
+  blank: §7
+  global: §6
+  success: §a
+active:
+  46654b3a-ef0f-4cea-ac0f-7e94ebef117a:
+    0815d936-c500-4314-8cb1-605aa6d1ed6b:
+      reward: 100000.0
+      anonymous: false
+    e94aa767-93cf-4ad5-ac05-3e710e68c9a3:
+      reward: 99600.0
+      anonymous: true
+    d3e981e6-d144-40c3-bae1-635f0ea7622d:
+      reward: 1000000.0
+      anonymous: true
+completed: {}

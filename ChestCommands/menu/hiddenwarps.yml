@@ -69,15 +69,15 @@ AnimalFarm:
   POSITION-X: 1
   POSITION-Y: 1
   VIEW-PERMISSION: 'essentials.warps.AnimalFarm'
-HellBox:
-  COMMAND: 'warp HellBox'
-  NAME: '&eHellBox'
+Volcano:
+  COMMAND: 'warp Volcano'
+  NAME: '&eVolcano'
   LORE:
-    - 'Warp to &eHellBox'
+    - 'Warp to &eVolcano'
   ID: Gold_Sword
   POSITION-X: 2
   POSITION-Y: 1
-  VIEW-PERMISSION: 'essentials.warps.HellBox'
+  VIEW-PERMISSION: 'essentials.warps.Volcano'
 FarmTown:
   COMMAND: 'warp farmtown'
   NAME: '&eFarm Town'
@@ -107,7 +107,7 @@ FlowerBox:
   VIEW-PERMISSION: 'essentials.warps.FlowerBox'
 Cactus:
   COMMAND: 'warp cactus'
-  NAME: '&eWoodShed'
+  NAME: '&eCactus Farm'
   LORE:
     - 'Warp to &eCactus Farm'
   ID: cactus
@@ -213,7 +213,7 @@ Sand:
   POSITION-X: 8
   POSITION-Y: 2
   VIEW-PERMISSION: 'essentials.warps.Sand'
-Templ:
+Temple:
   COMMAND: 'warp Temple'
   NAME: '&eTemple Mine'
   LORE:
@@ -222,4 +222,13 @@ Templ:
   POSITION-X: 9
   POSITION-Y: 2
   VIEW-PERMISSION: 'essentials.warps.Temple'
+CaneFarm:
+  COMMAND: 'warp canefarm'
+  NAME: '&eSugar Cane Farm'
+  LORE:
+    - 'Warp to &eSugar Cane Farm'
+  ID: sugarcane
+  POSITION-X: 1
+  POSITION-Y: 3
+  VIEW-PERMISSION: 'essentials.warps.Canefarm'
 

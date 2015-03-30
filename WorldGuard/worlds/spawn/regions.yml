@@ -75,6 +75,14 @@ regions:
         flags: {build: allow}
         owners: {}
         members: {}
+    canefarm:
+        type: cuboid
+        min: {x: 105.0, y: 64.0, z: -1243.0}
+        max: {x: 121.0, y: 65.0, z: -1229.0}
+        priority: 0
+        flags: {build: allow}
+        owners: {}
+        members: {}
     d_door:
         type: cuboid
         min: {x: -23.0, y: 91.0, z: -1395.0}

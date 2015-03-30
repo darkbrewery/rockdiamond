@@ -53,7 +53,7 @@ mine:
     y: 62.0
     world: world_the_end
     x: 11.415977226544417
-  blocksLeft: 1800
+  blocksLeft: 1627
   resetTriggers:
   - ==: CompositionTrigger
     percent: '0.4'
