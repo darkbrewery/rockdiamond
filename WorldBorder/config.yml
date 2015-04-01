@@ -46,6 +46,6 @@ worlds:
   spawn:
     x: 14.5
     z: -1237.5
-    radiusX: 3500
-    radiusZ: 3500
+    radiusX: 300
+    radiusZ: 300
     wrapping: false

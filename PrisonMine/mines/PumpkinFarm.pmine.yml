@@ -4,14 +4,14 @@ mine:
     ==: PrisonRegion
     minimum:
       ==: Vector
-      x: 45.0
-      y: 112.0
-      z: -827.0
+      x: 81.0
+      y: 143.0
+      z: -1148.0
     maximum:
       ==: Vector
-      x: 47.0
-      y: 112.0
-      z: -815.0
+      x: 83.0
+      y: 143.0
+      z: -1136.0
     world: spawn
   flags: []
   breakBlacklist:
@@ -22,24 +22,24 @@ mine:
   blocks:
   - ==: MineBlock
     blockData: 0
-    blockId: 86
-    chance: 1.0
-  - ==: MineBlock
-    blockData: 0
     blockId: 0
     chance: 0.0
+  - ==: MineBlock
+    blockData: 0
+    blockId: 86
+    chance: 1.0
   tpPoint:
     ==: SimpleLoc
-    yaw: -192.04144
-    pitch: 37.19997
-    z: -824.311066590513
-    y: 113.05221753851156
+    yaw: -2.1235657
+    pitch: 33.299957
+    z: -1139.0202107744738
+    y: 144.0
     world: spawn
-    x: 47.8313359569267
+    x: 83.27829850815446
   blocksLeft: 39
   resetTriggers:
   - ==: CompositionTrigger
-    percent: '0.99'
+    percent: '0.4'
     mine: PumpkinFarm
   id: PumpkinFarm
   warningTimes: []
@@ -57,14 +57,14 @@ mine:
     ==: PrisonRegion
     minimum:
       ==: Vector
-      x: 45.0
-      y: 112.0
-      z: -827.0
+      x: 81.0
+      y: 143.0
+      z: -1148.0
     maximum:
       ==: Vector
-      x: 47.0
-      y: 112.0
-      z: -815.0
+      x: 83.0
+      y: 143.0
+      z: -1136.0
     world: spawn
   world: spawn
   enabledProtection: []

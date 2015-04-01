@@ -200,13 +200,13 @@ Desert_Parkour:
     player: walker907
 Doors:
   '1':
-    time: 999999999
-    deaths: 999
-    player: N/A
+    time: 144079
+    deaths: 4
+    player: Kylschildpad007
   '2':
-    time: 999999999
-    deaths: 999
-    player: N/A
+    time: 181475
+    deaths: 18
+    player: Vision_DarkZ
   '3':
     time: 999999999
     deaths: 999

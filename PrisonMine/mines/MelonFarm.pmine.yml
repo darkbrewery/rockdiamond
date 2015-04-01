@@ -4,14 +4,14 @@ mine:
     ==: PrisonRegion
     minimum:
       ==: Vector
-      x: 39.0
-      y: 112.0
-      z: -827.0
+      x: 75.0
+      y: 143.0
+      z: -1148.0
     maximum:
       ==: Vector
-      x: 41.0
-      y: 112.0
-      z: -815.0
+      x: 77.0
+      y: 143.0
+      z: -1136.0
     world: spawn
   flags: []
   breakBlacklist:
@@ -30,16 +30,16 @@ mine:
     chance: 1.0
   tpPoint:
     ==: SimpleLoc
-    yaw: -185.44128
-    pitch: 25.199957
-    z: -821.4173508396708
-    y: 113.05221753851156
+    yaw: -357.32352
+    pitch: 10.349972
+    z: -1147.5909602526838
+    y: 144.0
     world: spawn
-    x: 40.18704880912749
+    x: 76.69992260798163
   blocksLeft: 39
   resetTriggers:
   - ==: CompositionTrigger
-    percent: '0.99'
+    percent: '0.4'
     mine: MelonFarm
   id: MelonFarm
   warningTimes: []
@@ -57,14 +57,14 @@ mine:
     ==: PrisonRegion
     minimum:
       ==: Vector
-      x: 39.0
-      y: 112.0
-      z: -827.0
+      x: 75.0
+      y: 143.0
+      z: -1148.0
     maximum:
       ==: Vector
-      x: 41.0
-      y: 112.0
-      z: -815.0
+      x: 77.0
+      y: 143.0
+      z: -1136.0
     world: spawn
   world: spawn
   enabledProtection: []

@@ -15,11 +15,11 @@ spawns:
     pitch: 27.899952
   freshmeat: 
     world: spawn
-    x: 0.5
-    y: 102.0
-    z: -10.5
-    yaw: -0.6000003
-    pitch: 6.900009
+    x: -71.43155520470808
+    y: 82.0
+    z: -1163.9225489167607
+    yaw: 0.5770036
+    pitch: -1.4999559
   a: 
     world: spawn
     x: 14.5

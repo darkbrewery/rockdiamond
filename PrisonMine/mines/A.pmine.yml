@@ -4,14 +4,14 @@ mine:
     ==: PrisonRegion
     minimum:
       ==: Vector
-      x: -5.0
-      y: 26.0
-      z: -15.0
+      x: 7.0
+      y: 84.0
+      z: -1317.0
     maximum:
       ==: Vector
-      x: 5.0
-      y: 31.0
-      z: -4.0
+      x: 21.0
+      y: 90.0
+      z: -1310.0
     world: spawn
   flags: []
   breakBlacklist:
@@ -23,132 +23,116 @@ mine:
   - ==: MineBlock
     blockData: 0
     blockId: 1
-    chance: 0.976
+    chance: 0.5
+  - ==: MineBlock
+    blockData: 0
+    blockId: 4
+    chance: 0.45
   - ==: MineBlock
     blockData: 0
     blockId: 0
-    chance: 1.3877787807814457E-17
+    chance: 0.04807999999999994
+  - ==: MineBlock
+    blockData: 0
+    blockId: 145
+    chance: 2.0E-4
+  - ==: MineBlock
+    blockData: 0
+    blockId: 15
+    chance: 1.0E-4
+  - ==: MineBlock
+    blockData: 0
+    blockId: 16
+    chance: 1.0E-4
+  - ==: MineBlock
+    blockData: 0
+    blockId: 21
+    chance: 1.0E-4
+  - ==: MineBlock
+    blockData: 0
+    blockId: 73
+    chance: 1.0E-4
   - ==: MineBlock
     blockData: 0
     blockId: 19
-    chance: 0.001
-  - ==: MineBlock
-    blockData: 1
-    blockId: 19
-    chance: 0.001
-  - ==: MineBlock
-    blockData: 1
-    blockId: 1
-    chance: 0.001
-  - ==: MineBlock
-    blockData: 2
-    blockId: 1
-    chance: 0.001
-  - ==: MineBlock
-    blockData: 3
-    blockId: 1
-    chance: 0.001
+    chance: 1.0E-4
   - ==: MineBlock
     blockData: 0
-    blockId: 10
-    chance: 0.001
-  - ==: MineBlock
-    blockData: 0
-    blockId: 7
-    chance: 0.001
+    blockId: 158
+    chance: 1.0E-4
   - ==: MineBlock
     blockData: 0
     blockId: 23
-    chance: 0.001
+    chance: 1.0E-4
   - ==: MineBlock
     blockData: 0
-    blockId: 25
-    chance: 0.001
-  - ==: MineBlock
-    blockData: 0
-    blockId: 46
-    chance: 0.001
-  - ==: MineBlock
-    blockData: 1
-    blockId: 145
-    chance: 0.001
-  - ==: MineBlock
-    blockData: 0
-    blockId: 154
-    chance: 0.001
-  - ==: MineBlock
-    blockData: 0
-    blockId: 170
-    chance: 0.001
-  - ==: MineBlock
-    blockData: 0
-    blockId: 30
-    chance: 0.001
+    blockId: 54
+    chance: 1.0E-4
   - ==: MineBlock
     blockData: 0
     blockId: 58
-    chance: 0.001
+    chance: 1.0E-4
   - ==: MineBlock
     blockData: 0
     blockId: 61
-    chance: 0.001
+    chance: 1.0E-4
   - ==: MineBlock
     blockData: 0
     blockId: 47
-    chance: 0.001
+    chance: 1.0E-4
   - ==: MineBlock
     blockData: 0
-    blockId: 91
-    chance: 0.001
+    blockId: 46
+    chance: 1.0E-4
   - ==: MineBlock
     blockData: 0
-    blockId: 84
-    chance: 0.001
+    blockId: 7
+    chance: 1.0E-4
   - ==: MineBlock
     blockData: 0
-    blockId: 103
-    chance: 0.001
+    blockId: 49
+    chance: 1.0E-4
+  - ==: MineBlock
+    blockData: 0
+    blockId: 170
+    chance: 1.0E-4
+  - ==: MineBlock
+    blockData: 0
+    blockId: 112
+    chance: 1.0E-4
   - ==: MineBlock
     blockData: 0
     blockId: 123
-    chance: 0.001
-  - ==: MineBlock
-    blockData: 5
-    blockId: 97
-    chance: 0.001
+    chance: 1.0E-4
   - ==: MineBlock
     blockData: 0
-    blockId: 130
-    chance: 0.001
+    blockId: 56
+    chance: 1.0E-5
   - ==: MineBlock
     blockData: 0
-    blockId: 165
-    chance: 0.001
-  - ==: MineBlock
-    blockData: 0
-    blockId: 300
-    chance: 0.0
+    blockId: 129
+    chance: 1.0E-5
   tpPoint:
     ==: SimpleLoc
-    yaw: -179.40067
-    pitch: 2.5500145
-    z: -1.676324062413561
-    y: 32.0
+    yaw: 0.7508127
+    pitch: -4.8801656
+    z: -1319.2263188693018
+    y: 90.0
     world: spawn
-    x: 0.5304838244573319
-  blocksLeft: 494
+    x: 14.616399847867127
+  blocksLeft: 547
   resetTriggers:
   - ==: CompositionTrigger
-    percent: '0.6'
-    mine: a
-  id: a
+    percent: '0.4'
+    mine: A
+  id: A
   warningTimes: []
   placeBlacklist:
     ==: Blacklist
     blocks: {}
     type: 0
   cooldownPeriod: 0
-  name: A
+  name: ''
   blockReplaceBlacklist:
     ==: Blacklist
     blocks: {}
@@ -157,14 +141,14 @@ mine:
     ==: PrisonRegion
     minimum:
       ==: Vector
-      x: -5.0
-      y: 26.0
-      z: -15.0
+      x: 7.0
+      y: 84.0
+      z: -1317.0
     maximum:
       ==: Vector
-      x: 5.0
-      y: 31.0
-      z: -4.0
+      x: 21.0
+      y: 90.0
+      z: -1310.0
     world: spawn
   world: spawn
   enabledProtection: []

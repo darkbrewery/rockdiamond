@@ -63,3 +63,44 @@ crate2:
   - '&u&lRewards Chest'
   - Opens with Vote & Badass keys
   - '&b&l/Vote &rfor prizes!'
+petshop:
+  location: spawn, 247.498, 112.739, -1214.514
+  lines:
+  - '&b&lPet Shop'
+junkyard:
+  location: spawn, 248.124, 109.386, -1273.504
+  lines:
+  - '&2&lJunk Yard'
+blackmarket:
+  location: spawn, 209.509, 101.491, -1377.588
+  lines:
+  - '&0&lBlack Market'
+orchard:
+  location: spawn, 83.654, 103.123, -1306.536
+  lines:
+  - '&c&lOrchard'
+farmtown:
+  location: spawn, 88.315, 111.815, -1353.303
+  lines:
+  - '&e&lFarmtown'
+library:
+  location: spawn, 76.444, 94.700, -1184.800
+  lines:
+  - '&e&lLibrary'
+claymine:
+  location: spawn, 79.300, 114.999, -1409.300
+  lines:
+  - '&u&lClay Mine'
+welcome:
+  location: spawn, -71.539, 86.200, -1153.730
+  lines:
+  - '&b&lRock &c&lDiamond &rPrison'
+  - Welcomes you !!!
+zombiefarm:
+  location: spawn, -141.516, 98.200, -1169.782
+  lines:
+  - '&4&lZombie Farm'
+xpfarm:
+  location: spawn, -186.332, 98.287, -1275.533
+  lines:
+  - '&uExperience Farm'

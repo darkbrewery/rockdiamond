@@ -9,7 +9,7 @@ portals:
     owner: SiLeNT_F1NISH
     location: -8.0,79.0,-1240.0:-8.0,85.0,-1236.0
     world: spawn
-    destination: e:spawn:0.5,37.0,-6.5:-0.9000086:-178.20055
+    destination: e:spawn:14.494074378631312,90.0,-1361.5409417315468:-3.5999956:-0.1748049
   ToPlots:
     entryfee:
       currency: -1
@@ -43,14 +43,3 @@ portals:
     location: -10.0,80.0,-1218.0:-7.0,80.0,-1216.0
     world: spawn
     destination: parkour
-  toasshat:
-    entryfee:
-      currency: -1
-      amount: 0.0
-    safeteleport: true
-    teleportnonplayers: false
-    handlerscript: ''
-    owner: darkbrewery
-    location: 12.0,91.0,-1308.0:16.0,93.0,-1308.0
-    world: spawn
-    destination: e:spawn:0.5,37.0,-6.5:1.7999914:-180.30057

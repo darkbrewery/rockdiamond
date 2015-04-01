@@ -4,14 +4,14 @@ mine:
     ==: PrisonRegion
     minimum:
       ==: Vector
-      x: 66.0
-      y: 112.0
-      z: -796.0
+      x: 22.0
+      y: 141.0
+      z: -1088.0
     maximum:
       ==: Vector
-      x: 74.0
-      y: 112.0
-      z: -788.0
+      x: 30.0
+      y: 141.0
+      z: -1080.0
     world: spawn
   flags: []
   breakBlacklist:
@@ -21,25 +21,25 @@ mine:
   parent: null
   blocks:
   - ==: MineBlock
-    blockData: 3
-    blockId: 115
-    chance: 1.0
-  - ==: MineBlock
     blockData: 0
     blockId: 0
     chance: 0.0
+  - ==: MineBlock
+    blockData: 3
+    blockId: 115
+    chance: 1.0
   tpPoint:
     ==: SimpleLoc
-    yaw: 270.25278
-    pitch: 0.749993
-    z: -791.5761443247382
-    y: 113.0
+    yaw: 176.67618
+    pitch: 47.699944
+    z: -1077.9452371760365
+    y: 141.5
     world: spawn
-    x: 63.71235700994447
+    x: 29.568348077449784
   blocksLeft: 81
   resetTriggers:
   - ==: CompositionTrigger
-    percent: '0.2'
+    percent: '0.4'
     mine: WartFarm
   id: WartFarm
   warningTimes: []
@@ -57,14 +57,14 @@ mine:
     ==: PrisonRegion
     minimum:
       ==: Vector
-      x: 66.0
-      y: 112.0
-      z: -796.0
+      x: 22.0
+      y: 141.0
+      z: -1088.0
     maximum:
       ==: Vector
-      x: 74.0
-      y: 112.0
-      z: -788.0
+      x: 30.0
+      y: 141.0
+      z: -1080.0
     world: spawn
   world: spawn
   enabledProtection: []

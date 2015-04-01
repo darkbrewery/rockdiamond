@@ -27,10 +27,18 @@ regions:
             groups: [a]
     a_mine:
         type: cuboid
-        min: {x: -5.0, y: 26.0, z: -15.0}
-        max: {x: 5.0, y: 31.0, z: -4.0}
+        min: {x: 7.0, y: 84.0, z: -1317.0}
+        max: {x: 21.0, y: 90.0, z: -1310.0}
         priority: 10
         flags: {build: allow}
+        owners: {}
+        members: {}
+    animalfarm:
+        type: cuboid
+        min: {x: 112.0, y: 104.0, z: -1439.0}
+        max: {x: 128.0, y: 108.0, z: -1416.0}
+        priority: 0
+        flags: {mob-spawning: allow}
         owners: {}
         members: {}
     b_door:
@@ -83,6 +91,22 @@ regions:
         flags: {build: allow}
         owners: {}
         members: {}
+    carrot_farm:
+        type: cuboid
+        min: {x: -144.0, y: 146.0, z: -1340.0}
+        max: {x: -138.0, y: 146.0, z: -1326.0}
+        priority: 20
+        flags: {build: allow}
+        owners: {}
+        members: {}
+    claymine:
+        type: cuboid
+        min: {x: 77.0, y: 93.0, z: -1433.0}
+        max: {x: 87.0, y: 111.0, z: -1423.0}
+        priority: 0
+        flags: {build: allow}
+        owners: {}
+        members: {}
     d_door:
         type: cuboid
         min: {x: -23.0, y: 91.0, z: -1395.0}
@@ -102,10 +126,10 @@ regions:
         members: {}
     donor:
         type: cuboid
-        min: {x: -140.0, y: 0.0, z: -1384.0}
-        max: {x: -61.0, y: 255.0, z: -1315.0}
+        min: {x: -101.0, y: 85.0, z: -1378.0}
+        max: {x: -65.0, y: 133.0, z: -1316.0}
         priority: 0
-        flags: {entry: deny}
+        flags: {entry: deny, build: deny}
         owners:
             groups: [iron, gold, diamond, emerald, obsidian]
         members: {}
@@ -158,6 +182,30 @@ regions:
         max: {x: 68.0, y: 90.0, z: -1390.0}
         priority: 10
         flags: {build: allow}
+        owners: {}
+        members: {}
+    farmtown:
+        type: cuboid
+        min: {x: 76.0, y: 109.0, z: -1378.0}
+        max: {x: 100.0, y: 114.0, z: -1357.0}
+        priority: 0
+        flags: {mob-spawning: allow}
+        owners: {}
+        members: {}
+    flowerbox:
+        type: cuboid
+        min: {x: -47.0, y: 155.0, z: -1391.0}
+        max: {x: -29.0, y: 155.0, z: -1373.0}
+        priority: 10
+        flags: {build: allow}
+        owners: {}
+        members: {}
+    foodovens:
+        type: cuboid
+        min: {x: 116.0, y: 100.0, z: -1436.0}
+        max: {x: 124.0, y: 101.0, z: -1424.0}
+        priority: 0
+        flags: {chest-access: allow}
         owners: {}
         members: {}
     g_door:
@@ -228,6 +276,14 @@ regions:
         flags: {build: allow}
         owners: {}
         members: {}
+    junkyard_mine:
+        type: cuboid
+        min: {x: 253.0, y: 106.0, z: -1277.0}
+        max: {x: 261.0, y: 114.0, z: -1271.0}
+        priority: 0
+        flags: {build: allow}
+        owners: {}
+        members: {}
     k_door:
         type: cuboid
         min: {x: 100.0, y: 78.0, z: -1206.0}
@@ -279,6 +335,14 @@ regions:
         flags: {build: allow}
         owners: {}
         members: {}
+    melonfarm:
+        type: cuboid
+        min: {x: 75.0, y: 143.0, z: -1148.0}
+        max: {x: 77.0, y: 143.0, z: -1136.0}
+        priority: 0
+        flags: {build: allow}
+        owners: {}
+        members: {}
     n_door:
         type: cuboid
         min: {x: 136.0, y: 77.0, z: -1284.0}
@@ -313,6 +377,14 @@ regions:
         flags: {build: allow}
         owners: {}
         members: {}
+    orchard:
+        type: cuboid
+        min: {x: 46.0, y: 103.0, z: -1319.0}
+        max: {x: 82.0, y: 110.0, z: -1295.0}
+        priority: 10
+        flags: {treefarm: deny}
+        owners: {}
+        members: {}
     p_door:
         type: cuboid
         min: {x: 185.0, y: 78.0, z: -1239.0}
@@ -330,6 +402,14 @@ regions:
         flags: {build: allow}
         owners: {}
         members: {}
+    potato_farm:
+        type: cuboid
+        min: {x: -136.0, y: 146.0, z: -1340.0}
+        max: {x: -130.0, y: 146.0, z: -1326.0}
+        priority: 0
+        flags: {build: allow}
+        owners: {}
+        members: {}
     ps_g2:
         type: cuboid
         min: {x: -106.0, y: 105.0, z: -1139.0}
@@ -344,6 +424,14 @@ regions:
         max: {x: -85.0, y: 110.0, z: -1114.0}
         priority: 0
         flags: {}
+        owners: {}
+        members: {}
+    pumpkinfarm:
+        type: cuboid
+        min: {x: 81.0, y: 143.0, z: -1148.0}
+        max: {x: 83.0, y: 143.0, z: -1136.0}
+        priority: 0
+        flags: {build: allow}
         owners: {}
         members: {}
     pvp_arena:
@@ -421,6 +509,14 @@ regions:
         flags: {build: allow}
         owners: {}
         members: {}
+    shroomfarm:
+        type: cuboid
+        min: {x: 215.0, y: 144.0, z: -1299.0}
+        max: {x: 225.0, y: 144.0, z: -1289.0}
+        priority: 0
+        flags: {build: allow}
+        owners: {}
+        members: {}
     smilepotato:
         type: cuboid
         min: {x: -90.0, y: 0.0, z: -3203.0}
@@ -429,6 +525,14 @@ regions:
         flags: {}
         owners:
             players: [mysmilepotato]
+        members: {}
+    squidfarm:
+        type: cuboid
+        min: {x: -184.0, y: 43.0, z: -1218.0}
+        max: {x: -160.0, y: 76.0, z: -1196.0}
+        priority: 0
+        flags: {mob-spawning: allow}
+        owners: {}
         members: {}
     t_door:
         type: cuboid
@@ -514,6 +618,31 @@ regions:
         flags: {build: allow}
         owners: {}
         members: {}
+    wartfarm:
+        type: cuboid
+        min: {x: 22.0, y: 141.0, z: -1088.0}
+        max: {x: 30.0, y: 141.0, z: -1080.0}
+        priority: 10
+        flags: {build: allow}
+        owners: {}
+        members: {}
+    wheatfarm:
+        type: cuboid
+        min: {x: 122.0, y: 140.0, z: -1397.0}
+        max: {x: 128.0, y: 140.0, z: -1391.0}
+        priority: 10
+        flags: {build: allow}
+        owners: {}
+        members: {}
+    work:
+        type: cuboid
+        min: {x: -101.0, y: 0.0, z: -2978.0}
+        max: {x: -79.0, y: 255.0, z: -2956.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [jakespeed19]
+        members: {}
     x_door:
         type: cuboid
         min: {x: -80.0, y: 69.0, z: -1273.0}
@@ -529,5 +658,21 @@ regions:
         max: {x: -75.0, y: 68.0, z: -1286.0}
         priority: 10
         flags: {build: allow}
+        owners: {}
+        members: {}
+    xpfarm:
+        type: cuboid
+        min: {x: -202.0, y: 86.0, z: -1280.0}
+        max: {x: -193.0, y: 98.0, z: -1272.0}
+        priority: 0
+        flags: {item-drop: deny, build: allow}
+        owners: {}
+        members: {}
+    zombiefarm:
+        type: cuboid
+        min: {x: -151.0, y: 101.0, z: -1175.0}
+        max: {x: -134.0, y: 104.0, z: -1155.0}
+        priority: 0
+        flags: {mob-spawning: allow}
         owners: {}
         members: {}

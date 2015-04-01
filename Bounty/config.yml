@@ -16,13 +16,27 @@ colors:
   success: §a
 active:
   46654b3a-ef0f-4cea-ac0f-7e94ebef117a:
-    0815d936-c500-4314-8cb1-605aa6d1ed6b:
-      reward: 100000.0
-      anonymous: false
     e94aa767-93cf-4ad5-ac05-3e710e68c9a3:
       reward: 99600.0
       anonymous: true
     d3e981e6-d144-40c3-bae1-635f0ea7622d:
       reward: 1000000.0
       anonymous: true
+    97b122ad-aaef-4e44-bb5f-b5c8e9c2fac0:
+      reward: 1.0E8
+      anonymous: false
+    8e1a009a-d3d4-476c-b2ab-43fe1291667f:
+      reward: 1.0E8
+      anonymous: false
+    3ec20941-3b49-4346-a72c-f6029968a15a:
+      reward: 1.0E8
+      anonymous: false
+  97b122ad-aaef-4e44-bb5f-b5c8e9c2fac0:
+    8e1a009a-d3d4-476c-b2ab-43fe1291667f:
+      reward: 100.0
+      anonymous: false
+  0815d936-c500-4314-8cb1-605aa6d1ed6b:
+    8e1a009a-d3d4-476c-b2ab-43fe1291667f:
+      reward: 101.0
+      anonymous: false
 completed: {}

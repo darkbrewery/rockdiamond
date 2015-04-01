@@ -4,14 +4,14 @@ mine:
     ==: PrisonRegion
     minimum:
       ==: Vector
-      x: 65.0
-      y: 113.0
-      z: -753.0
+      x: 215.0
+      y: 144.0
+      z: -1299.0
     maximum:
       ==: Vector
-      x: 75.0
-      y: 113.0
-      z: -743.0
+      x: 225.0
+      y: 144.0
+      z: -1289.0
     world: spawn
   flags: []
   breakBlacklist:
@@ -26,24 +26,24 @@ mine:
     chance: 0.0
   - ==: MineBlock
     blockData: 0
-    blockId: 39
+    blockId: 40
     chance: 0.5
   - ==: MineBlock
     blockData: 0
-    blockId: 40
+    blockId: 39
     chance: 0.5
   tpPoint:
     ==: SimpleLoc
-    yaw: -179.17651
-    pitch: 3.2999673
-    z: -740.3022677184199
-    y: 113.0
+    yaw: 168.57674
+    pitch: 24.900003
+    z: -1292.503737571775
+    y: 144.4356251760506
     world: spawn
-    x: 69.85133499935081
-  blocksLeft: 121
+    x: 226.54769755471455
+  blocksLeft: 119
   resetTriggers:
   - ==: CompositionTrigger
-    percent: '0.2'
+    percent: '0.4'
     mine: ShroomFarm
   id: ShroomFarm
   warningTimes: []
@@ -61,14 +61,14 @@ mine:
     ==: PrisonRegion
     minimum:
       ==: Vector
-      x: 65.0
-      y: 113.0
-      z: -753.0
+      x: 215.0
+      y: 144.0
+      z: -1299.0
     maximum:
       ==: Vector
-      x: 75.0
-      y: 113.0
-      z: -743.0
+      x: 225.0
+      y: 144.0
+      z: -1289.0
     world: spawn
   world: spawn
   enabledProtection: []

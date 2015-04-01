@@ -98,9 +98,9 @@ worlds:
     gamemode: SURVIVAL
     keepspawninmemory: true
     spawn:
-      x: 2.5
-      y: 62.0
-      z: -4.5
+      x: -2.5
+      y: 63.0
+      z: -5.5
       pitch: 0.0
       yaw: 0.0
       world: mines

@@ -4,17 +4,16 @@ mine:
     ==: PrisonRegion
     minimum:
       ==: Vector
-      x: 40.0
-      y: 114.0
-      z: -712.0
+      x: 122.0
+      y: 140.0
+      z: -1397.0
     maximum:
       ==: Vector
-      x: 46.0
-      y: 114.0
-      z: -706.0
+      x: 128.0
+      y: 140.0
+      z: -1391.0
     world: spawn
-  flags:
-  - Silent
+  flags: []
   breakBlacklist:
     ==: Blacklist
     blocks: {}
@@ -22,25 +21,25 @@ mine:
   parent: null
   blocks:
   - ==: MineBlock
-    blockData: 7
-    blockId: 59
-    chance: 1.0
-  - ==: MineBlock
     blockData: 0
     blockId: 0
     chance: 0.0
+  - ==: MineBlock
+    blockData: 7
+    blockId: 59
+    chance: 1.0
   tpPoint:
     ==: SimpleLoc
-    yaw: -179.2924
-    pitch: 2.400022
-    z: -703.3260672723991
-    y: 114.5
+    yaw: 176.67683
+    pitch: 59.100002
+    z: -1389.3379524646657
+    y: 141.08735634483568
     world: spawn
-    x: 43.404119806823005
-  blocksLeft: 48
+    x: 124.95989212843025
+  blocksLeft: 49
   resetTriggers:
   - ==: CompositionTrigger
-    percent: '0.8'
+    percent: '0.4'
     mine: WheatFarm
   id: WheatFarm
   warningTimes: []
@@ -58,14 +57,14 @@ mine:
     ==: PrisonRegion
     minimum:
       ==: Vector
-      x: 40.0
-      y: 114.0
-      z: -712.0
+      x: 122.0
+      y: 140.0
+      z: -1397.0
     maximum:
       ==: Vector
-      x: 46.0
-      y: 114.0
-      z: -706.0
+      x: 128.0
+      y: 140.0
+      z: -1391.0
     world: spawn
   world: spawn
   enabledProtection: []

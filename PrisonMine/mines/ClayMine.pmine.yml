@@ -4,15 +4,15 @@ mine:
     ==: PrisonRegion
     minimum:
       ==: Vector
-      x: 731.0
-      y: 49.0
-      z: -16.0
+      x: 77.0
+      y: 93.0
+      z: -1433.0
     maximum:
       ==: Vector
-      x: 741.0
-      y: 67.0
-      z: -6.0
-    world: mines
+      x: 87.0
+      y: 111.0
+      z: -1423.0
+    world: spawn
   flags: []
   breakBlacklist:
     ==: Blacklist
@@ -22,93 +22,81 @@ mine:
   blocks:
   - ==: MineBlock
     blockData: 0
-    blockId: 82
-    chance: 0.0
-  - ==: MineBlock
-    blockData: 0
     blockId: 159
-    chance: 0.055
+    chance: 0.0625
   - ==: MineBlock
     blockData: 1
     blockId: 159
-    chance: 0.055
+    chance: 0.0625
   - ==: MineBlock
     blockData: 2
     blockId: 159
-    chance: 0.055
+    chance: 0.0625
   - ==: MineBlock
     blockData: 3
     blockId: 159
-    chance: 0.055
+    chance: 0.0625
   - ==: MineBlock
     blockData: 4
     blockId: 159
-    chance: 0.055
+    chance: 0.0625
   - ==: MineBlock
     blockData: 5
     blockId: 159
-    chance: 0.055
+    chance: 0.0625
   - ==: MineBlock
     blockData: 6
     blockId: 159
-    chance: 0.055
+    chance: 0.0625
   - ==: MineBlock
     blockData: 7
     blockId: 159
-    chance: 0.055
+    chance: 0.0625
   - ==: MineBlock
     blockData: 8
     blockId: 159
-    chance: 0.055
+    chance: 0.0625
   - ==: MineBlock
     blockData: 9
     blockId: 159
-    chance: 0.055
+    chance: 0.0625
   - ==: MineBlock
     blockData: 10
     blockId: 159
-    chance: 0.055
+    chance: 0.0625
   - ==: MineBlock
     blockData: 11
     blockId: 159
-    chance: 0.055
+    chance: 0.0625
   - ==: MineBlock
     blockData: 12
     blockId: 159
-    chance: 0.055
+    chance: 0.0625
   - ==: MineBlock
     blockData: 13
     blockId: 159
-    chance: 0.055
+    chance: 0.0625
   - ==: MineBlock
     blockData: 14
     blockId: 159
-    chance: 0.055
+    chance: 0.0625
   - ==: MineBlock
     blockData: 15
     blockId: 159
-    chance: 0.055
-  - ==: MineBlock
-    blockData: 16
-    blockId: 159
-    chance: 0.055
+    chance: 0.0625
   - ==: MineBlock
     blockData: 0
     blockId: 0
-    chance: 9.999999999961429E-5
-  - ==: MineBlock
-    blockData: 0
-    blockId: 172
-    chance: 0.0649
+    chance: 0.0
   tpPoint:
     ==: SimpleLoc
-    yaw: -179.84882
-    pitch: -1.4999399
-    z: 2.2601159660054897
-    y: 68.0
-    world: mines
-    x: 736.5166823755432
-  blocksLeft: 2298
+    yaw: 179.84186
+    pitch: 0.14997537
+    z: -1418.964155722473
+    y: 111.5
+    world: spawn
+    x: 82.50923183843757
+  blocksLeft: 2281
   resetTriggers:
   - ==: CompositionTrigger
     percent: '0.4'
@@ -129,15 +117,15 @@ mine:
     ==: PrisonRegion
     minimum:
       ==: Vector
-      x: 731.0
-      y: 49.0
-      z: -16.0
+      x: 77.0
+      y: 93.0
+      z: -1433.0
     maximum:
       ==: Vector
-      x: 741.0
-      y: 67.0
-      z: -6.0
-    world: mines
-  world: mines
+      x: 87.0
+      y: 111.0
+      z: -1423.0
+    world: spawn
+  world: spawn
   enabledProtection: []
   cooldownEnabled: false

@@ -231,4 +231,13 @@ CaneFarm:
   POSITION-X: 1
   POSITION-Y: 3
   VIEW-PERMISSION: 'essentials.warps.Canefarm'
+Orchard:
+  COMMAND: 'warp orchard'
+  NAME: '&eApple Orchard'
+  LORE:
+    - 'Warp to &eOrchard'
+  ID: apple
+  POSITION-X: 2
+  POSITION-Y: 3
+  VIEW-PERMISSION: 'essentials.warps.Orchard'
 
