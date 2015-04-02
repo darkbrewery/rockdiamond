@@ -30,11 +30,6 @@ donor:
   lines:
   - '&lDonor Ranks'
   - '&4&lComing Soon!'
-crate:
-  location: world_nether, 208.553, 134.075, 3.503
-  lines:
-  - '&uMystery Crate'
-  - for testing
 suggestions1:
   location: spawn, -6.585, 84.000, -1241.579
   lines:
