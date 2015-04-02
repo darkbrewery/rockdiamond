@@ -51,12 +51,7 @@ Invisible1:
     deaths: 0
     player: SiLeNT_F1NISH
 Signs:
-  '1':
-    X: 3
-    Y: 81
-    Z: 6
-    World: parkour
-    Course: Parkour1
+  '1': ''
   '2':
     X: 5
     Y: 81
@@ -204,10 +199,10 @@ Doors:
     deaths: 4
     player: Kylschildpad007
   '2':
+    time: 152138
+    deaths: 6
+    player: 23hawks
+  '3':
     time: 181475
     deaths: 18
     player: Vision_DarkZ
-  '3':
-    time: 999999999
-    deaths: 999
-    player: N/A

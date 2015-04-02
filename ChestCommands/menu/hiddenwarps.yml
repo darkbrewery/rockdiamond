@@ -240,4 +240,22 @@ Orchard:
   POSITION-X: 2
   POSITION-Y: 3
   VIEW-PERMISSION: 'essentials.warps.Orchard'
+Squid:
+  COMMAND: 'warp squidfarm'
+  NAME: '&eSquid Farm'
+  LORE:
+    - 'Warp to &eSquid Farm'
+  ID: dye
+  POSITION-X: 3
+  POSITION-Y: 3
+  VIEW-PERMISSION: 'essentials.warps.SquidFarm'
+Xp:
+  COMMAND: 'warp xp'
+  NAME: '&eExperience Farm'
+  LORE:
+    - 'Warp to &eXP Farm'
+  ID: potion:8267
+  POSITION-X: 4
+  POSITION-Y: 3
+  VIEW-PERMISSION: 'essentials.warps.Orchard'
 

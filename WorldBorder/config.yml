@@ -17,6 +17,7 @@ bypass-list-uuids:
 - 3ec20941-3b49-4346-a72c-f6029968a15a
 - 0505df51-06a9-4067-842b-cf171e31b6e6
 - 7d345a63-2052-4623-bef8-4245fbc9b321
+- 97b122ad-aaef-4e44-bb5f-b5c8e9c2fac0
 fill-memory-tolerance: 500
 worlds:
   hell:

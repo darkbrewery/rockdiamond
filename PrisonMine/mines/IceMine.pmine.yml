@@ -4,14 +4,14 @@ mine:
     ==: PrisonRegion
     minimum:
       ==: Vector
-      x: 132.0
-      y: 60.0
-      z: -1174.0
+      x: -116.0
+      y: 31.0
+      z: -1290.0
     maximum:
       ==: Vector
-      x: 142.0
-      y: 79.0
-      z: -1166.0
+      x: -107.0
+      y: 40.0
+      z: -1281.0
     world: spawn
   flags: []
   breakBlacklist:
@@ -21,35 +21,43 @@ mine:
   parent: null
   blocks:
   - ==: MineBlock
-    blockData: 2
-    blockId: 168
-    chance: 0.3
-  - ==: MineBlock
-    blockData: 1
-    blockId: 168
-    chance: 0.3
+    blockData: 0
+    blockId: 174
+    chance: 0.33990000000000004
   - ==: MineBlock
     blockData: 0
-    blockId: 168
-    chance: 0.3
+    blockId: 80
+    chance: 0.33
+  - ==: MineBlock
+    blockData: 0
+    blockId: 79
+    chance: 0.27
   - ==: MineBlock
     blockData: 0
     blockId: 0
-    chance: 0.09999999999999998
+    chance: 9.999999999989878E-5
+  - ==: MineBlock
+    blockData: 0
+    blockId: 56
+    chance: 0.06
+  - ==: MineBlock
+    blockData: 0
+    blockId: 41
+    chance: 0.0
   tpPoint:
     ==: SimpleLoc
-    yaw: -0.7485962
-    pitch: 10.1343355
-    z: -1175.266002991103
-    y: 77.0
+    yaw: -178.367
+    pitch: 25.949917
+    z: -1276.2159921341147
+    y: 43.0
     world: spawn
-    x: 137.50536395080363
-  blocksLeft: 1792
+    x: -110.3474980328682
+  blocksLeft: 1000
   resetTriggers:
   - ==: CompositionTrigger
     percent: '0.4'
-    mine: J
-  id: J
+    mine: IceMine
+  id: IceMine
   warningTimes: []
   placeBlacklist:
     ==: Blacklist
@@ -65,14 +73,14 @@ mine:
     ==: PrisonRegion
     minimum:
       ==: Vector
-      x: 132.0
-      y: 60.0
-      z: -1174.0
+      x: -116.0
+      y: 31.0
+      z: -1290.0
     maximum:
       ==: Vector
-      x: 142.0
-      y: 79.0
-      z: -1166.0
+      x: -107.0
+      y: 40.0
+      z: -1281.0
     world: spawn
   world: spawn
   enabledProtection: []
