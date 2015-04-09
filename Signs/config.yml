@@ -2,6 +2,7 @@ Locale: en_US
 Action: INK_SACK:0
 EditCosts: false
 SignColors: true
+PerColorPermissions: false
 OnlyInOwnedRegion: false
 NotifyUpdates: true
 AutoUpdate: true

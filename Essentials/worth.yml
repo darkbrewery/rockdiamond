@@ -1,5 +1,4 @@
 worth:
-  # Novice Warp
   cobblestone: 1.0
   ironingot: 16.0
   goldingot: 64.0
@@ -8,7 +7,6 @@ worth:
   redstone: 8.0
   coal: 4.0
   netherrack: 6.0
-  # A Warp
   wood:
     '1': 0.5
     '2': 0.25
@@ -16,17 +14,12 @@ worth:
   log:
     '1': 2.0
     '2': 1.0
-  # B Warp
-  # Duplicate| Contains: wood:1 for $1 |
   sapling:
     '1': 1.0
-  # C Warp
-  # Duplicate| Contains: cobblestone for $1 |
   dirt: 0.25
   sand: 4.0
   flint: 4.0
   gravel: 0.25
-  # D Warp
   sandstone:
     '0': 1.5
     '1': 1.5
@@ -35,9 +28,6 @@ worth:
     '0': 1.5
     '1': 1.5
     '2': 1.5
-  # E Warp
-  # Duplicate| Contains: cobblestone for $1 |
-  # | redstone for $8 | netherrack for $6 | coal for $4 |
   stone:
     '0': 1.0
     '1': 2.0
@@ -47,12 +37,6 @@ worth:
     '5': 2.0
     '6': 2.0
     '7': 2.0
-  # F Warp
-  # Duplicate| Contains: cobblestone for $1 | stone for $1 |
-  # | ink_sac:4 for $32 | redstone for $8 | coal for $4 |
-  # G Warp
-  # Under Stone in E warp
-  # H Warp
   wool:
     '0': 3.04
     '1': 6.09
@@ -70,12 +54,9 @@ worth:
     '13': 6.09
     '14': 6.09
     '15': 3.04
-  # I Warp
-  # duplicate| Contains: ironingot for $16 | 
   soulsand: 40.0
   clayball: 6.0
   brick: 20.0
-  # Adept Warp
   redstoneblock: 72.0
   quartzblock:
     '0': 4778.6
@@ -87,44 +68,26 @@ worth:
   diamond: 128.0
   netherbrick: 24.0
   enderstone: 8.0
-  # J Warp
   prismarine:
     '0': 8.0
     '1': 8.0
     '2': 8.0
-  # K Warp
-  # Under Adept Warp
-  # L Warp
-  # Under Novice/Adept Warp
-  # M Warp
-  # Under Adept Warp
-  # N Warp
-  # Under Adept Warp
-  # O Warp
-  # Under Adept Warp
-  # P Warp
-  # Under Adept Warp
-  # Q Warp
-  # Under Adept Warp
-  # R Warp
-  # Under Adept Warp
-  # Expert Warp
   diamondblock: 1250.0
   obsidian: 512.0
   emeraldblock: 4600.0
   glowstonedust: 1024.0
   netherstar: 7500.0
   beacon: 12500.0
-  # S Warp - Z Warp
-  # Under Expert Warp
-  # Blackmarket Warp
   jukebox: 500.0
   mossy_cobblestone: 250.0
   tnt: 50.0
   smooth_brick:
     '1': 64.0
     '2': 64.0
-  sponge: 500.0
+  sponge:
+    '0': 5.0
   dispenser: 500.0
   enderchest: 500.0
   ghasttear: 500.0
+  inksack:
+    '4': 32.0

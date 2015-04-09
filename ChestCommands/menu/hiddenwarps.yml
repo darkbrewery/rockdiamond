@@ -254,8 +254,17 @@ Xp:
   NAME: '&eExperience Farm'
   LORE:
     - 'Warp to &eXP Farm'
-  ID: potion:8267
+  ID: exp_bottle
   POSITION-X: 4
   POSITION-Y: 3
   VIEW-PERMISSION: 'essentials.warps.Orchard'
+Icemine:
+  COMMAND: 'warp icemine'
+  NAME: '&eIce Mine'
+  LORE:
+    - 'Warp to &eIce Mine'
+  ID: ice
+  POSITION-X: 5
+  POSITION-Y: 3
+  VIEW-PERMISSION: 'essentials.warps.icemine'
 

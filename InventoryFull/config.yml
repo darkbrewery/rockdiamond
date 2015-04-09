@@ -1,19 +1,29 @@
-# InventoryFull version 1.5.1
+# InventoryFull version 1.5.3
 # Created by: extended_clip
 # Valid placeholders:
 # %block% - display the dropped item type
 # %player% - display the players name
-cooldown_time: 2
-max_alerts_until_cooldown: 1
+#   
+# For valid sounds, visit http://jd.bukkit.org/rb/apidocs/org/bukkit/Sound.html
+cooldown_time: 5
+max_alerts_until_cooldown: 5
+sound_when_full:
+  enabled: true
+  sound: NOTE_PLING
+  volume: 7
+  pitch: 1
 chat_message:
   use_chat_message: false
   message:
   - '&cYour inventory is full!'
 actionannouncer:
   use_actionbar: false
-  message: '&cYour inventory is full!'
+  display_time: 5
+  message:
+  - '&cYour inventory is full!'
+  - '&4Your inventory is full!'
 titlemanager:
-  use_title: false
+  use_title: true
   title: '&cYou don''t have room in your inventory'
   subtitle: to collect that &f%block%&c!
   fade_in: 12
@@ -22,8 +32,8 @@ titlemanager:
   use_actionbar: false
   actionbar_message: '&cYou don''t have room in your inventory'
 holographicdisplays:
-  use_hologram: true
+  use_hologram: false
   message:
   - '&cYour inventory'
   - '&cis full!'
-  display_time: 2
+  display_time: 3

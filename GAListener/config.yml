@@ -30,7 +30,7 @@ settings:
   onlineonly: true
   luckyvote: true
   permvote: false
-  cumulative: true
+  cumulative: false
   broadcastqueue: true
   broadcastrecent: true
   broadcastoffline: false
@@ -112,6 +112,7 @@ votemessage:
 - ' ▬▬ι═══- {GREEN} {BLUE}http://goo.gl/pXvqaG {GOLD}minecraftservers.org'
 - ' ▬▬ι═══- {GREEN} {BLUE}http://goo.gl/5rVkWx {GOLD}topg.org'
 - ' ▬▬ι═══- {GREEN} {BLUE}http://goo.gl/wAFNrN {GOLD}theminelist.com'
+- ' ▬▬ι═══- {GREEN} {BLUE}http://goo.gl/U5lHIg {GOLD}mcservertrack.com'
 - ' ▬▬ι═══- {GREEN} You currently have {AQUA}{votes}{GREEN} total votes'
 - '{GOLD}-----------------------------------------------------'
 

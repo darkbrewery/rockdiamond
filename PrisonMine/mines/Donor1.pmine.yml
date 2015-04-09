@@ -22,6 +22,10 @@ mine:
   blocks:
   - ==: MineBlock
     blockData: 0
+    blockId: 47
+    chance: 1.0
+  - ==: MineBlock
+    blockData: 0
     blockId: 123
     chance: 0.0
   - ==: MineBlock
@@ -36,10 +40,6 @@ mine:
     blockData: 0
     blockId: 133
     chance: 0.0
-  - ==: MineBlock
-    blockData: 0
-    blockId: 47
-    chance: 1.0
   tpPoint:
     ==: SimpleLoc
     yaw: -179.72156

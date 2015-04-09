@@ -13,8 +13,8 @@ regions:
     __global__:
         type: global
         priority: 0
-        flags: {pvp: deny, enderpearl: deny, use: allow, build: deny, mob-spawning: deny,
-            soil-dry: deny}
+        flags: {pvp: deny, enderpearl: deny, use: allow, build: deny, soil-dry: deny,
+            mob-spawning: deny}
         owners: {}
         members: {}
     a_door:
@@ -264,7 +264,7 @@ regions:
         type: cuboid
         min: {x: -116.0, y: 31.0, z: -1290.0}
         max: {x: -107.0, y: 40.0, z: -1281.0}
-        priority: 0
+        priority: 10
         flags: {ice-melt: deny, water-flow: deny, snow-melt: deny, build: allow}
         owners: {}
         members: {}
@@ -483,7 +483,8 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members: {}
+        members:
+            players: [bronkzoo]
     psg1:
         type: cuboid
         min: {x: -113.0, y: 104.0, z: -1139.0}
@@ -533,7 +534,8 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members: {}
+        members:
+            players: [peter062]
     psr1:
         type: cuboid
         min: {x: -113.0, y: 104.0, z: -1126.0}
@@ -558,7 +560,8 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members: {}
+        members:
+            players: [johnyt]
     psr4:
         type: cuboid
         min: {x: -99.0, y: 104.0, z: -1126.0}
@@ -574,7 +577,8 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members: {}
+        members:
+            players: [atomicsong]
     psr6:
         type: cuboid
         min: {x: -99.0, y: 104.0, z: -1112.0}
@@ -591,7 +595,8 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members: {}
+        members:
+            players: [oscarll110]
     psy2:
         type: cuboid
         min: {x: -81.0, y: 104.0, z: -1126.0}
@@ -617,7 +622,7 @@ regions:
         flags: {}
         owners: {}
         members:
-            players: [derek_lan]
+            players: [fireflymasterftw]
     psy5:
         type: cuboid
         min: {x: -88.0, y: 104.0, z: -1119.0}
@@ -634,7 +639,8 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members: {}
+        members:
+            players: [zedlicious]
     pumpkinfarm:
         type: cuboid
         min: {x: 81.0, y: 143.0, z: -1148.0}
@@ -648,7 +654,7 @@ regions:
         min: {x: 97.0, y: 98.0, z: -1153.0}
         max: {x: 177.0, y: 123.0, z: -1072.0}
         priority: 5
-        flags: {pvp: allow}
+        flags: {pvp: allow, mob-spawning: allow}
         owners: {}
         members: {}
     pvpmine:
@@ -656,7 +662,7 @@ regions:
         min: {x: 133.0, y: 102.0, z: -1117.0}
         max: {x: 141.0, y: 106.0, z: -1109.0}
         priority: 10
-        flags: {build: allow}
+        flags: {lava-fire: deny, lava-flow: deny, build: allow}
         owners: {}
         members: {}
     q_door:
@@ -741,6 +747,14 @@ regions:
         max: {x: -160.0, y: 76.0, z: -1196.0}
         priority: 0
         flags: {mob-spawning: allow}
+        owners: {}
+        members: {}
+    starter_mine:
+        type: cuboid
+        min: {x: 32.0, y: 55.0, z: -1218.0}
+        max: {x: 38.0, y: 80.0, z: -1213.0}
+        priority: 0
+        flags: {build: allow}
         owners: {}
         members: {}
     t_door:
