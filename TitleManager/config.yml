@@ -1,0 +1,20 @@
+usingConfig: true
+config-version: 2
+
+tabmenu:
+  enabled: true
+  header: '&c&lRock &b&lDiamond &r&lPrison'
+  footer: '&e&lmc.rockdiamond.net'
+welcome_message:
+  enabled: true
+  title: '&c&lRock &b&lDiamond &r&lPrison'
+  subtitle: '&5Welcomes you back {PLAYER}!'
+  fadeIn: -1
+  stay: -1
+  fadeOut: -1
+  first-join:
+    title: '&c&lRock &b&lDiamond &r&lPrison'
+    subtitle: '&dHope you enjoy your stay!'
+number-format:
+  enabled: true
+  format: '#,###.##'
