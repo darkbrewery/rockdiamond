@@ -1,0 +1,905 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 36
+npc:
+  '5':
+    name: §4§lShop
+    uuid: b18572e4-1ad3-4fb5-ac51-4aacb16612fa
+    traits:
+      inventory: {}
+      spawned: true
+      type: Creeper
+      location:
+        world: spawn
+        x: '-186.18398095687218'
+        y: '95.0'
+        z: '-1281.766969853608'
+        yaw: '333.8758239746094'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+    traitnames: inventory,spawned,type,owner,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '4':
+    name: §e§lShop
+    uuid: 27fd6009-a605-47b6-9f05-2b9491d863dc
+    traits:
+      inventory: {}
+      spawned: true
+      type: Villager
+      location:
+        world: spawn
+        x: '-52.60586881743086'
+        y: '91.0'
+        z: '-1368.5284017657264'
+        yaw: '-49.833805084228516'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '3':
+    name: §e§lShop
+    uuid: 9f12a299-5001-49c1-9efa-5abde6190bbc
+    traits:
+      inventory: {}
+      spawned: true
+      type: Villager
+      location:
+        world: spawn
+        x: '-53.50958883333459'
+        y: '94.0'
+        z: '-1401.5156442075659'
+        yaw: '-55.58795166015625'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '2':
+    name: §e§lShop
+    uuid: 5ec85378-8376-44bc-8f57-c94731972ae3
+    traits:
+      inventory: {}
+      spawned: true
+      type: Villager
+      location:
+        world: spawn
+        x: '21.53925626583983'
+        y: '89.0'
+        z: '-1364.4998043373741'
+        yaw: '65.41024780273438'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '1':
+    name: §e§lShop
+    uuid: 0f2dd4b8-5732-446e-80a0-4964e135ee95
+    traits:
+      inventory: {}
+      spawned: true
+      type: Villager
+      location:
+        world: spawn
+        x: '-16.432848680989316'
+        y: '92.0'
+        z: '-1328.6388729077155'
+        yaw: '105.37557983398438'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '0':
+    name: §e§lShop
+    uuid: f917f920-afb7-4328-96e9-f71566675154
+    traits:
+      inventory: {}
+      spawned: true
+      type: Villager
+      location:
+        world: spawn
+        x: '22.64616634268082'
+        y: '91.0'
+        z: '-1317.6382054703884'
+        yaw: '136.94873046875'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '6':
+    name: §e§lShop
+    uuid: 67bbc7fb-ab3d-430b-be4c-15a3c7e6c8c2
+    traits:
+      inventory: {}
+      spawned: true
+      type: Villager
+      location:
+        world: spawn
+        x: '14.498457471654373'
+        y: '91.0'
+        z: '-1424.5548828616704'
+        yaw: '0.8647537231445312'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '7':
+    name: §e§lShop
+    uuid: b6168b28-8828-484d-b454-b682acc283de
+    traits:
+      inventory: {}
+      spawned: true
+      type: Villager
+      location:
+        world: spawn
+        x: '72.32362890299922'
+        y: '90.0'
+        z: '-1393.469788776621'
+        yaw: '88.97854614257812'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '8':
+    name: §e§lShop
+    uuid: 917b12a6-d738-48f3-81a4-f730b8d441d7
+    traits:
+      inventory: {}
+      spawned: true
+      type: Villager
+      location:
+        world: spawn
+        x: '63.392487741069814'
+        y: '91.0'
+        z: '-1359.697973886086'
+        yaw: '103.7923583984375'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '9':
+    name: §e§lShop
+    uuid: e2b99340-a2bb-4ed7-a7ac-ae9b785ed3c5
+    traits:
+      inventory: {}
+      spawned: true
+      type: Villager
+      location:
+        world: spawn
+        x: '74.42714616855307'
+        y: '91.0'
+        z: '-1330.5046635871568'
+        yaw: '171.908935546875'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '10':
+    name: §a§lShop
+    uuid: e76f2cc8-cbc7-4872-84ab-dc416dc7913d
+    traits:
+      inventory: {}
+      spawned: true
+      type: Witch
+      location:
+        world: spawn
+        x: '198.46319472960758'
+        y: '78.0'
+        z: '-1204.5255416110765'
+        yaw: '102.21905517578125'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '11':
+    name: §a§lShop
+    uuid: 5c47d1fc-cf77-47d5-89cd-7bdc76717652
+    traits:
+      inventory: {}
+      spawned: true
+      type: Witch
+      location:
+        world: spawn
+        x: '137.49049239910556'
+        y: '77.0'
+        z: '-1161.385656944411'
+        yaw: '163.61488342285156'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '12':
+    name: §a§lShop
+    uuid: 4a174bab-3a38-48eb-aa73-fbdc99af63c0
+    traits:
+      inventory: {}
+      spawned: true
+      type: Witch
+      location:
+        world: spawn
+        x: '87.68054750151197'
+        y: '76.0'
+        z: '-1209.3206148159088'
+        yaw: '-66.07420349121094'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '17':
+    name: §a§lShop
+    uuid: dc2091f0-044d-4ed3-83e5-c713ce61bc7b
+    traits:
+      inventory: {}
+      spawned: true
+      type: Witch
+      location:
+        world: spawn
+        x: '78.42469661387602'
+        y: '73.0'
+        z: '-1235.5540867175607'
+        yaw: '243.82257080078125'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '19':
+    name: §a§lShop
+    uuid: f5a81e00-d2b0-4471-b8e8-1bc58fe37377
+    traits:
+      inventory: {}
+      spawned: true
+      type: Witch
+      location:
+        world: spawn
+        x: '137.50688775159858'
+        y: '77.0'
+        z: '-1298.4635559608257'
+        yaw: '172.26318359375'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '18':
+    name: §a§lShop
+    uuid: 064d39ca-fa2c-4e74-b9b3-83145caf4388
+    traits:
+      inventory: {}
+      spawned: true
+      type: Witch
+      location:
+        world: spawn
+        x: '82.30044339183769'
+        y: '72.0'
+        z: '-1269.5292141199566'
+        yaw: '262.2392883300781'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '21':
+    name: §a§lShop
+    uuid: 3c03f176-7e0a-4e75-95dc-210355e6df2b
+    traits:
+      inventory: {}
+      spawned: true
+      type: Witch
+      location:
+        world: spawn
+        x: '203.53558914918563'
+        y: '77.0'
+        z: '-1233.4730851272443'
+        yaw: '70.43551635742188'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '20':
+    name: §a§lShop
+    uuid: 84de8bd0-365d-472b-9aa5-7b6d3f24725e
+    traits:
+      inventory: {}
+      spawned: true
+      type: Witch
+      location:
+        world: spawn
+        x: '181.5375824265589'
+        y: '77.0'
+        z: '-1266.8676086180608'
+        yaw: '121.97331237792969'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '22':
+    name: §b§lShop
+    uuid: b0e9ed9d-cdc0-4fd4-ad65-eaa57d20945f
+    traits:
+      inventory: {}
+      spawned: true
+      type: SnowMan
+      location:
+        world: spawn
+        x: '-50.40255717830483'
+        y: '68.0'
+        z: '-1236.462799374046'
+        yaw: '257.5586242675781'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '23':
+    name: §b§lShop
+    uuid: 4f09d9e3-d551-4e2f-803a-e2c95454a777
+    traits:
+      inventory: {}
+      spawned: true
+      type: SnowMan
+      location:
+        world: spawn
+        x: '-113.36371479777904'
+        y: '70.0'
+        z: '-1243.6957890331933'
+        yaw: '-43.740028381347656'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '25':
+    name: §b§lShop
+    uuid: 322157ee-ed1d-4b8c-aee9-f39a71f2d572
+    traits:
+      inventory: {}
+      spawned: true
+      type: SnowMan
+      location:
+        world: spawn
+        x: '-113.38329084977471'
+        y: '70.0'
+        z: '-1180.4260643631153'
+        yaw: '207.95486450195312'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '24':
+    name: §b§lShop
+    uuid: 226485fd-7156-4b39-9474-df7058351ea4
+    traits:
+      inventory: {}
+      spawned: true
+      type: SnowMan
+      location:
+        world: spawn
+        x: '-70.47221136146337'
+        y: '65.0'
+        z: '-1181.4244339572995'
+        yaw: '133.9223175048828'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '27':
+    name: §d§lMuffy §rthe guard
+    uuid: e66643ae-d8da-429b-ac82-7581dd0ac57e
+    traits:
+      inventory: {}
+      spawned: true
+      type: VillagerGolem
+      location:
+        world: spawn
+        x: '9.276264902964439'
+        y: '81.5'
+        z: '-1227.166467389272'
+        yaw: '341.5274658203125'
+        pitch: '0.0'
+      waypoints:
+        linear:
+          points:
+            '0':
+              location:
+                world: spawn
+                x: '14.0'
+                y: '80.0'
+                z: '-1223.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '1':
+              location:
+                world: spawn
+                x: '25.0'
+                y: '80.0'
+                z: '-1227.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '2':
+              location:
+                world: spawn
+                x: '29.0'
+                y: '80.0'
+                z: '-1238.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '3':
+              location:
+                world: spawn
+                x: '25.0'
+                y: '80.0'
+                z: '-1249.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '4':
+              location:
+                world: spawn
+                x: '14.0'
+                y: '80.0'
+                z: '-1253.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '5':
+              location:
+                world: spawn
+                x: '3.0'
+                y: '80.0'
+                z: '-1249.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '6':
+              location:
+                world: spawn
+                x: '2.0'
+                y: '81.0'
+                z: '-1238.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '7':
+              location:
+                world: spawn
+                x: '3.0'
+                y: '80.0'
+                z: '-1227.0'
+                yaw: '0.0'
+                pitch: '0.0'
+            '8':
+              location:
+                world: spawn
+                x: '3.0'
+                y: '80.0'
+                z: '-1227.0'
+                yaw: '0.0'
+                pitch: '0.0'
+        provider: linear
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,waypoints,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '26':
+    name: §b§lShop
+    uuid: a304aaf5-ae9a-47b1-9bb4-ce4a48bc272e
+    traits:
+      inventory: {}
+      spawned: true
+      type: SnowMan
+      location:
+        world: spawn
+        x: '-135.38774582930125'
+        y: '68.0'
+        z: '-1183.344247395509'
+        yaw: '157.32241821289062'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '31':
+    metadata:
+      cached-skin-uuid: 60c6ca99-d8c6-450d-ad7a-f1a81bd54fe9
+      player-skin-name: supremebattler
+      cached-skin-uuid-name: supremebattler
+    name: Herbert
+    uuid: 6ad482a7-48d4-4c82-8577-44cbad9075b8
+    traits:
+      inventory: {}
+      spawned: true
+      type: Villager
+      age:
+        age: -24000
+        locked: true
+      location:
+        world: spawn
+        x: '-20.503602206258993'
+        y: '106.0'
+        z: '-1293.5166362311045'
+        yaw: '43.06343078613281'
+        pitch: '0.0'
+      profession: BLACKSMITH
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,profession,age,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '34':
+    name: Louis
+    uuid: 47867508-429d-4a6e-9981-1fd05ddb9ab6
+    traits:
+      spawned: true
+      type: Chicken
+      age:
+        age: 0
+        locked: true
+      location:
+        world: spawn
+        x: '213.46965807921003'
+        y: '101.0'
+        z: '-1267.527569151477'
+        yaw: '46.572021484375'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: spawned,type,owner,age,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '33':
+    name: Duey
+    uuid: 48eb6263-9b97-4d4e-9a84-0db24bdc88b2
+    traits:
+      spawned: true
+      type: Chicken
+      age:
+        age: 0
+        locked: true
+      location:
+        world: spawn
+        x: '215.5242195210367'
+        y: '101.0'
+        z: '-1266.4781016334312'
+        yaw: '94.53363037109375'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: spawned,type,owner,age,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '32':
+    name: Huey
+    uuid: f2c314cd-40a8-4bab-a253-1832001587de
+    traits:
+      spawned: true
+      type: Chicken
+      age:
+        age: 0
+        locked: true
+      location:
+        world: spawn
+        x: '217.4582946563254'
+        y: '101.0'
+        z: '-1271.497165557283'
+        yaw: '66.98313903808594'
+        pitch: '0.0'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: spawned,type,owner,age,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true
+  '35':
+    metadata:
+      cached-skin-uuid: 069a79f4-44e9-4726-a5be-fca90e38aaf5
+      removefromplayerlist: false
+      cached-skin-uuid-name: Notch
+    name: Notch
+    uuid: 21e300a5-cdbd-4339-837d-c30487adc04e
+    traits:
+      inventory: {}
+      spawned: true
+      location:
+        world: spawn
+        x: '-78.31040826656603'
+        y: '108.0'
+        z: '-1335.5321047174673'
+        yaw: '49.60542297363281'
+        pitch: '-9.373495101928711'
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: inventory,spawned,type,owner,lookclose,location
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

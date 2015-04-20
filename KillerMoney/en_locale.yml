@@ -1,0 +1,333 @@
+prefix: '&9[&aRD-Prison&9]&c'
+currency: '$'
+
+Entities:
+   PIG:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a pig, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   SHEEP:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a sheep, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   CHICKEN:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a chicken, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   COW:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a cow, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   HORSE:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a horse, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   RABBIT:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a rabbit, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   WOLF:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a wolf, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   OCELOT:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed an ocelot, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   BAT:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a bat, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   BLAZE:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a blaze, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   CAVE_SPIDER:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a cave spider, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   CREEPER:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a creeper, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   ENDER_DRAGON:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed an ender dragon, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   ENDERMAN:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed an enderman, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   ENDERMITE:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed an endermite, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   GHAST:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a ghast, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   GIANT:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a giant, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   GUARDIAN:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a guardian, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   IRON_GOLEM:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed an iron golem, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   MAGMA_CUBE:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a magma cube, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   MUSHROOM_COW:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a mushroom cow, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   PIG_ZOMBIE:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a pig zombie, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   PLAYER:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a player ({victim-name}), you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   SILVERFISH:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a silverfish, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   SKELETON:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a skeleton, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   SLIME:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a slime, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   SNOWMAN:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a snowman, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   SPIDER:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a spider, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   SQUID:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a squid, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   VILLAGER:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a villager, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   WITCH:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a witch, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   WITHER:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a wither, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'
+
+   ZOMBIE:
+      Reward:
+         Random-message: false
+         Messages:
+            - '{prefix} You killed a zombie, you earned {currency}{money}'
+      Loss:
+         Random-message: false
+         Messages:
+            - '{prefix} You lost {currency}{money}'

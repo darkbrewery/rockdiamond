@@ -1,0 +1,28 @@
+#### System Information ####
+Date: Fri Apr 10 07:31:02 EDT 2015
+Operating system: Linux | 3.19.1-x86_64-linode53 | amd64
+Java Version: 1.7.0_65 | Oracle Corporation
+Server Version: 1.8-R0.1-SNAPSHOT
+Server Name: CraftBukkit
+Server IP: mc.rockdiamond.net:25565
+Buycraft Version: 6.7
+
+#### Buycraft Info ####
+Store URL: 
+Store ID: 0
+Buy Command: buy
+Authenticated: false
+Error code: 1
+Last Package Checker Execution: Never
+
+#### Connection ####
+Google Ping Result: Connected to www.google.com successfully.
+Buycraft API Ping Result: Connected to api.buycraft.net successfully.
+URL Shortener Ping Result: Connected to www.is.gd successfully.
+Buycraft API Status Result: Response from API - OK (173.255.196.148)
+
+#### Performance ####
+Long Running Command: None
+
+#### Last Exception ####
+No errors since startup

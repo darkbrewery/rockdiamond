@@ -1,0 +1,19 @@
+{
+        "enemies": [],
+        "home": "",
+        "open": "true",
+        "desc": "Please do /sf desc to change this description!",
+        "peaceful": "false",
+        "truce": [],
+        "safezone": "false",
+        "allies": [],
+        "lastOnline": 1428616522387,
+        "name": "AlexTLG",
+        "ID": "8a584ef0-89d0-4073-8794-6708faf1e122",
+        "warzone": "false",
+        "invited": [
+                "ryantseng",
+                "blakjak909"
+        ],
+        "shekels": 0
+}

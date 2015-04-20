@@ -1,0 +1,16 @@
+{
+        "enemies": [],
+        "home": "",
+        "open": "true",
+        "desc": "Please do /sf desc to change this description!",
+        "peaceful": "false",
+        "truce": [],
+        "safezone": "false",
+        "allies": [],
+        "lastOnline": 1429097874784,
+        "name": "potato",
+        "ID": "1ed30201-eb74-4eba-9960-db545b6fe712",
+        "warzone": "false",
+        "invited": ["x_java_x"],
+        "shekels": 0
+}

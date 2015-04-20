@@ -1,0 +1,189 @@
+# Setup instruction: http://dev.bukkit.org/bukkit-plugins/killermoney/pages/mobs-yml/
+# If you do not want use anything, just remove it.
+
+PIG:
+   Permission: 'killermoney.vip'
+   Disabled-on-these-worlds:
+   - 'world_nether'
+   Money:
+      Chance: '100%'
+      Value: '10 ? 50'
+   Item-drop:
+      Clear-default-dropped-items: false
+      Items:
+         '1':
+            Material: 'DIAMOND_SWORD'
+            Name: '&4Sword'
+            Amount: 1
+            Lore:
+               - '&6The nicest sword'
+            Enchantments:
+                - DURABILITY 3
+                - KNOCKBACK 2
+            Chance: '100%'
+            Dont-drop-on-these-worlds:
+               - 'world_nether'
+            Permission: 'killermoney.vip'
+   Custom-commands:
+      - 'say {player} killed a PIG'
+
+SHEEP:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+CHICKEN:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+COW:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+HORSE:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+RABBIT:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+WOLF:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+OCELOT:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+BAT:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+BLAZE:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+CAVE_SPIDER:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+CREEPER:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+ENDER_DRAGON:
+   Money:
+      Chance: 100%
+      Value: 500
+
+ENDERMAN:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+ENDERMITE:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+GHAST:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+GIANT:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+GUARDIAN:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+IRON_GOLEM:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+MAGMA_CUBE:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+MUSHROOM_COW:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+PIG_ZOMBIE:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+PLAYER:
+   Cash-transfer:
+      Percent: 15%
+      Limit: 10000000
+      Chance: 100%
+
+SILVERFISH:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+SKELETON:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+SLIME:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+SNOWMAN:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+SPIDER:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+SQUID:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+VILLAGER:
+   Money:
+      Chance: 100%
+      Value: -500
+
+WITCH:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+WITHER:
+   Money:
+      Chance: 100%
+      Value: 1 ? 2
+
+ZOMBIE:
+   Money:
+      Chance: 100%
+      Value: 5
