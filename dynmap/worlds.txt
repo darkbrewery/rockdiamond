@@ -29,7 +29,7 @@ worlds:
         lighting: default
         mapzoomin: 3
 -   name: world_the_end
-    title: TheMoon
+    title: The Moon
     enabled: true
     extrazoomout: 2
     maps:
@@ -66,7 +66,7 @@ worlds:
         ]
     hidestyle: stone
 -   name: spawn
-    title: spawn
+    title: Prison
     enabled: true
     extrazoomout: 2
     maps:
@@ -77,7 +77,7 @@ worlds:
         perspective: iso_S_90_lowres
         shader: stdtexture
         lighting: shadows
-        mapzoomin: 1
+        mapzoomin: 4
     -   class: org.dynmap.hdmap.HDMap
         name: surface
         title: Surface
@@ -85,7 +85,7 @@ worlds:
         perspective: iso_SE_30_hires
         shader: stdtexture
         lighting: shadows
-        mapzoomin: 1
+        mapzoomin: 4
     -   class: org.dynmap.hdmap.HDMap
         name: cave
         title: Cave
@@ -93,7 +93,7 @@ worlds:
         perspective: iso_SE_60_lowres
         shader: cave
         lighting: default
-        mapzoomin: 3
+        mapzoomin: 4
 -   name: mines
     title: PrisonMines
     enabled: true

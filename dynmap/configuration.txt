@@ -40,13 +40,13 @@ components:
   - class: org.dynmap.InternalClientUpdateComponent
     sendhealth: false
     sendposition: true
-    allowwebchat: false
+    allowwebchat: true
     webchat-interval: 5
-    hidewebchatip: tue
+    hidewebchatip: true
     trustclientname: false
     includehiddenplayers: false
     # (optional) if true, color codes in player display names are used
-    use-name-colors: false
+    use-name-colors: true
     # (optional) if true, player login IDs will be used for web chat when their IPs match
     use-player-login-ip: true
     # (optional) if use-player-login-ip is true, setting this to true will cause chat messages not matching a known player IP to be ignored
@@ -164,8 +164,8 @@ components:
     
   - class: org.dynmap.ClientComponent
     type: timeofdayclock
-    showdigitalclock: true
-    showweather: true
+    showdigitalclock: false
+    showweather: false
   # Mouse pointer world coordinate display
   - class: org.dynmap.ClientComponent
     type: coord
@@ -301,7 +301,7 @@ render-triggers:
   #- blockredstone
 
 # Title for the web page - if not specified, defaults to the server's name (unless it is the default of 'Unknown Server')
-#webpage-title: "My Awesome Server Map"
+webpage-title: "Rock Diamond Prison"
 
 # The path where the tile-files are placed.
 tilespath: web/tiles
@@ -401,9 +401,9 @@ showlayercontrol: true
 check-banned-ips: true
 
 # Default selection when map page is loaded
-defaultzoom: 0
-defaultworld: world
-defaultmap: flat
+defaultzoom: 4
+defaultworld: spawn
+defaultmap: surface
 # (optional) Zoom level and map to switch to when following a player, if possible
 #followzoom: 3
 #followmap: surface
