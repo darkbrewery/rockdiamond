@@ -250,7 +250,6 @@ rankups:
         list:
         - broadcast %name% ranked up to AntEater!
         - pex user %name% group set A
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -275,7 +274,6 @@ rankups:
         list:
         - broadcast %name% ranked up to ButterFace!
         - pex user %name% group add B
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -300,7 +298,6 @@ rankups:
         list:
         - broadcast %name% ranked up to Cameltoe!
         - pex user %name% group add C
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -325,7 +322,6 @@ rankups:
         list:
         - broadcast %name% is now a DoucheBag!
         - pex user %name% group add D
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -350,7 +346,6 @@ rankups:
         list:
         - broadcast %name% is someones Erection!
         - pex user %name% group add E
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -375,7 +370,6 @@ rankups:
         list:
         - broadcast %name% ranked up to FartKnocker!
         - pex user %name% group add F
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -400,7 +394,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to become a true Goof!
         - pex user %name% group add G
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -425,7 +418,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to become a pissy Hoser!
         - pex user %name% group add H
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -450,7 +442,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to become an Imbecile!
         - pex user %name% group add I
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -475,7 +466,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to become a Jerkoff!
         - pex user %name% group add J
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -500,7 +490,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to become a KnobGoblin!
         - pex user %name% group add K
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -525,7 +514,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to become a Lardass!
         - pex user %name% group add L
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -550,7 +538,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to become a McFaggot!
         - pex user %name% group add M
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -575,7 +562,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to become a Nutsack!
         - pex user %name% group add N
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -600,7 +586,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to become an OldBastard!
         - pex user %name% group add O
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -625,7 +610,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to become a Pissflap!
         - pex user %name% group add P
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -650,7 +634,6 @@ rankups:
         list:
         - broadcast %name% has just Queefed and ranked up!
         - pex user %name% group add Q
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -675,7 +658,6 @@ rankups:
         list:
         - broadcast %name% is a Retard and just ranked up!
         - pex user %name% group add R
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -700,7 +682,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to become a Scumbag!
         - pex user %name% group add S
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -725,7 +706,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to become a ThunderCunt!
         - pex user %name% group add T
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -750,7 +730,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to become a Urethra!
         - pex user %name% group add U
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -775,7 +754,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to become a VajayJay!
         - pex user %name% group add V
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -800,7 +778,6 @@ rankups:
         list:
         - broadcast %name% is a bloody Wanker!
         - pex user %name% group add W
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -825,7 +802,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to become a Xunt!
         - pex user %name% group add X
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -850,7 +826,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to become a Yuppie!
         - pex user %name% group add Y
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -875,7 +850,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to become a ZipperHead!
         - pex user %name% group add Z
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -900,7 +874,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to become Free!!!
         - pex user %name% group add Free
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -925,7 +898,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to Savage!!!
         - pex user %name% group add Savage
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -950,7 +922,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to Psycho!!!
         - pex user %name% group add Psycho
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -975,7 +946,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to Badass!!!
         - pex user %name% group add Badass
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -1000,7 +970,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to Demon!!!
         - pex user %name% group add Demon
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
@@ -1025,7 +994,6 @@ rankups:
         list:
         - broadcast %name% has ranked up to Overlord!!!
         - pex user %name% group add Overlord
-        - playsound mob.enderdragon.end %name%
         enabled: true
     giveitems:
       equiparmor: false
