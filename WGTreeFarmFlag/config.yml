@@ -1,8 +1,8 @@
 settings:
-  mcmmo-leveling: false
+  mcmmo-leveling: true
   qwick-tree-chopping: false
   apple-chance: 5
-  allow-shears: false
+  allow-shears: true
 messages:
   block:
     saplingdestroy: Let them grow!

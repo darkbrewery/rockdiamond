@@ -18,4 +18,4 @@ flag-saving: unload,save
 # default: true
 # values: true, false
 # set to false if you want to disable the logging of flag loading/saving and adding
-flag-logging: true
+flag-logging: false

@@ -19,7 +19,7 @@ npc:
       owner:
         owner: darkbrewery
         uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
-    traitnames: spawned,owner,type,location,inventory
+    traitnames: inventory,owner,spawned,type,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -38,7 +38,7 @@ npc:
         x: '-52.60586881743086'
         y: '91.0'
         z: '-1368.5284017657264'
-        yaw: '-49.833805084228516'
+        yaw: '-80.45227813720703'
         pitch: '0.0'
       owner:
         owner: darkbrewery
@@ -47,7 +47,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,spawned,owner,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -66,7 +66,7 @@ npc:
         x: '-53.50958883333459'
         y: '94.0'
         z: '-1401.5156442075659'
-        yaw: '-55.58795166015625'
+        yaw: '-44.77070617675781'
         pitch: '0.0'
       owner:
         owner: darkbrewery
@@ -75,7 +75,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,owner,spawned,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -94,7 +94,7 @@ npc:
         x: '21.53925626583983'
         y: '89.0'
         z: '-1364.4998043373741'
-        yaw: '65.41024780273438'
+        yaw: '85.41342163085938'
         pitch: '0.0'
       owner:
         owner: darkbrewery
@@ -103,7 +103,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,spawned,owner,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -122,7 +122,7 @@ npc:
         x: '-16.432848680989316'
         y: '92.0'
         z: '-1328.6388729077155'
-        yaw: '105.37557983398438'
+        yaw: '208.40338134765625'
         pitch: '0.0'
       owner:
         owner: darkbrewery
@@ -131,7 +131,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,owner,spawned,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -150,7 +150,7 @@ npc:
         x: '22.64616634268082'
         y: '91.0'
         z: '-1317.6382054703884'
-        yaw: '136.94873046875'
+        yaw: '69.56529235839844'
         pitch: '0.0'
       owner:
         owner: darkbrewery
@@ -159,7 +159,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,spawned,owner,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -178,7 +178,7 @@ npc:
         x: '14.498457471654373'
         y: '91.0'
         z: '-1424.5548828616704'
-        yaw: '0.8647537231445312'
+        yaw: '40.61949157714844'
         pitch: '0.0'
       owner:
         owner: darkbrewery
@@ -187,7 +187,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,spawned,owner,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -206,7 +206,7 @@ npc:
         x: '72.32362890299922'
         y: '90.0'
         z: '-1393.469788776621'
-        yaw: '88.97854614257812'
+        yaw: '68.72531127929688'
         pitch: '0.0'
       owner:
         owner: darkbrewery
@@ -215,7 +215,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,owner,spawned,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -234,8 +234,14 @@ npc:
         x: '63.392487741069814'
         y: '91.0'
         z: '-1359.697973886086'
-        yaw: '103.7923583984375'
+        yaw: '133.5973663330078'
         pitch: '0.0'
+      equipment:
+        hand:
+          type: TORCH
+          amount: 1
+          durability: 0
+          mdata: 0
       owner:
         owner: darkbrewery
         uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
@@ -243,7 +249,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,owner,spawned,type,lookclose,location,equipment
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -262,7 +268,7 @@ npc:
         x: '74.42714616855307'
         y: '91.0'
         z: '-1330.5046635871568'
-        yaw: '171.908935546875'
+        yaw: '55.716522216796875'
         pitch: '0.0'
       owner:
         owner: darkbrewery
@@ -271,7 +277,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,owner,spawned,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -290,7 +296,7 @@ npc:
         x: '198.46319472960758'
         y: '78.0'
         z: '-1204.5255416110765'
-        yaw: '102.21905517578125'
+        yaw: '91.79945373535156'
         pitch: '0.0'
       owner:
         owner: darkbrewery
@@ -299,7 +305,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,spawned,owner,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -318,7 +324,7 @@ npc:
         x: '137.49049239910556'
         y: '77.0'
         z: '-1161.385656944411'
-        yaw: '163.61488342285156'
+        yaw: '139.16310119628906'
         pitch: '0.0'
       owner:
         owner: darkbrewery
@@ -327,7 +333,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,owner,spawned,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -355,7 +361,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,spawned,owner,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -383,7 +389,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,owner,spawned,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -402,7 +408,7 @@ npc:
         x: '137.50688775159858'
         y: '77.0'
         z: '-1298.4635559608257'
-        yaw: '172.26318359375'
+        yaw: '-1.4777984619140625'
         pitch: '0.0'
       owner:
         owner: darkbrewery
@@ -411,7 +417,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,spawned,owner,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -439,7 +445,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,owner,spawned,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -467,7 +473,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,owner,spawned,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -495,7 +501,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,spawned,owner,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -523,7 +529,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,spawned,owner,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -551,7 +557,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,owner,spawned,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -579,7 +585,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,owner,spawned,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -607,7 +613,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,spawned,owner,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -623,10 +629,10 @@ npc:
       type: VillagerGolem
       location:
         world: spawn
-        x: '9.295672953888978'
+        x: '25.894261328690916'
         y: '81.5'
-        z: '-1227.1083735955817'
-        yaw: '341.5274963378906'
+        z: '-1233.5753673575496'
+        yaw: '248.99191284179688'
         pitch: '0.0'
       waypoints:
         linear:
@@ -711,7 +717,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,waypoints,location,inventory
+    traitnames: inventory,owner,spawned,type,lookclose,waypoints,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -739,7 +745,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,owner,spawned,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -765,7 +771,7 @@ npc:
         x: '-20.503602206258993'
         y: '106.0'
         z: '-1293.5166362311045'
-        yaw: '43.06343078613281'
+        yaw: '-47.44528579711914'
         pitch: '0.0'
       profession: BLACKSMITH
       owner:
@@ -775,7 +781,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,age,owner,type,profession,lookclose,location,inventory
+    traitnames: inventory,spawned,owner,type,lookclose,location,profession,age
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -805,7 +811,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: age,spawned,owner,type,lookclose,location
+    traitnames: spawned,owner,type,lookclose,location,age
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -835,7 +841,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: age,spawned,owner,type,lookclose,location
+    traitnames: spawned,owner,type,lookclose,location,age
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -865,7 +871,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,age,owner,type,lookclose,location
+    traitnames: spawned,owner,type,lookclose,location,age
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -887,8 +893,8 @@ npc:
         x: '-78.31040826656603'
         y: '108.0'
         z: '-1335.5321047174673'
-        yaw: '49.60542297363281'
-        pitch: '-9.373495101928711'
+        yaw: '67.58090209960938'
+        pitch: '0.0'
       owner:
         owner: darkbrewery
         uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
@@ -896,7 +902,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: spawned,owner,type,lookclose,location,inventory
+    traitnames: inventory,spawned,owner,type,lookclose,location
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
