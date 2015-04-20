@@ -975,7 +975,7 @@ rankups:
       equiparmor: false
       enabled: false
   overlord:
-    message: You are now a Overlord
+    message: You are now an Overlord
     economy:
       price: 750000000
       enabled: true
