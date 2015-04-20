@@ -1,4 +1,33 @@
 worlds:
+-   name: spawn
+    title: Prison
+    enabled: true
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: Flat
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: shadows
+        mapzoomin: 4
+    -   class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: Surface
+        prefix: t
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: shadows
+        mapzoomin: 4
+    -   class: org.dynmap.hdmap.HDMap
+        name: cave
+        title: Cave
+        prefix: ct
+        perspective: iso_SE_60_lowres
+        shader: cave
+        lighting: default
+        mapzoomin: 4
 -   name: world
     title: world
     enabled: false
@@ -29,25 +58,13 @@ worlds:
         lighting: default
         mapzoomin: 3
 -   name: world_the_end
-    title: The Moon
+    title: Outer Realms
     enabled: true
     extrazoomout: 2
     maps:
     -   class: org.dynmap.hdmap.HDMap
-        name: flat
-        title: Flat
-        prefix: flat
-        perspective: iso_S_90_lowres
-        shader: stdtexture
-        lighting: brightnight
-        image-format: default
-        mapzoomin: 1
-        boostzoom: 0
-        append_to_world: ''
-        protected: false
-    -   class: org.dynmap.hdmap.HDMap
         name: the_end
-        title: Surface
+        title: The Moon
         prefix: st
         perspective: iso_SE_30_hires
         shader: stdtexture
@@ -65,38 +82,9 @@ worlds:
     hiddenlimits: [
         ]
     hidestyle: stone
--   name: spawn
-    title: Prison
-    enabled: true
-    extrazoomout: 2
-    maps:
-    -   class: org.dynmap.hdmap.HDMap
-        name: flat
-        title: Flat
-        prefix: flat
-        perspective: iso_S_90_lowres
-        shader: stdtexture
-        lighting: shadows
-        mapzoomin: 4
-    -   class: org.dynmap.hdmap.HDMap
-        name: surface
-        title: Surface
-        prefix: t
-        perspective: iso_SE_30_hires
-        shader: stdtexture
-        lighting: shadows
-        mapzoomin: 4
-    -   class: org.dynmap.hdmap.HDMap
-        name: cave
-        title: Cave
-        prefix: ct
-        perspective: iso_SE_60_lowres
-        shader: cave
-        lighting: default
-        mapzoomin: 4
 -   name: mines
     title: PrisonMines
-    enabled: true
+    enabled: false
     extrazoomout: 2
     maps:
     -   class: org.dynmap.hdmap.HDMap
@@ -120,9 +108,17 @@ worlds:
         ]
     hidestyle: stone
 -   name: plotworld
-    title: PlotWorld
+    title: Plots
     enabled: true
+    protected: false
+    sendposition: true
+    sendhealth: true
     extrazoomout: 2
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    hidestyle: stone
     maps:
     -   class: org.dynmap.hdmap.HDMap
         name: surface
@@ -148,14 +144,6 @@ worlds:
         boostzoom: 0
         append_to_world: ''
         protected: false
-    protected: false
-    sendposition: true
-    sendhealth: true
-    visibilitylimits: [
-        ]
-    hiddenlimits: [
-        ]
-    hidestyle: stone
 -   name: parkour
     title: parkour
     enabled: false
@@ -186,7 +174,7 @@ worlds:
         lighting: default
         mapzoomin: 3
 -   name: free
-    title: FreeWorld
+    title: Free World
     enabled: true
     extrazoomout: 2
     maps:
@@ -228,21 +216,8 @@ worlds:
     extrazoomout: 2
     maps:
     -   class: org.dynmap.hdmap.HDMap
-        name: flat
-        title: Flat
-        prefix: flat
-        perspective: iso_S_90_lowres
-        shader: stdtexture
-        lighting: nethershadows
-        image-format: default
-        mapzoomin: 1
-        boostzoom: 0
-        background: '#300806'
-        append_to_world: ''
-        protected: false
-    -   class: org.dynmap.hdmap.HDMap
         name: nether
-        title: Surface
+        title: Hell
         prefix: nt
         perspective: iso_SE_30_hires
         shader: stdtexture
@@ -251,7 +226,7 @@ worlds:
         mapzoomin: 1
         boostzoom: 0
         background: '#300806'
-        append_to_world: ''
+        append_to_world: world_the_end
         protected: false
     protected: false
     sendposition: true
