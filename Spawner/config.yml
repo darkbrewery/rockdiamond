@@ -39,11 +39,11 @@ aliases:
   WitherBoss:
   - wither
   VillagerGolem:
-  - irongolem
   - golem
+  - irongolem
   EntityHorse:
   - horse
-protect_from_explosions: true
+protect_from_explosions: 'true'
 remove_radius: 10
 luck: 100
 frequency:

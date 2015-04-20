@@ -1,4 +1,1 @@
-regions:
--   region: orchard
-    flags:
-        treefarm: DENY
+regions: []
