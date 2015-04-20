@@ -27,19 +27,11 @@ mine:
   - ==: MineBlock
     blockData: 0
     blockId: 73
-    chance: 0.34999
+    chance: 0.36999000000000004
   - ==: MineBlock
     blockData: 0
     blockId: 21
     chance: 0.05
-  - ==: MineBlock
-    blockData: 0
-    blockId: 129
-    chance: 0.01
-  - ==: MineBlock
-    blockData: 0
-    blockId: 56
-    chance: 0.01
   - ==: MineBlock
     blockData: 0
     blockId: 0

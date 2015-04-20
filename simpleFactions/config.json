@@ -3,13 +3,14 @@
         "## -- Any entries with ##s are just comments that can be ignored --##":"",
         
         "##DO NOT CHANGE THESE TWO VALUES##":"",
-        "configVersion": "3.0",
-        "pluginVersion": "1.91",
+        "configVersion": "6.0",
+        "pluginVersion": "1.95",
 		
 		"## -- MISC SETTINGS --##": "",
 		"minutes between disk saving":	10,
         "checkForUpdates": "true",
         "getDataFromHome": "true",
+        "reportErrorMessages": "true",
 		
 		"## -- LANGUAGE CHOICE --##": "",
 		"## -- Copy en.json, make changes, then set the name of the file without the .json here --##":"",
@@ -33,6 +34,8 @@
 		
         "## -- CHAT SETTINGS --##": "",
         "enable simplefaction chat": "true",
+        "disable simplefaction chat in global": "false",
+        
         "##The follow setting allows better compatibility for EssentialsChat and other plugins##":"",
         "inject faction into message instead of replacing whole message": "true",
         "allow simplefactions chat channels": "true",
@@ -40,6 +43,8 @@
         "show faction data in local chat": "true",
         "faction symbol left": "/",
         "faction symbol right": "/",
+        "faction leader tag": "** ",
+        "faction officer tag": "* ",
         "local chat distance": 500,
         "treat all chat like a radio": "false",
 		
@@ -147,8 +152,8 @@
 		
         "## -- Disable plugin features for certain worlds --##":"",
         "disable claims and homes in these worlds": [
-                "spawn",
-                "plotworld",
+                "customworld_1",
+                "customworld_1_nether",
                 "customworld_1_the_end"
         ],
         "disable faction(and ally/enemy/truce/etc) chat in these worlds": [

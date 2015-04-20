@@ -39,3 +39,5 @@ hooks:
     enabled: true
     exempt-names:
     - WeaponDamageEntityEvent
+  citizens2:
+    enabled: true

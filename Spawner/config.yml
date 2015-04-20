@@ -1,10 +1,6 @@
 # Spawner config file
 # 
 # Valid entities
-# You can make spawners any of the entity names listed at this link:
-# http://jd.bukkit.org/rb/apidocs/src-html/org/bukkit/entity/EntityType.html#line.17
-# Generally you would use the name that appears inside the quotes in the brackets.
-# For example PigZombie will work while PIG_ZOMBIE will not.
 valid_entities:
 - Creeper
 - Skeleton
@@ -35,5 +31,86 @@ valid_entities:
 - VillagerGolem
 - EntityHorse
 - Villager
+- FireworksRocketEntity
+- Guardian
+- Endermite
+- Rabbit
+aliases:
+  WitherBoss:
+  - wither
+  VillagerGolem:
+  - irongolem
+  - golem
+  EntityHorse:
+  - horse
 protect_from_explosions: true
 remove_radius: 10
+luck: 100
+frequency:
+  Creeper: 100
+  Skeleton: 100
+  Spider: 100
+  Giant: 100
+  Zombie: 100
+  Slime: 100
+  Ghast: 100
+  PigZombie: 100
+  Enderman: 100
+  CaveSpider: 100
+  Silverfish: 100
+  Blaze: 100
+  LavaSlime: 100
+  EnderDragon: 100
+  WitherBoss: 100
+  Bat: 100
+  Witch: 100
+  Pig: 100
+  Sheep: 100
+  Cow: 100
+  Chicken: 100
+  Squid: 100
+  Wolf: 100
+  MushroomCow: 100
+  SnowMan: 100
+  Ozelot: 100
+  VillagerGolem: 100
+  EntityHorse: 100
+  Villager: 100
+  FireworksRocketEntity: 100
+  Guardian: 100
+  Endermite: 100
+  Rabbit: 100
+drops:
+  Creeper: []
+  Skeleton: []
+  Spider: []
+  Giant: []
+  Zombie: []
+  Slime: []
+  Ghast: []
+  PigZombie: []
+  Enderman: []
+  CaveSpider: []
+  Silverfish: []
+  Blaze: []
+  LavaSlime: []
+  EnderDragon: []
+  WitherBoss: []
+  Bat: []
+  Witch: []
+  Pig: []
+  Sheep: []
+  Cow: []
+  Chicken: []
+  Squid: []
+  Wolf: []
+  MushroomCow: []
+  SnowMan: []
+  Ozelot: []
+  VillagerGolem: []
+  EntityHorse: []
+  Villager: []
+  FireworksRocketEntity: []
+  Guardian: []
+  Endermite: []
+  Rabbit: []

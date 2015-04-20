@@ -29,11 +29,11 @@ active:
     46654b3a-ef0f-4cea-ac0f-7e94ebef117a:
       reward: 84.0
       anonymous: false
-    0815d936-c500-4314-8cb1-605aa6d1ed6b:
-      reward: 50.0
-      anonymous: false
     e6205cfe-7b5d-4fcb-bd11-801ba6161e0c:
       reward: 234.0
+      anonymous: false
+    8e1a009a-d3d4-476c-b2ab-43fe1291667f:
+      reward: 100.0
       anonymous: false
   97b122ad-aaef-4e44-bb5f-b5c8e9c2fac0:
     2576b041-2329-4256-90ba-e4650989c489:
@@ -42,24 +42,11 @@ active:
     5d3ee085-5fbc-324a-bb6e-49ef56e5786a:
       reward: 100.0
       anonymous: false
-    0815d936-c500-4314-8cb1-605aa6d1ed6b:
-      reward: 100.0
-      anonymous: false
   8e1a009a-d3d4-476c-b2ab-43fe1291667f:
-    f131c2b3-ed85-4fba-8d4a-d7eb84590fbe:
-      reward: 100.0
-      anonymous: false
     4486518b-48a2-446b-a0e3-1e2d34dbba15:
       reward: 1010.0
       anonymous: false
-    e94aa767-93cf-4ad5-ac05-3e710e68c9a3:
-      reward: 100.0
-      anonymous: false
-    d3e981e6-d144-40c3-bae1-635f0ea7622d:
+    a06acd8a-925f-497f-8998-eb5fbe691d3f:
       reward: 50.0
-      anonymous: false
-  0084365d-a984-4493-b7e1-1385052190b6:
-    e94aa767-93cf-4ad5-ac05-3e710e68c9a3:
-      reward: 10000.0
       anonymous: false
 completed: {}

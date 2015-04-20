@@ -9,7 +9,6 @@ moon:
   lines:
   - '&l&nThe Moon'
   - '&4&lPVP &5&l& &4&lGreifing allowed'
-  - '&4&lFactions Here!'
 plots:
   location: spawn, 14.529, 84.605, -1256.700
   lines:
@@ -19,17 +18,10 @@ loveyou:
   location: spawn, 14.505, 94.000, -1237.484
   lines:
   - '&4<3'
-parkour:
-  location: spawn, -6.365, 85.355, -1219.490
-  lines:
-  - '&b&l&nParkour!'
-  - '&b&lTest out your jumping abilites'
-  - '&b&lhere for cash prizes!'
 donor:
   location: spawn, 14.535, 84.200, -1212.006
   lines:
   - '&lDonor Ranks'
-  - '&4&lComing Soon!'
 suggestions1:
   location: spawn, -6.585, 84.000, -1241.579
   lines:

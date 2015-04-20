@@ -13,8 +13,8 @@ regions:
     __global__:
         type: global
         priority: 0
-        flags: {pvp: deny, enderpearl: deny, use: allow, build: deny, soil-dry: deny,
-            mob-spawning: deny}
+        flags: {pvp: deny, enderpearl: deny, use: allow, build: deny, mob-spawning: deny,
+            soil-dry: deny}
         owners: {}
         members: {}
     a_door:
@@ -34,10 +34,27 @@ regions:
         flags: {build: allow}
         owners: {}
         members: {}
+    adeptdonor:
+        type: cuboid
+        min: {x: -104.0, y: 83.0, z: -1368.0}
+        max: {x: -96.0, y: 108.0, z: -1360.0}
+        priority: 10
+        flags: {build: allow}
+        owners:
+            groups: [a]
+        members: {}
     animalfarm:
         type: cuboid
         min: {x: 112.0, y: 104.0, z: -1439.0}
         max: {x: 128.0, y: 108.0, z: -1416.0}
+        priority: 0
+        flags: {mob-spawning: allow}
+        owners: {}
+        members: {}
+    aquarium:
+        type: cuboid
+        min: {x: -195.0, y: 99.0, z: -1201.0}
+        max: {x: -163.0, y: 114.0, z: -1175.0}
         priority: 0
         flags: {mob-spawning: allow}
         owners: {}
@@ -134,14 +151,6 @@ regions:
         owners:
             groups: [iron, gold, diamond, emerald, obsidian]
         members: {}
-    donor_mine1:
-        type: cuboid
-        min: {x: -92.0, y: 83.0, z: -1368.0}
-        max: {x: -84.0, y: 108.0, z: -1360.0}
-        priority: 10
-        flags: {build: allow}
-        owners: {}
-        members: {}
     e_door:
         type: cuboid
         min: {x: 13.0, y: 91.0, z: -1405.0}
@@ -167,6 +176,15 @@ regions:
         flags: {}
         owners:
             players: [brewhaus]
+        members: {}
+    expertdonor:
+        type: cuboid
+        min: {x: -92.0, y: 83.0, z: -1368.0}
+        max: {x: -84.0, y: 108.0, z: -1360.0}
+        priority: 10
+        flags: {}
+        owners:
+            groups: [q]
         members: {}
     f_door:
         type: cuboid
@@ -419,6 +437,15 @@ regions:
         flags: {build: allow}
         owners: {}
         members: {}
+    prodonor:
+        type: cuboid
+        min: {x: -80.0, y: 83.0, z: -1368.0}
+        max: {x: -72.0, y: 108.0, z: -1360.0}
+        priority: 10
+        flags: {}
+        owners:
+            groups: [y]
+        members: {}
     ps_g2:
         type: cuboid
         min: {x: -106.0, y: 105.0, z: -1139.0}
@@ -442,7 +469,8 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members: {}
+        members:
+            players: [lightoftruth2]
     psb2:
         type: cuboid
         min: {x: -81.0, y: 104.0, z: -1139.0}
@@ -474,8 +502,7 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members:
-            players: [x_java_x]
+        members: {}
     psb6:
         type: cuboid
         min: {x: -88.0, y: 104.0, z: -1153.0}
@@ -483,8 +510,7 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members:
-            players: [bronkzoo]
+        members: {}
     psg1:
         type: cuboid
         min: {x: -113.0, y: 104.0, z: -1139.0}
@@ -500,7 +526,8 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members: {}
+        members:
+            players: [ryantseng]
     psg3:
         type: cuboid
         min: {x: -106.0, y: 104.0, z: -1146.0}
@@ -516,8 +543,7 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members:
-            players: [amethystfoxygirl]
+        members: {}
     psg5:
         type: cuboid
         min: {x: -99.0, y: 104.0, z: -1146.0}
@@ -525,8 +551,7 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members:
-            players: [noahrg]
+        members: {}
     psg7:
         type: cuboid
         min: {x: -99.0, y: 104.0, z: -1153.0}
@@ -534,8 +559,7 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members:
-            players: [peter062]
+        members: {}
     psr1:
         type: cuboid
         min: {x: -113.0, y: 104.0, z: -1126.0}
@@ -551,8 +575,7 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members:
-            players: [mineslayerplays]
+        members: {}
     psr3:
         type: cuboid
         min: {x: -106.0, y: 104.0, z: -1119.0}
@@ -577,8 +600,7 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members:
-            players: [atomicsong]
+        members: {}
     psr6:
         type: cuboid
         min: {x: -99.0, y: 104.0, z: -1112.0}
@@ -586,8 +608,7 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members:
-            players: [maxthecool1234]
+        members: {}
     psy1:
         type: cuboid
         min: {x: -74.0, y: 104.0, z: -1126.0}
@@ -604,8 +625,7 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members:
-            players: [jacob25934]
+        members: {}
     psy3:
         type: cuboid
         min: {x: -81.0, y: 104.0, z: -1119.0}
@@ -613,7 +633,8 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members: {}
+        members:
+            players: [meat_eater_erre]
     psy4:
         type: cuboid
         min: {x: -88.0, y: 104.0, z: -1126.0}
@@ -631,7 +652,7 @@ regions:
         flags: {}
         owners: {}
         members:
-            players: [brewhaus]
+            players: [zedlicious]
     psy6:
         type: cuboid
         min: {x: -88.0, y: 104.0, z: -1112.0}
@@ -639,8 +660,7 @@ regions:
         priority: 0
         flags: {}
         owners: {}
-        members:
-            players: [zedlicious]
+        members: {}
     pumpkinfarm:
         type: cuboid
         min: {x: 81.0, y: 143.0, z: -1148.0}
