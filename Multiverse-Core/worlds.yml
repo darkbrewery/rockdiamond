@@ -107,7 +107,7 @@ worlds:
     autoload: true
     bedrespawn: true
   plotworld:
-    generator: PlotMe
+    generator: PlotMe-DefaultGenerator
     seed: 408156545396662488
     environment: NORMAL
     type: NORMAL
@@ -123,11 +123,11 @@ worlds:
     animals:
       spawn: true
     monsters:
-      spawn: true
+      spawn: false
     entryfee:
       currency: -1
       price: 0.0
-    hunger: true
+    hunger: false
     autoheal: true
     adjustspawn: true
     portalform: ALL
