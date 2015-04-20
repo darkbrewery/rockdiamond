@@ -1,4 +1,7 @@
 NPCS:
+  '0':
+    Commands:
+    - sell all~~false
   '1':
     Commands:
     - sell all~~false
@@ -33,6 +36,18 @@ NPCS:
     Commands:
     - sell all~~false
   '12':
+    Commands:
+    - sell all~~false
+  '13':
+    Commands:
+    - sell all~~false
+  '14':
+    Commands:
+    - sell all~~false
+  '15':
+    Commands:
+    - sell all~~false
+  '16':
     Commands:
     - sell all~~false
   '17':

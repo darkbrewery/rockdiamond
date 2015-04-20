@@ -12,5 +12,38 @@ dynmap-border-message: The border of the world.
 player-killed-bad-spawn: false
 deny-enderpearl: true
 fill-autosave-frequency: 30
-bypass-list-uuids: []
+bypass-list-uuids:
+- 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+- 7d345a63-2052-4623-bef8-4245fbc9b321
 fill-memory-tolerance: 500
+worlds:
+  hell:
+    x: 38.5
+    z: -43.5
+    radiusX: 500
+    radiusZ: 500
+    wrapping: false
+  world_the_end:
+    x: 11.220366866042339
+    z: 16.50045295174567
+    radiusX: 300
+    radiusZ: 300
+    wrapping: false
+  free:
+    x: -299.5
+    z: -153.5
+    radiusX: 5500
+    radiusZ: 5500
+    wrapping: false
+  plotworld:
+    x: 0.5114026927490404
+    z: 0.48000159162498857
+    radiusX: 200
+    radiusZ: 200
+    wrapping: false
+  spawn:
+    x: 14.5
+    z: -1237.5
+    radiusX: 300
+    radiusZ: 300
+    wrapping: false

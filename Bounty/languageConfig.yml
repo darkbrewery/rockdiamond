@@ -1,0 +1,20 @@
+chat:
+  newPlayer1: '[WARNING] That player has not played on this server!'
+  newPlayer2: If you really want to bounty them, use /bounty -o <player> <$$$>
+  minimumBounty: The minimum bounty on this server is $a
+  outOfCash: You do not have enough cash
+  bountyPlaced: A bounty has been placed on $t
+  bountyIncreased: Your bounty on $t has been increased
+  activeHeader: 'Active bounties:'
+  none: NONE! Make one
+  bountyList: $a on $t by $s
+  bountyOn: The bounty on $t is $a
+  bountyCancelled: You have received $a for cancelling your bounty on $t
+  compensated: You have been compensated with $a for your work, assassin
+  completed: Your bounty on $t has been completed
+broadcast:
+  bountyPlaced: $a bounty placed on $t by $s
+  compensated: $a reward has been claimed by $s for kiling $t
+permissions:
+  denied: You do not have permission
+  anonymous: Anonymous bounties are disabled on this server

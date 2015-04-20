@@ -1,0 +1,107 @@
+mine:
+  ==: pMine
+  region:
+    ==: PrisonRegion
+    minimum:
+      ==: Vector
+      x: 13.0
+      y: 52.0
+      z: -1353.0
+    maximum:
+      ==: Vector
+      x: 23.0
+      y: 60.0
+      z: -1344.0
+    world: spawn
+  flags: []
+  breakBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  parent: null
+  blocks:
+  - ==: MineBlock
+    blockData: 0
+    blockId: 49
+    chance: 0.30000000000000004
+  - ==: MineBlock
+    blockData: 1
+    blockId: 19
+    chance: 0.23999
+  - ==: MineBlock
+    blockData: 0
+    blockId: 19
+    chance: 0.10999999999999999
+  - ==: MineBlock
+    blockData: 0
+    blockId: 0
+    chance: 9.999999999982245E-6
+  - ==: MineBlock
+    blockData: 2
+    blockId: 168
+    chance: 0.06668
+  - ==: MineBlock
+    blockData: 0
+    blockId: 168
+    chance: 0.06666
+  - ==: MineBlock
+    blockData: 1
+    blockId: 168
+    chance: 0.06666
+  - ==: MineBlock
+    blockData: 0
+    blockId: 165
+    chance: 0.04
+  - ==: MineBlock
+    blockData: 0
+    blockId: 169
+    chance: 0.01
+  - ==: MineBlock
+    blockData: 0
+    blockId: 14
+    chance: 0.08
+  - ==: MineBlock
+    blockData: 0
+    blockId: 41
+    chance: 0.02
+  tpPoint:
+    ==: SimpleLoc
+    yaw: -180.4718
+    pitch: -2.700032
+    z: -1334.6275404592195
+    y: 60.0
+    world: spawn
+    x: 14.600001246311692
+  blocksLeft: 971
+  resetTriggers:
+  - ==: CompositionTrigger
+    percent: '0.5'
+    mine: Temple
+  id: Temple
+  warningTimes: []
+  placeBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  cooldownPeriod: 0
+  name: ''
+  blockReplaceBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  protectionRegion:
+    ==: PrisonRegion
+    minimum:
+      ==: Vector
+      x: 13.0
+      y: 52.0
+      z: -1353.0
+    maximum:
+      ==: Vector
+      x: 23.0
+      y: 60.0
+      z: -1344.0
+    world: spawn
+  world: spawn
+  enabledProtection: []
+  cooldownEnabled: false
