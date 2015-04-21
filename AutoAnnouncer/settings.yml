@@ -6,7 +6,7 @@ Settings:
   Random: false
   Permission: false
 Announcer:
-  Tag: '&a&o&l>>&c&o&lRD&e*&b&o&lNEWS&a&o&l>>&r'
+  Tag: '/n&a&o&l>>&c&o&lRD&e*&b&o&lNEWS&a&o&l>>&r'
   ToGroups: false
   Groups:
   - Default
