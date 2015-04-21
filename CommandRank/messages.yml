@@ -1,11 +1,12 @@
 Main:
-  NoPermissions: '&9[&aRD-Prison&9] &cYou are not allowed to do this!'
-  RankUpNotExisting: '&9[&aRD-Prison&9] &cThe RankUp is not existing...'
+  NoPermissions: '&f&l&o>>&9&l&oRank&b&l&oup&f&l&o>> &cYou are not allowed to do this!'
+  RankUpNotExisting: '&f&l&o>>&9&l&oRank&b&l&oup&f&l&o>> &cThe RankUp is not existing...'
   TellPlayersToReadRules: '&4Accept the rules and become &cUser&4! &c/AcceptRules'
-  Excluded: '&9[&aRD-Prison&9] &c*Nothing happens*'
+  Excluded: '&f&l&o>>&9&l&oRank&b&l&oup&f&l&o>> &c*Nothing happens*'
 Economy:
   AccountMissing: '&cYou don''t have an economy account...!'
-  NotEnoughMoney: '&9[&aRD-Prison&9] &cYou don''t have enough money (%money%/%needed%)!'
+  NotEnoughMoney: '&f&l&o>>&9&l&oRank&b&l&oup&f&l&o>> &cYou don''t have enough money
+    (%money%/%needed%)!'
 Kills:
   NotEnoughKills: '&cYou don''t have enough kills!'
 OnlineTime:

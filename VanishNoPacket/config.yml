@@ -4,11 +4,11 @@
 #   http://www.kitteh.org
 fakeannounce:
   automaticforsilentjoin: true
-  join: '%p joined the game.'
-  quit: '%p left the game.'
+  join: '&&b&&l&&l>>&&e&&l&&oLog&&a+&&e&&l&&oin&&b&&l&&o>> &&r%p'
+  quit: '&&d&&l&&l>>&&c&&l&&oLogout&&d&&l&&o>> &&r%p'
 hooks:
   essentials: true
-  dynmap: true
+  dynmap: false
   JSONAPI: false
   spoutcraft: false
 checkupdates: true
