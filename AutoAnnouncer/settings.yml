@@ -6,18 +6,18 @@ Settings:
   Random: false
   Permission: false
 Announcer:
-  Tag: '&NEW_LINE;&a&o&l>>&c&o&lRD&e*&b&o&lNEWS&a&o&l>>&r'
+  Tag: '&a&o&l>>&c&o&lRD&e*&b&o&lNEWS&a&o&l>>&r'
   ToGroups: false
   Groups:
   - Default
   Strings:
-  - 'Looking for the server map? Click here: &9http://goo.gl/rqPpHw'
-  - 'Want to help promote the server? Visit our PMC page here: &9http://goo.gl/snFGCR &rto subscribe, diamond and favorite us.'
-  - Looking for badass OP gear? &9/vote &rfor reward chest keys and maybe you'll win a badass key!
-  - Have you found all the hidden warps yet? Theres now 23 total to unlock!
-  - Don't forget to checkout the new &9/warp playershops &rfor awesome deals and gear!
-  - Make friends by welcoming new players to the server and helping them get started. That's Special!
-  - Want to earn cash quick? Try voting! There's lots of diamonds and prizes to be won! Type &9/vote &rfor the links.
+  - 'Looking for the server map? &NEW_LINE;Click here: &9http://goo.gl/rqPpHw&NEW_LINE;'
+  - 'Want to help promote the server? Visit our PMC page here: &9http://goo.gl/snFGCR &rto subscribe, diamond and favorite us.&NEW_LINE;'
+  - 'Looking for badass OP gear? &9/vote &rfor reward chest keys and maybe you'll win a badass key!&NEW_LINE;'
+  - 'Have you found all the hidden warps yet? Theres now 23 total to unlock! &NEW_LINE;'
+  - 'Don't forget to checkout the new &9/warp playershops &rfor awesome deals and gear!&NEW_LINE;'
+  - 'Make friends by welcoming new players to the server and helping them get started. That's Special!&NEW_LINE;'
+  - 'Want to earn cash quick? Try voting! There's lots of diamonds and prizes to be won! Type &9/vote &rfor the links.
   - 'Warning: Plotworld is messy enough! Plots without walls or proper lighting
     will be reset without notice!'
   - Remember to invite your friends to play alongside you, it supports the server and makes things a lot more fun!
