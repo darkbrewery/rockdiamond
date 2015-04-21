@@ -14,6 +14,8 @@ worth:
   log:
     '1': 2.0
     '2': 1.0
+    '3': 1.0
+    '0': 1.0
   sapling:
     '1': 1.0
   dirt: 0.25
@@ -38,7 +40,7 @@ worth:
     '6': 2.0
     '7': 2.0
   wool:
-    '0': 3.04
+    '0': 6.0
     '1': 6.09
     '2': 6.09
     '3': 6.09
@@ -91,3 +93,25 @@ worth:
   ghasttear: 500.0
   inksack:
     '4': 32.0
+  log2:
+    '0': 2.0
+  redmushroom:
+    '0': 5.0
+  brownmushroom:
+    '0': 5.0
+  stainedclay:
+    '6': 4.0
+  sugarcane:
+    '0': 7.5
+  hugemushroom2:
+    '0': 1.0
+  ironfence:
+    '0': 1.0
+  ladder:
+    '0': 1.0
+  lapisore:
+    '0': 8.0
+  slimeball:
+    '0': 2.0
+  slimeblock:
+    '0': 18.0

@@ -22,20 +22,20 @@ mine:
   blocks:
   - ==: MineBlock
     blockData: 0
-    blockId: 1
-    chance: 0.34
-  - ==: MineBlock
-    blockData: 0
     blockId: 173
-    chance: 0.3
+    chance: 0.4
   - ==: MineBlock
     blockData: 0
     blockId: 42
     chance: 0.25
   - ==: MineBlock
     blockData: 0
+    blockId: 1
+    chance: 0.14
+  - ==: MineBlock
+    blockData: 0
     blockId: 41
-    chance: 0.05
+    chance: 0.15000000000000002
   - ==: MineBlock
     blockData: 0
     blockId: 21
