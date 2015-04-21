@@ -122,3 +122,7 @@ worth:
     '0': 0.1
   glowstone:
     '0': 2048.0
+  bookandquill:
+    '0': 1.0
+  bread:
+    '0': 0.0

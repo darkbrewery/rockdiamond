@@ -80,3 +80,7 @@ NPCS:
   '26':
     Commands:
     - sell all~~false
+  '37':
+    Commands:
+    - rankup~~false
+    - warp spawn~~false
