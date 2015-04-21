@@ -70,7 +70,8 @@ worth:
   lapisblock: 288.0
   diamond: 128.0
   netherbrick: 24.0
-  enderstone: 8.0
+  enderstone:
+    '0': 12.0
   prismarine:
     '0': 8.0
     '1': 8.0
@@ -78,7 +79,8 @@ worth:
   diamondblock: 1250.0
   obsidian: 512.0
   emeraldblock: 4600.0
-  glowstonedust: 1024.0
+  glowstonedust:
+    '0': 512.0
   netherstar: 7500.0
   beacon: 12500.0
   jukebox: 500.0
@@ -116,3 +118,7 @@ worth:
     '0': 2.0
   slimeblock:
     '0': 18.0
+  bedrock:
+    '0': 0.1
+  glowstone:
+    '0': 2048.0
