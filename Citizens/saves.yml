@@ -19,7 +19,7 @@ npc:
       owner:
         owner: darkbrewery
         uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
-    traitnames: owner,location,spawned,inventory,type
+    traitnames: inventory,owner,location,spawned,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -47,7 +47,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: location,owner,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,spawned,lookclose,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -75,7 +75,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: location,owner,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,lookclose,spawned,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -103,7 +103,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: owner,location,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,spawned,lookclose,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -122,7 +122,7 @@ npc:
         x: '-16.432848680989316'
         y: '92.0'
         z: '-1328.6388729077155'
-        yaw: '208.40338134765625'
+        yaw: '252.33181762695312'
         pitch: '0.0'
       owner:
         owner: darkbrewery
@@ -131,7 +131,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: location,owner,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,spawned,lookclose,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -150,7 +150,7 @@ npc:
         x: '22.64616634268082'
         y: '91.0'
         z: '-1317.6382054703884'
-        yaw: '69.56529235839844'
+        yaw: '41.33500671386719'
         pitch: '0.0'
       owner:
         owner: darkbrewery
@@ -159,7 +159,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: location,owner,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,spawned,lookclose,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -187,7 +187,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: owner,location,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,spawned,lookclose,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -215,7 +215,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: owner,location,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,lookclose,spawned,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -249,7 +249,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: owner,location,spawned,inventory,equipment,lookclose,type
+    traitnames: inventory,owner,equipment,location,spawned,lookclose,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -277,7 +277,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: owner,location,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,spawned,lookclose,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -305,7 +305,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: location,owner,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,lookclose,spawned,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -333,7 +333,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: owner,location,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,spawned,lookclose,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -361,7 +361,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: owner,location,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,spawned,lookclose,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -389,7 +389,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: owner,location,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,lookclose,spawned,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -417,7 +417,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: owner,location,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,spawned,lookclose,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -445,7 +445,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: location,owner,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,lookclose,spawned,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -473,7 +473,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: location,owner,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,spawned,lookclose,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -501,7 +501,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: location,owner,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,spawned,lookclose,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -529,7 +529,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: owner,location,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,lookclose,spawned,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -557,7 +557,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: location,owner,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,lookclose,spawned,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -585,7 +585,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: owner,location,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,spawned,lookclose,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -613,7 +613,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: location,owner,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,lookclose,spawned,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -629,10 +629,10 @@ npc:
       type: VillagerGolem
       location:
         world: spawn
-        x: '18.153546958787572'
-        y: '81.5'
-        z: '-1225.6314140694092'
-        yaw: '13.667854309082031'
+        x: '18.696023713055247'
+        y: '81.0'
+        z: '-1224.174971758461'
+        yaw: '84.10986328125'
         pitch: '0.0'
       waypoints:
         linear:
@@ -717,7 +717,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: owner,location,spawned,inventory,waypoints,lookclose,type
+    traitnames: inventory,owner,location,waypoints,lookclose,spawned,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -745,7 +745,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: owner,location,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,lookclose,spawned,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -781,7 +781,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: owner,location,spawned,inventory,age,profession,lookclose,type
+    traitnames: inventory,owner,location,profession,lookclose,spawned,age,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -811,7 +811,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: location,owner,spawned,age,lookclose,type
+    traitnames: owner,location,lookclose,spawned,age,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -841,7 +841,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: location,owner,spawned,age,lookclose,type
+    traitnames: owner,location,spawned,lookclose,age,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -871,7 +871,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: location,owner,spawned,age,lookclose,type
+    traitnames: owner,location,lookclose,spawned,age,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
@@ -902,7 +902,7 @@ npc:
         enabled: true
         range: '5.0'
         realisticlooking: false
-    traitnames: location,owner,spawned,inventory,lookclose,type
+    traitnames: inventory,owner,location,spawned,lookclose,type
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
