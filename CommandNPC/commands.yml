@@ -83,4 +83,4 @@ NPCS:
   '37':
     Commands:
     - rankup~~false
-    - warp spawn~~false
+    - warp Tutorial~~false

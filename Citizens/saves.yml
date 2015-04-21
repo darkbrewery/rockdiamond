@@ -150,7 +150,7 @@ npc:
         x: '22.64616634268082'
         y: '91.0'
         z: '-1317.6382054703884'
-        yaw: '77.04206848144531'
+        yaw: '38.628662109375'
         pitch: '0.0'
       owner:
         owner: darkbrewery
@@ -629,10 +629,10 @@ npc:
       type: VillagerGolem
       location:
         world: spawn
-        x: '4.099376159808667'
-        y: '81.0'
-        z: '-1246.1253806183727'
-        yaw: '2.6770172119140625'
+        x: '9.225353722961389'
+        y: '81.5'
+        z: '-1227.2055180285015'
+        yaw: '327.2758483886719'
         pitch: '0.0'
       waypoints:
         linear:
@@ -922,11 +922,8 @@ npc:
         x: '-73.210374644688'
         y: '26.0'
         z: '-1128.5451386403438'
-        yaw: '219.8486328125'
+        yaw: '224.10433959960938'
         pitch: '0.0'
-      owner:
-        owner: darkbrewery
-        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
       equipment:
         hand:
           type: DIAMOND_PICKAXE
@@ -953,10 +950,6 @@ npc:
           amount: 1
           durability: 0
           mdata: 0
-      lookclose:
-        enabled: true
-        range: '5.0'
-        realisticlooking: false
       inventory:
         '0':
           type: DIAMOND_PICKAXE
@@ -964,7 +957,14 @@ npc:
           durability: 6
           mdata: 6
       spawned: true
-    traitnames: location,owner,type,equipment,lookclose,inventory,spawned
+      owner:
+        owner: darkbrewery
+        uuid: 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: location,owner,type,lookclose,equipment,inventory,spawned
     navigator:
       pathfindingrange: '25.0'
       stationaryticks: -1
