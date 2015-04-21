@@ -13,8 +13,8 @@ regions:
     __global__:
         type: global
         priority: 0
-        flags: {pvp: deny, enderpearl: deny, use: allow, build: deny, soil-dry: deny,
-            mob-spawning: deny}
+        flags: {pvp: deny, enderpearl: deny, use: allow, build: deny, mob-spawning: allow,
+            soil-dry: deny}
         owners: {}
         members: {}
     a_door:
