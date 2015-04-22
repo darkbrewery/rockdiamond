@@ -1,7 +1,7 @@
 general:
-  title: '&9[&aRD-Prison&9]'
-  title-success: '&9[&aRD-Prison&9]'
-  title-error: '&4[RD-Prison]'
+  title: '&9&l&o>>&b&l&oRD&e*&b&l&oPrison&9&l&o>>&r'
+  title-success: '&9&l&o>>&b&l&oRD&e*&b&l&oPrison&9&l&o>>&r'
+  title-error: '&9&l&o>>&b&l&oRD&e*&b&l&oPrison&9&l&o>>&r'
 error:
   mine-name: Mine &c<ID>&f does not exist!
   mine-not-selected: Select a mine first with &e/mine edit <name>

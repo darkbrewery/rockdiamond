@@ -792,7 +792,7 @@ newbies:
   # If so, use this format, replacing {DISPLAYNAME} with the player name.
   # If not, set to ''
   #announce-format: ''
-  announce-format: '&d{DISPLAYNAME}&d is freshmeat! Now play nice!'
+  announce-format: '&a&l&o>>&d&l&oFreshmeat&a&l&o>> &e&l&o{DISPLAYNAME} &ais new&r! &d&lWelcome!'
 
   # When we spawn for the first time, which spawnpoint do we use?
   # Set to "none" if you want to use the spawn point of the world.

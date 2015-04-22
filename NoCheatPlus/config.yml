@@ -5,7 +5,7 @@ configversion:
   created: 785
   saved: 785
 logging:
-  active: true
+  active: false
   maxqueuesize: 5000
   extended:
     status: false

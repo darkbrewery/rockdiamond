@@ -63,9 +63,9 @@ services:
 #  luckyvotes section
 luckyvotes:
   '15':
-    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} voted @{GOLD}{service}{GREEN} and has earned a {AQUA}Voting Key{GREEN}!'
+    broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} voted @{GOLD}{service}{GREEN} and luckily won a {AQUA}Badass Key{GREEN}!'
     commands:
-    - '/crate givekey {username} vote 1'
+    - '/crate givekey {username} badass 1'
 
 #  permission reward section
 #  This example would give players with the permission node "gal.double" 10 Diamonds instead of their regular reward.
