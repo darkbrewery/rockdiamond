@@ -15,6 +15,7 @@ fill-autosave-frequency: 30
 bypass-list-uuids:
 - 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
 - 7d345a63-2052-4623-bef8-4245fbc9b321
+- 03c43156-b8be-409c-b0d2-a666499147c5
 fill-memory-tolerance: 500
 worlds:
   hell:

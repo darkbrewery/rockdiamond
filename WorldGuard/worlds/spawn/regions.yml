@@ -13,8 +13,8 @@ regions:
     __global__:
         type: global
         priority: 0
-        flags: {pvp: deny, enderpearl: deny, use: allow, build: deny, mob-spawning: allow,
-            soil-dry: deny}
+        flags: {pvp: deny, enderpearl: deny, use: allow, build: deny, soil-dry: deny,
+            mob-spawning: deny}
         owners: {}
         members: {}
     a_door:
@@ -53,8 +53,8 @@ regions:
         members: {}
     aquarium:
         type: cuboid
-        min: {x: -195.0, y: 99.0, z: -1201.0}
-        max: {x: -163.0, y: 114.0, z: -1175.0}
+        min: {x: -193.0, y: 46.0, z: -1288.0}
+        max: {x: -161.0, y: 61.0, z: -1262.0}
         priority: 0
         flags: {mob-spawning: allow}
         owners: {}
@@ -147,7 +147,7 @@ regions:
         min: {x: -101.0, y: 85.0, z: -1378.0}
         max: {x: -65.0, y: 133.0, z: -1316.0}
         priority: 0
-        flags: {entry: deny, build: deny}
+        flags: {entry: deny, build: deny, mob-spawning: deny}
         owners:
             groups: [iron, gold, diamond, emerald, obsidian]
         members: {}

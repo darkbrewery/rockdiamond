@@ -14,3 +14,18 @@ worlds:
     XTranslation: 0
     ZTranslation: 0
     UnclaimedBorder: '44:7'
+  world_creative:
+    PathWidth: 5
+    PlotSize: 65
+    WallBlock: '44:7'
+    PlotFloorBlock: '2'
+    FillBlock: '3'
+    RoadMainBlock: '112'
+    RoadAltBlock: '112'
+    GroundHeight: 64
+    ProtectedWallBlock: '44:4'
+    ForSaleWallBlock: '44:1'
+    AuctionWallBlock: '44:1'
+    XTranslation: 0
+    ZTranslation: 0
+    UnclaimedBorder: '44:7'

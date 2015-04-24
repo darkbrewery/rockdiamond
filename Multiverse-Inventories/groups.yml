@@ -1,0 +1,22 @@
+# Multiverse-Inventories Groups
+
+# To ADD, DELETE, and EDIT groups use the command /mvinv group.
+# No support will be given for those who manually edit these groups.
+groups:
+  default:
+    worlds:
+    - spawn
+    - world
+    - world_the_end
+    - free
+    - plotworld
+    - mines
+    - parkour
+    - hell
+    shares:
+    - all
+  Creative:
+    worlds:
+    - world_creative
+    shares:
+    - all

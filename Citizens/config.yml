@@ -32,7 +32,7 @@ npc:
     max-permission-checks: 100
     max-speed: 100
   chunks:
-    always-keep-loaded: false
+    always-keep-loaded: true
   skins:
     max-retries: -1
     retry-delay: 120

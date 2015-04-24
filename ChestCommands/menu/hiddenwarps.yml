@@ -10,7 +10,7 @@ menu-settings:
   name: '&9[&aHidden Warps&9]&r'
 
   # rows - the number of rows of the chest - REQUIRED
-  rows: 4
+  rows: 6
 
   # command - OPTIONAL (you can remove this or set it to '')
   # Bind multiple commands using ; (command: 'menu; m; me')
@@ -35,31 +35,23 @@ Donate:
     - '&7the &bdonation &7perks!'
   ID: emerald_block
   KEEP-OPEN: true
-  POSITION-X: 6
-  POSITION-Y: 4
-Shops:
-  COMMAND: 'open: shops.yml'
-  NAME: '&eShops'
-  LORE:
-    - 'Open the &eShops&7 menu'
-  ID: chest
-  POSITION-X: 8
-  POSITION-Y: 4
+  POSITION-X: 7
+  POSITION-Y: 6
 Warps:
   COMMAND: 'open: warps.yml'
   NAME: '&eWarps'
   LORE:
     - 'Open the &eWarps&7 menu'
   ID: compass
-  POSITION-X: 7
-  POSITION-Y: 4
+  POSITION-X: 8
+  POSITION-Y: 6
 Close:
   NAME: '&4Close'
   LORE:
     - '&4Close&7 this menu'
   ID: Barrier
   POSITION-X: 9
-  POSITION-Y: 4
+  POSITION-Y: 6
 AnimalFarm:
   COMMAND: 'warp AnimalFarm'
   NAME: '&eAnimal Farm'
@@ -244,7 +236,7 @@ Squid:
   COMMAND: 'warp squidfarm'
   NAME: '&eSquid Farm'
   LORE:
-    - 'Warp to &eSquid Farm'
+    - '&9/warp squidfarm'
   ID: dye
   POSITION-X: 3
   POSITION-Y: 3
@@ -253,7 +245,7 @@ Xp:
   COMMAND: 'warp xp'
   NAME: '&eExperience Farm'
   LORE:
-    - 'Warp to &eXP Farm'
+    - '&9/warp xp'
   ID: exp_bottle
   POSITION-X: 4
   POSITION-Y: 3
@@ -262,9 +254,17 @@ Icemine:
   COMMAND: 'warp icemine'
   NAME: '&eIce Mine'
   LORE:
-    - 'Warp to &eIce Mine'
+    - '&9/warp icemine'
   ID: ice
   POSITION-X: 5
   POSITION-Y: 3
   VIEW-PERMISSION: 'essentials.warps.icemine'
-
+Aquarium:
+  COMMAND: 'warp aquarium'
+  NAME: '&eAquarium'
+  LORE:
+    - '&9/warp aquarium'
+  ID: prismarine
+  POSITION-X: 6
+  POSITION-Y: 3
+  VIEW-PERMISSION: 'essentials.warps.Aquarium'

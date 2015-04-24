@@ -448,15 +448,6 @@ HiddenWarps:
     - 'Open the &eHidden Warps&7 menu'
   ID: enderchest
   KEEP-OPEN: true
-  POSITION-X: 7
-  POSITION-Y: 6
-Shops:
-  COMMAND: 'open: shops.yml'
-  NAME: '&eShops'
-  LORE:
-    - 'Open the &eShops&7 menu'
-  ID: Chest
-  KEEP-OPEN: true
   POSITION-X: 8
   POSITION-Y: 6
 PVP:
@@ -483,7 +474,7 @@ Donate:
     - '&7the &bdonation &7menu!'
   ID: emerald_block
   KEEP-OPEN: true
-  POSITION-X: 6
+  POSITION-X: 7
   POSITION-Y: 6
 Close:
   COMMAND: ''

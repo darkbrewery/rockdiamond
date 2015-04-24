@@ -283,3 +283,39 @@ worlds:
       world: hell
     autoload: true
     bedrespawn: true
+  world_creative:
+    generator: PlotMe-DefaultGenerator
+    seed: -8122902717924960935
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: false
+    difficulty: EASY
+    animals:
+      spawn: false
+    monsters:
+      spawn: false
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: CREATIVE
+    keepspawninmemory: true
+    spawn:
+      x: 0.0
+      y: 65.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+      world: world_creative
+    autoload: true
+    bedrespawn: true

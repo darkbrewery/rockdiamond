@@ -124,3 +124,7 @@ worth:
     '0': 2048.0
   bookandquill:
     '0': 1.0
+  seeds:
+    '0': 2.0
+  wheat:
+    '0': 2.0
