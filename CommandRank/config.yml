@@ -249,7 +249,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% ranked up to AntEater!
+        - broadcast %name% ranked up to A!
         - pex user %name% group set A
         enabled: true
     giveitems:
@@ -273,7 +273,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% ranked up to ButterFace!
+        - broadcast %name% ranked up to B!
         - pex user %name% group add B
         enabled: true
     giveitems:
@@ -297,7 +297,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% ranked up to Cameltoe!
+        - broadcast %name% ranked up to C!
         - pex user %name% group add C
         enabled: true
     giveitems:
@@ -321,7 +321,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% is now a DoucheBag!
+        - broadcast %name% ranked up to D!
         - pex user %name% group add D
         enabled: true
     giveitems:
@@ -345,7 +345,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% is someones Erection!
+        - broadcast %name% ranked up to E!
         - pex user %name% group add E
         enabled: true
     giveitems:
@@ -369,7 +369,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% ranked up to FartKnocker!
+        - broadcast %name% ranked up to F!
         - pex user %name% group add F
         enabled: true
     giveitems:
@@ -393,7 +393,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become a true Goof!
+        - broadcast %name% ranked up to G!
         - pex user %name% group add G
         enabled: true
     giveitems:
@@ -417,7 +417,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become a pissy Hoser!
+        - broadcast %name% ranked up to H!
         - pex user %name% group add H
         enabled: true
     giveitems:
@@ -441,7 +441,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become an Imbecile!
+        - broadcast %name% ranked up to I!
         - pex user %name% group add I
         enabled: true
     giveitems:
@@ -465,7 +465,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become a Jerkoff!
+        - broadcast %name% ranked up to J!
         - pex user %name% group add J
         enabled: true
     giveitems:
@@ -489,7 +489,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become a KnobGoblin!
+        - broadcast %name% ranked up to K!
         - pex user %name% group add K
         enabled: true
     giveitems:
@@ -513,7 +513,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become a Lardass!
+        - broadcast %name% ranked up to L!
         - pex user %name% group add L
         enabled: true
     giveitems:
@@ -537,7 +537,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become a McFaggot!
+        - broadcast %name% ranked up to M!
         - pex user %name% group add M
         enabled: true
     giveitems:
@@ -561,7 +561,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become a Nutsack!
+        - broadcast %name% ranked up to N!
         - pex user %name% group add N
         enabled: true
     giveitems:
@@ -585,7 +585,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become an OldBastard!
+        - broadcast %name% ranked up to O!
         - pex user %name% group add O
         enabled: true
     giveitems:
@@ -609,7 +609,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become a Pissflap!
+        - broadcast %name% ranked up to P!
         - pex user %name% group add P
         enabled: true
     giveitems:
@@ -633,7 +633,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has just Queefed and ranked up!
+        - broadcast %name% ranked up to Q!
         - pex user %name% group add Q
         enabled: true
     giveitems:
@@ -657,7 +657,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% is a Retard and just ranked up!
+        - broadcast %name% ranked up to R!
         - pex user %name% group add R
         enabled: true
     giveitems:
@@ -681,7 +681,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become a Scumbag!
+        - broadcast %name% ranked up to S!
         - pex user %name% group add S
         enabled: true
     giveitems:
@@ -705,7 +705,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become a ThunderCunt!
+        - broadcast %name% ranked up to T!
         - pex user %name% group add T
         enabled: true
     giveitems:
@@ -729,7 +729,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become a Urethra!
+        - broadcast %name% ranked up to U!
         - pex user %name% group add U
         enabled: true
     giveitems:
@@ -753,7 +753,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become a VajayJay!
+        - broadcast %name% ranked up to V!
         - pex user %name% group add V
         enabled: true
     giveitems:
@@ -777,7 +777,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% is a bloody Wanker!
+        - broadcast %name% ranked up to W!
         - pex user %name% group add W
         enabled: true
     giveitems:
@@ -801,7 +801,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become a Xunt!
+        - broadcast %name% ranked up to X!
         - pex user %name% group add X
         enabled: true
     giveitems:
@@ -825,7 +825,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become a Yuppie!
+        - broadcast %name% ranked up to Y!
         - pex user %name% group add Y
         enabled: true
     giveitems:
@@ -849,7 +849,7 @@ rankups:
         enabled: true
       byconsole:
         list:
-        - broadcast %name% has ranked up to become a ZipperHead!
+        - broadcast %name% ranked up to Z!
         - pex user %name% group add Z
         enabled: true
     giveitems:
