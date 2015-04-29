@@ -330,7 +330,7 @@ rankups:
   e:
     message: You can now use &a/warp E
     economy:
-      price: 700
+      price: 1000
       enabled: true
     onlinetime:
       enabled: false
@@ -354,7 +354,7 @@ rankups:
   f:
     message: You can now use &a/warp F
     economy:
-      price: 1300
+      price: 1500
       enabled: true
     onlinetime:
       enabled: false
@@ -402,7 +402,7 @@ rankups:
   h:
     message: You can now use &a/warp H
     economy:
-      price: 4800
+      price: 5000
       enabled: true
     onlinetime:
       enabled: false
@@ -426,7 +426,7 @@ rankups:
   i:
     message: You can now use &a/warp I
     economy:
-      price: 9100
+      price: 10000
       enabled: true
     onlinetime:
       enabled: false
@@ -450,7 +450,7 @@ rankups:
   j:
     message: You can now use &a/warp J &rand &a/warp Adept
     economy:
-      price: 17000
+      price: 20000
       enabled: true
     onlinetime:
       enabled: false
@@ -474,7 +474,7 @@ rankups:
   k:
     message: You can now use &a/warp K
     economy:
-      price: 33000
+      price: 50000
       enabled: true
     onlinetime:
       enabled: false
@@ -498,7 +498,7 @@ rankups:
   l:
     message: You can now use &a/warp L
     economy:
-      price: 62000
+      price: 75000
       enabled: true
     onlinetime:
       enabled: false
@@ -522,7 +522,7 @@ rankups:
   m:
     message: You can now use &a/warp M
     economy:
-      price: 120000
+      price: 100000
       enabled: true
     onlinetime:
       enabled: false
@@ -546,7 +546,7 @@ rankups:
   n:
     message: You can now use &a/warp N
     economy:
-      price: 220000
+      price: 200000
       enabled: true
     onlinetime:
       enabled: false
@@ -570,7 +570,7 @@ rankups:
   o:
     message: You can now use &a/warp O
     economy:
-      price: 430000
+      price: 400000
       enabled: true
     onlinetime:
       enabled: false
@@ -594,7 +594,7 @@ rankups:
   p:
     message: You can now use &a/warp P
     economy:
-      price: 815000
+      price: 800000
       enabled: true
     onlinetime:
       enabled: false
@@ -642,7 +642,7 @@ rankups:
   r:
     message: You can now use &a/warp R
     economy:
-      price: 2950000
+      price: 3000000
       enabled: true
     onlinetime:
       enabled: false
@@ -666,7 +666,7 @@ rankups:
   s:
     message: You can now use &a/warp S &rand &a/warp Expert
     economy:
-      price: 5500000
+      price: 5000000
       enabled: true
     onlinetime:
       enabled: false
