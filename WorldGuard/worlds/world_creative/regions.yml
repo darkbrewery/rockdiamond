@@ -15,6 +15,6 @@ regions:
         priority: 0
         flags:
             mob-spawning: deny
-            blocked-cmds: [/shop, /sell all, /shops, /sell]
+            blocked-cmds: [/shop, /auction, /shops, /sell all, /sell, /auc]
         owners: {}
         members: {}

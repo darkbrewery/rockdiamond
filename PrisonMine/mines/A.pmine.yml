@@ -31,7 +31,7 @@ mine:
   - ==: MineBlock
     blockData: 0
     blockId: 0
-    chance: 0.04807999999999994
+    chance: 0.04827999999999995
   - ==: MineBlock
     blockData: 0
     blockId: 145
@@ -86,14 +86,6 @@ mine:
     chance: 1.0E-4
   - ==: MineBlock
     blockData: 0
-    blockId: 7
-    chance: 1.0E-4
-  - ==: MineBlock
-    blockData: 0
-    blockId: 49
-    chance: 1.0E-4
-  - ==: MineBlock
-    blockData: 0
     blockId: 170
     chance: 1.0E-4
   - ==: MineBlock
@@ -120,7 +112,7 @@ mine:
     y: 90.0
     world: spawn
     x: 14.616399847867127
-  blocksLeft: 647
+  blocksLeft: 664
   resetTriggers:
   - ==: CompositionTrigger
     percent: '0.4'
