@@ -323,9 +323,9 @@ enabledSigns:
   #- free
   - disposal
   - warp
-  #- kit
+  - kit
   #- mail
-  #- enchant
+  - enchant
   #- gamemode
   - heal
   #- info
@@ -424,11 +424,11 @@ allow-silent-join-quit: true
 
 # You can set a custom join message here, set to "none" to disable.
 # You may use color codes, use {USERNAME} the player's name or {PLAYER} for the player's displayname.
-custom-join-message: "&b&l&l>>&e&l&oLog&a+&e&l&oin&b&l&o>> &r{USERNAME}"
+custom-join-message: "&b&l&o>>&e&l&oLog&a+&e&l&oin&b&l&o>> &r{USERNAME}"
 
 # You can set a custom quit message here, set to "none" to disable.
 # You may use color codes, use {USERNAME} the player's name or {PLAYER} for the player's displayname.
-custom-quit-message: "&d&l&l>>&c&l&oLogout&d&l&o>> &r{USERNAME}"
+custom-quit-message: "&d&l&o>>&c&l&oLogout&d&l&o>> &r{USERNAME}"
 
 # Add worlds to this list, if you want to automatically disable god mode there.
 no-god-in-worlds:
@@ -586,15 +586,15 @@ chat:
   #format: '&7{GROUP}&r {DISPLAYNAME}&7:&r {MESSAGE}'
 
   group-formats:
-    Freshmeat: '&2Freshmeat &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    A: '&2[&eAntEater&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    B: '&2[&eButterFace&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    C: '&2[&eCamelToe&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    D: '&2[&eDoucheBag&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    E: '&2[&eErection&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    F: '&2[&eFartKnocker&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    G: '&2[&eGoof&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    H: '&2[&eHoser&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    Freshmeat: '&2[&eFreshmeat&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    A: '&2[&aNovice&2][&eAnt&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    B: '&2[&aNovice&2][&eBoar&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    C: '&2[&aNovice&2][&eCamel&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    D: '&2[&aNovice&2][&eDingo&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    E: '&2[&aNovice&2][&eEmu&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    F: '&2[&aNovice&2][&eFox&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    G: '&2[&aNovice&2][&eGerbil&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
+    H: '&2[&aNovice&2][&eHare&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     I: '&9[&eImbecile&9] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     J: '&9[&eJerkoff&9] &b{DISPLAYNAME}&7:&r {MESSAGE}'
     K: '&9[&eKnobGoblin&9] &b{DISPLAYNAME}&7:&r {MESSAGE}'
