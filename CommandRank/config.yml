@@ -250,7 +250,7 @@ rankups:
       byconsole:
         list:
         - broadcast %name% ranked up to A!
-        - pex user %name% group set A
+        - pex user %name% group add A
         enabled: true
     giveitems:
       equiparmor: false
@@ -258,7 +258,7 @@ rankups:
   b:
     message: You can now use &a/warp B
     economy:
-      price: 100
+      price: 150
       enabled: true
     onlinetime:
       enabled: false
@@ -282,7 +282,7 @@ rankups:
   c:
     message: You can now use &a/warp C
     economy:
-      price: 200
+      price: 250
       enabled: true
     onlinetime:
       enabled: false
@@ -306,7 +306,7 @@ rankups:
   d:
     message: You can now use &a/warp D
     economy:
-      price: 375
+      price: 500
       enabled: true
     onlinetime:
       enabled: false
