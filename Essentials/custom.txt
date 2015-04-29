@@ -41,20 +41,20 @@ To add /vote, add this to commands.yml:
 ------- Ranks Page 1 of 5 --------
  ▬▬ι═══- &2[&bFreshMeat&2] &aDefault
  ▬▬ι═══- &2[&bAntEater&2] &a$0
- ▬▬ι═══- &2[&bButterFace&2] &a$100
- ▬▬ι═══- &2[&bCamelToe&2] &a$200
- ▬▬ι═══- &2[&bDoucheBag&2] &a$375
- ▬▬ι═══- &2[&bErection&2] &a$700
- ▬▬ι═══- &2[&bFartKnocker&2] &a$1,300
+ ▬▬ι═══- &2[&bButterFace&2] &a$150
+ ▬▬ι═══- &2[&bCamelToe&2] &a$250
+ ▬▬ι═══- &2[&bDoucheBag&2] &a$500
+ ▬▬ι═══- &2[&bErection&2] &a$1000
+ ▬▬ι═══- &2[&bFartKnocker&2] &a$1,500
 ----- Do /ranks 2 for Page 2 -----
 ------- Ranks Page 2 of 5 --------
  ▬▬ι═══- &2[&bGoof&2] &a$2,500
- ▬▬ι═══- &2[&bHoser&2] &a$4,800
- ▬▬ι═══- &9[&bImbecile&9] &a$9,100
- ▬▬ι═══- &9[&bJerkOff&9] &a$17,000
- ▬▬ι═══- &9[&bKnobGoblin&9] &a$33,000
- ▬▬ι═══- &9[&bLardAss&9] &a$62,000
- ▬▬ι═══- &9[&bMcFaggot&9] &a$120,000
+ ▬▬ι═══- &2[&bHoser&2] &a$5,000
+ ▬▬ι═══- &9[&bImbecile&9] &a$10,100
+ ▬▬ι═══- &9[&bJerkOff&9] &a$20,000
+ ▬▬ι═══- &9[&bKnobGoblin&9] &a$50,000
+ ▬▬ι═══- &9[&bLardAss&9] &a$75,000
+ ▬▬ι═══- &9[&bMcFaggot&9] &a$100,000
 ----- Do /ranks 3 for Page 3 -----
 ------- Ranks Page 3 of 5 --------
  ▬▬ι═══- &9[&bNutSack&9] &a$220,000
