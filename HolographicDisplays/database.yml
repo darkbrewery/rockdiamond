@@ -1,19 +1,8 @@
-prison:
-  location: spawn, -5.700, 85.227, -1237.438
-  lines:
-  - '&c&l&nPrison'
-  - '&b&lEnter at your own'
-  - '&4&l&nRISK!'
 moon:
   location: spawn, 34.700, 84.000, -1237.487
   lines:
   - '&l&nThe Moon'
   - '&4&lPVP &5&l& &4&lGreifing allowed'
-plots:
-  location: spawn, 14.529, 84.605, -1256.700
-  lines:
-  - '&l&nPlot World'
-  - '&e&lWatch Out For Mobs!!'
 loveyou:
   location: spawn, 14.505, 94.000, -1237.484
   lines:
@@ -23,11 +12,7 @@ donor:
   lines:
   - '&lDonor Ranks'
 suggestions1:
-  location: spawn, -6.585, 84.000, -1241.579
-  lines:
-  - '&uSuggestions'
-suggestions2:
-  location: spawn, -6.521, 84.000, -1233.448
+  location: spawn, -5.864, 85.000, -1230.170
   lines:
   - '&uSuggestions'
 playershops:
@@ -39,13 +24,7 @@ mine:
   lines:
   - '&u&lStarter Mine'
 crate1:
-  location: spawn, 6.591, 85.075, -1232.509
-  lines:
-  - '&u&lRewards Chest'
-  - Opens with Vote & Badass keys
-  - '&b&l/Vote &rfor prizes!'
-crate2:
-  location: spawn, 6.490, 85.075, -1242.507
+  location: spawn, -5.878, 85.000, -1244.850
   lines:
   - '&u&lRewards Chest'
   - Opens with Vote & Badass keys

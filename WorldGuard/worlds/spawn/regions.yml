@@ -13,8 +13,8 @@ regions:
     __global__:
         type: global
         priority: 0
-        flags: {pvp: deny, enderpearl: deny, use: allow, build: deny, mob-spawning: deny,
-            soil-dry: deny}
+        flags: {pvp: deny, enderpearl: deny, use: allow, build: deny, soil-dry: deny,
+            mob-spawning: deny}
         owners: {}
         members: {}
     a_door:
@@ -866,9 +866,10 @@ regions:
         min: {x: -108.0, y: 55.0, z: -1303.0}
         max: {x: -100.0, y: 69.0, z: -1295.0}
         priority: 10
-        flags: {build: allow}
+        flags: {}
         owners: {}
-        members: {}
+        members:
+            groups: [w]
     wartfarm:
         type: cuboid
         min: {x: 22.0, y: 141.0, z: -1088.0}

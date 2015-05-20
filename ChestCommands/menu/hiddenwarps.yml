@@ -249,7 +249,7 @@ Xp:
   ID: exp_bottle
   POSITION-X: 4
   POSITION-Y: 3
-  VIEW-PERMISSION: 'essentials.warps.Orchard'
+  VIEW-PERMISSION: 'essentials.warps.XP'
 Icemine:
   COMMAND: 'warp icemine'
   NAME: '&eIce Mine'
