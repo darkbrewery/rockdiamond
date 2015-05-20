@@ -73,7 +73,7 @@ fortune-world-blacklist:
 - free
 - world_the_end
 block-rewards:
-  enabled: false
+  enabled: true
   repeating:
     '1': []
   standard:
