@@ -70,3 +70,8 @@ xpfarm:
   location: spawn, -186.332, 98.287, -1275.533
   lines:
   - '&uExperience Farm'
+a_mine:
+  location: spawn, 14.502, 93.200, -1313.010
+  lines:
+  - '&u&lA Mine'
+  - '&oSell with &9/sell all'

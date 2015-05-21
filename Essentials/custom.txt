@@ -50,36 +50,36 @@ To add /vote, add this to commands.yml:
 ------- Ranks Page 2 of 5 --------
  ▬▬ι═══- &2[&bGoof&2] &a$2,500
  ▬▬ι═══- &2[&bHoser&2] &a$5,000
- ▬▬ι═══- &9[&bImbecile&9] &a$10,100
+ ▬▬ι═══- &9[&bImbecile&9] &a$10,000
  ▬▬ι═══- &9[&bJerkOff&9] &a$20,000
  ▬▬ι═══- &9[&bKnobGoblin&9] &a$50,000
  ▬▬ι═══- &9[&bLardAss&9] &a$75,000
  ▬▬ι═══- &9[&bMcFaggot&9] &a$100,000
 ----- Do /ranks 3 for Page 3 -----
 ------- Ranks Page 3 of 5 --------
- ▬▬ι═══- &9[&bNutSack&9] &a$220,000
- ▬▬ι═══- &9[&bOldBastard&9] &a$430,000
- ▬▬ι═══- &9[&bPissFlap&9] &a$815,000
- ▬▬ι═══- &4[&bQueef&4] &a$1,500,000
- ▬▬ι═══- &4[&bRetard&4] &a$2,950,000
- ▬▬ι═══- &4[&bScumbag&4] &a$5,500,000
- ▬▬ι═══- &4[&bThunderCunt&4] &a$10,000,000
+ ▬▬ι═══- &9[&bNutSack&9] &a$150,000
+ ▬▬ι═══- &9[&bOldBastard&9] &a$250,000
+ ▬▬ι═══- &9[&bPissFlap&9] &a$500,000
+ ▬▬ι═══- &4[&bQueef&4] &a$750,000
+ ▬▬ι═══- &4[&bRetard&4] &a$1,000,000
+ ▬▬ι═══- &4[&bScumbag&4] &a$1,500,000
+ ▬▬ι═══- &4[&bThunderCunt&4] &a$2,000,000
 ----- Do /ranks 4 for Page 4 -----
 ------- Ranks Page 4 of 5 --------
- ▬▬ι═══- &4[&bUrethra&4] &a$20,000,000
- ▬▬ι═══- &4[&bVajayjay&4] &a$40,000,000
- ▬▬ι═══- &4[&bWanker&4] &a$75,000,000
- ▬▬ι═══- &4[&bXunt&4] &a$140,000,000
- ▬▬ι═══- &d[&bYuppie&d] &a$260,000,000
- ▬▬ι═══- &d[&bZitLicker&d] &a$500,000,000
- ▬▬ι═══- &d[&bFree&d] &a$750,000,000
+ ▬▬ι═══- &4[&bUrethra&4] &a$4,000,000
+ ▬▬ι═══- &4[&bVajayjay&4] &a$5,000,000
+ ▬▬ι═══- &4[&bWanker&4] &a$6,000,000
+ ▬▬ι═══- &4[&bXunt&4] &a$7,000,000
+ ▬▬ι═══- &d[&bYuppie&d] &a$8,000,000
+ ▬▬ι═══- &d[&bZitLicker&d] &a$9,000,000
+ ▬▬ι═══- &d[&bFree&d] &a$10,000,000
 ----- Do /ranks 5 for Page 5 -----
 ------- Ranks Page 5 of 5 --------
- ▬▬ι═══- &d[&bSavage&d] &a$750,000,000
- ▬▬ι═══- &d[&bPsycho&d] &a$750,000,000
- ▬▬ι═══- &d[&bBadass&d] &a$750,000,000
- ▬▬ι═══- &d[&bDemon&d] &a$750,000,000
- ▬▬ι═══- &d[&bOverlord&d] &a$750,000,000
+ ▬▬ι═══- &d[&bSavage&d] &a$10,000,000
+ ▬▬ι═══- &d[&bPsycho&d] &a$10,000,000
+ ▬▬ι═══- &d[&bBadass&d] &a$10,000,000
+ ▬▬ι═══- &d[&bDemon&d] &a$10,000,000
+ ▬▬ι═══- &d[&bOverlord&d] &a$10,000,000
 
 
 #changelog

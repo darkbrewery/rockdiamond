@@ -245,7 +245,6 @@ rankups:
     commands:
       byplayer:
         list:
-        - warp Tutorial
         enabled: true
       byconsole:
         list:
@@ -546,7 +545,7 @@ rankups:
   n:
     message: You can now use &a/warp N
     economy:
-      price: 200000
+      price: 150000
       enabled: true
     onlinetime:
       enabled: false
@@ -570,7 +569,7 @@ rankups:
   o:
     message: You can now use &a/warp O
     economy:
-      price: 400000
+      price: 250000
       enabled: true
     onlinetime:
       enabled: false
@@ -594,7 +593,7 @@ rankups:
   p:
     message: You can now use &a/warp P
     economy:
-      price: 800000
+      price: 500000
       enabled: true
     onlinetime:
       enabled: false
@@ -618,7 +617,7 @@ rankups:
   q:
     message: You can now use &a/warp Q
     economy:
-      price: 1500000
+      price: 750000
       enabled: true
     onlinetime:
       enabled: false
@@ -642,7 +641,7 @@ rankups:
   r:
     message: You can now use &a/warp R
     economy:
-      price: 3000000
+      price: 1000000
       enabled: true
     onlinetime:
       enabled: false
@@ -666,7 +665,7 @@ rankups:
   s:
     message: You can now use &a/warp S &rand &a/warp Expert
     economy:
-      price: 5000000
+      price: 1500000
       enabled: true
     onlinetime:
       enabled: false
@@ -690,7 +689,7 @@ rankups:
   t:
     message: You can now use &a/warp T
     economy:
-      price: 10000000
+      price: 2000000
       enabled: true
     onlinetime:
       enabled: false
@@ -714,7 +713,7 @@ rankups:
   u:
     message: You can now use &a/warp U
     economy:
-      price: 20000000
+      price: 4000000
       enabled: true
     onlinetime:
       enabled: false
@@ -738,7 +737,7 @@ rankups:
   v:
     message: You can now use &a/warp V
     economy:
-      price: 40000000
+      price: 5000000
       enabled: true
     onlinetime:
       enabled: false
@@ -762,7 +761,7 @@ rankups:
   w:
     message: You can now use &a/warp W
     economy:
-      price: 75000000
+      price: 6000000
       enabled: true
     onlinetime:
       enabled: false
@@ -786,7 +785,7 @@ rankups:
   x:
     message: You can now use &a/warp X
     economy:
-      price: 140000000
+      price: 7000000
       enabled: true
     onlinetime:
       enabled: false
@@ -810,7 +809,7 @@ rankups:
   y:
     message: You can now use &a/warp Y
     economy:
-      price: 260000000
+      price: 8000000
       enabled: true
     onlinetime:
       enabled: false
@@ -834,7 +833,7 @@ rankups:
   z:
     message: You can now use &a/warp Z
     economy:
-      price: 500000000
+      price: 9000000
       enabled: true
     onlinetime:
       enabled: false
@@ -858,7 +857,7 @@ rankups:
   free:
     message: You can now use &a/warp Free
     economy:
-      price: 750000000
+      price: 10000000
       enabled: true
     onlinetime:
       enabled: false
@@ -882,7 +881,7 @@ rankups:
   savage:
     message: You are now a Savage
     economy:
-      price: 750000000
+      price: 10000000
       enabled: true
     onlinetime:
       enabled: false
@@ -906,7 +905,7 @@ rankups:
   psycho:
     message: You are now a Psycho
     economy:
-      price: 750000000
+      price: 10000000
       enabled: true
     onlinetime:
       enabled: false
@@ -930,7 +929,7 @@ rankups:
   badass:
     message: You are now a Badass
     economy:
-      price: 750000000
+      price: 10000000
       enabled: true
     onlinetime:
       enabled: false
@@ -954,7 +953,7 @@ rankups:
   demon:
     message: You are now a demon
     economy:
-      price: 750000000
+      price: 10000000
       enabled: true
     onlinetime:
       enabled: false
@@ -978,7 +977,7 @@ rankups:
   overlord:
     message: You are now an Overlord
     economy:
-      price: 750000000
+      price: 10000000
       enabled: true
     onlinetime:
       enabled: false
