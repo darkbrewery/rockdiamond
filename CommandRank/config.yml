@@ -880,7 +880,7 @@ rankups:
   savage:
     message: You are now a Savage
     economy:
-      price: 10000000
+      price: 12000000
       enabled: true
     onlinetime:
       enabled: false
@@ -904,7 +904,7 @@ rankups:
   psycho:
     message: You are now a Psycho
     economy:
-      price: 10000000
+      price: 14000000
       enabled: true
     onlinetime:
       enabled: false
@@ -928,7 +928,7 @@ rankups:
   badass:
     message: You are now a Badass
     economy:
-      price: 10000000
+      price: 16000000
       enabled: true
     onlinetime:
       enabled: false
@@ -952,7 +952,7 @@ rankups:
   demon:
     message: You are now a demon
     economy:
-      price: 10000000
+      price: 18000000
       enabled: true
     onlinetime:
       enabled: false
@@ -976,7 +976,7 @@ rankups:
   overlord:
     message: You are now an Overlord
     economy:
-      price: 10000000
+      price: 20000000
       enabled: true
     onlinetime:
       enabled: false

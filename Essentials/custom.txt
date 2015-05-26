@@ -75,11 +75,11 @@ To add /vote, add this to commands.yml:
  ▬▬ι═══- &d[&bFree&d] &a$10,000,000
 ----- Do /ranks 5 for Page 5 -----
 ------- Ranks Page 5 of 5 --------
- ▬▬ι═══- &d[&bSavage&d] &a$10,000,000
- ▬▬ι═══- &d[&bPsycho&d] &a$10,000,000
- ▬▬ι═══- &d[&bBadass&d] &a$10,000,000
- ▬▬ι═══- &d[&bDemon&d] &a$10,000,000
- ▬▬ι═══- &d[&bOverlord&d] &a$10,000,000
+ ▬▬ι═══- &d[&bSavage&d] &a$12,000,000
+ ▬▬ι═══- &d[&bPsycho&d] &a$14,000,000
+ ▬▬ι═══- &d[&bBadass&d] &a$16,000,000
+ ▬▬ι═══- &d[&bDemon&d] &a$18,000,000
+ ▬▬ι═══- &d[&bOverlord&d] &a$20,000,000
 
 
 #changelog
