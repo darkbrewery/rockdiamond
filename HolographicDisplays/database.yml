@@ -15,10 +15,6 @@ suggestions1:
   location: spawn, -5.864, 85.000, -1230.170
   lines:
   - '&uSuggestions'
-playershops:
-  location: spawn, 33.767, 85.000, -1256.768
-  lines:
-  - '&d&l Player Shops'
 mine:
   location: spawn, 31.513, 84.000, -1220.420
   lines:
