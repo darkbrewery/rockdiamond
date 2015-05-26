@@ -11,3 +11,10 @@ command:
 autosell:
   toggle:
   - '&7Automatical Selling is now turned: %state%'
+  stats:
+  - ''
+  - '&4&l- AutoSell Stats for the last 100 Blocks -'
+  - ''
+  - '&8Total amount of Items sold: &c%items%'
+  - '&8Total amount of Money earned: &c%money%'
+  - ''

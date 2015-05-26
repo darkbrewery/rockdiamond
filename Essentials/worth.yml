@@ -1,7 +1,9 @@
 worth:
   cobblestone: 0.75
-  ironingot: 16.0
-  goldingot: 64.0
+  ironingot:
+    '0': 32.0
+  goldingot:
+    '0': 64.0
   inksac:
     '4': 32.0
   redstone: 8.0
@@ -61,14 +63,18 @@ worth:
   brick: 20.0
   redstoneblock: 72.0
   quartzblock:
-    '0': 4000.0
+    '0': 512.0
     '1': 64.0
     '2': 64.0
-  ironblock: 144.0
-  goldblock: 576.0
+  ironblock:
+    '0': 288.0
+  goldblock:
+    '0': 576.0
   coalblock: 36.0
-  lapisblock: 288.0
-  diamond: 128.0
+  lapisblock:
+    '0': 144.0
+  diamond:
+    '0': 210.0
   netherbrick:
     '0': 6.0
   enderstone:
@@ -77,13 +83,16 @@ worth:
     '0': 8.0
     '1': 8.0
     '2': 8.0
-  diamondblock: 1250.0
+  diamondblock:
+    '0': 1890.0
   obsidian: 512.0
-  emeraldblock: 4600.0
+  emeraldblock:
+    '0': 2520.0
   glowstonedust:
-    '0': 512.0
+    '0': 128.0
   netherstar: 7500.0
-  beacon: 12500.0
+  beacon:
+    '0': 2400.0
   jukebox: 500.0
   mossy_cobblestone: 250.0
   tnt: 50.0
@@ -96,7 +105,7 @@ worth:
   enderchest: 500.0
   ghasttear: 500.0
   inksack:
-    '4': 32.0
+    '4': 16.0
   log2:
     '0': 2.0
   redmushroom:
@@ -122,7 +131,7 @@ worth:
   bedrock:
     '0': 0.1
   glowstone:
-    '0': 2048.0
+    '0': 512.0
   bookandquill:
     '0': 1.0
   seeds:
@@ -131,3 +140,7 @@ worth:
     '0': 2.0
   netherbrickitem:
     '0': 12.0
+  quartz:
+    '0': 128.0
+  emerald:
+    '0': 280.0

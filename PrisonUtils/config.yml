@@ -26,12 +26,26 @@ mining:
   autosmelt-blacklist:
   - LOG
   - LOG_2
-  pickaxe-name: '&b{PLAYER}''s Pickaxe &8[&6{BLOCKSBROKEN} Blocks broken&8]'
-  rename-pickaxe: true
-  enable-lore: true
   block-counter: true
   soulbound-pickaxes: true
   soulbound-backpacks: true
+  pickaxe-name: '&b{PLAYER}''s Pickaxe &8[&6{BLOCKSBROKEN} Blocks broken&8]'
+  rename-pickaxe: true
+  enable-lore: true
+autosell:
+  summary-every: 100
+pickaxe:
+  name:
+    enabled: true
+    prefix: '&7({DURABILITY}) &b{PLAYER}''s '
+    suffix: ' &8[&6{BLOCKSBROKEN} Blocks broken&8]'
+  lore:
+    enabled: false
+    lines:
+    - '&7Pickaxe Owner: &e{PLAYER}'
+    - '&7Blocks broken: &e{BLOCKSBROKEN}'
+    - '&7Durability: &e{DURABILITY}'
+    - ''
 full-inventory:
   sound: true
   title: true
