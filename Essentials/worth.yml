@@ -74,7 +74,7 @@ worth:
   lapisblock:
     '0': 144.0
   diamond:
-    '0': 210.0
+    '0': 140.0
   netherbrick:
     '0': 6.0
   enderstone:
@@ -84,10 +84,10 @@ worth:
     '1': 8.0
     '2': 8.0
   diamondblock:
-    '0': 1890.0
+    '0': 1260.0
   obsidian: 512.0
   emeraldblock:
-    '0': 2520.0
+    '0': 1890.0
   glowstonedust:
     '0': 128.0
   netherstar: 7500.0
@@ -143,6 +143,6 @@ worth:
   quartz:
     '0': 128.0
   emerald:
-    '0': 280.0
+    '0': 210.0
   sealantern:
     '0': 96.0
