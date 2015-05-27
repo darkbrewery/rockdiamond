@@ -107,7 +107,7 @@ worlds:
     autoload: true
     bedrespawn: true
   plotworld:
-    generator: PlotMe-DefaultGenerator
+    generator: PlotSquared
     seed: 408156545396662488
     environment: NORMAL
     type: NORMAL
@@ -284,7 +284,7 @@ worlds:
     autoload: true
     bedrespawn: true
   world_creative:
-    generator: PlotMe-DefaultGenerator
+    generator: PlotSquared
     seed: -8122902717924960935
     environment: NORMAL
     type: NORMAL

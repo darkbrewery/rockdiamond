@@ -1,0 +1,162 @@
+version: 2.11.9
+schematics:
+  save_path: /home/minecraft/plugins/PlotSquared/schematics
+chunk-processor:
+  enabled: false
+  max-entities: 512
+  max-blockstates: 4096
+uuid:
+  read-from-disk: false
+claim:
+  max-auto-area: 4
+clear:
+  fastmode: false
+  auto:
+    enabled: false
+    days: 365
+    clear-interval-seconds: 120
+  check-disk: false
+  'on':
+    ban: false
+max_plots: 64
+console:
+  color: true
+teleport:
+  on_login: false
+  delay: 0
+debug: true
+clusters:
+  enabled: false
+auto_update: false
+plotme-convert:
+  enabled: true
+  cache-uuids: false
+confirmation:
+  unlink: true
+  delete: true
+  clear: true
+kill_road_mobs: false
+metrics: true
+cache:
+  permissions: false
+plotme-alias: false
+worldedit:
+  max-iterations: 1000
+  max-volume: 500000
+  blacklist:
+  - cs
+  - .s
+  - restore
+  - snapshot
+  - delchunks
+  - listchunks
+  require-selection-in-mask: true
+comments:
+  notifications:
+    enabled: false
+mob_pathfinding: true
+UUID:
+  force-lowercase: false
+  offline: false
+protection:
+  tnt-listener:
+    enabled: false
+  piston:
+    falling-blocks: true
+titles: true
+global_limit: false
+worlds:
+  plotworld:
+    road:
+      width: 5
+      block: '112'
+      height: 64
+    plot:
+      size: 11
+      floor:
+      - '2'
+      filling:
+      - '3'
+      height: 64
+      biome: FOREST
+      bedrock: true
+      create_signs: true
+      auto_merge: true
+    wall:
+      block: '44:7'
+      height: 64
+      filling: '1:0'
+      block_claimed: '44:1'
+    event:
+      spawn:
+        breeding: false
+        egg: true
+        custom: true
+      pvp: false
+      pve: false
+    economy:
+      use: false
+      prices:
+        claim: 100.0
+        sell: 75.0
+        merge: 100.0
+    home:
+      allow-nonmembers: false
+      default: side
+    world:
+      border: false
+    schematic:
+      file: 'null'
+      on_claim: false
+      specify_on_claim: false
+    chat:
+      enabled: false
+    flags: {}
+    natural_mob_spawning: false
+  world_creative:
+    road:
+      width: 5
+      block: '112'
+      height: 64
+    plot:
+      size: 65
+      floor:
+      - '2'
+      filling:
+      - '3'
+      height: 64
+      biome: FOREST
+      bedrock: true
+      create_signs: true
+      auto_merge: false
+    wall:
+      block: '44:7'
+      height: 64
+      filling: '1:0'
+      block_claimed: '44:1'
+    event:
+      spawn:
+        breeding: false
+        egg: false
+        custom: true
+      pvp: false
+      pve: false
+    economy:
+      use: false
+      prices:
+        claim: 100.0
+        sell: 75.0
+        merge: 100.0
+    home:
+      allow-nonmembers: false
+      default: side
+    world:
+      border: false
+    schematic:
+      file: 'null'
+      on_claim: false
+      specify_on_claim: false
+    chat:
+      enabled: false
+    flags: {}
+    natural_mob_spawning: false
