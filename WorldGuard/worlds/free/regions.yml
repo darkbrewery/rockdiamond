@@ -16,9 +16,9 @@ regions:
         flags:
             chest-access: deny
             use: deny
+            build: allow
             teleport: {yaw: 359.85046, pitch: 10.199988, z: -153.5, y: 137.0, world: free,
                 x: -297.5}
-            build: allow
         owners: {}
         members:
             groups: [free]
@@ -115,4 +115,13 @@ regions:
             farewell: Now Leaving SafeZone
             blocked-cmds: [/f claim auto, /f claim, /f claim a]
         owners: {}
+        members: {}
+    xxmv_ianxx:
+        type: cuboid
+        min: {x: -466.0, y: 14.0, z: -384.0}
+        max: {x: -447.0, y: 34.0, z: -365.0}
+        priority: 0
+        flags: {}
+        owners:
+            players: [xxmv_ianxx]
         members: {}

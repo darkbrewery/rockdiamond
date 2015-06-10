@@ -13,8 +13,8 @@ regions:
     __global__:
         type: global
         priority: 0
-        flags: {pvp: deny, enderpearl: deny, use: allow, build: deny, soil-dry: deny,
-            mob-spawning: deny}
+        flags: {pvp: deny, enderpearl: deny, use: allow, build: deny, mob-spawning: deny,
+            soil-dry: deny}
         owners: {}
         members: {}
     a_door:
@@ -384,8 +384,9 @@ regions:
         min: {x: 133.0, y: 52.0, z: -1298.0}
         max: {x: 141.0, y: 71.0, z: -1290.0}
         priority: 10
-        flags: {build: allow}
-        owners: {}
+        flags: {}
+        owners:
+            groups: [n]
         members: {}
     o_door:
         type: cuboid
@@ -409,7 +410,7 @@ regions:
         min: {x: 46.0, y: 103.0, z: -1319.0}
         max: {x: 82.0, y: 110.0, z: -1295.0}
         priority: 10
-        flags: {treefarm: deny}
+        flags: {build: allow}
         owners: {}
         members: {}
     p_door:

@@ -14,7 +14,9 @@ donor:
 suggestions1:
   location: spawn, -5.864, 85.000, -1230.170
   lines:
-  - '&uSuggestions'
+  - '&u&lSuggestions'
+  - '&oBug reports and'
+  - '&oserver ideas go here.'
 mine:
   location: spawn, 31.513, 84.000, -1220.420
   lines:
@@ -54,7 +56,7 @@ claymine:
   lines:
   - '&u&lClay Mine'
 welcome:
-  location: spawn, -71.539, 86.200, -1153.730
+  location: spawn, -29.543, 81.089, -1237.472
   lines:
   - '&b&lRock &c&lDiamond &rPrison'
   - Welcomes you !!!

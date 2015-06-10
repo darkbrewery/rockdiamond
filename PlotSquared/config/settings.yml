@@ -1,4 +1,4 @@
-version: 2.11.9
+version: 2.11.8
 schematics:
   save_path: /home/minecraft/plugins/PlotSquared/schematics
 chunk-processor:
@@ -29,7 +29,7 @@ clusters:
   enabled: false
 auto_update: false
 plotme-convert:
-  enabled: true
+  enabled: false
   cache-uuids: false
 confirmation:
   unlink: true
@@ -97,9 +97,9 @@ worlds:
     economy:
       use: false
       prices:
-        claim: 100.0
-        sell: 75.0
-        merge: 100.0
+        claim: 10000.0
+        sell: 7500.0
+        merge: 1000000.0
     home:
       allow-nonmembers: false
       default: side

@@ -257,6 +257,15 @@ kits:
       - 313 1 unbreaking:5 protection:3 name:&4&lExpert_GumBoots
       - 278 1 unbreaking:40 efficiency:20 fortune:3 name:&4&lExpert_Drill
       - 279 1 unbreaking:30 efficiency:10 fortune:3 name:&4&lExpert_Axe
+  Pro:
+    delay: 6000
+    items:
+      - 310 1 unbreaking:5 protection:4 name:&d&lPro_Helm
+      - 311 1 unbreaking:5 protection:4 name:&d&lPro_Shirt
+      - 312 1 unbreaking:5 protection:4 name:&d&lPro_Jeans
+      - 313 1 unbreaking:5 protection:4 name:&d&lPro_GumBoots
+      - 278 1 unbreaking:50 efficiency:25 fortune:3 name:&d&lPro_Drill
+      - 279 1 unbreaking:50 efficiency:20 fortune:3 name:&d&lPro_Axe
   PVP: 
     delay: 6000
     items: 

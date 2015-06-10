@@ -3,6 +3,6 @@
 # SpawnChunkRadius: The radius of chunks that load around the player. Don't change this!
 # ViewDistance: The distance in which chunks will be loaded. 
 Enabled: true
-lifetime: 2400
-prune: 3
+lifetime: 240
+prune: 2
 spawnChunkRadius: 64
