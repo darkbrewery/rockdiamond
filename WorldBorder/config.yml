@@ -48,3 +48,9 @@ worlds:
     radiusX: 300
     radiusZ: 300
     wrapping: false
+  world:
+    x: 131.4934096204236
+    z: 214.4897017985034
+    radiusX: 1000
+    radiusZ: 1000
+    wrapping: false
