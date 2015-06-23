@@ -6,7 +6,6 @@ groups:
   default:
     worlds:
     - spawn
-    - world
     - world_the_end
     - free
     - plotworld
@@ -18,5 +17,10 @@ groups:
   Creative:
     worlds:
     - world_creative
+    shares:
+    - all
+  Survival:
+    worlds:
+    - world
     shares:
     - all

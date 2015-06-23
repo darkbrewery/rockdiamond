@@ -1,4 +1,0 @@
-# CommandNPCs config. PLEASE DO NOT TRY AND EDIT THIS, OTHER THAN THE PREFIX AND AI DISABLE SETTINGS!
-# If you edit it, it will break. Use the commands! (/commandnpcs)
-prefix: '&2[CommandNPCs]'
-disable-ai: true

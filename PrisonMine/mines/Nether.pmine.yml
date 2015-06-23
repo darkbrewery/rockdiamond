@@ -31,7 +31,7 @@ mine:
   - ==: MineBlock
     blockData: 0
     blockId: 0
-    chance: 0.10009999999999997
+    chance: 0.13509999999999997
   - ==: MineBlock
     blockData: 0
     blockId: 173
@@ -46,20 +46,12 @@ mine:
     chance: 0.039900000000000005
   - ==: MineBlock
     blockData: 0
-    blockId: 41
-    chance: 0.030000000000000002
-  - ==: MineBlock
-    blockData: 0
     blockId: 153
     chance: 0.02
   - ==: MineBlock
     blockData: 0
     blockId: 51
     chance: 0.0
-  - ==: MineBlock
-    blockData: 0
-    blockId: 57
-    chance: 0.005
   - ==: MineBlock
     blockData: 0
     blockId: 42
@@ -72,7 +64,7 @@ mine:
     y: 34.0
     world: hell
     x: 92.89996648185235
-  blocksLeft: 2442
+  blocksLeft: 2004
   resetTriggers:
   - ==: CompositionTrigger
     percent: '0.4'

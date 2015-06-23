@@ -74,3 +74,15 @@ a_mine:
   - '&u&lA Mine'
   - '&oSell with &9/sell all'
   - '&oRankup with &9/rankup'
+creative:
+  location: spawn, 30.472, 85.200, -1255.698
+  lines:
+  - '&u&lCreative'
+survival:
+  location: spawn, 34.465, 85.200, -1255.700
+  lines:
+  - '&u&lSurvival'
+plots:
+  location: spawn, 26.474, 85.200, -1255.700
+  lines:
+  - '&u&lPlots'

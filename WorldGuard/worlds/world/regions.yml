@@ -13,7 +13,8 @@ regions:
     __global__:
         type: global
         priority: 0
-        flags: {}
+        flags:
+            blocked-cmds: [/pay, /auction, /kit, /fly, /auc]
         owners: {}
         members: {}
     survival_spawn:
@@ -21,6 +22,7 @@ regions:
         min: {x: 81.0, y: 0.0, z: 164.0}
         max: {x: 181.0, y: 255.0, z: 264.0}
         priority: 0
-        flags: {pvp: deny}
+        flags: {pvp: deny, greeting: '&lWelcome to Survival Spawn!', farewell: '&lNow
+                Leaving Safezone! - PVP Allowed'}
         owners: {}
         members: {}
