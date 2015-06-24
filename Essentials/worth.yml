@@ -58,7 +58,8 @@ worth:
     '13': 6.0
     '14': 6.0
     '15': 3.0
-  soulsand: 40.0
+  soulsand:
+    '0': 35.0
   clayball: 6.0
   brick: 20.0
   redstoneblock: 72.0

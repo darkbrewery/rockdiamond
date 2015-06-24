@@ -5,6 +5,8 @@ messages:
   - '&4Your Inventory is full!'
   full-inventory-actionbar:
   - '&4&lYour Inventory is full!'
+  full-inventory-subtitle:
+  - '&8- Sell your Items at a nearby Sign -'
 command:
   no-permission:
   - '&4&lYou do not have permission for this command'
