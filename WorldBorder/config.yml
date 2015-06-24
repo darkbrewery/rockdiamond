@@ -17,6 +17,8 @@ bypass-list-uuids:
 - 7d345a63-2052-4623-bef8-4245fbc9b321
 - 03c43156-b8be-409c-b0d2-a666499147c5
 fill-memory-tolerance: 500
+prevent-block-place: false
+prevent-mob-spawn: false
 worlds:
   hell:
     x: 38.5

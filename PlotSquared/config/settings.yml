@@ -1,4 +1,4 @@
-version: 2.11.8
+version: 2.11.23
 schematics:
   save_path: /home/minecraft/plugins/PlotSquared/schematics
 chunk-processor:
@@ -18,6 +18,8 @@ clear:
   check-disk: false
   'on':
     ban: false
+  ignore-if-modified: -1
+  keep-if-modified: -1
 max_plots: 64
 console:
   color: true
@@ -51,6 +53,7 @@ worldedit:
   - delchunks
   - listchunks
   require-selection-in-mask: true
+  enable-for-helpers: false
 comments:
   notifications:
     enabled: false
@@ -63,6 +66,10 @@ protection:
     enabled: false
   piston:
     falling-blocks: true
+  physics-listener:
+    enabled: false
+  redstone:
+    disable-offline: false
 titles: true
 global_limit: false
 worlds:
@@ -113,6 +120,8 @@ worlds:
       enabled: false
     flags: {}
     natural_mob_spawning: false
+    limits:
+      max-members: 128
   world_creative:
     road:
       width: 5
@@ -160,3 +169,7 @@ worlds:
       enabled: false
     flags: {}
     natural_mob_spawning: false
+    limits:
+      max-members: 128
+chat:
+  fancy: true

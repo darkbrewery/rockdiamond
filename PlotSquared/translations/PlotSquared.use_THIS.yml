@@ -121,6 +121,7 @@ locale:
     already_added: $2That user is already added to that category.
     member_removed: $1You successfully removed a user from the plot
     member_was_not_added: $2That player was not added as a user on this plot
+    plot_max_members: $2You are not allowed to add any more players to this plot
   info:
     plot_info_alias: $1Alias:$2 %alias%
     plot_info_flags: $1Flags:$2 %flags%
@@ -140,6 +141,7 @@ locale:
     plot_info_id: $1ID:$2 %id%
     plot_info_denied: $1Denied:$2 %denied%
     plot_info_members: $1Members:$2 %members%
+    none: None
   need:
     need_plot_number: $2You've got to specify a plot number or alias
     need_plot_id: $2You've got to specify a plot id.
@@ -201,6 +203,7 @@ locale:
     denied_removed: $4You successfully undenied the player from this plot
     denied_need_argument: $2Arguments are missing. $1/plot denied add <name> $2or $1/plot denied remove <name>
     denied_added: $4You successfully denied the player from this plot
+    you_got_denied: $4You are denied from the plot you were previously on, and got teleported to spawn
   economy:
     plot_sold: $4Your plot; $1%s$4, has been sold to $1%s$4 for $1$%s
     not_for_sale: $2This plot is not for sale
@@ -320,3 +323,6 @@ locale:
     inventory_desc: '&cDescription: &6{desc}'
     inventory_usage: '&cUsage: &6{usage}'
     inventory_category: '&cCategory: &6{category}'
+  toggle:
+    toggle_enabled: '$2Enabled setting: %s'
+    toggle_disabled: '$2Disabled setting: %s'

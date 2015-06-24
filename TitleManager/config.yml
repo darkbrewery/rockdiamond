@@ -1,6 +1,5 @@
 usingConfig: true
-config-version: 2
-
+config-version: 3
 tabmenu:
   enabled: true
   header: '&c&lRock &b&lDiamond &r&lPrison'
@@ -18,3 +17,14 @@ welcome_message:
 number-format:
   enabled: true
   format: '#,###.##'
+date-format:
+  format: EEE, dd MMM yyyy HH:mm:ss z
+using-bungeecord: false
+actionbar-welcome:
+  enabled: true
+  message: '&a&lWelcome!'
+  first-join:
+    message: '&2&lWelcome It''s your first time!'
+disabled-variables:
+- my-disabled-variable
+- also-called-placeholders

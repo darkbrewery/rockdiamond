@@ -22,20 +22,20 @@ mine:
   blocks:
   - ==: MineBlock
     blockData: 0
-    blockId: 0
-    chance: 0.0
+    blockId: 41
+    chance: 0.9
   - ==: MineBlock
     blockData: 0
     blockId: 155
     chance: 0.08000000000000002
   - ==: MineBlock
     blockData: 0
-    blockId: 41
-    chance: 0.9
-  - ==: MineBlock
-    blockData: 0
     blockId: 57
     chance: 0.02
+  - ==: MineBlock
+    blockData: 0
+    blockId: 0
+    chance: 0.0
   tpPoint:
     ==: SimpleLoc
     yaw: 180.61932
@@ -44,7 +44,7 @@ mine:
     y: 213.0
     world: spawn
     x: -142.58103359374223
-  blocksLeft: 1215
+  blocksLeft: 788
   resetTriggers:
   - ==: CompositionTrigger
     percent: '0.4'
