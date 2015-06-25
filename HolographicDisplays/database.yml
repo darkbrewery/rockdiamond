@@ -58,8 +58,8 @@ claymine:
 welcome:
   location: spawn, -29.543, 81.089, -1237.472
   lines:
-  - '&b&lRock &c&lDiamond &rPrison'
-  - Welcomes you !!!
+  - '&lWelcome to Prison!'
+  - Type &9/warp A &rto get started
 zombiefarm:
   location: spawn, -141.516, 98.200, -1169.782
   lines:
@@ -86,3 +86,18 @@ plots:
   location: spawn, 26.474, 85.200, -1255.700
   lines:
   - '&u&lPrison Plots'
+grief:
+  location: world, 131.532, 75.000, 199.655
+  lines:
+  - '&lGrief Prevention'
+  - Play longer, build and explore
+  - to claim even more land.
+shop:
+  location: world, 131.473, 75.200, 229.413
+  lines:
+  - '&lSurvival Supplies'
+welcome2:
+  location: world, 125.485, 76.200, 214.554
+  lines:
+  - '&lWelcome to &9&l/survival'
+  - type &9/kits survival &rfor supplies

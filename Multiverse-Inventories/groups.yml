@@ -6,12 +6,11 @@ groups:
   default:
     worlds:
     - spawn
-    - world_the_end
     - free
     - plotworld
     - mines
+    - world_the_end
     - parkour
-    - hell
     shares:
     - all
   Creative:
@@ -22,5 +21,6 @@ groups:
   Survival:
     worlds:
     - world
+    - hell
     shares:
     - all

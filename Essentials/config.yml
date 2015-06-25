@@ -227,7 +227,20 @@ player-commands:
 # For Item meta information visit http://wiki.ess3.net/wiki/Item_Meta
 # 'delay' refers to the cooldown between how often you can use each kit, measured in seconds.
 # For more information, visit http://wiki.ess3.net/wiki/Kits
-kits: 
+kits:
+  Survival:
+    delay: 6000
+    items:
+      - 274 1 unbreaking:1 name:&a&lCrowbar
+      - 273 1 unbreaking:1 name:&a&lSpoon
+      - 272 1 unbreaking:1 name:&a&lToothpick
+      - 291 1 unbreaking:1 name:&a&lGarden_Rake
+      - 298 1 unbreaking:1 name:&a&lBeanie
+      - 299 1 unbreaking:1 name:&a&lCroptop
+      - 300 1 unbreaking:1 name:&a&lButtflap
+      - 301 1 unbreaking:1 name:&a&lSandals
+      - 357 32 name:&a&lOreos
+      - 364 5 name:&a&lBabyback_Ribs
   Novice:
     delay: 6000
     items:

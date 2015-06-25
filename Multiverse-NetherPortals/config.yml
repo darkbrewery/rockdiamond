@@ -1,0 +1,9 @@
+bounceback: true
+worlds:
+  world:
+    portalgoesto:
+      NETHER: hell
+      END: world_the_end
+  hell:
+    portalgoesto:
+      NETHER: world
