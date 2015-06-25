@@ -20,6 +20,7 @@ dynmap/*.pending
 dynmap/ids-by-ip.txt
 Essentials/userdata/
 Essentials/usermap.csv
+GriefPreventionData/
 iConomy/accounts.mini
 MassiveCore/idnamecache.json
 mcMMO/backup/
