@@ -51,8 +51,8 @@ worlds:
     radiusZ: 300
     wrapping: false
   world:
-    x: 131.4934096204236
-    z: 214.4897017985034
-    radiusX: 1000
-    radiusZ: 1000
+    x: 131.50720036660329
+    z: 214.4646094475723
+    radiusX: 2000
+    radiusZ: 2000
     wrapping: false

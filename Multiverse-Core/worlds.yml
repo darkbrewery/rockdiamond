@@ -20,7 +20,7 @@ worlds:
     entryfee:
       currency: -1
       price: 0.0
-    hunger: true
+    hunger: false
     autoheal: true
     adjustspawn: false
     portalform: NONE
@@ -47,7 +47,7 @@ worlds:
     scale: 1.0
     respawnworld: ''
     allowweather: true
-    difficulty: EASY
+    difficulty: NORMAL
     animals:
       spawn: true
     monsters:
@@ -152,9 +152,9 @@ worlds:
       color: WHITE
     pvp: true
     scale: 1.0
-    respawnworld: ''
+    respawnworld: world
     allowweather: true
-    difficulty: EASY
+    difficulty: NORMAL
     animals:
       spawn: true
     monsters:
@@ -258,9 +258,9 @@ worlds:
       color: WHITE
     pvp: true
     scale: 8.0
-    respawnworld: ''
+    respawnworld: world
     allowweather: true
-    difficulty: EASY
+    difficulty: NORMAL
     animals:
       spawn: true
     monsters:
