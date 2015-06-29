@@ -70,42 +70,6 @@ worlds:
       world: world
     autoload: true
     bedrespawn: true
-  mines:
-    generator: VoidWorld
-    seed: -6104770569900210730
-    environment: NORMAL
-    type: NORMAL
-    hidden: false
-    alias:
-      name: ''
-      color: WHITE
-    pvp: true
-    scale: 1.0
-    respawnworld: ''
-    allowweather: false
-    difficulty: EASY
-    animals:
-      spawn: true
-    monsters:
-      spawn: true
-    entryfee:
-      currency: -1
-      price: 0.0
-    hunger: true
-    autoheal: true
-    adjustspawn: true
-    portalform: NONE
-    gamemode: SURVIVAL
-    keepspawninmemory: true
-    spawn:
-      x: -2.5
-      y: 63.0
-      z: -5.5
-      pitch: 0.0
-      yaw: 0.0
-      world: mines
-    autoload: true
-    bedrespawn: true
   plotworld:
     generator: PlotSquared
     seed: 408156545396662488

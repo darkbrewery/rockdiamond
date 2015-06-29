@@ -14,8 +14,10 @@ deny-enderpearl: true
 fill-autosave-frequency: 30
 bypass-list-uuids:
 - 46654b3a-ef0f-4cea-ac0f-7e94ebef117a
-- 7d345a63-2052-4623-bef8-4245fbc9b321
 - 03c43156-b8be-409c-b0d2-a666499147c5
+- 7d345a63-2052-4623-bef8-4245fbc9b321
+- 17d5c2c2-163b-43d7-b691-0dc3ede51790
+- 70c62c14-ce92-4c40-a48c-c79a166dd666
 fill-memory-tolerance: 500
 prevent-block-place: false
 prevent-mob-spawn: false
@@ -43,12 +45,6 @@ worlds:
     z: 0.48000159162498857
     radiusX: 200
     radiusZ: 200
-    wrapping: false
-  spawn:
-    x: 14.5
-    z: -1237.5
-    radiusX: 300
-    radiusZ: 300
     wrapping: false
   world:
     x: 131.50720036660329
