@@ -13,13 +13,7 @@ worlds:
   spawn:
     monsterLimit: 2400
     animalLimit: 2400
-  mines:
-    monsterLimit: 2400
-    animalLimit: 2400
   plotworld:
-    monsterLimit: 2400
-    animalLimit: 2400
-  parkour:
     monsterLimit: 2400
     animalLimit: 2400
   free:
@@ -29,6 +23,12 @@ worlds:
     monsterLimit: 2400
     animalLimit: 2400
   world_creative:
+    monsterLimit: 2400
+    animalLimit: 2400
+  parkour:
+    monsterLimit: 2400
+    animalLimit: 2400
+  mines:
     monsterLimit: 2400
     animalLimit: 2400
   world_nether:
