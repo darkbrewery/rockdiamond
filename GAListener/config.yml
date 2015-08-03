@@ -58,7 +58,7 @@ services:
   default:
     broadcast: '{BLUE}[{GREEN}RD-Prison{BLUE}]{AQUA} {username}{GREEN} has voted @{GOLD}{service}{GREEN} and recieved a vote key'
     commands:
-   - '/crate givekey {username} vote 1'
+    - '/crate givekey {username} vote 1'
 
 #  luckyvotes section
 luckyvotes:
@@ -89,6 +89,7 @@ cumulative:
 #  blocked - a list of worlds where rewards should be disabled, they will remain queued until the player is in an allowed world.
 
 blocked:
+- world_blocked
 
 #  Available formatting codes for messages:
 
