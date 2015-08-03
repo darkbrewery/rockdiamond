@@ -2,17 +2,17 @@ usingConfig: true
 config-version: 3
 tabmenu:
   enabled: true
-  header: '&c&lRock &b&lDiamond &r&lPrison'
+  header: '&c&lRock &b&lDiamond'
   footer: '&e&lmc.rockdiamond.net'
 welcome_message:
   enabled: true
-  title: '&c&lRock &b&lDiamond &r&lPrison'
+  title: '&c&lRock &b&lDiamond'
   subtitle: '&5Welcomes you back {PLAYER}!'
   fadeIn: -1
   stay: -1
   fadeOut: -1
   first-join:
-    title: '&c&lRock &b&lDiamond &r&lPrison'
+    title: '&c&lRock &b&lDiamond'
     subtitle: '&dHope you enjoy your stay!'
 number-format:
   enabled: true
@@ -28,3 +28,6 @@ actionbar-welcome:
 disabled-variables:
 - my-disabled-variable
 - also-called-placeholders
+legacy-client-support: false
+updater:
+  check-automatically: true

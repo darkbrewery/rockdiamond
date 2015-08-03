@@ -159,6 +159,15 @@ regions:
         flags: {build: allow}
         owners: {}
         members: {}
+    demon_mine:
+        type: cuboid
+        min: {x: 9.0, y: 61.0, z: -1056.0}
+        max: {x: 19.0, y: 77.0, z: -1046.0}
+        priority: 0
+        flags: {}
+        owners:
+            groups: [demon]
+        members: {}
     donor:
         type: cuboid
         min: {x: -101.0, y: 85.0, z: -1378.0}
@@ -300,7 +309,7 @@ regions:
         min: {x: -116.0, y: 31.0, z: -1290.0}
         max: {x: -107.0, y: 40.0, z: -1281.0}
         priority: 10
-        flags: {ice-melt: deny, water-flow: deny, snow-melt: deny, build: allow}
+        flags: {ice-melt: deny, snow-melt: deny, water-flow: deny, build: allow}
         owners: {}
         members: {}
     j_door:
@@ -439,6 +448,15 @@ regions:
         owners: {}
         members:
             groups: [overlord]
+    overlord_mine:
+        type: cuboid
+        min: {x: -43.0, y: 69.0, z: -1076.0}
+        max: {x: -35.0, y: 83.0, z: -1068.0}
+        priority: 0
+        flags: {}
+        owners:
+            groups: [overlord]
+        members: {}
     p_door:
         type: cuboid
         min: {x: 185.0, y: 78.0, z: -1239.0}

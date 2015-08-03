@@ -10,10 +10,19 @@ worlds:
   world_the_end:
     monsterLimit: 2400
     animalLimit: 2400
+  skyblock:
+    monsterLimit: 2400
+    animalLimit: 2400
+  skyblock_nether:
+    monsterLimit: 2400
+    animalLimit: 2400
   spawn:
     monsterLimit: 2400
     animalLimit: 2400
   plotworld:
+    monsterLimit: 2400
+    animalLimit: 2400
+  parkour:
     monsterLimit: 2400
     animalLimit: 2400
   free:
@@ -23,9 +32,6 @@ worlds:
     monsterLimit: 2400
     animalLimit: 2400
   world_creative:
-    monsterLimit: 2400
-    animalLimit: 2400
-  parkour:
     monsterLimit: 2400
     animalLimit: 2400
   mines:

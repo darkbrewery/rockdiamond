@@ -14,21 +14,21 @@
 mining:
   auto-smelt: true
   enable-fortune: true
-  fortune-on-blocks: false
   straight-to-inventory: true
   backpacks: true
   prefer-backpacks: true
   unbreakable-pickaxes: false
   auto-block: true
   block-whitelist: []
-  fortune-blacklist:
-  - OBSIDIAN
   autosmelt-blacklist:
   - LOG
   - LOG_2
   block-counter: true
   soulbound-pickaxes: true
   soulbound-backpacks: true
+  fortune-on-blocks: false
+  fortune-blacklist:
+  - OBSIDIAN
   pickaxe-name: '&b{PLAYER}''s Pickaxe &8[&6{BLOCKSBROKEN} Blocks broken&8]'
   rename-pickaxe: true
   enable-lore: true
@@ -52,6 +52,17 @@ full-inventory:
   actionbar: false
   allow-breaking-blocks: true
 fortune:
+  use-whitelist: false
+  block-whitelist:
+  - COAL_ORE
+  - REDSTONE_ORE
+  - GLOWING_REDSTONE_ORE
+  - LAPIS_ORE
+  - QUARTZ_ORE
+  - DIAMOND_ORE
+  - EMERALD_ORE
+  world-blacklist:
+  - world_nether
   level-modifier: 0.6
 exp:
   whitelist:
@@ -82,10 +93,6 @@ world-blacklist:
 - hell
 - plotworld
 - world
-fortune-world-blacklist:
-- plotworld
-- free
-- world_the_end
 block-rewards:
   enabled: true
   repeating:
@@ -95,3 +102,7 @@ block-rewards:
     - null
     '1000':
     - say '{PLAYER} has broken one thousand blocks'
+fortune-world-blacklist:
+- plotworld
+- free
+- world_the_end

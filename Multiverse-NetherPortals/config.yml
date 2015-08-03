@@ -7,3 +7,6 @@ worlds:
   hell:
     portalgoesto:
       NETHER: world
+  world_the_end:
+    portalgoesto:
+      END: world

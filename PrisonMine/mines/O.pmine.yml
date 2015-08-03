@@ -5,7 +5,7 @@ mine:
     minimum:
       ==: Vector
       x: 185.0
-      y: 79.0
+      y: 81.0
       z: -1274.0
     maximum:
       ==: Vector
@@ -21,38 +21,38 @@ mine:
   parent: null
   blocks:
   - ==: MineBlock
-    blockData: 1
-    blockId: 155
-    chance: 0.5800000000000001
+    blockData: 0
+    blockId: 0
+    chance: 0.0
+  - ==: MineBlock
+    blockData: 0
+    blockId: 41
+    chance: 0.15
+  - ==: MineBlock
+    blockData: 0
+    blockId: 57
+    chance: 0.03
   - ==: MineBlock
     blockData: 0
     blockId: 42
     chance: 0.1
   - ==: MineBlock
     blockData: 0
-    blockId: 56
+    blockId: 16
     chance: 0.1
   - ==: MineBlock
-    blockData: 0
-    blockId: 41
-    chance: 0.19999999999999996
-  - ==: MineBlock
-    blockData: 0
-    blockId: 21
-    chance: 0.02
-  - ==: MineBlock
-    blockData: 0
-    blockId: 0
-    chance: 0.0
+    blockData: 1
+    blockId: 155
+    chance: 0.62
   tpPoint:
     ==: SimpleLoc
-    yaw: -87.5741
-    pitch: -0.18172933
-    z: -1270.6384744293691
-    y: 77.0
+    yaw: 269.9928
+    pitch: -13.733437
+    z: -1270.4452203122985
+    y: 78.0
     world: spawn
-    x: 181.3373679559673
-  blocksLeft: 1421
+    x: 176.7162594139668
+  blocksLeft: 1323
   resetTriggers:
   - ==: CompositionTrigger
     percent: '0.4'
@@ -74,7 +74,7 @@ mine:
     minimum:
       ==: Vector
       x: 185.0
-      y: 79.0
+      y: 81.0
       z: -1274.0
     maximum:
       ==: Vector

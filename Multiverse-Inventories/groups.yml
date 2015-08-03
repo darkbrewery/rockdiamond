@@ -24,3 +24,9 @@ groups:
     - hell
     shares:
     - all
+  Skyblock:
+    worlds:
+    - skyblock
+    - skyblock_nether
+    shares:
+    - all

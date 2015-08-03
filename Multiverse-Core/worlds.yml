@@ -27,11 +27,11 @@ worlds:
     gamemode: SURVIVAL
     keepspawninmemory: true
     spawn:
-      x: 14.461826923640048
-      y: 81.5
-      z: -1237.536211174398
-      pitch: -0.450001
-      yaw: 89.07641
+      x: 1000.4952486296534
+      y: 79.79152910416646
+      z: -1248.1366745206226
+      pitch: -18.29998
+      yaw: -0.15106577
       world: spawn
     autoload: true
     bedrespawn: true
@@ -283,3 +283,75 @@ worlds:
       world: world_creative
     autoload: true
     bedrespawn: true
+  skyblock:
+    seed: 2792109252611776646
+    environment: NORMAL
+    type: FLAT
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+      world: skyblock
+    autoload: true
+    bedrespawn: true
+    generator: ASkyBlock
+  skyblock_nether:
+    seed: 8884677134611168781
+    environment: NETHER
+    type: FLAT
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 8.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 0.0
+      y: 0.0
+      z: 0.0
+      pitch: 0.0
+      yaw: 0.0
+      world: skyblock_nether
+    autoload: true
+    bedrespawn: true
+    generator: ASkyBlock

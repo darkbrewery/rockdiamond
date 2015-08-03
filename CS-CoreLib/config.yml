@@ -13,3 +13,5 @@
 # simply set options -> auto-update to false
 options:
   auto-update: true
+skulls:
+  uuid: dd0955e8-7d62-48b9-bbd3-8bb90af0158c

@@ -101,3 +101,12 @@ welcome2:
   lines:
   - '&lWelcome to &9&l/survival'
   - type &9/kits survival &rfor supplies
+plotsinfo:
+  location: plotworld, 0.513, 71.200, 8.524
+  lines:
+  - '&u-------------------------------'
+  - '&lWelcome to Prison Plots!'
+  - '&b/p claim &rto claim your own'
+  - '&b/p visit <player> &rto visit someones plot'
+  - '&b/p h &rto return to your plot'
+  - '&u-------------------------------'

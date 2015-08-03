@@ -248,7 +248,7 @@ kits:
       - 299 1 unbreaking:5 protection:1 name:&2&lHobo_Scraps
       - 300 1 unbreaking:5 protection:1 name:&2&lHobo_Butflap
       - 301 1 unbreaking:5 protection:1 name:&2&lHobo_Heels
-      - 257 1 unbreaking:20 efficiency:5 fortune:1 name:&2&lNovice_Pick
+      - 257 1 unbreaking:100 efficiency:5 fortune:1 name:&2&lNovice_Pick
       - 258 1 unbreaking:10 efficiency:3 fortune:1 name:&2&lNovice_Axe
       - 297 32 name:Beggar_Scraps
       - 351:15 64 name:Magic_Tree_Food
@@ -259,7 +259,7 @@ kits:
       - 307 1 unbreaking:5 protection:2 name:&9&lAdept_Polo
       - 308 1 unbreaking:5 protection:2 name:&9&lAdept_Jeans
       - 309 1 unbreaking:5 protection:2 name:&9&lAdept_Booties
-      - 257 1 unbreaking:30 efficiency:10 fortune:2 name:&9&lAdept_Claw
+      - 257 1 unbreaking:100 efficiency:10 fortune:2 name:&9&lAdept_Claw
       - 258 1 unbreaking:20 efficiency:5 fortune:2 name:&9&lAdept_Axe
   Expert: 
     delay: 6000
@@ -268,7 +268,7 @@ kits:
       - 311 1 unbreaking:5 protection:3 name:&4&lExpert_Shirt
       - 312 1 unbreaking:5 protection:3 name:&4&lExpert_Jeans
       - 313 1 unbreaking:5 protection:3 name:&4&lExpert_GumBoots
-      - 278 1 unbreaking:40 efficiency:20 fortune:3 name:&4&lExpert_Drill
+      - 278 1 unbreaking:100 efficiency:20 fortune:3 name:&4&lExpert_Drill
       - 279 1 unbreaking:30 efficiency:10 fortune:3 name:&4&lExpert_Axe
   Pro:
     delay: 6000
@@ -277,7 +277,7 @@ kits:
       - 311 1 unbreaking:5 protection:4 name:&d&lPro_Shirt
       - 312 1 unbreaking:5 protection:4 name:&d&lPro_Jeans
       - 313 1 unbreaking:5 protection:4 name:&d&lPro_GumBoots
-      - 278 1 unbreaking:50 efficiency:25 fortune:3 name:&d&lPro_Drill
+      - 278 1 unbreaking:100 efficiency:25 fortune:3 name:&d&lPro_Drill
       - 279 1 unbreaking:50 efficiency:20 fortune:3 name:&d&lPro_Axe
   PVP: 
     delay: 6000
@@ -560,7 +560,7 @@ currency-symbol: '$'
 
 # Set the maximum amount of money a player can have.
 # The amount is always limited to 10 trillion because of the limitations of a java double.
-max-money: 1000000000
+max-money: 100000000
 
 # Set the minimum amount of money a player can have (must be above the negative of max-money).
 # Setting this to 0, will disable overdrafts/loans completely.  Users need 'essentials.eco.loan' perm to go below 0.
@@ -789,10 +789,10 @@ protect:
   blacklist:
 
     # Which blocks should people be prevented from placing?
-    placement: 10,11,46,327
+    placement:
 
     # Which items should people be prevented from using?
-    usage: 327
+    usage:
 
     # Which blocks should people be prevented from breaking?
     break:
@@ -818,7 +818,7 @@ newbies:
 
   # When we spawn for the first time, which spawnpoint do we use?
   # Set to "none" if you want to use the spawn point of the world.
-  spawnpoint: FreshMeat
+  spawnpoint: none
 
   # Do we want to give users anything on first join? Set to '' to disable
   # This kit will be given regardless of cost, and permissions.

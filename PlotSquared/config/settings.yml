@@ -1,10 +1,11 @@
-version: 2.11.23
+version: 2.12.15
 schematics:
   save_path: /home/minecraft/plugins/PlotSquared/schematics
 chunk-processor:
   enabled: false
   max-entities: 512
   max-blockstates: 4096
+  disable-physics: false
 uuid:
   read-from-disk: false
 claim:
@@ -15,18 +16,28 @@ clear:
     enabled: false
     days: 365
     clear-interval-seconds: 120
+    threshold: -1
+    calibration:
+      changes_sd: 64
+      variety_sd: 1
+      faces_sd: 32
+      air: 0
+      faces: 2
+      changes: 1
+      data_sd: 1
+      variety: 1
+      air_sd: 0
+      data: 32
   check-disk: false
   'on':
     ban: false
-  ignore-if-modified: -1
-  keep-if-modified: -1
 max_plots: 64
 console:
   color: true
 teleport:
   on_login: false
   delay: 0
-debug: true
+debug: false
 clusters:
   enabled: false
 auto_update: false
@@ -41,6 +52,7 @@ kill_road_mobs: false
 metrics: true
 cache:
   permissions: false
+  ratings: true
 plotme-alias: false
 worldedit:
   max-iterations: 1000
@@ -112,6 +124,7 @@ worlds:
       default: side
     world:
       border: false
+      max_height: 256
     schematic:
       file: 'null'
       on_claim: false
@@ -161,6 +174,7 @@ worlds:
       default: side
     world:
       border: false
+      max_height: 256
     schematic:
       file: 'null'
       on_claim: false
@@ -173,3 +187,6 @@ worlds:
       max-members: 128
 chat:
   fancy: true
+web:
+  server-ip: your.ip.here
+  url: http://empcraft.com/plots/

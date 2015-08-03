@@ -8,7 +8,7 @@ permissions:
   createUserRecords: true
   backend: file
   informplayers:
-    changes: false
+    changes: true
   basedir: plugins/PermissionsEx
   backends:
     file:
