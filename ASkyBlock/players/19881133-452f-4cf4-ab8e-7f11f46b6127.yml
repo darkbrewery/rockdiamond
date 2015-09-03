@@ -1,0 +1,86 @@
+playerName: MRYP2005
+hasIsland: true
+islandLocation: skyblock:200:115:400:0:0
+hasTeam: true
+teamLeader: 19881133-452f-4cf4-ab8e-7f11f46b6127
+teamIslandLocation: skyblock:200:115:400:0:0
+islandLevel: 131
+members:
+- d7586bb8-ed41-48c2-b489-8f0d983bac0a
+- 19881133-452f-4cf4-ab8e-7f11f46b6127
+- 03ba3d8a-b1dd-4e55-a876-d67bced47f6d
+- c3e11854-ddc9-4abd-a5d9-d67b48eda52b
+resetsLeft: 2
+locale: ''
+startIslandRating: 50
+homeLocations:
+  '1': skyblock:200:120:402:0:1106247680
+challenges:
+  status:
+    cobblemaker: true
+    breadmaker: true
+    acidduke: false
+    pioneer: false
+    glassmaker: true
+    itsaparty: false
+    snowplay: false
+    shepherd: false
+    treecutter: true
+    farmer: true
+    cookiemaker: true
+    grinder: true
+    itsamonsterparty: false
+    angler: false
+    craftsman: true
+    dj: false
+    ittakesavillage: false
+    enderpearls: false
+    myprecious: false
+    baker: false
+    builder: true
+    alchemist: false
+    beaconator: false
+    homestead: true
+    slimeballfarmer: false
+    dyemaker: true
+    mason: false
+    gemcollector: false
+    stewmaker: false
+    nether: true
+    culinaryartist: false
+    seedbank: true
+    papermaker: true
+  times:
+    cobblemaker: 3
+    breadmaker: 1
+    acidduke: 0
+    pioneer: 0
+    glassmaker: 1
+    itsaparty: 0
+    snowplay: 0
+    shepherd: 0
+    treecutter: 1
+    farmer: 2
+    cookiemaker: 1
+    itsamonsterparty: 0
+    angler: 0
+    grinder: 1
+    craftsman: 1
+    dj: 0
+    ittakesavillage: 0
+    enderpearls: 0
+    myprecious: 0
+    baker: 0
+    builder: 1
+    alchemist: 0
+    beaconator: 0
+    homestead: 1
+    slimeballfarmer: 0
+    dyemaker: 1
+    mason: 0
+    gemcollector: 0
+    stewmaker: 0
+    nether: 1
+    culinaryartist: 0
+    seedbank: 1
+    papermaker: 4

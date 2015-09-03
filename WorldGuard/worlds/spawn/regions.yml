@@ -13,8 +13,8 @@ regions:
     __global__:
         type: global
         priority: 0
-        flags: {pvp: deny, enderpearl: deny, use: allow, build: deny, soil-dry: deny,
-            mob-spawning: deny}
+        flags: {pvp: deny, enderpearl: deny, use: allow, build: deny, mob-spawning: deny,
+            soil-dry: deny}
         owners: {}
         members: {}
     a_door:
@@ -309,7 +309,7 @@ regions:
         min: {x: -116.0, y: 31.0, z: -1290.0}
         max: {x: -107.0, y: 40.0, z: -1281.0}
         priority: 10
-        flags: {ice-melt: deny, snow-melt: deny, water-flow: deny, build: allow}
+        flags: {ice-melt: deny, water-flow: deny, snow-melt: deny, build: allow}
         owners: {}
         members: {}
     j_door:
@@ -854,7 +854,7 @@ regions:
         min: {x: -48.0, y: 53.0, z: -1250.0}
         max: {x: -40.0, y: 55.0, z: -1244.0}
         priority: 0
-        flags: {mob-spawning: allow}
+        flags: {build: deny, mob-spawning: allow}
         owners: {}
         members: {}
     squidfarm:

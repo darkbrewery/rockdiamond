@@ -1,0 +1,86 @@
+playerName: Jasmimi
+hasIsland: true
+islandLocation: skyblock:-200:115:-400:0:0
+hasTeam: true
+teamLeader: 7ae4f8fe-d90a-4b0b-bdca-f490b819e65b
+islandLevel: 47
+members:
+- 7ae4f8fe-d90a-4b0b-bdca-f490b819e65b
+- 0c31edc7-7619-4c5e-928a-1707cfda12a2
+resetsLeft: 0
+locale: en-US
+startIslandRating: 50
+teamIslandLocation: skyblock:-200:115:-400:0:0
+homeLocations:
+  '1': skyblock:-208:143:-411:1082550848:1111451243
+challenges:
+  status:
+    cobblemaker: true
+    breadmaker: false
+    acidduke: false
+    pioneer: false
+    glassmaker: true
+    itsaparty: false
+    snowplay: false
+    shepherd: false
+    treecutter: false
+    farmer: false
+    cookiemaker: false
+    itsamonsterparty: false
+    angler: false
+    grinder: false
+    craftsman: false
+    dj: false
+    ittakesavillage: false
+    enderpearls: false
+    myprecious: false
+    baker: false
+    builder: true
+    alchemist: false
+    beaconator: false
+    homestead: false
+    slimeballfarmer: false
+    dyemaker: false
+    mason: false
+    gemcollector: false
+    stewmaker: false
+    nether: false
+    culinaryartist: false
+    seedbank: false
+    papermaker: true
+  times:
+    cobblemaker: 3
+    breadmaker: 0
+    acidduke: 0
+    pioneer: 0
+    glassmaker: 2
+    itsaparty: 0
+    snowplay: 0
+    shepherd: 0
+    treecutter: 0
+    farmer: 0
+    cookiemaker: 0
+    itsamonsterparty: 0
+    angler: 0
+    grinder: 0
+    craftsman: 0
+    dj: 0
+    ittakesavillage: 0
+    enderpearls: 0
+    myprecious: 0
+    baker: 0
+    builder: 1
+    alchemist: 0
+    beaconator: 0
+    homestead: 0
+    slimeballfarmer: 0
+    dyemaker: 0
+    mason: 0
+    gemcollector: 0
+    stewmaker: 0
+    nether: 0
+    culinaryartist: 0
+    seedbank: 0
+    papermaker: 1
+invitecooldown:
+  '1438201919499': skyblock:0:115:-400:0:0

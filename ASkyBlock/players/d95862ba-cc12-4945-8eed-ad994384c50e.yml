@@ -1,0 +1,47 @@
+playerName: crackles12
+hasIsland: true
+islandLocation: skyblock:200:115:600:0:0
+hasTeam: false
+teamLeader: ''
+teamIslandLocation: ''
+islandLevel: 0
+members: []
+resetsLeft: 2
+locale: ''
+homeLocations:
+  '1': skyblock:200:120:602:0:1106247680
+challenges:
+  status:
+    cobblemaker: false
+    breadmaker: false
+    acidduke: false
+    pioneer: false
+    glassmaker: false
+    itsaparty: false
+    snowplay: false
+    shepherd: false
+    treecutter: false
+    farmer: false
+    cookiemaker: false
+    itsamonsterparty: false
+    dj: false
+    craftsman: false
+    angler: false
+    grinder: false
+    ittakesavillage: false
+    enderpearls: false
+    myprecious: false
+    baker: false
+    builder: false
+    alchemist: false
+    beaconator: false
+    homestead: false
+    slimeballfarmer: false
+    dyemaker: false
+    mason: false
+    gemcollector: false
+    stewmaker: false
+    nether: false
+    culinaryartist: false
+    seedbank: false
+    papermaker: false

@@ -14,7 +14,7 @@ regions:
         type: global
         priority: 0
         flags:
-            blocked-cmds: [/pay, /kit, /auction, /fly, /auc]
+            blocked-cmds: [/pay, /auction, /kit, /fly, /auc]
         owners: {}
         members: {}
     survival_spawn:
@@ -24,5 +24,13 @@ regions:
         priority: 0
         flags: {pvp: deny, greeting: '&lWelcome to Survival Spawn!', farewell: '&lNow
                 Leaving Safezone! - PVP Allowed', mob-spawning: deny}
+        owners: {}
+        members: {}
+    village:
+        type: cuboid
+        min: {x: 1163.0, y: 0.0, z: 191.0}
+        max: {x: 1236.0, y: 255.0, z: 275.0}
+        priority: 0
+        flags: {build: allow}
         owners: {}
         members: {}

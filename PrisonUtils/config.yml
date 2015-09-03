@@ -46,11 +46,50 @@ pickaxe:
     - '&7Blocks broken: &e{BLOCKSBROKEN}'
     - '&7Durability: &e{DURABILITY}'
     - ''
+shovel:
+  name:
+    enabled: true
+    prefix: '&7({DURABILITY}) &b{PLAYER}''s '
+    suffix: ' &8[&6{BLOCKSBROKEN} Blocks broken&8]'
+  lore:
+    enabled: false
+    lines:
+    - '&7Shovel Owner: &e{PLAYER}'
+    - '&7Blocks broken: &e{BLOCKSBROKEN}'
+    - '&7Durability: &e{DURABILITY}'
+    - ''
+axe:
+  name:
+    enabled: true
+    prefix: '&7({DURABILITY}) &b{PLAYER}''s '
+    suffix: ' &8[&6{BLOCKSBROKEN} Blocks broken&8]'
+  lore:
+    enabled: false
+    lines:
+    - '&7Axe Owner: &e{PLAYER}'
+    - '&7Blocks broken: &e{BLOCKSBROKEN}'
+    - '&7Durability: &e{DURABILITY}'
+    - ''
 full-inventory:
   sound: true
   title: true
-  actionbar: false
+  actionbar: true
   allow-breaking-blocks: true
+silktouch-whitelist:
+- COAL_ORE-
+- WEB
+- DIAMOND_ORE
+- EMERALD_ORE
+- GRASS
+- HUGE_MUSHROOM_1
+- HUGE_MUSHROOM_2
+- ICE
+- LAPIS_ORE
+- MYCEL
+- DIRT
+- PACKED_ICE
+- QUARTZ_ORE
+- REDSTONE_ORE
 fortune:
   use-whitelist: false
   block-whitelist:
@@ -64,6 +103,17 @@ fortune:
   world-blacklist:
   - world_nether
   level-modifier: 0.6
+  min-modifier: 0.2
+  regions:
+    use-whitelist: false
+    whitelist:
+    - a
+    - b
+    - c
+backpacks:
+  name:
+    normal: '&eBackpack'
+    soulbound: '&eReinforced Backpack'
 exp:
   whitelist:
   - COAL_ORE
@@ -84,6 +134,7 @@ environment:
   enable-weather: false
 options:
   auto-update: true
+  debug: false
 world-blacklist:
 - world_the_end
 - world_nether
@@ -93,6 +144,8 @@ world-blacklist:
 - hell
 - plotworld
 - world
+- skyblock
+- skyblock_nether
 block-rewards:
   enabled: true
   repeating:

@@ -1,0 +1,80 @@
+playerName: Stxtic
+hasIsland: false
+islandLocation: ''
+hasTeam: false
+teamLeader: ''
+teamIslandLocation: ''
+islandLevel: 0
+members: []
+resetsLeft: 2
+locale: ''
+startIslandRating: 50
+challenges:
+  status:
+    cobblemaker: false
+    breadmaker: false
+    acidduke: false
+    pioneer: false
+    glassmaker: false
+    itsaparty: false
+    snowplay: false
+    shepherd: false
+    treecutter: false
+    farmer: false
+    cookiemaker: false
+    itsamonsterparty: false
+    angler: false
+    grinder: false
+    craftsman: false
+    dj: false
+    ittakesavillage: false
+    enderpearls: false
+    myprecious: false
+    baker: false
+    builder: false
+    alchemist: false
+    beaconator: false
+    homestead: false
+    slimeballfarmer: false
+    dyemaker: false
+    mason: false
+    gemcollector: false
+    stewmaker: false
+    nether: false
+    culinaryartist: false
+    seedbank: false
+    papermaker: false
+  times:
+    cobblemaker: 0
+    breadmaker: 0
+    acidduke: 0
+    pioneer: 0
+    glassmaker: 0
+    itsaparty: 0
+    snowplay: 0
+    shepherd: 0
+    treecutter: 0
+    farmer: 0
+    cookiemaker: 0
+    itsamonsterparty: 0
+    angler: 0
+    grinder: 0
+    craftsman: 0
+    dj: 0
+    ittakesavillage: 0
+    enderpearls: 0
+    myprecious: 0
+    baker: 0
+    builder: 0
+    alchemist: 0
+    beaconator: 0
+    homestead: 0
+    slimeballfarmer: 0
+    dyemaker: 0
+    mason: 0
+    gemcollector: 0
+    stewmaker: 0
+    nether: 0
+    culinaryartist: 0
+    seedbank: 0
+    papermaker: 0

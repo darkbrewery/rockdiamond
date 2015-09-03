@@ -1,0 +1,71 @@
+mine:
+  ==: pMine
+  region:
+    ==: PrisonRegion
+    minimum:
+      ==: Vector
+      x: -43.0
+      y: 69.0
+      z: -1076.0
+    maximum:
+      ==: Vector
+      x: -35.0
+      y: 83.0
+      z: -1068.0
+    world: spawn
+  flags: []
+  breakBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  parent: null
+  blocks:
+  - ==: MineBlock
+    blockData: 0
+    blockId: 133
+    chance: 1.0
+  - ==: MineBlock
+    blockData: 0
+    blockId: 0
+    chance: 0.0
+  tpPoint:
+    ==: SimpleLoc
+    yaw: -270.14313
+    pitch: 11.693674
+    z: -1071.5074189733157
+    y: 83.5
+    world: spawn
+    x: -28.56035140454073
+  blocksLeft: 1215
+  resetTriggers:
+  - ==: CompositionTrigger
+    percent: '0.4'
+    mine: Overlord
+  id: Overlord
+  warningTimes: []
+  placeBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  cooldownPeriod: 0
+  name: ''
+  blockReplaceBlacklist:
+    ==: Blacklist
+    blocks: {}
+    type: 0
+  protectionRegion:
+    ==: PrisonRegion
+    minimum:
+      ==: Vector
+      x: -43.0
+      y: 69.0
+      z: -1076.0
+    maximum:
+      ==: Vector
+      x: -35.0
+      y: 83.0
+      z: -1068.0
+    world: spawn
+  world: spawn
+  enabledProtection: []
+  cooldownEnabled: false

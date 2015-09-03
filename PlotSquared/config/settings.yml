@@ -1,4 +1,4 @@
-version: 2.12.15
+version: 3.1.8
 schematics:
   save_path: /home/minecraft/plugins/PlotSquared/schematics
 chunk-processor:
@@ -6,8 +6,12 @@ chunk-processor:
   max-entities: 512
   max-blockstates: 4096
   disable-physics: false
+  experimental-fast-async-worldedit: false
+  auto-unload: false
+  auto-trim: false
 uuid:
   read-from-disk: false
+  use_sqluuidhandler: false
 claim:
   max-auto-area: 4
 clear:
@@ -66,6 +70,7 @@ worldedit:
   - listchunks
   require-selection-in-mask: true
   enable-for-helpers: false
+  queue-commands: false
 comments:
   notifications:
     enabled: false
@@ -82,6 +87,7 @@ protection:
     enabled: false
   redstone:
     disable-offline: false
+    disable-unoccupied: false
 titles: true
 global_limit: false
 worlds:
@@ -125,6 +131,8 @@ worlds:
     world:
       border: false
       max_height: 256
+      gamemode: creative
+      min_height: 1
     schematic:
       file: 'null'
       on_claim: false
@@ -175,6 +183,8 @@ worlds:
     world:
       border: false
       max_height: 256
+      gamemode: creative
+      min_height: 1
     schematic:
       file: 'null'
       on_claim: false
@@ -190,3 +200,15 @@ chat:
 web:
   server-ip: your.ip.here
   url: http://empcraft.com/plots/
+platform: Bukkit
+update-notifications: true
+approval:
+  done:
+    counts-towards-limit: false
+    restrict-building: false
+    required-for-download: false
+  ratings:
+    require-done: false
+kill_road_vehicles: false
+bo3:
+  save_path: BO3

@@ -1,0 +1,88 @@
+playerName: giraffe211
+hasIsland: true
+islandLocation: skyblock:-400:115:0:0:0
+hasTeam: true
+teamLeader: 4b3c4af8-f67f-4d82-8ce9-4adc76b7b84a
+islandLevel: 190
+members:
+- 4b3c4af8-f67f-4d82-8ce9-4adc76b7b84a
+- 8e1a009a-d3d4-476c-b2ab-43fe1291667f
+- e6205cfe-7b5d-4fcb-bd11-801ba6161e0c
+- 4c93d9d7-8f16-4208-9ea4-e4887f24ff3f
+resetsLeft: 1
+locale: ''
+teamIslandLocation: skyblock:-400:115:0:0:0
+startIslandRating: 50
+homeLocations:
+  '1': skyblock:-400:120:2:0:1106247680
+challenges:
+  status:
+    cobblemaker: true
+    breadmaker: false
+    acidduke: false
+    pioneer: false
+    glassmaker: false
+    itsaparty: false
+    snowplay: false
+    shepherd: false
+    treecutter: false
+    farmer: false
+    cookiemaker: false
+    itsamonsterparty: false
+    angler: false
+    grinder: false
+    craftsman: false
+    dj: false
+    ittakesavillage: false
+    enderpearls: false
+    myprecious: false
+    baker: false
+    builder: false
+    alchemist: false
+    beaconator: false
+    homestead: false
+    slimeballfarmer: false
+    dyemaker: false
+    mason: false
+    gemcollector: false
+    stewmaker: false
+    nether: false
+    culinaryartist: false
+    seedbank: false
+    papermaker: true
+  times:
+    cobblemaker: 3
+    breadmaker: 0
+    acidduke: 0
+    pioneer: 0
+    glassmaker: 0
+    itsaparty: 0
+    snowplay: 0
+    shepherd: 0
+    treecutter: 0
+    farmer: 0
+    cookiemaker: 0
+    itsamonsterparty: 0
+    angler: 0
+    grinder: 0
+    craftsman: 0
+    dj: 0
+    ittakesavillage: 0
+    enderpearls: 0
+    myprecious: 0
+    baker: 0
+    builder: 0
+    alchemist: 0
+    beaconator: 0
+    homestead: 0
+    slimeballfarmer: 0
+    dyemaker: 0
+    mason: 0
+    gemcollector: 0
+    stewmaker: 0
+    nether: 0
+    culinaryartist: 0
+    seedbank: 0
+    papermaker: 2
+invitecooldown:
+  '1438181797704': skyblock:400:115:-200:0:0

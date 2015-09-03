@@ -27,11 +27,11 @@ worlds:
     gamemode: SURVIVAL
     keepspawninmemory: true
     spawn:
-      x: 1000.4952486296534
-      y: 79.79152910416646
-      z: -1248.1366745206226
-      pitch: -18.29998
-      yaw: -0.15106577
+      x: 15.00179318576535
+      y: 82.75665174010093
+      z: -1237.5007816997136
+      pitch: -22.94999
+      yaw: 89.67701
       world: spawn
     autoload: true
     bedrespawn: true
@@ -62,11 +62,11 @@ worlds:
     gamemode: SURVIVAL
     keepspawninmemory: true
     spawn:
-      x: 182.5
-      y: 64.0
-      z: 248.5
-      pitch: 0.0
-      yaw: 0.0
+      x: 131.5
+      y: 72.0
+      z: 214.5
+      pitch: -31.200006
+      yaw: -270.30023
       world: world
     autoload: true
     bedrespawn: true
@@ -133,9 +133,9 @@ worlds:
     gamemode: SURVIVAL
     keepspawninmemory: true
     spawn:
-      x: -3.5
+      x: -4.5
       y: 62.0
-      z: 5.5
+      z: 4.5
       pitch: 0.0
       yaw: 0.0
       world: world_the_end
@@ -270,16 +270,16 @@ worlds:
       price: 0.0
     hunger: true
     autoheal: true
-    adjustspawn: true
+    adjustspawn: false
     portalform: ALL
     gamemode: CREATIVE
     keepspawninmemory: true
     spawn:
-      x: 0.0
-      y: 65.0
-      z: 0.0
-      pitch: 0.0
-      yaw: 0.0
+      x: -34.5
+      y: 66.26791076722094
+      z: -242.5
+      pitch: -10.350014
+      yaw: 0.7491076
       world: world_creative
     autoload: true
     bedrespawn: true
@@ -310,11 +310,11 @@ worlds:
     gamemode: SURVIVAL
     keepspawninmemory: true
     spawn:
-      x: 0.0
-      y: 0.0
-      z: 0.0
-      pitch: 0.0
-      yaw: 0.0
+      x: 400.5
+      y: 119.0
+      z: 391.5
+      pitch: -6.8999853
+      yaw: 0.6020508
       world: skyblock
     autoload: true
     bedrespawn: true
@@ -355,3 +355,39 @@ worlds:
     autoload: true
     bedrespawn: true
     generator: ASkyBlock
+  hub:
+    generator: VoidWorld
+    seed: 3133639399114844880
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: false
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 0.48892749229405286
+      y: 73.60442643480467
+      z: 0.4850134947055369
+      pitch: -6.150011
+      yaw: -270.1497
+      world: hub
+    autoload: true
+    bedrespawn: true

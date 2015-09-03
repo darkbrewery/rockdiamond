@@ -1,0 +1,12 @@
+Settings:
+  prefix: '&6[&9DragonSlayer&6]'
+  broadcast: true
+  slain: '&6[&9Dragon Slayer&6]&r'
+  multislayer: false
+  head: KingEndermen
+  lore: '&9The head of an EnderDragon'
+  skullname: '&9Enderdragons head'
+  color1: '&9'
+  color2: '&6'
+  slayers:
+  - AlexTLG

@@ -1,0 +1,20 @@
+prefix:
+- '&2&l>>RD*Gems &7>> '
+gems:
+  not-enough:
+  - '&4You do not have enough Gems &c(%gems% Gems)'
+item:
+  not-enough-gems:
+  - '&4You cannot afford this!'
+  not-upgradable:
+  - '&4This Item cannot be upgraded'
+admin:
+  set:
+  - '&7Your Balance has been set to &a%gems% Gems'
+  add:
+  - '&7You have been given &a%gems% Gems &7by an Admin'
+  remove:
+  - '&a%gems% Gems &7have been taken from you by an Admin'
+commands:
+  no-permission:
+  - '&4You are not allowed to do this'
