@@ -1,0 +1,605 @@
+enable-researching: true
+'0':
+  name: Walking Sticks
+  cost: 1
+  enabled: true
+'1':
+  name: Portable Crafter
+  cost: 1
+  enabled: true
+'2':
+  name: Fortune Cookie
+  cost: 1
+  enabled: true
+'3':
+  name: Portable Enchanter
+  cost: 4
+  enabled: true
+'4':
+  name: Portable Dustbin
+  cost: 2
+  enabled: true
+'5':
+  name: Beef Jerky
+  cost: 2
+  enabled: true
+'6':
+  name: Armor Crafting
+  cost: 2
+  enabled: true
+'8':
+  name: Lumps and Magic
+  cost: 3
+  enabled: true
+'9':
+  name: Ender Backpack
+  cost: 4
+  enabled: true
+'7':
+  name: Glowstone Armor
+  cost: 3
+  enabled: true
+'10':
+  name: Ender Armor
+  cost: 4
+  enabled: true
+'11':
+  name: Magic Eye of Ender
+  cost: 4
+  enabled: true
+'12':
+  name: Magic Sugar
+  cost: 4
+  enabled: true
+'13':
+  name: Monster Jerky
+  cost: 5
+  enabled: true
+'14':
+  name: Slime Armor
+  cost: 5
+  enabled: true
+'15':
+  name: Sword of Beheading
+  cost: 6
+  enabled: true
+'16':
+  name: Electric Work
+  cost: 8
+  enabled: true
+'17':
+  name: Advanced Electricity
+  cost: 9
+  enabled: true
+'18':
+  name: Hot Smelting
+  cost: 10
+  enabled: true
+'19':
+  name: Steel Age
+  cost: 11
+  enabled: true
+'20':
+  name: Power Storage
+  cost: 12
+  enabled: true
+'21':
+  name: Power Creation
+  cost: 13
+  enabled: true
+'22':
+  name: Steel Plating
+  cost: 14
+  enabled: true
+'23':
+  name: Steel Thruster
+  cost: 14
+  enabled: true
+'24':
+  name: Parachute
+  cost: 15
+  enabled: true
+'25':
+  name: Grappling Hook
+  cost: 15
+  enabled: true
+'26':
+  name: Jetpacks
+  cost: 22
+  enabled: true
+'27':
+  name: Multi Tools
+  cost: 18
+  enabled: true
+'28':
+  name: Solar Power
+  cost: 17
+  enabled: true
+'29':
+  name: Elemental Staves
+  cost: 17
+  enabled: true
+'30':
+  name: Grind Stone
+  cost: 4
+  enabled: true
+'31':
+  name: Cactus Suit
+  cost: 5
+  enabled: true
+'32':
+  name: Gold Pan
+  cost: 5
+  enabled: true
+'33':
+  name: Magical Book Binding
+  cost: 5
+  enabled: true
+'34':
+  name: New Metals
+  cost: 6
+  enabled: true
+'35':
+  name: Ore Doubling
+  cost: 6
+  enabled: true
+'36':
+  name: Bronze Creation
+  cost: 8
+  enabled: true
+'37':
+  name: Advanced Alloys
+  cost: 12
+  enabled: true
+'38':
+  name: Carbon Creation
+  cost: 9
+  enabled: true
+'39':
+  name: Bakery Innovation
+  cost: 1
+  enabled: true
+'40':
+  name: Gilded Iron Armor
+  cost: 16
+  enabled: true
+'41':
+  name: Synthetic Diamonds
+  cost: 10
+  enabled: true
+'42':
+  name: Pressure Chamber
+  cost: 14
+  enabled: true
+'43':
+  name: Synthetic Sapphires
+  cost: 16
+  enabled: true
+'44':
+  name: Charging Station
+  cost: 18
+  enabled: true
+'45':
+  name: Damascus Steel
+  cost: 17
+  enabled: true
+'46':
+  name: Damascus Steel Armor
+  cost: 18
+  enabled: true
+'47':
+  name: Reinforced Alloy
+  cost: 22
+  enabled: true
+'48':
+  name: Black Diamonds
+  cost: 26
+  enabled: true
+'49':
+  name: Energy Cells
+  cost: 19
+  enabled: true
+'50':
+  name: Magic Workbench
+  cost: 12
+  enabled: true
+'51':
+  name: Wind Staff
+  cost: 17
+  enabled: true
+'52':
+  name: Reinforced Armor
+  cost: 26
+  enabled: true
+'53':
+  name: Ore Washer
+  cost: 5
+  enabled: true
+'54':
+  name: Pure Gold
+  cost: 7
+  enabled: true
+'55':
+  name: Silicon Valley
+  cost: 12
+  enabled: true
+'56':
+  name: Fire Staff
+  cost: 2
+  enabled: true
+'57':
+  name: Smelters Pickaxe
+  cost: 17
+  enabled: true
+'58':
+  name: Common Talisman
+  cost: 14
+  enabled: true
+'59':
+  name: Talisman of the Anvil
+  cost: 18
+  enabled: true
+'60':
+  name: Talisman of the Miner
+  cost: 18
+  enabled: true
+'61':
+  name: Talisman of the Hunter
+  cost: 18
+  enabled: true
+'62':
+  name: Talisman of the Lava Walker
+  cost: 18
+  enabled: true
+'63':
+  name: Talisman of the Water Breather
+  cost: 18
+  enabled: true
+'64':
+  name: Talisman of the Angel
+  cost: 18
+  enabled: true
+'65':
+  name: Talisman of the Firefighter
+  cost: 18
+  enabled: true
+'66':
+  name: Infite Power
+  cost: 22
+  enabled: true
+'67':
+  name: Firey Situation
+  cost: 14
+  enabled: true
+'68':
+  name: Talisman of the Magician
+  cost: 20
+  enabled: true
+'69':
+  name: Talisman of the Traveller
+  cost: 20
+  enabled: true
+'70':
+  name: Talisman of the Warrior
+  cost: 20
+  enabled: true
+'71':
+  name: Talisman of the Knight
+  cost: 20
+  enabled: true
+'72':
+  name: Shiny Iron
+  cost: 11
+  enabled: true
+'73':
+  name: Fake Gem
+  cost: 17
+  enabled: true
+'74':
+  name: Chainmail Armor
+  cost: 8
+  enabled: true
+'75':
+  name: Talisman of the Whirlwind
+  cost: 19
+  enabled: true
+'76':
+  name: Talisman of the Wizard
+  cost: 22
+  enabled: true
+'77':
+  name: Lumber Axe
+  cost: 21
+  enabled: true
+'78':
+  name: 5 Star Chef
+  cost: 6
+  enabled: true
+'79':
+  name: Hazmat Suit
+  cost: 21
+  enabled: true
+'80':
+  name: Radioactive
+  cost: 30
+  enabled: true
+'81':
+  name: Ore Purification
+  cost: 25
+  enabled: true
+'82':
+  name: Nuclear Power Production
+  cost: 32
+  enabled: true
+'83':
+  name: Thermal Power Production
+  cost: 24
+  enabled: true
+'84':
+  name: Redstone Alloy
+  cost: 16
+  enabled: true
+'85':
+  name: Top Tier Machines
+  cost: 24
+  enabled: true
+'86':
+  name: First Aid
+  cost: 2
+  enabled: true
+'87':
+  name: Shiny Armor
+  cost: 13
+  enabled: true
+'88':
+  name: Familiar Resources
+  cost: 3
+  enabled: true
+'89':
+  name: Night Vision Goggles
+  cost: 10
+  enabled: true
+'90':
+  name: Pickaxe of Containment
+  cost: 14
+  enabled: true
+'91':
+  name: Hercules Pickaxe
+  cost: 28
+  enabled: true
+'92':
+  name: Saw Mill
+  cost: 2
+  enabled: true
+'93':
+  name: Slimy Steel Armor
+  cost: 27
+  enabled: true
+'94':
+  name: Blade of Vampires
+  cost: 26
+  enabled: true
+'95':
+  name: Lazy Mining
+  cost: 40
+  enabled: true
+'96':
+  name: Water Staff
+  cost: 8
+  enabled: true
+'97':
+  name: Golden City
+  cost: 19
+  enabled: true
+'98':
+  name: Advanced Mining 101
+  cost: 42
+  enabled: true
+'99':
+  name: Composting Dirt
+  cost: 3
+  enabled: true
+'100':
+  name: Farmer Shoes
+  cost: 4
+  enabled: true
+'101':
+  name: Explosive Pickaxe
+  cost: 28
+  enabled: true
+'102':
+  name: Automated Gold Pan
+  cost: 17
+  enabled: true
+'103':
+  name: Boots of the Stomper
+  cost: 19
+  enabled: true
+'104':
+  name: Pickaxe of the Seeker
+  cost: 19
+  enabled: true
+'105':
+  name: Backpacks
+  cost: 15
+  enabled: true
+'106':
+  name: Woven Backpack
+  cost: 19
+  enabled: true
+'107':
+  name: Crucible
+  cost: 13
+  enabled: true
+'108':
+  name: Gilded Backpack
+  cost: 22
+  enabled: true
+'109':
+  name: Automated Mining
+  cost: 17
+  enabled: true
+'110':
+  name: Being a Tank
+  cost: 28
+  enabled: true
+'111':
+  name: Armored Jetpack
+  cost: 27
+  enabled: true
+'112':
+  name: Ender Talismans
+  cost: 28
+  enabled: true
+'113':
+  name: Automated Farming
+  cost: 13
+  enabled: true
+'114':
+  name: Automated Smelting
+  cost: 15
+  enabled: true
+'115':
+  name: Even more Ores
+  cost: 10
+  enabled: true
+'116':
+  name: Magnetic Metals
+  cost: 16
+  enabled: true
+'117':
+  name: Infused Magnets
+  cost: 18
+  enabled: true
+'118':
+  name: Speedy Pickaxe
+  cost: 14
+  enabled: true
+'119':
+  name: Necromancy
+  cost: 19
+  enabled: true
+'120':
+  name: Soulbound Storage
+  cost: 22
+  enabled: true
+'121':
+  name: Jet Boots
+  cost: 25
+  enabled: true
+'122':
+  name: Armored Jet Boots
+  cost: 27
+  enabled: true
+'123':
+  name: Seismic Axe
+  cost: 29
+  enabled: true
+'124':
+  name: Pickaxe of Vein Mining
+  cost: 29
+  enabled: true
+'125':
+  name: Soulbound Weapons
+  cost: 29
+  enabled: true
+'126':
+  name: Soulbound Tools
+  cost: 29
+  enabled: true
+'127':
+  name: Soulbound Armor
+  cost: 29
+  enabled: true
+'128':
+  name: Capacitors
+  cost: 27
+  enabled: true
+'129':
+  name: Delicious Drinks
+  cost: 29
+  enabled: true
+'130':
+  name: Repairing Spawners
+  cost: 15
+  enabled: true
+'131':
+  name: HO HO HO
+  cost: 1
+  enabled: true
+'132':
+  name: Enhanced Furnace
+  cost: 7
+  enabled: true
+'133':
+  name: Better Furnaces
+  cost: 18
+  enabled: true
+'134':
+  name: High Tier Furnace
+  cost: 29
+  enabled: true
+'135':
+  name: Reinforced Furnace
+  cost: 32
+  enabled: true
+'136':
+  name: Carbonado Edged Furnace
+  cost: 35
+  enabled: true
+'137':
+  name: Heating up
+  cost: 32
+  enabled: true
+'138':
+  name: Block Placer
+  cost: 17
+  enabled: true
+'139':
+  name: Lazy Panning
+  cost: 29
+  enabled: true
+'140':
+  name: Compact Smeltery
+  cost: 24
+  enabled: true
+'142':
+  name: Turning things around
+  cost: 38
+  enabled: true
+'143':
+  name: Robin Hood
+  cost: 22
+  enabled: true
+'144':
+  name: Sharing with friends
+  cost: 30
+  enabled: true
+'145':
+  name: XP Storage
+  cost: 13
+  enabled: true
+'146':
+  name: Withstanding Explosions
+  cost: 15
+  enabled: true
+'147':
+  name: Satellites
+  cost: 30
+  enabled: true
+'148':
+  name: Happy Easter
+  cost: 1
+  enabled: true
+'149':
+  name: Golden potion
+  cost: 24
+  enabled: true
+'150':
+  name: Portable Beverages
+  cost: 24
+  enabled: true
+'151':
+  name: Ancient Altar
+  cost: 15
+  enabled: true

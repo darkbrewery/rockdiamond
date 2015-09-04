@@ -1,0 +1,71 @@
+# This config controls what plugins work on certain worlds.
+# Example
+# limit:
+#   WorldEdit:
+#     - world
+#     - world_nether
+#   Essentials: []
+# This will make it so worldedit will only work in world & world_nether, meaning in the end it is not usable.
+# When there is no worlds in the list it will allow it for any worlds, in this example allowing all worlds.
+# Whenever a plugin is added, this config will automatically add it!
+# exempt-login-events is for excluding login events when true, this means if a plugin uses PlayerLogin it will allow it for any world. We advise this to be enabled!
+# blocked-msg is the string displayed to a client when a command is blocked
+# check-for-updates is the controller for if updates should be alerted to the users with the permissions/op.
+exempt-login-events: true
+check-for-updates: true
+blocked-msg: '&c[Error] This command cannot be performed in this world.'
+limit:
+  WorldBorder: []
+  PTweaks: []
+  WorldEdit: []
+  BetterSpawners: []
+  CommandRank: []
+  AntiCombatLog: []
+  Buycraft: []
+  Vault: []
+  PermissionsEx: []
+  KillerMoney: []
+  CS-CoreLib: []
+  WorldGuard: []
+  PlotSquared: []
+  PrisonSuite: []
+  iConomy: []
+  ChestCommands: []
+  ASkyBlock: []
+  WhatIsIt: []
+  ChestShop: []
+  PrisonUtils: []
+  ProtocolLib: []
+  Votifier: []
+  mcMMO: []
+  GAListener: []
+  VoidWorld: []
+  Dragon: []
+  PrisonMine: []
+  AutoAnnouncer: []
+  Essentials: []
+  Slimefun:
+  - world
+  - world_the_end
+  - hell
+  - skyblock
+  - skyblock_nether
+  EssentialsProtect: []
+  EssentialsSpawn: []
+  VanishNoPacket: []
+  Multiverse-Core: []
+  EssentialsAntiBuild: []
+  WarpPortals: []
+  CrateReloaded: []
+  CompatNoCheatPlus: []
+  EssentialsChat: []
+  GriefPrevention: []
+  HolographicDisplays: []
+  AreaShop: []
+  NoCheatPlus: []
+  Multiverse-Inventories: []
+  Multiverse-NetherPortals:
+  - world
+  - world_the_end
+  - hell
+  Signs: []

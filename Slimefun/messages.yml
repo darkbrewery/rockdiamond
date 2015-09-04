@@ -1,0 +1,146 @@
+prefix:
+- '&aSlimefun &7> '
+messages:
+  not-researched:
+  - '&4You do not have enough Knowledge to understand this'
+  not-enough-xp:
+  - '&4You do not have enough XP to unlock this'
+  unlocked:
+  - '&bYou have unlocked &7"%research%"'
+  fortune-cookie:
+  - '&7Help me, I am trapped in a Fortune Cookie Factory!'
+  - '&7You will die tomorrow...     by a Creeper'
+  - '&7At some Point in your Life something bad will happen!!!'
+  - '&7Next week you will notice that this is not the real World, you are in a kind
+    of "Matrix" or lets call it Computer game. Yes you are in a Computer Game'
+  - '&7This Cookie will taste good in a few seconds'
+  - '&7You will die soon and the last word you will hear is gonna be "EXTERMINATE!!!"'
+  - '&7Whatever you do, do not hug a Creeper... I tried it. It feels good, but it''s
+    not worth it.'
+  only-players:
+  - '&4This Command is only for Players'
+  no-permission:
+  - '&4You do not have the required Permission to do this'
+  usage:
+  - '&4Usage: &c%usage%'
+  not-online:
+  - '&4%player% &cis not online!'
+  not-valid-item:
+  - '&4%item% &cis not a valid Item!'
+  given-item:
+  - '&bYou have been given a &7"%item%"'
+  give-item:
+  - '&bYou have given %player% a &7"%item%"'
+  not-valid-research:
+  - '&4%research% &cis not a valid Research!'
+  give-research:
+  - '&bYou have given %player% the Research &7"%research%"'
+  battery:
+    add:
+    - '&2+ &7%charge% J &8(%machine%)'
+    remove:
+    - '&4- &7%charge% J &8(%machine%)'
+  hungry:
+  - '&cYou are too hungry to do that!'
+  mode-change:
+  - '&b%device% Mode changed to: &9%mode%'
+  disabled-in-world:
+  - '&4&lThis Item has been disabled in this World'
+  talisman:
+    anvil:
+    - '&a&oYour Talisman saved your Tool from breaking'
+    miner:
+    - '&a&oYour Talisman just doubled your Drops'
+    hunter:
+    - '&a&oYour Talisman just doubled your Drops'
+    lava:
+    - '&a&oYour Talisman saved you from burning to death'
+    water:
+    - '&a&oYour Talisman saved you from drowning'
+    angel:
+    - '&a&oYour Talisman saved you from taking Fall Damage'
+    fire:
+    - '&a&oYour Talisman saved you from burning to death'
+    magician:
+    - '&a&oYour Talisman gave you an additional Enchantment'
+    traveller:
+    - '&a&oYour Talisman gave you a Speed Boost'
+    warrior:
+    - '&a&oYour Talisman has improved your Strength for a While'
+    knight:
+    - '&a&oYour Talisman gave you 5 Seconds of Regeneration'
+    whirlwind:
+    - '&a&oYour Talisman reflected the Projectile'
+    wizard:
+    - '&a&oYour Talisman has given you a better Fortune Level but maybe also lowered
+      some other Enchantment Levels'
+  broken-leg:
+  - '&c&oSeems like you broke your Leg, maybe a Splint could help?'
+  fixed-leg:
+  - '&a&oThe Splint helps. It feels better now.'
+  start-bleeding:
+  - '&c&oYou started to bleed. Maybe a Bandage could help?'
+  stop-bleeding:
+  - '&a&oThe Bandage helps. The Bleeding has stopped!'
+  disabled-item:
+  - '&4&lThis Item has been disabled! How did you even get that?'
+  research:
+    start:
+    - '&7The Ancient Spirits whisper mysterious Words into your Ear!'
+    progress:
+    - '&7You start to understand those Words... &e%progress%'
+  fire-extinguish:
+  - '&7You have extinguished yourself'
+commands:
+  help:
+  - Displays this Help Screen
+  cheat:
+  - Allows you to cheat Items
+  give:
+  - Give somebody some Slimefun Items
+  research:
+    desc:
+    - Unlock a Research for a Player
+    reset:
+    - '&cYou have reset %player%''s Knowledge'
+    reset-target:
+    - '&cYour Knowledge has been reset'
+  guide:
+  - Gives yourself a Slimefun Guide
+  stats:
+  - Shows some Stats about a Player
+machines:
+  pattern-not-found:
+  - '&eSorry, I could not recognize this Pattern. Please place the Items in the correct
+    Pattern into the Dispenser.'
+  unknown-material:
+  - '&eSorry, I could not recognize the Item in my Dispenser. Please put something
+    in that I know.'
+  wrong-item:
+  - '&eSorry, I could not recognize the Item you right clicked me with. Check the
+    Recipes and see which Items you can use.'
+  full-inventory:
+  - '&eSorry, my Inventory is too full!'
+miner:
+  no-ores:
+  - '&eSorry, I could not find any Ores nearby!'
+backpack:
+  no-stack:
+  - '&cYou cannot stack Backpacks'
+workbench:
+  not-enhanced:
+  - '&4You cannot use Slimefun Items in a normal Workbench'
+anvil:
+  not-working:
+  - '&4You cannot use Slimefun Items in an Anvil'
+satellites:
+  not-enough:
+  - '&9Mission Control &7> Not enough Satellites: 3'
+  waypoint-limit:
+  - '&9Mission Control &7> &cYou have reached your Limit of 20 Waypoints'
+  waypoint-added:
+  - '&9Mission Control &7> &aSuccessfully added Waypoint'
+  waypoint-removed:
+  - '&9Mission Control &7> &cSuccessfully removed Waypoint'
+  launched:
+  - '&9Mission Control &7> &aSatellite launched'

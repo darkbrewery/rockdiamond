@@ -3,14 +3,14 @@ hasIsland: false
 islandLocation: ''
 hasTeam: true
 teamLeader: ca0104b4-7248-4a11-add7-4f4c6427dd60
-teamIslandLocation: skyblock:0:115:-400:0:0
 islandLevel: 0
 members: []
 resetsLeft: 2
 locale: ''
+teamIslandLocation: skyblock:0:115:-600:0:0
 startIslandRating: 50
 homeLocations:
-  '1': skyblock:0:119:-400:0:0
+  '1': skyblock:0:120:-598:0:1106247680
 challenges:
   status:
     cobblemaker: false
@@ -82,3 +82,4 @@ challenges:
     papermaker: 0
 invitecooldown:
   '1439501502226': skyblock:-200:115:-400:0:0
+  '1441315622765': skyblock:0:115:-400:0:0

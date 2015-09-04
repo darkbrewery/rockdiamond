@@ -1,20 +1,11 @@
-playerName: Music_Baker
-hasIsland: true
-islandLocation: skyblock:0:115:-600:0:0
-hasTeam: true
-teamLeader: ca0104b4-7248-4a11-add7-4f4c6427dd60
+playerName: Cagrimanoka_TR
+hasIsland: false
+islandLocation: ''
+hasTeam: false
+teamLeader: ''
+teamIslandLocation: ''
 islandLevel: 0
-members:
-- 3d168071-c4f1-4534-b1c9-f296f683687b
-- ca0104b4-7248-4a11-add7-4f4c6427dd60
-- ffb548fe-40a9-4569-a0c4-1b936e983735
-- 6ffeb0cf-e5fe-450c-a558-afda5677f9e6
-resetsLeft: 2
-locale: ''
-teamIslandLocation: skyblock:0:115:-600:0:0
-startIslandRating: 50
-homeLocations:
-  '1': skyblock:0:120:-598:0:1106247680
+members: []
 challenges:
   status:
     cobblemaker: false
@@ -84,5 +75,6 @@ challenges:
     culinaryartist: 0
     seedbank: 0
     papermaker: 0
-invitecooldown:
-  '1441315814676': skyblock:600:115:-200:0:0
+resetsLeft: 2
+locale: ''
+startIslandRating: 50
