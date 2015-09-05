@@ -8,6 +8,7 @@ islandLevel: 49
 members: []
 resetsLeft: 2
 locale: ''
+startIslandRating: 50
 homeLocations:
   '1': skyblock:0:120:-598:0:1106247680
 challenges:
@@ -81,4 +82,3 @@ challenges:
     papermaker: 0
 invitecooldown:
   '1441315818150': skyblock:600:115:-200:0:0
-startIslandRating: 50
