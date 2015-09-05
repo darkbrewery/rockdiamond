@@ -31,13 +31,23 @@ limit:
   PrisonSuite: []
   iConomy: []
   ChestCommands: []
-  ASkyBlock: []
+  ASkyBlock:
+  - skyblock
+  - skyblock_nether
   WhatIsIt: []
   ChestShop: []
-  PrisonUtils: []
+  PrisonUtils:
+  - spawn
   ProtocolLib: []
   Votifier: []
-  mcMMO: []
+  mcMMO:
+  - spawn
+  - free
+  - world
+  - world_the_end
+  - hell
+  - skyblock
+  - skyblock_nether
   GAListener: []
   VoidWorld: []
   Dragon: []
@@ -47,6 +57,7 @@ limit:
   Slimefun:
   - world
   - world_the_end
+  - free
   - hell
   - skyblock
   - skyblock_nether
@@ -59,7 +70,12 @@ limit:
   CrateReloaded: []
   CompatNoCheatPlus: []
   EssentialsChat: []
-  GriefPrevention: []
+  GriefPrevention:
+  - spawn
+  - free
+  - world
+  - world_the_end
+  - hell
   HolographicDisplays: []
   AreaShop: []
   NoCheatPlus: []

@@ -11,6 +11,7 @@
 *.log
 */regions.yml
 AreaShop/regions/
+ASkyBlock/players/
 Auto_Pickup/Data
 Buycraft/settings.conf
 CommandRank/PlayerStorage.yml
