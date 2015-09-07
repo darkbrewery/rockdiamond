@@ -7,10 +7,6 @@ loveyou:
   location: spawn, 14.505, 94.000, -1237.484
   lines:
   - '&4<3'
-donor:
-  location: spawn, 14.535, 84.200, -1212.006
-  lines:
-  - '&lDonor Ranks'
 suggestions1:
   location: spawn, -5.864, 85.000, -1230.170
   lines:

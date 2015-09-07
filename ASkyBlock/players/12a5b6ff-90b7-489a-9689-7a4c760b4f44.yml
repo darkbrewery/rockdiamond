@@ -1,6 +1,6 @@
 playerName: kayvanderarend
-hasIsland: false
-islandLocation: ''
+hasIsland: true
+islandLocation: skyblock:200:115:-600:0:0
 hasTeam: false
 teamLeader: ''
 teamIslandLocation: ''
@@ -9,6 +9,8 @@ members: []
 resetsLeft: 2
 locale: ''
 startIslandRating: 50
+homeLocations:
+  '1': skyblock:200:118:-600:0:0
 challenges:
   status:
     cobblemaker: false
