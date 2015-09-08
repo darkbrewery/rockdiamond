@@ -1817,3 +1817,7 @@ OVEN:
   - '&e2: Put the Ingredients of the Item'
   - '&eyou want to craft into the Furnace'
   - '&e3: Right Click the Cobblestone Wall'
+WITHER_PROOF_OBSIDIAN:
+  enabled: true
+  can-be-used-in-workbenches: false
+  required-permission: ''

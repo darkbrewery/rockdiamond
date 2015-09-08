@@ -6,8 +6,8 @@ updater:
   check-automatically: true
 tabmenu:
   enabled: true
-  header: ' &9Rock Diamond &bNetwork '
-  footer: ' mc.rockdiamond.net '
+  header: \n&b&l Rock Diamond &c&lNetwork \n
+  footer: \n&e&lmc.rockdiamond.net\n
 welcome_message:
   enabled: true
   title: '&7Welcome &a{PLAYER}&7!'

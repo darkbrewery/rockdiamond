@@ -25,5 +25,5 @@ multiverse-configuration:
   globaldebug: '0'
   messagecooldown: '5000'
   version: '2.9'
-  firstspawnworld: spawn
+  firstspawnworld: hub
   teleportcooldown: '1000'

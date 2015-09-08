@@ -332,6 +332,7 @@ world:
     TELEPORTER: true
     COOLING_UNIT: true
     COOLER: true
+    WITHER_PROOF_OBSIDIAN: true
   enabled: true
 world_the_end:
   enabled-items:
@@ -667,6 +668,7 @@ world_the_end:
     TELEPORTER: true
     COOLING_UNIT: true
     COOLER: true
+    WITHER_PROOF_OBSIDIAN: true
   enabled: true
 free:
   enabled: true

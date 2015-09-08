@@ -9,7 +9,6 @@ groups:
     - free
     - plotworld
     - mines
-    - world_the_end
     - parkour
     shares:
     - all
@@ -21,6 +20,7 @@ groups:
   Survival:
     worlds:
     - world
+    - world_the_end
     - hell
     shares:
     - all

@@ -1,4 +1,4 @@
-version: 3.1.8
+version: 3.1.9
 schematics:
   save_path: /home/minecraft/plugins/PlotSquared/schematics
 chunk-processor:

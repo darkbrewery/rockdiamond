@@ -13,10 +13,10 @@ regions:
     __global__:
         type: global
         priority: 0
-        flags: {pvp: deny, enderpearl: deny, use: allow, build: allow, mob-spawning: deny,
-            soil-dry: deny}
+        flags: {pvp: deny, enderpearl: deny, use: allow, build: allow, soil-dry: deny,
+            mob-spawning: deny}
         owners:
-            players: [gamingassassin2]
+            players: [darkbrewery]
         members: {}
     a_door:
         type: cuboid
@@ -310,7 +310,7 @@ regions:
         min: {x: -116.0, y: 31.0, z: -1290.0}
         max: {x: -107.0, y: 40.0, z: -1281.0}
         priority: 10
-        flags: {ice-melt: deny, snow-melt: deny, water-flow: deny, build: allow}
+        flags: {ice-melt: deny, water-flow: deny, snow-melt: deny, build: allow}
         owners: {}
         members: {}
     j_door:

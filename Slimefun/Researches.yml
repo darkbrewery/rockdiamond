@@ -603,3 +603,7 @@ enable-researching: true
   name: Ancient Altar
   cost: 15
   enabled: true
+'152':
+  name: Wither-Proof Obsidian
+  cost: 21
+  enabled: true

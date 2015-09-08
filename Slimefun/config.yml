@@ -18,6 +18,11 @@ options:
   print-out-loading: false
   enable-armor-effects: true
   prefix: '&a&lSlimefun &7>'
+  auto-save-delay-in-minutes: 10
+  show-vanilla-recipes-in-guide: true
+URID:
+  chunk-buffer: 50
+  info-delay: 2000
 machines:
   enhanced-furnaces: true
 items:

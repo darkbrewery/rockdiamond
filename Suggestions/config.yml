@@ -1,0 +1,28 @@
+suggest:
+  prefix: '&9&lSuggestions&8 »'
+  command:
+    line1: '&bSuggest new features for the server!'
+    line2: '&3/suggest <suggestions>'
+feedback:
+  prefix: '&9&lFeedback&8 »'
+  command:
+    line1: '&bGive us feedback on how to improve!'
+    line2: '&3/feedback <feedback>'
+messages:
+  infile:
+    suggest: '%player%: %message%'
+    feedback: '%player%: %message%'
+  onclear:
+    suggest: '&aThe suggestions file has been cleared!'
+    feedback: '&aThe feedback file has been cleared!'
+  successful:
+    line1: '&aThe following message has been added:'
+    line2: '&6%player%: &e%message%'
+  notify:
+    suggest:
+      line1: '&2%player% has made the following suggestion:'
+      line2: '&a%message%'
+    feedback:
+      line1: '&2%player% has given the following feedback:'
+      line2: '&a%message%'
+  nopermission: '&cNo permission!'
