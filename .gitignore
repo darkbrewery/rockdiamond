@@ -11,6 +11,7 @@
 *.log
 */regions.yml
 AreaShop/regions/
+ASkyBlock/database/
 ASkyBlock/players/
 Auto_Pickup/Data
 Buycraft/settings.conf
@@ -36,6 +37,8 @@ Parkour/inventory.yml
 Parkour/players.yml
 PermissionsEx/permissions.yml
 simpleFactions/playerData/
+Suggestions/feedback.txt
+Suggestions/suggestions.txt
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*

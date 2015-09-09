@@ -1,6 +1,6 @@
 playerName: Bladefury12
-hasIsland: false
-islandLocation: ''
+hasIsland: true
+islandLocation: skyblock:-600:115:200:0:0
 hasTeam: false
 teamLeader: ''
 teamIslandLocation: ''
@@ -9,6 +9,8 @@ members: []
 resetsLeft: 2
 locale: ''
 startIslandRating: 50
+homeLocations:
+  '1': skyblock:-600:120:202:0:1106247680
 challenges:
   status:
     cobblemaker: false

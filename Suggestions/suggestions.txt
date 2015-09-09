@@ -4,3 +4,6 @@ Suggestions:
 - Feelz: A block broken counter fix 
 - Feelz: Prison PvP progression system - kits/ranks(?) 
 - Feelz: [Minor]: Rank W mine is one of the glitchiest in terms of rubber-banding/block rebuilding. 
+- Feelz: The plugin that gives you the material without leaving an entitiy should be in Free rank. 
+- Feelz: Free is not able to use any previous Kits. 
+- Mysteryman0506: that typing /as makes you auto sella to quickley get stuff without doing /sell all 
