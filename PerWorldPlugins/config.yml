@@ -18,7 +18,13 @@ limit:
   WorldBorder: []
   PTweaks: []
   WorldEdit: []
-  BetterSpawners: []
+  BetterSpawners:
+  - free
+  - world
+  - world_the_end
+  - hell
+  - skyblock
+  - skyblock_nether
   CommandRank: []
   AntiCombatLog: []
   Buycraft: []
@@ -91,3 +97,7 @@ limit:
   Signs: []
   TitleManager: []
   Suggestions: []
+  DragonSlayer: []
+  HoloPlots: []
+  Minequery: []
+  OreGenerator: []

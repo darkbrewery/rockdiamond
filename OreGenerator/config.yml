@@ -1,0 +1,16 @@
+Chances:
+  Coal: 20
+  Iron: 30
+  Gold: 40
+  Redstone: 80
+  Lapis: 80
+  Emerald: 100
+  Diamond: 100
+Worlds:
+- world
+- world_the_end
+- skyblock
+- spawn
+- free
+- plotworld
+- survival

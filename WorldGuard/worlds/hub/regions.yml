@@ -13,6 +13,6 @@ regions:
     __global__:
         type: global
         priority: 0
-        flags: {item-drop: deny, pvp: deny, invincible: deny, build: allow, mob-spawning: deny}
+        flags: {item-drop: deny, pvp: deny, invincible: deny, build: deny, mob-spawning: deny}
         owners: {}
         members: {}

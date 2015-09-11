@@ -88,7 +88,7 @@ protection:
   redstone:
     disable-offline: false
     disable-unoccupied: false
-titles: true
+titles: false
 global_limit: false
 worlds:
   plotworld:
@@ -105,7 +105,7 @@ worlds:
       height: 64
       biome: FOREST
       bedrock: true
-      create_signs: true
+      create_signs: false
       auto_merge: true
     wall:
       block: '44:7'
@@ -157,8 +157,8 @@ worlds:
       height: 64
       biome: FOREST
       bedrock: true
-      create_signs: true
-      auto_merge: false
+      create_signs: false
+      auto_merge: true
     wall:
       block: '44:7'
       height: 64
@@ -198,7 +198,7 @@ worlds:
 chat:
   fancy: true
 web:
-  server-ip: your.ip.here
+  server-ip: mc.rockdiamond.net
   url: http://empcraft.com/plots/
 platform: Bukkit
 update-notifications: true
@@ -209,6 +209,6 @@ approval:
     required-for-download: false
   ratings:
     require-done: false
-kill_road_vehicles: false
+kill_road_vehicles: true
 bo3:
   save_path: BO3
