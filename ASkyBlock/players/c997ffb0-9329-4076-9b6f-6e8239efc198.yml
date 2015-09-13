@@ -10,7 +10,7 @@ resetsLeft: 2
 locale: ''
 startIslandRating: 50
 homeLocations:
-  '1': skyblock:-200:118:200:0:0
+  '1': skyblock:-206:118:193:-1024773308:1112276980
 challenges:
   status:
     cobblemaker: false

@@ -77,6 +77,15 @@ regions:
         flags: {build: allow}
         owners: {}
         members: {}
+    badass_mine:
+        type: cuboid
+        min: {x: 64.0, y: 71.0, z: -1079.0}
+        max: {x: 74.0, y: 87.0, z: -1069.0}
+        priority: 0
+        flags: {}
+        owners:
+            groups: [badass]
+        members: {}
     c_door:
         type: cuboid
         min: {x: -27.0, y: 91.0, z: -1363.0}
@@ -310,7 +319,7 @@ regions:
         min: {x: -116.0, y: 31.0, z: -1290.0}
         max: {x: -107.0, y: 40.0, z: -1281.0}
         priority: 10
-        flags: {ice-melt: deny, water-flow: deny, snow-melt: deny, build: allow}
+        flags: {ice-melt: deny, snow-melt: deny, water-flow: deny, build: allow}
         owners: {}
         members: {}
     j_door:
@@ -977,12 +986,12 @@ regions:
         members: {}
     work:
         type: cuboid
-        min: {x: -101.0, y: 0.0, z: -2978.0}
-        max: {x: -79.0, y: 255.0, z: -2956.0}
+        min: {x: -10.0, y: 70.0, z: -1225.0}
+        max: {x: 38.0, y: 90.0, z: -1185.0}
         priority: 0
         flags: {}
         owners:
-            players: [jakespeed19]
+            players: [jakespeed19, gamingassassin2]
         members: {}
     x_door:
         type: cuboid

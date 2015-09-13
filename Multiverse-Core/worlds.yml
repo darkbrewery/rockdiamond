@@ -93,16 +93,16 @@ worlds:
       price: 0.0
     hunger: false
     autoheal: true
-    adjustspawn: true
+    adjustspawn: false
     portalform: ALL
     gamemode: SURVIVAL
     keepspawninmemory: true
     spawn:
-      x: 0.5
-      y: 66.0
-      z: 2.5
-      pitch: 0.0
-      yaw: 0.0
+      x: 0.4956339605851099
+      y: 66.5
+      z: 4.3479201807327685
+      pitch: -16.35
+      yaw: -0.29999998
       world: plotworld
     autoload: true
     bedrespawn: true
