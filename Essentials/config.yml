@@ -231,10 +231,11 @@ kits:
   Survival:
     delay: 6000
     items:
-      - 274 1 unbreaking:1 name:&a&lCrowbar
-      - 273 1 unbreaking:1 name:&a&lSpoon
-      - 272 1 unbreaking:1 name:&a&lToothpick
-      - 291 1 unbreaking:1 name:&a&lGarden_Rake
+      - 274 1 unbreaking:1 name:&a&lRusty_Crowbar
+      - 273 1 unbreaking:1 name:&a&lCorroded_Spoon
+      - 272 1 unbreaking:1 name:&a&lBent_Toothpick
+      - 275 1 unbreaking:1 name:&a&lWrecked_Hatchet
+      - 291 1 unbreaking:1 name:&a&lGranny_Rake
       - 298 1 unbreaking:1 name:&a&lBeanie
       - 299 1 unbreaking:1 name:&a&lCroptop
       - 300 1 unbreaking:1 name:&a&lButtflap
@@ -609,39 +610,40 @@ chat:
 
   group-formats:
     Freshmeat: '&2[&eFreshmeat&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    A: '&2[&aNovice&2][&eA&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    B: '&2[&aNovice&2][&eB&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    C: '&2[&aNovice&2][&eC&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    D: '&2[&aNovice&2][&eD&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    E: '&2[&aNovice&2][&eE&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    F: '&2[&aNovice&2][&eF&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    G: '&2[&aNovice&2][&eG&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    H: '&2[&aNovice&2][&eH&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    I: '&9[&bAdept&9][&eI&9] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    J: '&9[&bAdept&9][&eJ&9] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    K: '&9[&bAdept&9][&eK&9] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    L: '&9[&bAdept&9][&eL&9] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    M: '&9[&bAdept&9][&eM&9] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    N: '&9[&bAdept&9][&eN&9] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    O: '&9[&bAdept&9][&eO&9] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    P: '&9[&bAdept&9][&eP&9] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Q: '&4[&cExpert&4]&4[&eQ&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    R: '&4[&cExpert&4]&4[&eR&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    S: '&4[&cExpert&4]&4[&eS&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    T: '&4[&cExpert&4]&4[&eT&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    U: '&4[&cExpert&4]&4[&eUnicorn&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    V: '&4[&cExpert&4]&4[&eV&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    W: '&4[&cExpert&4]&4[&eW&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    X: '&4[&cExpert&4]&4[&eX&4] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Y: '&5[&dPro&5]&d[&eY&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Z: '&5[&dPro&5]&d[&eZ&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Free: '&5[&dPro&5]&d[&eFree&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Savage: '&5[&dPro&5]&d[&eSavage&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Psycho: '&5[&dPro&5]&d[&ePsycho&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Badass: '&5[&dPro&5]&d[&eBadass&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Demon: '&5[&dPro&5]&d[&eDemon&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    Overlord: '&5[&dPro&5]&d[&eOverlord&d] &b{DISPLAYNAME}&7:&r {MESSAGE}'    
-    Owner: '&b{DISPLAYNAME}&7:&r {MESSAGE}'
+    A: '&a♣&r &2[&aNovice&2][&eA&2] &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
+    B: '&a♣&r &2[&aNovice&2][&eB&2] &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
+    C: '&a♣&r &2[&aNovice&2][&eC&2] &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
+    D: '&a♣&r &2[&aNovice&2][&eD&2] &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
+    E: '&a♣&r &2[&aNovice&2][&eE&2] &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
+    F: '&a♣&r &2[&aNovice&2][&eF&2] &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
+    G: '&a♣&r &2[&aNovice&2][&eG&2] &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
+    H: '&a♣&r &2[&aNovice&2][&eH&2] &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
+    I: '&b♠&r &9[&bAdept&9][&eI&9] &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
+    J: '&b♠&r &9[&bAdept&9][&eJ&9] &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
+    K: '&b♠&r &9[&bAdept&9][&eK&9] &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
+    L: '&b♠&r &9[&bAdept&9][&eL&9] &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
+    M: '&b♠&r &9[&bAdept&9][&eM&9] &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
+    N: '&b♠&r &9[&bAdept&9][&eN&9] &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
+    O: '&b♠&r &9[&bAdept&9][&eO&9] &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
+    P: '&b♠&r &9[&bAdept&9][&eP&9] &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
+    Q: '&c♦&r &4[&cExpert&4]&4[&eQ&4] &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
+    R: '&c♦&r &4[&cExpert&4]&4[&eR&4] &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
+    S: '&c♦&r &4[&cExpert&4]&4[&eS&4] &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
+    T: '&c♦&r &4[&cExpert&4]&4[&eT&4] &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
+    U: '&c♦&r &4[&eUnicorn&4] &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
+    V: '&c♦&r &4[&cExpert&4]&4[&eV&4] &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
+    W: '&c♦&r &4[&cExpert&4]&4[&eW&4] &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
+    X: '&c♦&r &4[&cExpert&4]&4[&eX&4] &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
+    Y: '&e♥&r &5[&dPro&5]&d[&eY&d] &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
+    Z: '&e♥&r &5[&dPro&5]&d[&eZ&d] &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
+    Free: '&e♥&r &d[&eFree&d] &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
+    Savage: '&e♥&r &d[&eSavage&d] &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
+    Psycho: '&e♥&r &d[&ePsycho&d] &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
+    Badass: '&e♥&r &d[&eBadass&d] &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
+    Demon: '&e♥&r &d[&eDemon&d] &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
+    Overlord: '&e♥&r &d[&eOverlord&d] &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'    
+    Admin: '&4♚&r &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
+    Owner: '&4♚&r &b{DISPLAYNAME} &4&o&l>>&r {MESSAGE}'
 
 ############################################################
 # +------------------------------------------------------+ #

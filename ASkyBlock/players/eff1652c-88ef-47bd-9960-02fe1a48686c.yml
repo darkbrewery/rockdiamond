@@ -4,13 +4,13 @@ islandLocation: skyblock:400:115:0:0:0
 hasTeam: false
 teamLeader: ''
 teamIslandLocation: ''
-islandLevel: 11
+islandLevel: 37
 members: []
 resetsLeft: 1
 locale: ''
 startIslandRating: 50
 homeLocations:
-  '1': skyblock:398:118:-3:-1065248051:1090938495
+  '1': skyblock:397:119:-7:-1097223168:1099012513
 challenges:
   status:
     cobblemaker: false
@@ -38,7 +38,7 @@ challenges:
     beaconator: false
     homestead: false
     slimeballfarmer: false
-    dyemaker: false
+    dyemaker: true
     mason: false
     gemcollector: false
     stewmaker: false
@@ -72,7 +72,7 @@ challenges:
     beaconator: 0
     homestead: 0
     slimeballfarmer: 0
-    dyemaker: 0
+    dyemaker: 1
     mason: 0
     gemcollector: 0
     stewmaker: 0

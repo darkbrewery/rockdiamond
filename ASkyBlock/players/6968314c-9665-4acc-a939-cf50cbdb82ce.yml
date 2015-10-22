@@ -8,6 +8,7 @@ islandLevel: 0
 members: []
 resetsLeft: 2
 locale: ''
+startIslandRating: 50
 homeLocations:
   '1': skyblock:-400:120:602:0:1106247680
 challenges:
@@ -79,4 +80,3 @@ challenges:
     culinaryartist: 0
     seedbank: 0
     papermaker: 0
-startIslandRating: 50

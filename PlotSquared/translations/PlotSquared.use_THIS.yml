@@ -6,22 +6,13 @@ help:
   help_page_header: '$1Category: $2%category%$2,$1 Page: $2%current%$3/$2%max%$2'
   help_footer: $3&m---------&r $1Plot² Help $3&m---------
 permission:
-  merge_requested: $2Successfully sent a merge request
   merge_request_confirm: merge request from %s
-  merge_not_valid: $2This merge request is no longer valid.
   no_schematic_permission: $2You don't have the permission required to use schematic $1%s
-  unlink_required: $2An unlink is required to do this.
   cant_transfer_more_plots: $2You can't send more plots to that user
   you_be_denied: $2You are not allowed to enter this plot
-  unlink_success: $2Successfully unlinked plots.
-  no_perm_merge: '$2You are not the owner of the plot: $1%plot%'
   cant_claim_more_plots_num: $2You can't claim more than $1%s $2plots at once
-  merge_accepted: $2The merge request has been accepted
   no_permission: '$2You are lacking the permission node: $1%s'
   cant_claim_more_plots: $2You can't claim more plots.
-  no_merge_to_mega: $2Mega plots cannot be merged into. Please merge from the desired mega plot.
-  success_merge: $2Plots have been merged!
-  unlink_impossible: $2You can only unlink a mega-plot
   no_plot_perms: $2You must be the plot owner to perform this action
   no_permission_event: '$2You are lacking the permission node: $1%s'
 titles:
@@ -163,7 +154,6 @@ ratings:
   rating_not_your_own: $2You cannot rate your own plot
   rating_not_done: $2You can only rate finished plots.
 block list:
-  block_list_item: ' $1%mat%$2,'
   block_list_separater: '$1,$2 '
 list:
   plot_list_item_ordered: $2[$1%in$2] >> $1%id$2:$1%world $2- $1%owner
@@ -178,6 +168,7 @@ position:
   missing_position: '$2You need to specify a position. Possible values: $1none'
   home_argument: $2Use /plot set home [none]
   position_set: $1Home position set to your current location
+  position_unset: $1Home position reset to the default location
 unclaim:
   unclaim_success: $4You successfully unclaimed the plot.
   unclaim_failed: $2Could not unclaim the plot
@@ -200,6 +191,7 @@ core:
   prefix: $3[$1P2$3] $2
   enabled: $1PlotSquared is now enabled
   example_message: $2This is an example message &k!!!
+  task_start: Starting task...
 deny:
   was_not_denied: $2That player was not denied on this plot
   denied_removed: $4You successfully undenied the player from this plot
@@ -252,7 +244,6 @@ flag:
   flag_not_in_plot: $2The plot does not have that flag
   flag_key: '$2Key: %s'
   flag_not_added: $2The flag could not be added
-  need_key: '$2Possible values: $1%values%'
   not_valid_flag: $2That is not a valid flag
   not_valid_value: $2Flag values must be alphanumerical
 confirm:
@@ -272,7 +263,6 @@ swap:
   started_swap: $2Started plot swap task. You will be notified when it finishes
   swap_overlap: $2The proposed areas are not allowed to overlap
 trim:
-  trim_start: Starting a world trim task...
   trim_in_progress: A world trim task is already in progress!
   trim_syntax: Use /plot trim <all|x;y> <world>
   not_valid_hybrid_plot_world: The hybrid plot manager is required to perform this action
@@ -346,6 +336,7 @@ blocked command:
 desc:
   desc_set: $2Plot description set
   missing_desc: $2You need to specify a description
+  desc_unset: $2Plot description unset
 paste:
   debug_report_created: '$1Uploaded a full debug to: $1%url%'
 unsafe:
@@ -360,3 +351,13 @@ done:
   done_insufficient_complexity: $2This plot is too simple. Please add more detail before using this command.
   done_success: $1Successfully marked this plot as done.
   done_removed: $1You may now continue building in this plot.
+merge:
+  merge_requested: $2Successfully sent a merge request
+  merge_not_valid: $2This merge request is no longer valid.
+  unlink_required: $2An unlink is required to do this.
+  unlink_success: $2Successfully unlinked plots.
+  no_perm_merge: '$2You are not the owner of the plot: $1%plot%'
+  merge_accepted: $2The merge request has been accepted
+  success_merge: $2Plots have been merged!
+  unlink_impossible: $2You can only unlink a mega-plot
+  no_available_automerge: $2You do not own any adjacent plots in the specified direction or are not allowed to merge to the required size.

@@ -1,16 +1,14 @@
 playerName: MySmilePotato
 hasIsland: false
 islandLocation: ''
-hasTeam: true
-teamLeader: 4b3c4af8-f67f-4d82-8ce9-4adc76b7b84a
-islandLevel: 227
+hasTeam: false
+teamLeader: ''
+islandLevel: 0
 members: []
 resetsLeft: 1
 locale: ''
-teamIslandLocation: skyblock:-400:115:0:0:0
+teamIslandLocation: ''
 startIslandRating: 50
-homeLocations:
-  '1': skyblock:-400:120:2:0:1106247680
 challenges:
   status:
     cobblemaker: false

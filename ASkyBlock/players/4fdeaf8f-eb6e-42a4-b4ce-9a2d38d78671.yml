@@ -1,6 +1,6 @@
 playerName: revemup
-hasIsland: false
-islandLocation: ''
+hasIsland: true
+islandLocation: skyblock:0:115:-800:0:0
 hasTeam: false
 teamLeader: ''
 teamIslandLocation: ''
@@ -8,7 +8,8 @@ islandLevel: 0
 members: []
 resetsLeft: 2
 locale: ''
-startIslandRating: 50
+homeLocations:
+  '1': skyblock:0:120:-798:0:1106247680
 challenges:
   status:
     cobblemaker: false
@@ -23,10 +24,10 @@ challenges:
     farmer: false
     cookiemaker: false
     itsamonsterparty: false
+    dj: false
+    craftsman: false
     angler: false
     grinder: false
-    craftsman: false
-    dj: false
     ittakesavillage: false
     enderpearls: false
     myprecious: false
@@ -44,37 +45,3 @@ challenges:
     culinaryartist: false
     seedbank: false
     papermaker: false
-  times:
-    cobblemaker: 0
-    breadmaker: 0
-    acidduke: 0
-    pioneer: 0
-    glassmaker: 0
-    itsaparty: 0
-    snowplay: 0
-    shepherd: 0
-    treecutter: 0
-    farmer: 0
-    cookiemaker: 0
-    itsamonsterparty: 0
-    angler: 0
-    grinder: 0
-    craftsman: 0
-    dj: 0
-    ittakesavillage: 0
-    enderpearls: 0
-    myprecious: 0
-    baker: 0
-    builder: 0
-    alchemist: 0
-    beaconator: 0
-    homestead: 0
-    slimeballfarmer: 0
-    dyemaker: 0
-    mason: 0
-    gemcollector: 0
-    stewmaker: 0
-    nether: 0
-    culinaryartist: 0
-    seedbank: 0
-    papermaker: 0

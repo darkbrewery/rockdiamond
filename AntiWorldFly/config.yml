@@ -1,0 +1,13 @@
+# AntiWorldFly configuration file V2.
+# 
+# Worlds in which flying is blocked; list below with - in front of each world name.
+antiFlyWorlds:
+- your_world_1
+- your_world_2
+- survival
+- world_the_end
+- world
+- hell
+language: en
+chatMessage: true
+antiFlyCreative: true

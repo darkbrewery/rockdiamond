@@ -1,0 +1,286 @@
+worlds:
+-   name: hub
+    title: Server Hub
+    enabled: true
+    extrazoomout: 0
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: Surface
+        icon: images/spawn.png
+        prefix: t
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: shadows
+        image-format: default
+        mapzoomin: 3
+        boostzoom: 0
+        append_to_world: ''
+        protected: false
+    protected: false
+    sendposition: true
+    sendhealth: true
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    hidestyle: stone
+-   name: world
+    title: Survival
+    enabled: true
+    protected: false
+    sendposition: true
+    sendhealth: true
+    extrazoomout: 0
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    hidestyle: stone
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: Surface
+        icon: images/block_flat.png
+        prefix: t
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: shadows
+        image-format: default
+        mapzoomin: 3
+        boostzoom: 0
+        append_to_world: ''
+        protected: false
+-   name: world_the_end
+    title: world_the_end
+    enabled: false
+    extrazoomout: 0
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: the_end
+        title: Surface
+        prefix: st
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: brightnight
+        image-format: default
+        mapzoomin: 3
+        boostzoom: 0
+        append_to_world: ''
+        protected: false
+    protected: false
+    sendposition: true
+    sendhealth: true
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    hidestyle: stone
+-   name: skyblock_nether
+    title: skyblock_nether
+    enabled: false
+    extrazoomout: 0
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: Flat
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: nethershadows
+        background: '#300806'
+        mapzoomin: 3
+    -   class: org.dynmap.hdmap.HDMap
+        name: nether
+        title: Surface
+        prefix: nt
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: nethershadows
+        background: '#300806'
+        mapzoomin: 3
+-   name: skyblock
+    title: Skyblock
+    enabled: true
+    extrazoomout: 0
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: Surface
+        icon: images/block_skylands.png
+        prefix: t
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: shadows
+        image-format: default
+        mapzoomin: 3
+        boostzoom: 0
+        append_to_world: ''
+        protected: false
+    protected: false
+    center:
+        x: 400.0
+        y: 119.0
+        z: 383.0
+    sendposition: true
+    sendhealth: true
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    hidestyle: stone
+-   name: spawn
+    title: Prison
+    enabled: true
+    extrazoomout: 0
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: Prison
+        icon: images/block_other.png
+        prefix: t
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: shadows
+        image-format: default
+        mapzoomin: 3
+        boostzoom: 0
+        append_to_world: ''
+        protected: false
+    protected: false
+    sendposition: true
+    sendhealth: true
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    hidestyle: stone
+-   name: plotworld
+    title: Plots
+    enabled: true
+    extrazoomout: 0
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: Plots
+        icon: images/block_the_end.png
+        prefix: t
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: shadows
+        image-format: default
+        mapzoomin: 3
+        boostzoom: 0
+        append_to_world: spawn
+        protected: false
+    protected: false
+    sendposition: true
+    sendhealth: true
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    hidestyle: stone
+-   name: parkour
+    title: parkour
+    enabled: false
+    extrazoomout: 0
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: Flat
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: shadows
+        mapzoomin: 3
+    -   class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: Surface
+        prefix: t
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: shadows
+        mapzoomin: 3
+    -   class: org.dynmap.hdmap.HDMap
+        name: cave
+        title: Cave
+        prefix: ct
+        perspective: iso_SE_60_lowres
+        shader: cave
+        lighting: default
+        mapzoomin: 3
+-   name: free
+    title: Free
+    enabled: true
+    extrazoomout: 0
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: Free
+        prefix: t
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: shadows
+        image-format: default
+        mapzoomin: 3
+        boostzoom: 0
+        append_to_world: spawn
+        protected: false
+    protected: false
+    sendposition: true
+    sendhealth: true
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    hidestyle: stone
+-   name: hell
+    title: hell
+    enabled: false
+    extrazoomout: 0
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: Flat
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: nethershadows
+        background: '#300806'
+        mapzoomin: 3
+    -   class: org.dynmap.hdmap.HDMap
+        name: nether
+        title: Surface
+        prefix: nt
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: nethershadows
+        background: '#300806'
+        mapzoomin: 3
+-   name: world_creative
+    title: Creative
+    enabled: true
+    extrazoomout: 0
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: Surface
+        icon: images/block_biome.png
+        prefix: t
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: shadows
+        image-format: default
+        mapzoomin: 3
+        boostzoom: 0
+        append_to_world: ''
+        protected: false
+    protected: false
+    sendposition: true
+    sendhealth: true
+    visibilitylimits: [
+        ]
+    hiddenlimits: [
+        ]
+    hidestyle: stone

@@ -10,3 +10,6 @@ worlds:
   world_the_end:
     portalgoesto:
       END: world
+  world_creative:
+    portalgoesto:
+      NETHER: hell

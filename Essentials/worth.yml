@@ -168,3 +168,9 @@ worth:
     '0': 24.0
   longgrass:
     '1': 24.0
+  carrotitem:
+    '0': 1.0
+  netherstalk:
+    '0': 1.0
+  snowblock:
+    '0': 1.0

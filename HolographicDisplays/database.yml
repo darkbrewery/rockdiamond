@@ -8,7 +8,7 @@ loveyou:
   lines:
   - '&4<3'
 suggestions1:
-  location: spawn, -5.864, 85.000, -1230.170
+  location: hub, -35.429, 72.211, 0.551
   lines:
   - '&u&lSuggestions'
   - '&oBug reports and'
@@ -55,7 +55,9 @@ welcome:
   location: spawn, -29.543, 81.089, -1237.472
   lines:
   - '&lWelcome to Prison!'
-  - Type &9/warp A &rto get started
+  - Type &9/warp A &rto start mining
+  - Use &9/kits &rto get some gear
+  - Walk forward for the tutorial
 zombiefarm:
   location: spawn, -141.516, 98.200, -1169.782
   lines:
@@ -102,7 +104,7 @@ plotsinfo:
   lines:
   - '&u-------------------------------'
   - '&lWelcome to Prison Plots!'
-  - '&b/p claim &rto claim your own'
-  - '&b/p visit <player> &rto visit someones plot'
-  - '&b/p h &rto return to your plot'
+  - '&9/plot claim &rto claim your own'
+  - '&9/plot v <ign> &rto visit someones plot'
+  - '&9/plot h &rto return to your plot'
   - '&u-------------------------------'

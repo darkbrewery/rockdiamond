@@ -13,8 +13,8 @@ regions:
     __global__:
         type: global
         priority: 0
-        flags: {pvp: deny, enderpearl: deny, use: allow, build: allow, soil-dry: deny,
-            mob-spawning: deny}
+        flags: {item-drop: deny, pvp: deny, enderpearl: deny, use: allow, build: allow,
+            soil-dry: deny, mob-spawning: deny}
         owners:
             players: [darkbrewery]
         members: {}
@@ -319,7 +319,7 @@ regions:
         min: {x: -116.0, y: 31.0, z: -1290.0}
         max: {x: -107.0, y: 40.0, z: -1281.0}
         priority: 10
-        flags: {ice-melt: deny, snow-melt: deny, water-flow: deny, build: allow}
+        flags: {ice-melt: deny, water-flow: deny, snow-melt: deny, build: allow}
         owners: {}
         members: {}
     j_door:
@@ -446,7 +446,7 @@ regions:
         min: {x: 46.0, y: 103.0, z: -1319.0}
         max: {x: 82.0, y: 110.0, z: -1295.0}
         priority: 10
-        flags: {build: allow}
+        flags: {item-drop: allow, build: allow}
         owners: {}
         members: {}
     ov_door:

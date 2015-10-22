@@ -75,7 +75,8 @@ limit:
   VanishNoPacket: []
   Multiverse-Core: []
   EssentialsAntiBuild: []
-  WarpPortals: []
+  WarpPortals:
+  - hub
   CrateReloaded: []
   CompatNoCheatPlus: []
   EssentialsChat: []
@@ -94,6 +95,7 @@ limit:
   - world
   - world_the_end
   - hell
+  - world_creative
   Signs: []
   TitleManager: []
   Suggestions: []
@@ -102,3 +104,7 @@ limit:
   Minequery: []
   OreGenerator: []
   CustomOreGen: []
+  dynmap: []
+  Dynmap-Essentials: []
+  Plot2Dynmap: []
+  AntiWorldFly: []
