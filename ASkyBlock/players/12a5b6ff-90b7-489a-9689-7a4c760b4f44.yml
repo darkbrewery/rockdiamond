@@ -4,7 +4,7 @@ islandLocation: skyblock:200:115:-600:0:0
 hasTeam: false
 teamLeader: ''
 teamIslandLocation: ''
-islandLevel: 0
+islandLevel: 15
 members: []
 resetsLeft: 2
 locale: ''
@@ -33,7 +33,7 @@ challenges:
     enderpearls: false
     myprecious: false
     baker: false
-    builder: false
+    builder: true
     alchemist: false
     beaconator: false
     homestead: false
@@ -67,7 +67,7 @@ challenges:
     enderpearls: 0
     myprecious: 0
     baker: 0
-    builder: 0
+    builder: 1
     alchemist: 0
     beaconator: 0
     homestead: 0

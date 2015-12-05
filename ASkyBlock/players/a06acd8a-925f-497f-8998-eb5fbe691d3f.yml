@@ -3,7 +3,7 @@ hasIsland: true
 islandLocation: skyblock:600:115:0:0:0
 hasTeam: true
 teamLeader: a06acd8a-925f-497f-8998-eb5fbe691d3f
-islandLevel: 0
+islandLevel: 36
 members:
 - d87cd443-b9a8-4b9c-83b3-ffca5fec5c05
 - a06acd8a-925f-497f-8998-eb5fbe691d3f
@@ -12,7 +12,7 @@ locale: ''
 teamIslandLocation: skyblock:600:115:0:0:0
 startIslandRating: 50
 homeLocations:
-  '1': skyblock:600:118:0:0:0
+  '1': skyblock:598:118:-2:1061283840:1065772035
 challenges:
   status:
     cobblemaker: false

@@ -17,7 +17,8 @@ regions:
             pvp: deny
             enderpearl: deny
             build: deny
-            blocked-cmds: [/sethome, /mc, /fly, /magiccarpet, /f sethome]
+            soil-dry: deny
+            blocked-cmds: [/sethome, /magiccarpet, /fly, /mc, /f sethome]
         owners: {}
         members: {}
     parkour3:
@@ -28,6 +29,6 @@ regions:
         flags:
             enderpearl: deny
             invincible: allow
-            blocked-cmds: [/mc, /magiccarpet]
+            blocked-cmds: [/magiccarpet, /mc]
         owners: {}
         members: {}

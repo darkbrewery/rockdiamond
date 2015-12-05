@@ -7,7 +7,7 @@ teamIslandLocation: ''
 islandLevel: 11
 members: []
 resetsLeft: 2
-locale: ''
+locale: ko-KR
 startIslandRating: 50
 homeLocations:
   '1': skyblock:-200:118:-600:0:0

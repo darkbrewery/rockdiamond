@@ -45,6 +45,7 @@ limit:
   ChestShop: []
   PrisonUtils:
   - spawn
+  - parkour
   ProtocolLib: []
   Votifier: []
   mcMMO:
@@ -77,6 +78,7 @@ limit:
   EssentialsAntiBuild: []
   WarpPortals:
   - hub
+  - parkour
   CrateReloaded: []
   CompatNoCheatPlus: []
   EssentialsChat: []

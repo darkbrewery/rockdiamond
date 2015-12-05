@@ -169,11 +169,11 @@ worlds:
     gamemode: SURVIVAL
     keepspawninmemory: true
     spawn:
-      x: -0.4181434319828177
-      y: 80.0
-      z: 0.6754133462497485
-      pitch: 15.640392
-      yaw: -0.3327775
+      x: 1000.5236736893203
+      y: 71.0
+      z: 0.4947141734033901
+      pitch: -16.500002
+      yaw: -90.03208
       world: parkour
     autoload: true
     bedrespawn: true

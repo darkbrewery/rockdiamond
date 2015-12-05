@@ -24,10 +24,10 @@ challenges:
     treecutter: true
     farmer: true
     cookiemaker: true
-    craftsman: true
     itsamonsterparty: false
     angler: false
     grinder: false
+    craftsman: true
     dj: false
     ittakesavillage: false
     enderpearls: false
@@ -36,12 +36,12 @@ challenges:
     builder: true
     alchemist: false
     beaconator: false
-    homestead: false
+    homestead: true
     slimeballfarmer: false
     dyemaker: true
     mason: false
     gemcollector: false
-    stewmaker: false
+    stewmaker: true
     nether: false
     culinaryartist: false
     seedbank: true
@@ -70,12 +70,12 @@ challenges:
     builder: 1
     alchemist: 0
     beaconator: 0
-    homestead: 0
+    homestead: 1
     slimeballfarmer: 0
     dyemaker: 1
     mason: 0
     gemcollector: 0
-    stewmaker: 0
+    stewmaker: 1
     nether: 0
     culinaryartist: 0
     seedbank: 1

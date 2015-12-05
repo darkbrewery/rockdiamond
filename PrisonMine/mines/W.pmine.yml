@@ -34,13 +34,13 @@ mine:
     chance: 0.0
   tpPoint:
     ==: SimpleLoc
-    yaw: 269.34686
-    pitch: 8.470373
-    z: -1298.5170471155259
+    yaw: 270.2466
+    pitch: 0.74993026
+    z: -1298.5762160191432
     y: 73.0625
     world: spawn
-    x: -112.10884901135462
-  blocksLeft: 1215
+    x: -112.44742539376865
+  blocksLeft: 1097
   resetTriggers:
   - ==: CompositionTrigger
     percent: '0.4'

@@ -9,7 +9,6 @@ groups:
     - free
     - plotworld
     - mines
-    - parkour
     shares:
     - all
   Creative:
@@ -28,5 +27,10 @@ groups:
     worlds:
     - skyblock
     - skyblock_nether
+    shares:
+    - all
+  Parkour:
+    worlds:
+    - parkour
     shares:
     - all
