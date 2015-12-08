@@ -9,6 +9,7 @@ resetsLeft: 0
 locale: ''
 teamIslandLocation: skyblock:-200:115:-400:0:0
 startIslandRating: 50
+useControlPanel: false
 homeLocations:
   '1': skyblock:-199:120:-406:1092354279:1100978589
 challenges:

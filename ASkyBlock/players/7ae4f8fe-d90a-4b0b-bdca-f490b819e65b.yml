@@ -13,6 +13,7 @@ resetsLeft: 0
 locale: en-US
 startIslandRating: 50
 teamIslandLocation: skyblock:-200:115:-400:0:0
+useControlPanel: false
 homeLocations:
   '1': skyblock:-208:143:-411:1082550848:1111451243
 challenges:
@@ -86,3 +87,4 @@ challenges:
     papermaker: 1
 invitecooldown:
   '1438201919499': skyblock:0:115:-400:0:0
+islandInfo: -200:115:-400:100:200:7ae4f8fe-d90a-4b0b-bdca-f490b819e65b:false:false:10000000010010000000000110000:FLOWER_FOREST

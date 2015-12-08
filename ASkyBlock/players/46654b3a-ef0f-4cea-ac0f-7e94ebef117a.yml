@@ -9,6 +9,7 @@ resetsLeft: 0
 locale: ''
 startIslandRating: 50
 teamIslandLocation: ''
+useControlPanel: false
 challenges:
   status:
     cobblemaker: false

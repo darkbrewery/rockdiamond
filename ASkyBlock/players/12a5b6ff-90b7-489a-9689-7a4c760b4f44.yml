@@ -9,6 +9,7 @@ members: []
 resetsLeft: 2
 locale: ''
 startIslandRating: 50
+useControlPanel: false
 homeLocations:
   '1': skyblock:200:121:-600:0:0
 challenges:
@@ -80,3 +81,4 @@ challenges:
     culinaryartist: 0
     seedbank: 0
     papermaker: 0
+islandInfo: 200:115:-600:100:200:12a5b6ff-90b7-489a-9689-7a4c760b4f44:false:false:10000000010010000000000110000:FLOWER_FOREST

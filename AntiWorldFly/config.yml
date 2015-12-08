@@ -8,6 +8,7 @@ antiFlyWorlds:
 - world_the_end
 - world
 - hell
+- parkour
 language: en
 chatMessage: true
 antiFlyCreative: true

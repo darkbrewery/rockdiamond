@@ -140,14 +140,13 @@ world-blacklist:
 - world_nether
 - world_creative
 - free
-- parkour
 - hell
 - plotworld
 - world
 - skyblock
 - skyblock_nether
 block-rewards:
-  enabled: true
+  enabled: false
   repeating:
     '1': []
   standard:

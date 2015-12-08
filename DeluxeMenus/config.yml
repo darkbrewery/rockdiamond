@@ -1,0 +1,339 @@
+# DeluxeMenus 1.3.3 main configuration file
+# 
+# check_updates: <true/false>
+#   Should DeluxeMenus check if there are any updates available on Spigot and inform ops there is an update available.
+# 
+# click_menu_options.crouch_to_open: <true/false>
+#   Should players need to sneak to open a click menu
+# 
+# ==============================================================
+# Click menu configuration:
+# 
+# You can create as many click menus you like.
+# Click menus are the only menus that require a priority set for each menu.
+# The highest priority menu you have permission for will be applied when you click a player.
+# Highest priority is 1, Lowest priority is 2147483647
+# Players must have permission for a click menu to open one!
+# All click menu permissions default to false so this even applies to Ops.
+# Permission for a click menu is: deluxemenus.clickmenu.<menuName>
+# Permission to open a click menu by command is: deluxemenus.clickmenucommand
+# 
+# Click menus configuration layout:
+# 
+# click_menus:
+#   <menuName>:
+#     menu_title: <title of menu goes here>
+#     priority: <priority of this menu>
+#     size: <size of this menu, increments of 9, max size is 54>
+#     items:
+#       <item identifier>:
+#         material: <name or id>
+#         data: <integer, used for data values for wool etc>
+#         amount: <amount of this item to show>
+#         slot: <slot number to put this item, slots start at 0 and end at 53 for a size 54 inventory>
+#         priority: <this is used if you have multiple items set for the same slot>
+#         permission: <the lowest priority item a player has permission for ex: 1, will be shown>
+#         display_name: <display name to show for this item>
+#         lore:
+#         - 'placeholders can be used in the name and lore'
+#         - '%viewer% shows the menu viewers name'
+#         - '%<any placeholder from pAPI>% shows the targets values'
+#         click_commands:
+#         - '[player] runs this command as a player'
+#         - '[player] tpa %player%'
+#         - '[console] runs this command from the console'
+#         - '[console] ban %player%'
+#         - '[connect] connects the viewer to the specified bungee server'
+#         - '[connect] Hub'
+#         - '[close] closes the click menu'
+#         - '[close]'
+# 
+# You do not need to specify item options that you don't use!
+# The only required entries for a click menu item to be valid are:
+# 
+# A valid material
+# A valid slot
+# 
+# Every item in the items list must have a unique <item identifier>
+# 
+# ==============================================================
+# 
+# PER ITEM PERMISSION AND PRIORITY INFO:
+# 
+# Per item permissions and priorities are optional.
+# High priority = 1, Lowest priority = 2147483647.
+# This allows you to show different items for a specific menu slot depending on the highest priority
+# item permission a player has. This makes your menus very dynamic :)
+# 
+# You CAN NOT specify a permission without a priority!
+# You CAN specify a priority without a permission.
+# You should always create a low priority item without a permission which will act as the no permission
+# item if a player does not have permission for any of the items that require permission, otherwise
+# no item will be set in the slot if a player does not have permission for any of the permission items.
+# 
+# ==============================================================
+# 
+# GUI menu configuration:
+# 
+# As of DeluxeMenus v1.3.3 GUI menus are a bit more advanced and
+# contain many more features than click menus. Most of these features will be implemented in click menus soon!
+# 
+# You can create as many GUI menus you like.
+# Every menu name must be unique. There can not be duplicate menu names!
+# Players must have permission for a GUI menu to open one!
+# Ops should automatically have permission for any GUI menu.
+# 
+# Permission to open a GUI menu is: deluxemenus.guimenu.<menuName>
+# 
+# You specify the command which opens the GUI menu. Make sure this command
+# does not conflict with any existing commands on your server!
+# A GUI menu without an open command specified will not be loaded!
+# 
+# GUI menus configuration layout:
+# 
+# gui_menus:
+#   <menuName>:
+#     menu_title:
+#     - '<title of menu goes here>'
+#     - '<If using 1.8 you can specify many menu title frames and create animations>'
+#     - '<in order for animations to work you must specify a menu_title_update_interval: ##>'
+#     menu_title_update_interval: <amount of ticks to change title frames ex: 10, this is only needed if you have multiple frames>
+#     command: <command to open this menu goes here>
+#     size: <size of this menu, increments of 9, max size is 54>
+#     update_interval: <time in seconds this gui should update for a player if an item is set to uodate placeholders>
+#     items:
+#       <item identifier>:
+#         material: <name or id, for player heads use the format 'head;<players name/%player_name%>'>
+#         data: <integer, used for data values for wool etc>
+#         amount: <amount of this item to show>
+#         slot: <slot number to put this item, slots start at 0 and end at 53 for a size 54 inventory>
+#         priority: <this is used if you have multiple items set for the same slot>
+#         permission: <the lowest priority item a player has permission for ex: 1, will be shown>
+#         update: <true/false if this item should update placeholders on the interval set for the gui menu this item is in>
+#         hide_attributes: <true/false if this item should display item attributes>
+#         hide_enchantments: <true/false if this item should display item enchantment / level> (useful for 'enchantment glow' items)
+#         hide_effects: <true/false if this item should display item effect attributes>
+#         banner_meta: (this is used if you want to display a custom banner with specific patterns)
+#         - <dyecolor>;<PatternType> (more information on where to find DyeColor and PatternType names below)
+#         - 'RED;BASE'
+#         - 'WHITE;CREEPER'
+#         display_name: <display name to show for this item>
+#         lore:
+#         - 'placeholders can be used in the name and lore'
+#         - '%<any placeholder from Papi>% shows the viewer values'
+#         enchantments: valid enchantment names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/enchantments/Enchantment.html
+#         - '<ENCHANTMENT>;<LEVEL>'
+#         - 'SILK_TOUCH;1'
+#         left_click_commands:
+#         - '[close]'
+#         right_click_commands:
+#         - '[player] spawn'
+# 
+# 
+# You can specify if a GUI menu should be loaded from another file:
+# 
+# gui_menus:
+#   <menuName>:
+#     file: 'menuName.yml'
+# 
+# This allows you to keep your config clean and not have tons of GUI menus cluttering it.
+# The file format the GUI menu is loaded from must end in .yml
+# GUI menus loaded from other configuration files must follow a specific format as well...
+# To get started loading GUI menus from different files, simply create a GUI menu in this config and specify the file it will load from.
+# After that is done, use /dm reload and DeluxeMenus will create a folder and file specific to the GUI menu you specified.
+# If the file specified is created by DeluxeMenus (because it did not exist), a default GUI menu layout will be saved to that file.
+# From here you can edit it to your liking and use /dm reload to update your GUI menu! 
+# 
+# This loading from external config files is only available for gui menus and will not work for click menus yet....
+# 
+# banner_meta must be listed with a specific format:
+# banner_meta:
+# - <DyeColor>;<PatternType>
+# 
+# Valid DyeColor names can be found here: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/DyeColor.html
+# Valid PatternTypes can be found here: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/block/banner/PatternType.html
+# ==============================================================
+# 
+# Click requirement information
+# 
+# You can now add 'click requirements' to left and right click commands!'
+# These are defined per item and must follow a specific format:
+# 
+#   'item_one':
+#     material: DIAMOND
+#     slot: 3
+#     left_click_commands:
+#     - '[close]'
+#     - '[message] You were charged 100 dollars for clicking that item!'
+#     - '[console] eco take %player% 100'
+#     left_click_requirement:
+#       expression: '%vaulteco_balance% > 100'
+#       deny_commands:
+#       - '[close]'
+#       - '[message] &cYou dont have 100 dollars to click that item'
+#     right_click_commands:
+#     - '[close]'
+#     - '[message] You had permission to click that item!'
+#     right_click_requirement:
+#       expression: 'BukkitPlayer.hasPermission("some.permission.toclick")'
+#       deny_commands:
+#       - '[close]'
+#       - '[message] &cYou dont have permission to click that item'
+# 
+# Every left/right_click_requirement MUST have an expression specified that would return a boolean (true/false)
+# These expressions must also follow JavaScript format as they are all javascript based!
+# 
+# deny_commands: are optional and will be executed if the expression returns false.
+# You may use placeholders in your Javascript expressions to evaluate if the player meets the requirement or not.
+# You may also use a few keywords which give you access to the Player class and Bukkit.Server class if you understand the Bukkit API
+# 
+# BukkitPlayer - references the Player object your expression is evaluating.
+# BukkitServer - references Bukkit.getServer() in the Bukkit API.
+# 
+# The choice to use this system to evaluate if a player meets requirements to click an item was an easy choice.
+# This way I do not have to hook into every plugin to check if a player meets the requirement to click an item successfully.
+# You can simply use placeholders, or the keywords provided to give you access to the Player and Server objects.
+# If you want to check if a player has enough money, simply use an expression like so:
+# 
+# expression: '%vaulteco_balance% >= 100' (checks if players balance is greater than or equal to 100)
+# If you want to charge the player, simply run the economy command to take the amount from the players balance in your click_commands
+# which will be executed if the player meets the requirement!
+# ==============================================================
+# 
+# 
+# You do not need to specify item options that you don't use!
+# The only required entries for a gui menu item to be valid are:
+# 
+# A valid material
+# A valid slot
+# 
+# Every item in the items list must have a unique <item identifier>
+# 
+# If you choose to update placeholders for a specific item, you must specify update_interval: <time>
+# in the GUI menu options for the specific GUI menu.
+# Only GUI menus with at least one item that has update: true will update those specific items placeholders.
+# 
+# Every click_command must start with a specific identifier to know what to do for the execution.
+# Valid click_command identifiers:
+# 
+# [console] - Execute a command from the console
+# Usage: - '[console] <command with no slash>'
+# 
+# [player] - Execute a command for the menu viewer
+# Usage: - '[player] <command with no slash>'
+# 
+# [message] - Send a message to the menu viewer
+# Usage: - [message] <message to send to the player
+# 
+# [close] - Close the viewers open menu
+# Usage: - '[close]
+# 
+# [openguimenu] - Open a GUI menu (can only be used in GUI menu click_commands)
+# Usage: - '[openguimenu] <guiMenuName>'
+# 
+# [openclickmenu] - Open a different click menu for the viewer and target (can only be used in click menu click_commands)
+# Usage: - '[openclickmenu] <clickMenuName>'
+# 
+# [connect] - Connect to the specified bungee server
+# Usage: - '[connect] <serverName>'
+# 
+# [commandevent] - Fire a PlayerCommandPreprocessEvent for commands that do not use the bukkit command system
+# Usage: - '[commandevent] <command with no slash>'
+# 
+# 
+# A NOTE WHEN EDITING THIS OR ANY DeluxeMenus CONFIGURATION FILE:
+# This config is sensitive to yaml formatting errors
+# KEEP A BACKUP WHEN EDITING YOUR FILE BEFORE UPLOADING TO YOUR SERVER!!!
+# Make sure every String you modify or add is enclosed in 'apostrophes
+check_updates: true
+click_menu_options:
+  sneak_to_open: true
+click_menus:
+  example:
+    menu_title: '&aExample menu'
+    priority: 1
+    size: 9
+    items:
+      '1':
+        material: DIAMOND_BLOCK
+        data: 0
+        amount: 1
+        slot: 0
+        display_name: '&aHey &f%viewer%'
+        lore:
+        - '&aYou opened a click menu'
+        - '&afor player: &f%player_name%'
+        click_commands:
+        - '[close]'
+      '2':
+        material: 368
+        data: 0
+        amount: 1
+        slot: 1
+        priority: 1
+        permission: examplemenu.item.teleport
+        display_name: '&bTeleport to player'
+        lore:
+        - '&bClick to teleport to player &f%player_name%'
+        click_commands:
+        - '[player] tp %player_name%'
+        - '[close]'
+      '3':
+        material: 381
+        data: 0
+        amount: 1
+        slot: 1
+        priority: 2
+        permission: examplemenu.item.tpa
+        display_name: '&bRequest teleport to player'
+        lore:
+        - '&bClick to request to'
+        - '&bteleport to &f%player_name%'
+        click_commands:
+        - '[player] tpa %player_name%'
+        - '[close]'
+gui_menus:
+  example:
+    menu_title: '&aExample GUI menu'
+    open_command: examplemenu
+    size: 9
+    items:
+      '1':
+        material: head;%player_name%
+        slot: 0
+        display_name: '&aHey &f%player%'
+        lore:
+        - '&aYou opened a GUI menu'
+        - '&aThis menu is just for you!'
+        left_click_commands:
+        - '[close]'
+        right_click_commands:
+        - '[player] help'
+        - '[close]'
+      '2':
+        material: DIRT
+        data: 0
+        amount: 1
+        slot: 1
+        priority: 1
+        permission: exampleguimenu.item.home
+        display_name: '&bTeleport home'
+        lore:
+        - '&bClick to teleport'
+        - '&bto your home'
+        click_commands:
+        - '[player] home'
+        - '[close]'
+      '3':
+        material: DIRT
+        data: 0
+        amount: 1
+        slot: 1
+        priority: 2
+        display_name: '&bTeleport to spawn'
+        lore:
+        - '&bClick to teleport'
+        - '&bto the server spawn'
+        click_commands:
+        - '[player] spawn'
+        - '[close]'
