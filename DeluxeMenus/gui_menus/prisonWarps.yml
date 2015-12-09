@@ -1,0 +1,714 @@
+# prisonWarps GUI menu configuration
+# 
+# configuration layout:
+# 
+# menu_title:
+# - '<title of menu goes here>'
+# - '<If using 1.8 you can specify many menu title frames and create animations>'
+# - '<in order for animations to work you must specify a menu_title_update_interval: ##>'
+# menu_title_update_interval: <amount of ticks to change title frames ex: 10, this is only needed if you have multiple frames>
+# command: <command to open this menu goes here>
+# size: <size of this menu, increments of 9, max size is 54>
+# update_interval: <time in seconds this gui should update for a player if an item is set to uodate placeholders>
+# items:
+#   <item identifier>:
+#     material: <name or id, for player heads use the format 'head;<players name/%player_name%>'>
+#     data: <integer, used for data values for wool etc>
+#     amount: <amount of this item to show>
+#     slot: <slot number to put this item, slots start at 0 and end at 53 for a size 54 inventory>
+#     priority: <this is used if you have multiple items set for the same slot>
+#     permission: <the lowest priority item a player has permission for ex: 1, will be shown>
+#     update: <true/false if this item should update placeholders on the interval set for the gui menu this item is in>
+#     hide_attributes: <true/false if this item should display item attributes>
+#     hide_enchantments: <true/false if this item should display item enchantment / level> (useful for 'enchantment glow' items)
+#     hide_effects: <true/false if this item should display item effect attributes>
+#     display_name: <display name to show for this item>
+#     banner_meta: (this is used if you want to display a custom banner with specific patterns)
+#     - <dyecolor>;<PatternType> (more information on where to find DyeColor and PatternType names below)
+#     - 'RED;BASE'
+#     - 'WHITE;CREEPER'
+#     lore:
+#     - 'placeholders can be used in the name and lore'
+#     - '%<any placeholder from Papi>% shows the viewer values'
+#     enchantments: valid enchantment names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/enchantments/Enchantment.html
+#     - '<ENCHANTMENT>;<LEVEL>'
+#     - 'SILK_TOUCH;1'
+#     left_click_commands:
+#     - '[close]'
+#     right_click_commands:
+#     - '[player] spawn'
+# 
+# All keys aside from update_interval are required for this menu to be valid and loaded!
+# The only options for an item to be considered valid are material and slot!
+# 
+# banner_meta must be listed with a specific format:
+# banner_meta:
+# - <DyeColor>;<PatternType>
+# 
+# Valid DyeColor names can be found here: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/DyeColor.html
+# Valid PatternTypes can be found here: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/block/banner/PatternType.html
+# ==============================================================
+# 
+# Click requirement information
+# 
+# You can now add 'click requirements' to left and right click commands!'
+# These are defined per item and must follow a specific format:
+# 
+#   'item_one':
+#     material: DIAMOND
+#     slot: 3
+#     left_click_commands:
+#     - '[close]'
+#     - '[message] You were charged 100 dollars for clicking that item!'
+#     - '[console] eco take %player% 100'
+#     left_click_requirement:
+#       expression: '%vaulteco_balance% > 100'
+#       deny_commands:
+#       - '[close]'
+#       - '[message] &cYou dont have 100 dollars to click that item'
+#     right_click_commands:
+#     - '[close]'
+#     - '[message] You had permission to click that item!'
+#     right_click_requirement:
+#       expression: 'BukkitPlayer.hasPermission("some.permission.toclick")'
+#       deny_commands:
+#       - '[close]'
+#       - '[message] &cYou dont have permission to click that item'
+# 
+# Every left/right_click_requirement MUST have an expression specified that would return a boolean (true/false)
+# These expressions must also follow JavaScript format as they are all javascript based!
+# 
+# deny_commands: are optional and will be executed if the expression returns false.
+# You may use placeholders in your Javascript expressions to evaluate if the player meets the requirement or not.
+# You may also use a few keywords which give you access to the Player class and Bukkit.Server class if you understand the Bukkit API
+# 
+# BukkitPlayer - references the Player object your expression is evaluating.
+# BukkitServer - references Bukkit.getServer() in the Bukkit API.
+# 
+# The choice to use this system to evaluate if a player meets requirements to click an item was an easy choice.
+# This way I do not have to hook into every plugin to check if a player meets the requirement to click an item successfully.
+# You can simply use placeholders, or the keywords provided to give you access to the Player and Server objects.
+# If you want to check if a player has enough money, simply use an expression like so:
+# 
+# expression: '%vaulteco_balance% >= 100' (checks if players balance is greater than or equal to 100)
+# If you want to charge the player, simply run the economy command to take the amount from the players balance in your click_commands
+# which will be executed if the player meets the requirement!
+# ==============================================================
+menu_title: '&fPrison Warp Menu'
+open_command: prisonwarps
+size: 45
+items:
+  '0':
+    material: COMPASS
+    data: 0
+    amount: 1
+    slot: 0
+    priority: 1
+    permission: essentials.spawn
+    display_name: '&bBack to main menu'
+    hide_attributes: true
+    left_click_commands:
+    - '[player] dm open mainMenu'
+    - '[close]'
+  '1':
+    material: NETHER_STAR
+    data: 0
+    amount: 1
+    slot: 1
+    priority: 1
+    permission: essentials.spawn
+    display_name: '&bReturn to Prison Spawn'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] spawn'
+    - '[close]'
+  '2':
+    material: SIGN
+    data: 0
+    amount: 1
+    slot: 2
+    priority: 1
+    permission: essentials.spawn
+    display_name: '&bPrison Tutorial'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp tutorial'
+    - '[close]'
+  '3':
+    material: BED
+    data: 0
+    amount: 1
+    slot: 3
+    priority: 1
+    permission: essentials.spawn
+    display_name: '&bPrison Plots'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp plots'
+    - '[close]'
+  '4':
+    material: ANVIL
+    data: 0
+    amount: 1
+    slot: 4
+    priority: 1
+    permission: essentials.spawn
+    display_name: '&bYe Old Blacksmith'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp blacksmith'
+    - '[close]'
+  '5':
+    material: DIAMOND_SWORD
+    data: 0
+    amount: 1
+    slot: 5
+    priority: 1
+    permission: essentials.warps.pvp
+    display_name: '&bPVP Arena'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp pvp'
+    - '[close]'
+  '7':
+    material: ENCHANTED_BOOK
+    data: 0
+    amount: 1
+    slot: 7
+    priority: 1
+    permission: essentials.spawn
+    display_name: '&bHidden warps'
+    hide_attributes: true
+    lore:
+    - '&bClick to open a list'
+    - '&bof unlockable warps'
+    left_click_commands:
+    - '[player] dm open hiddenwarps'
+    - '[close]'
+  '8':
+    material: BARRIER
+    data: 0
+    amount: 1
+    slot: 8
+    priority: 1
+    permission: essentials.warps.overlord
+    display_name: '&bClose'
+    hide_attributes: true
+    lore:
+    - '&bClick to return to game'
+    left_click_commands:
+    - '[close]'
+  '9':
+    material: STONE_PICKAXE
+    data: 0
+    amount: 1
+    slot: 9
+    priority: 1
+    permission: essentials.warps.novice
+    display_name: '&bTravel to the Novice Block'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp novice'
+    - '[close]'
+  '10':
+    material: COBBLESTONE
+    data: 0
+    amount: 1
+    slot: 10
+    priority: 1
+    permission: essentials.warps.a
+    display_name: '&bTravel to Warp A'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp a'
+    - '[close]'
+  '11':
+    material: WOOD
+    data: 0
+    amount: 1
+    slot: 11
+    priority: 1
+    permission: essentials.warps.b
+    display_name: '&bTravel to Warp B'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp b'
+    - '[close]'
+  '12':
+    material: SAND
+    data: 0
+    amount: 1
+    slot: 12
+    priority: 1
+    permission: essentials.warps.c
+    display_name: '&bTravel to Warp C'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp c'
+    - '[close]'
+  '13':
+    material: SANDSTONE
+    data: 0
+    amount: 1
+    slot: 13
+    priority: 1
+    permission: essentials.warps.d
+    display_name: '&bTravel to Warp D'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp d'
+    - '[close]'
+  '14':
+    material: COAL_ORE
+    data: 0
+    amount: 1
+    slot: 14
+    priority: 1
+    permission: essentials.warps.e
+    display_name: '&bTravel to Warp E'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp e'
+    - '[close]'
+  '15':
+    material: REDSTONE_ORE
+    data: 0
+    amount: 1
+    slot: 15
+    priority: 1
+    permission: essentials.warps.f
+    display_name: '&bTravel to Warp F'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp f'
+    - '[close]'
+  '16':
+    material: STONE
+    data: 2
+    amount: 1
+    slot: 16
+    priority: 1
+    permission: essentials.warps.g
+    display_name: '&bTravel to Warp G'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp g'
+    - '[close]'
+  '17':
+    material: WOOL
+    data: 0
+    amount: 1
+    slot: 17
+    priority: 1
+    permission: essentials.warps.h
+    display_name: '&bTravel to Warp H'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp h'
+    - '[close]'
+  '18':
+    material: IRON_PICKAXE
+    data: 0
+    amount: 1
+    slot: 18
+    priority: 1
+    permission: essentials.warps.adept
+    display_name: '&bTravel to the Adept Block'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp adept'
+    - '[close]'
+  '19':
+    material: IRON_BLOCK
+    data: 0
+    amount: 1
+    slot: 19
+    priority: 1
+    permission: essentials.warps.i
+    display_name: '&bTravel to Warp I'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp i'
+    - '[close]'
+  '20':
+    material: PRISMARINE
+    data: 0
+    amount: 1
+    slot: 20
+    priority: 1
+    permission: essentials.warps.j
+    display_name: '&bTravel to Warp J'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp j'
+    - '[close]'
+  '21':
+    material: IRON_BLOCK
+    data: 0
+    amount: 1
+    slot: 21
+    priority: 1
+    permission: essentials.warps.k
+    display_name: '&bTravel to Warp K'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp k'
+    - '[close]'
+  '22':
+    material: LAPIS_ORE
+    data: 0
+    amount: 1
+    slot: 22
+    priority: 1
+    permission: essentials.warps.l
+    display_name: '&bTravel to Warp L'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp l'
+    - '[close]'
+  '23':
+    material: COAL_BLOCK
+    data: 0
+    amount: 1
+    slot: 23
+    priority: 1
+    permission: essentials.warps.m
+    display_name: '&bTravel to Warp M'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp m'
+    - '[close]'
+  '24':
+    material: NETHER_BRICK
+    data: 0
+    amount: 1
+    slot: 24
+    priority: 1
+    permission: essentials.warps.n
+    display_name: '&bTravel to Warp N'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp n'
+    - '[close]'
+  '25':
+    material: QUARTZ_BLOCK
+    data: 1
+    amount: 1
+    slot: 25
+    priority: 1
+    permission: essentials.warps.o
+    display_name: '&bTravel to Warp O'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp o'
+    - '[close]'
+  '26':
+    material: ENDER_STONE
+    data: 0
+    amount: 1
+    slot: 26
+    priority: 1
+    permission: essentials.warps.p
+    display_name: '&bTravel to Warp P'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp p'
+    - '[close]'
+  '27':
+    material: GOLD_PICKAXE
+    data: 0
+    amount: 1
+    slot: 27
+    priority: 1
+    permission: essentials.warps.expert
+    display_name: '&bTravel to the Expert Block'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp expert'
+    - '[close]'
+  '28':
+    material: REDSTONE_BLOCK
+    data: 0
+    amount: 1
+    slot: 28
+    priority: 1
+    permission: essentials.warps.q
+    display_name: '&bTravel to Warp Q'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp q'
+    - '[close]'
+  '29':
+    material: IRON_BLOCK
+    data: 0
+    amount: 1
+    slot: 29
+    priority: 1
+    permission: essentials.warps.r
+    display_name: '&bTravel to Warp R'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp r'
+    - '[close]'
+  '30':
+    material: GOLD_BLOCK
+    data: 0
+    amount: 1
+    slot: 30
+    priority: 1
+    permission: essentials.warps.s
+    display_name: '&bTravel to Warp S'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp s'
+    - '[close]'
+  '31':
+    material: LAPIS_BLOCK
+    data: 0
+    amount: 1
+    slot: 31
+    priority: 1
+    permission: essentials.warps.t
+    display_name: '&bTravel to Warp T'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp t'
+    - '[close]'
+  '32':
+    material: QUARTZ_BLOCK
+    data: 0
+    amount: 1
+    slot: 32
+    priority: 1
+    permission: essentials.warps.u
+    display_name: '&bTravel to Warp U'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp u'
+    - '[close]'
+  '33':
+    material: WOOL
+    data: 6
+    amount: 1
+    slot: 33
+    priority: 1
+    permission: essentials.warps.v
+    display_name: '&bTravel to Warp V'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp v'
+    - '[close]'
+  '34':
+    material: BRICK
+    data: 0
+    amount: 1
+    slot: 34
+    priority: 1
+    permission: essentials.warps.w
+    display_name: '&bTravel to Warp W'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp w'
+    - '[close]'
+  '35':
+    material: DIAMOND_BLOCK
+    data: 0
+    amount: 1
+    slot: 35
+    priority: 1
+    permission: essentials.warps.x
+    display_name: '&bTravel to Warp X'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp x'
+    - '[close]'
+  '36':
+    material: DIAMOND_PICKAXE
+    data: 0
+    amount: 1
+    slot: 36
+    priority: 1
+    permission: essentials.warps.pro
+    display_name: '&bTravel to the Pro Block'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp pro'
+    - '[close]'
+  '37':
+    material: DIAMOND_BLOCK
+    data: 0
+    amount: 1
+    slot: 37
+    priority: 1
+    permission: essentials.warps.y
+    display_name: '&bTravel to Warp Y'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp y'
+    - '[close]'
+  '38':
+    material: DIAMOND_BLOCK
+    data: 0
+    amount: 1
+    slot: 38
+    priority: 1
+    permission: essentials.warps.z
+    display_name: '&bTravel to Warp Z'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp z'
+    - '[close]'
+  '39':
+    material: GRASS
+    data: 0
+    amount: 1
+    slot: 39
+    priority: 1
+    permission: essentials.warps.free
+    display_name: '&bTravel to Warp Free'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp free'
+    - '[close]'
+  '40':
+    material: LOG
+    data: 3
+    amount: 1
+    slot: 40
+    priority: 1
+    permission: essentials.warps.savage
+    display_name: '&bTravel to Warp Savage'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp savage'
+    - '[close]'
+  '41':
+    material: EMERALD_BLOCK
+    data: 0
+    amount: 1
+    slot: 41
+    priority: 1
+    permission: essentials.warps.psycho
+    display_name: '&bTravel to Warp Psycho'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp psycho'
+    - '[close]'
+  '42':
+    material: EMERALD_BLOCK
+    data: 0
+    amount: 1
+    slot: 42
+    priority: 1
+    permission: essentials.warps.badass
+    display_name: '&bTravel to Warp Badass'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp badass'
+    - '[close]'
+  '43':
+    material: EMERALD_BLOCK
+    data: 0
+    amount: 1
+    slot: 43
+    priority: 1
+    permission: essentials.warps.demon
+    display_name: '&bTravel to Warp Demon'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp demon'
+    - '[close]'
+  '44':
+    material: EMERALD_BLOCK
+    data: 0
+    amount: 1
+    slot: 44
+    priority: 1
+    permission: essentials.warps.overlord
+    display_name: '&bTravel to Warp Overlord'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] warp overlord'
+    - '[close]'

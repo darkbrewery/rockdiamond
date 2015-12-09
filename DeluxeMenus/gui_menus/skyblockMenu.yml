@@ -1,0 +1,181 @@
+# skyblockMenu GUI menu configuration
+# 
+# configuration layout:
+# 
+# menu_title:
+# - '<title of menu goes here>'
+# - '<If using 1.8 you can specify many menu title frames and create animations>'
+# - '<in order for animations to work you must specify a menu_title_update_interval: ##>'
+# menu_title_update_interval: <amount of ticks to change title frames ex: 10, this is only needed if you have multiple frames>
+# command: <command to open this menu goes here>
+# size: <size of this menu, increments of 9, max size is 54>
+# update_interval: <time in seconds this gui should update for a player if an item is set to uodate placeholders>
+# items:
+#   <item identifier>:
+#     material: <name or id, for player heads use the format 'head;<players name/%player_name%>'>
+#     data: <integer, used for data values for wool etc>
+#     amount: <amount of this item to show>
+#     slot: <slot number to put this item, slots start at 0 and end at 53 for a size 54 inventory>
+#     priority: <this is used if you have multiple items set for the same slot>
+#     permission: <the lowest priority item a player has permission for ex: 1, will be shown>
+#     update: <true/false if this item should update placeholders on the interval set for the gui menu this item is in>
+#     hide_attributes: <true/false if this item should display item attributes>
+#     hide_enchantments: <true/false if this item should display item enchantment / level> (useful for 'enchantment glow' items)
+#     hide_effects: <true/false if this item should display item effect attributes>
+#     display_name: <display name to show for this item>
+#     banner_meta: (this is used if you want to display a custom banner with specific patterns)
+#     - <dyecolor>;<PatternType> (more information on where to find DyeColor and PatternType names below)
+#     - 'RED;BASE'
+#     - 'WHITE;CREEPER'
+#     lore:
+#     - 'placeholders can be used in the name and lore'
+#     - '%<any placeholder from Papi>% shows the viewer values'
+#     enchantments: valid enchantment names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/enchantments/Enchantment.html
+#     - '<ENCHANTMENT>;<LEVEL>'
+#     - 'SILK_TOUCH;1'
+#     left_click_commands:
+#     - '[close]'
+#     right_click_commands:
+#     - '[player] spawn'
+# 
+# All keys aside from update_interval are required for this menu to be valid and loaded!
+# The only options for an item to be considered valid are material and slot!
+# 
+# banner_meta must be listed with a specific format:
+# banner_meta:
+# - <DyeColor>;<PatternType>
+# 
+# Valid DyeColor names can be found here: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/DyeColor.html
+# Valid PatternTypes can be found here: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/block/banner/PatternType.html
+# ==============================================================
+# 
+# Click requirement information
+# 
+# You can now add 'click requirements' to left and right click commands!'
+# These are defined per item and must follow a specific format:
+# 
+#   'item_one':
+#     material: DIAMOND
+#     slot: 3
+#     left_click_commands:
+#     - '[close]'
+#     - '[message] You were charged 100 dollars for clicking that item!'
+#     - '[console] eco take %player% 100'
+#     left_click_requirement:
+#       expression: '%vaulteco_balance% > 100'
+#       deny_commands:
+#       - '[close]'
+#       - '[message] &cYou dont have 100 dollars to click that item'
+#     right_click_commands:
+#     - '[close]'
+#     - '[message] You had permission to click that item!'
+#     right_click_requirement:
+#       expression: 'BukkitPlayer.hasPermission("some.permission.toclick")'
+#       deny_commands:
+#       - '[close]'
+#       - '[message] &cYou dont have permission to click that item'
+# 
+# Every left/right_click_requirement MUST have an expression specified that would return a boolean (true/false)
+# These expressions must also follow JavaScript format as they are all javascript based!
+# 
+# deny_commands: are optional and will be executed if the expression returns false.
+# You may use placeholders in your Javascript expressions to evaluate if the player meets the requirement or not.
+# You may also use a few keywords which give you access to the Player class and Bukkit.Server class if you understand the Bukkit API
+# 
+# BukkitPlayer - references the Player object your expression is evaluating.
+# BukkitServer - references Bukkit.getServer() in the Bukkit API.
+# 
+# The choice to use this system to evaluate if a player meets requirements to click an item was an easy choice.
+# This way I do not have to hook into every plugin to check if a player meets the requirement to click an item successfully.
+# You can simply use placeholders, or the keywords provided to give you access to the Player and Server objects.
+# If you want to check if a player has enough money, simply use an expression like so:
+# 
+# expression: '%vaulteco_balance% >= 100' (checks if players balance is greater than or equal to 100)
+# If you want to charge the player, simply run the economy command to take the amount from the players balance in your click_commands
+# which will be executed if the player meets the requirement!
+# ==============================================================
+menu_title: '&fSkyblock Menu'
+open_command: skyblockmenu
+size: 9
+items:
+  '0':
+    material: COMPASS
+    data: 0
+    amount: 1
+    slot: 0
+    priority: 1
+    permission: essentials.spawn
+    display_name: '&bBack to main menu'
+    hide_attributes: true
+    left_click_commands:
+    - '[player] dm open mainMenu'
+    - '[close]'
+  '2':
+    material: SAPLING
+    data: 0
+    amount: 1
+    slot: 2
+    priority: 1
+    permission: essentials.spawn
+    display_name: '&bStart Skyblock'
+    hide_attributes: true
+    lore:
+    - '&bClick to begin'
+    left_click_commands:
+    - '[player] island'
+    - '[close]'
+  '3':
+    material: NETHER_STAR
+    data: 0
+    amount: 1
+    slot: 3
+    priority: 1
+    permission: essentials.spawn
+    display_name: '&bSkyblock Spawn'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] skyblock'
+    - '[close]'
+  '4':
+    material: WORKBENCH
+    data: 0
+    amount: 1
+    slot: 4
+    priority: 1
+    permission: essentials.spawn
+    display_name: '&bSkyblock Control Panel'
+    hide_attributes: true
+    lore:
+    - '&bClick to open menu'
+    left_click_commands:
+    - '[player] island cp'
+    - '[close]'
+  '5':
+    material: MAP
+    data: 0
+    amount: 1
+    slot: 5
+    priority: 1
+    permission: essentials.spawn
+    display_name: '&bSkyblock Command Help'
+    hide_attributes: true
+    lore:
+    - '&bClick to list commands'
+    left_click_commands:
+    - '[player] island help'
+    - '[close]'
+  '8':
+    material: BARRIER
+    data: 0
+    amount: 1
+    slot: 8
+    priority: 1
+    permission: essentials.warps.spawn
+    display_name: '&bClose'
+    hide_attributes: true
+    lore:
+    - '&bClick to return to game'
+    left_click_commands:
+    - '[close]'

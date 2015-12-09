@@ -1,0 +1,764 @@
+# hiddenWarps GUI menu configuration
+# 
+# configuration layout:
+# 
+# menu_title:
+# - '<title of menu goes here>'
+# - '<If using 1.8 you can specify many menu title frames and create animations>'
+# - '<in order for animations to work you must specify a menu_title_update_interval: ##>'
+# menu_title_update_interval: <amount of ticks to change title frames ex: 10, this is only needed if you have multiple frames>
+# command: <command to open this menu goes here>
+# size: <size of this menu, increments of 9, max size is 54>
+# update_interval: <time in seconds this gui should update for a player if an item is set to uodate placeholders>
+# items:
+#   <item identifier>:
+#     material: <name or id, for player heads use the format 'head;<players name/%player_name%>'>
+#     data: <integer, used for data values for wool etc>
+#     amount: <amount of this item to show>
+#     slot: <slot number to put this item, slots start at 0 and end at 53 for a size 54 inventory>
+#     priority: <this is used if you have multiple items set for the same slot>
+#     permission: <the lowest priority item a player has permission for ex: 1, will be shown>
+#     update: <true/false if this item should update placeholders on the interval set for the gui menu this item is in>
+#     hide_attributes: <true/false if this item should display item attributes>
+#     hide_enchantments: <true/false if this item should display item enchantment / level> (useful for 'enchantment glow' items)
+#     hide_effects: <true/false if this item should display item effect attributes>
+#     display_name: <display name to show for this item>
+#     banner_meta: (this is used if you want to display a custom banner with specific patterns)
+#     - <dyecolor>;<PatternType> (more information on where to find DyeColor and PatternType names below)
+#     - 'RED;BASE'
+#     - 'WHITE;CREEPER'
+#     lore:
+#     - 'placeholders can be used in the name and lore'
+#     - '%<any placeholder from Papi>% shows the viewer values'
+#     enchantments: valid enchantment names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/enchantments/Enchantment.html
+#     - '<ENCHANTMENT>;<LEVEL>'
+#     - 'SILK_TOUCH;1'
+#     left_click_commands:
+#     - '[close]'
+#     right_click_commands:
+#     - '[player] spawn'
+# 
+# All keys aside from update_interval are required for this menu to be valid and loaded!
+# The only options for an item to be considered valid are material and slot!
+# 
+# banner_meta must be listed with a specific format:
+# banner_meta:
+# - <DyeColor>;<PatternType>
+# 
+# Valid DyeColor names can be found here: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/DyeColor.html
+# Valid PatternTypes can be found here: https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/block/banner/PatternType.html
+# ==============================================================
+# 
+# Click requirement information
+# 
+# You can now add 'click requirements' to left and right click commands!'
+# These are defined per item and must follow a specific format:
+# 
+#   'item_one':
+#     material: DIAMOND
+#     slot: 3
+#     left_click_commands:
+#     - '[close]'
+#     - '[message] You were charged 100 dollars for clicking that item!'
+#     - '[console] eco take %player% 100'
+#     left_click_requirement:
+#       expression: '%vaulteco_balance% > 100'
+#       deny_commands:
+#       - '[close]'
+#       - '[message] &cYou dont have 100 dollars to click that item'
+#     right_click_commands:
+#     - '[close]'
+#     - '[message] You had permission to click that item!'
+#     right_click_requirement:
+#       expression: 'BukkitPlayer.hasPermission("some.permission.toclick")'
+#       deny_commands:
+#       - '[close]'
+#       - '[message] &cYou dont have permission to click that item'
+# 
+# Every left/right_click_requirement MUST have an expression specified that would return a boolean (true/false)
+# These expressions must also follow JavaScript format as they are all javascript based!
+# 
+# deny_commands: are optional and will be executed if the expression returns false.
+# You may use placeholders in your Javascript expressions to evaluate if the player meets the requirement or not.
+# You may also use a few keywords which give you access to the Player class and Bukkit.Server class if you understand the Bukkit API
+# 
+# BukkitPlayer - references the Player object your expression is evaluating.
+# BukkitServer - references Bukkit.getServer() in the Bukkit API.
+# 
+# The choice to use this system to evaluate if a player meets requirements to click an item was an easy choice.
+# This way I do not have to hook into every plugin to check if a player meets the requirement to click an item successfully.
+# You can simply use placeholders, or the keywords provided to give you access to the Player and Server objects.
+# If you want to check if a player has enough money, simply use an expression like so:
+# 
+# expression: '%vaulteco_balance% >= 100' (checks if players balance is greater than or equal to 100)
+# If you want to charge the player, simply run the economy command to take the amount from the players balance in your click_commands
+# which will be executed if the player meets the requirement!
+# ==============================================================
+menu_title: '&fUnlocked Secret Prison Warps'
+open_command: hiddenWarps
+size: 27
+items:
+  '0':
+    material: COMPASS
+    data: 0
+    amount: 1
+    slot: 0
+    priority: 1
+    permission: essentials.spawn
+    display_name: '&bBack to prison menu'
+    hide_attributes: true
+    left_click_commands:
+    - '[player] dm open prisonWarps'
+    - '[close]'
+  '8':
+    material: BARRIER
+    data: 0
+    amount: 1
+    slot: 8
+    priority: 1
+    permission: essentials.warps.overlord
+    display_  display_name: '&bClose'
+    hide_attributes: true
+    lore:
+    - '&bClick to return to game'
+    left_click_commands:
+    - '[close]'
+  '1':
+    material: COOKED_BEEF
+    data: 0
+    amount: 1
+    slot: 1
+    priority: 1
+    permission: essentials.warps.AnimalFarm
+    left_click_commands: 
+    - '[player] warp AnimalFarm'
+    - '[close]'
+    display_name: '&eAnimal Farm'
+    lore:
+    - 'Warp to &eAnimalFarm'
+  '10':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 1
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eAnimal Farm'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aA barn with a volcanic view'
+  '2':
+    material: Gold_Sword
+    data: 0
+    amount: 1
+    slot: 2
+    priority: 1
+    permission: essentials.warps.Volcano
+    left_click_commands:
+    - '[player] warp Volcano'
+    - '[close]'
+    display_name: '&eVolcano'
+    hide_attributes: true
+    lore:
+    - 'Warp to &eVolcano'
+  '20':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 2
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eVolcano'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aClimb the fiery mountain of death'
+  '3':
+    material: Diamond_hoe
+    data: 0
+    amount: 1
+    slot: 3
+    priority: 1
+    permission: essentials.warps.FarmTown
+    left_click_commands:
+    - '[player] warp farmtown'
+    - '[close]'
+    display_name: '&eFarm Town'
+    lore:
+    - 'Warp to &eFarm Town'
+  '30':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 3
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eFarm Town'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aFollow the nature trail from spawn'
+  '4':
+    material: Fishing_rod
+    data: 0
+    amount: 1
+    slot: 4
+    priority: 1
+    permission: essentials.warps.FishingHole
+    left_click_commands:
+    - '[player] warp FishingHole'
+    - '[close]'
+    display_name: '&eFishing Hole'
+    lore:
+    - 'Warp to &eFishing Hole'
+  '40':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 4
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eFishing Hole'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aLook around in warp B'
+  '5':
+    material: yellow_flower
+    data: 0
+    amount: 1
+    slot: 5
+    priority: 1
+    permission: essentials.warps.FlowerBox
+    left_click_commands:
+    - '[player] warp flowerbox'
+    - '[close]'
+    display_name: '&eFlower Box'
+    lore:
+    - 'Warp to &eFlower Box'
+  '50':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 5
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eFlower Box'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aLook around in warp H'
+  '6':
+    material: cactus
+    data: 0
+    amount: 1
+    slot: 6
+    priority: 1
+    permission: essentials.warps.Cactus
+    left_click_commands:
+    - '[player] warp cactus'
+    - '[close]'
+    display_name: '&eCactus Farm'
+    lore:
+    - 'Warp to &eCactus Farm'
+  '60':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 6
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eCactus Farm'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aSomewhere under the novice desert'
+    - '&anear a water source'
+  '7':
+    material: 'head;zombie'
+    data: 0
+    amount: 1
+    slot: 7
+    priority: 1
+    permission: essentials.warps.ZombieFarm
+    left_click_commands:
+    - '[player] warp ZombieFarm'
+    - '[close]'
+    display_name: '&eZombieFarm'
+    lore:
+    - 'Warp to &eZombie Farm'
+  '70':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 7
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eZombie Farm'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aA cave overlooking the lake'
+  '9':
+    material: SPECKLED_MELON
+    data: 0
+    amount: 1
+    slot: 9
+    priority: 1
+    permission: essentials.warps.BlackMarket
+    left_click_commands:
+    - '[player] warp Blackmarket'
+    - '[close]'
+    display_name: '&eBlackmarket'
+    lore:
+    - 'Warp to &eBlackmarket'
+  '90':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 9
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eBlack Market'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aA forgotten cave in the outer mountains'
+  '10':
+    material: red_mushroom
+    data: 0
+    amount: 1
+    slot: 10
+    priority: 1
+    permission: essentials.warps.ShroomFarm
+    left_click_commands:
+    - '[player] warp Shroomfarm'
+    - '[close]'
+    display_name: '&eShroomFarm'
+    lore:
+    - 'Warp to &eShroom Farm'
+  '100':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 10
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eShroom Farm'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aLook around in warp T'
+  '11':
+    material: saddle
+    data: 0
+    amount: 1
+    slot: 11
+    priority: 1
+    permission: essentials.warps.petstore
+    left_click_commands:
+    - '[player] warp Petstore'
+    - '[close]'
+    display_name: '&ePet Store'
+    lore:
+    - 'Warp to &ePetstore'
+  '110':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 11
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&ePetstore'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aIn the hills near Gokus fish'
+  '12':
+    material: wheat
+    data: 0
+    amount: 1
+    slot: 12
+    priority: 1
+    permission: essentials.warps.WheatFarm
+    left_click_commands:
+    - '[player] warp WheatFarm'
+    - '[close]'
+    display_name: '&eWheat Farm'
+    lore:
+    - 'Warp to &eWheat Farm'
+  '120':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 12
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eWheat Farm'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aA puddle of melted stone in the desert'
+  '13':
+    material: carrot_item
+    data: 0
+    amount: 1
+    slot: 13
+    priority: 1
+    permission: essentials.warps.GreenHouse
+    left_click_commands:
+    - '[player] warp Greenhouse'
+    - '[close]'
+    display_name: '&eGreen House'
+    lore:
+    - 'Warp to &eGreen House'
+  '130':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 13
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eGreen House'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aLook around warp O'
+  '14':
+    material: melon
+    data: 0
+    amount: 1
+    slot: 14
+    priority: 1
+    permission: essentials.warps.GreenHouse2
+    left_click_commands:
+    - '[player] warp Greenhouse2'
+    - '[close]'
+    display_name: '&eGreen House 2'
+    lore:
+    - 'Warp to &eGreen House 2'
+  '140':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 14
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eGreen House 2'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aLook around warp U'
+  '15':
+    material: nether_stalk
+    data: 0
+    amount: 1
+    slot: 15
+    priority: 1
+    permission: essentials.warps.WartFarm
+    left_click_commands:
+    - '[player] warp WartFarm'
+    - '[close]'
+    display_name: '&eWart Farm'
+    lore:
+    - 'Warp to &eWart Farm'
+  '150':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 15
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eWart Farm'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aLook around warp P'
+  '16':
+    material: clay_ball
+    data: 0
+    amount: 1
+    slot: 16
+    priority: 1
+    permission: essentials.warps.ClayMine
+    left_click_commands:
+    - '[player] warp ClayMine'
+    - '[close]'
+    display_name: '&eClay Mine'
+    lore:
+    - 'Warp to &eClaymine'
+  '160':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 16
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&Clay Mine'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aLook around warp I'
+  '17':
+    material: slime_ball
+    data: 0
+    amount: 1
+    slot: 17
+    priority: 1
+    permission: essentials.warps.junkyard
+    left_click_commands:
+    - '[player] warp Junkyard'
+    - '[close]'
+    display_name: '&eJunkyard'
+    lore:
+    - 'Warp to &eJunkyard'
+  '170':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 17
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eJunkyard'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aGoku is standing on it'
+  '18':
+    material: sand
+    data: 0
+    amount: 1
+    slot: 18
+    priority: 1
+    left_click_commands:
+    - '[player] warp Sand'
+    - '[close]'
+    display_name: '&eSand Mine'
+    lore:
+    - 'Warp to &eSand Mine'
+    permission: essentials.warps.Sand
+  '180':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 18
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eSand Mine'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aAncient temple in the desert'
+  '19':
+    material: sponge
+    data: 0
+    amount: 1
+    slot: 19
+    priority: 1
+    permission: essentials.warps.Temple
+    left_click_commands:
+    - '[player] warp Temple'
+    - '[close]'
+    display_name: '&eTemple Mine'
+    lore:
+    - 'Warp to &eTemple Mine'
+  '190':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 19
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eTemple Mine'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aBuried deep beneath the prison'
+  '20':
+    material: SUGAR
+    data: 0
+    amount: 1
+    slot: 20
+    priority: 1
+    permission: essentials.warps.Canefarm
+    left_click_commands:
+    - '[player] warp canefarm'
+    - '[close]'
+    display_name: '&eSugar Cane Farm'
+    lore:
+    - 'Warp to &eSugar Cane Farm'
+  '200':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 20
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eSugar Cane Farm'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aUnder adept close to a water source'
+  '21':
+    material: apple
+    data: 0
+    amount: 1
+    slot: 21
+    priority: 1
+    permission: essentials.warps.Orchard
+    left_click_commands:
+    - '[player] warp orchard'
+    - '[close]'
+    display_name: '&eApple Orchard'
+    lore:
+    - 'Warp to &eOrchard'
+  '210':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 21
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eOrchard'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aAlong the nature trail overlooking spawn'
+  '22':
+    material: 'head;squid'
+    data: 0
+    amount: 1
+    slot: 22
+    priority: 1
+    permission: essentials.warps.SquidFarm
+    left_click_commands:
+    - '[player] warp squidfarm'
+    - '[close]'
+    display_name: '&eSquid Farm'
+    lore:
+    - '&9/warp squidfarm'
+  '220':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 22
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eSquid Farm'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aSomewhere in expert'
+  '23':
+    material: exp_bottle
+    data: 0
+    amount: 1
+    slot: 23
+    priority: 1
+    permission: essentials.warps.XP
+    left_click_commands:
+    - '[player] warp xp'
+    - '[close]'
+    display_name: '&eExperience Farm'
+    lore:
+    - '&9/warp xp'
+  '230':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 23
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eExperience Farm'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aOn the beach near rainbow tower'
+  '24':
+    material: ice
+    data: 0
+    amount: 1
+    slot: 24
+    priority: 1
+    permission: essentials.warps.icemine
+    left_click_commands:
+    - '[player] warp icemine'
+    - '[close]'
+    display_name: '&eIce Mine'
+    lore:
+    - '&9/warp icemine'
+  '240':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 24
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eIce Mine'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aBuried deep beneath expert'
+  '25':
+    material: prismarine_shard
+    data: 0
+    amount: 1
+    slot: 25
+    priority: 1
+    permission: essentials.warps.Aquarium
+    left_click_commands:
+    - '[player] warp aquarium'
+    - '[close]'
+    display_name: '&eAquarium'
+    lore:
+    - '&9/warp aquarium'
+  '250':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 25
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eAquarium'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aAt the end of the sewers'
+  '26':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 26
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eUltra Unicorn Mystery'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aExplore...'
