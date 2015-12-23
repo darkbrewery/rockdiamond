@@ -68,7 +68,7 @@ mine:
     y: 34.0
     world: hell
     x: 92.89996648185235
-  blocksLeft: 2730
+  blocksLeft: 2720
   resetTriggers:
   - ==: CompositionTrigger
     percent: '0.4'

@@ -34,3 +34,13 @@ groups:
     - parkour
     shares:
     - all
+  KitPVP:
+    worlds:
+    - world_kitpvp
+    shares:
+    - all
+  Adventure:
+    worlds:
+    - world_adventure
+    shares:
+    - all

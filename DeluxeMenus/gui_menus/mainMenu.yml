@@ -96,7 +96,7 @@
 # ==============================================================
 menu_title: 'Rock Diamond Hybrid Network'
 open_command: menu
-size: 9
+size: 18
 items:
   '0':
     material: COMPASS
@@ -110,27 +110,26 @@ items:
     lore:
     - '&bClick to teleport'
     left_click_commands:
-    - '[player] warp hub'
+    - '[player] hub'
     - '[close]'
-  '1':
+  '2':
     material: IRON_BLOCK
     data: 0
     amount: 1
-    slot: 1
+    slot: 2
     priority: 1
     display_name: '&bPrison'
     hide_attributes: true
     lore:
     - '&bClick to open menu'
     left_click_commands:
-    - '[player] warp prison'
     - '[player] dm open prisonWarps'
     - '[close]'
-  '2':
+  '3':
     material: GOLD_BLOCK
     data: 0
     amount: 1
-    slot: 2
+    slot: 3
     priority: 1
     permission: essentials.spawn
     display_name: '&bParkour'
@@ -140,11 +139,11 @@ items:
     left_click_commands:
     - '[player] warp parkour'
     - '[close]'
-  '3':
+  '4':
     material: GRASS
     data: 0
     amount: 1
-    slot: 3
+    slot: 4
     priority: 1
     permission: essentials.spawn
     display_name: '&bSurvival'
@@ -152,14 +151,13 @@ items:
     lore:
     - '&bClick to open menu'
     left_click_commands:
-    - '[player] survival'
     - '[player] dm open survivalmenu'
     - '[close]'
-  '4':
+  '5':
     material: WOOL
     data: 1
     amount: 1
-    slot: 4
+    slot: 5
     priority: 1
     permission: essentials.spawn
     display_name: '&bCreative'
@@ -169,11 +167,11 @@ items:
     left_click_commands:
     - '[player] warp creative'
     - '[close]'
-  '5':
+  '6':
     material: WOOL
     data: 3
     amount: 1
-    slot: 5
+    slot: 6
     priority: 1
     permission: essentials.spawn
     display_name: '&bSkyblock'
@@ -185,11 +183,25 @@ items:
     - '[player] is go'
     - '[player] dm open skyblockMenu'
     - '[close]'
-  '6':
+  '11':
+    material: WOOL
+    data: 14
+    amount: 1
+    slot: 11
+    priority: 1
+    permission: essentials.spawn
+    display_name: '&bKitPVP'
+    hide_attributes: true
+    lore:
+    - '&bClick to teleport'
+    left_click_commands:
+    - '[player] kitpvp'
+    - '[close]'
+  '14':
     material: GOLD_INGOT
     data: 0
     amount: 1
-    slot: 6
+    slot: 14
     priority: 1
     permission: essentials.spawn
     display_name: '&bDonate'
@@ -200,11 +212,11 @@ items:
     - '[player] warp donate'
     - '[player] buy'
     - '[close]'
-  '7':
+  '13':
     material: MAP
     data: 0
     amount: 1
-    slot: 7
+    slot: 13
     priority: 1
     permission: essentials.help
     display_name: '&bHelp'
@@ -226,4 +238,18 @@ items:
     lore:
     - '&bClick to return to game'
     left_click_commands:
+    - '[close]'
+  '12':
+    material: NAME_TAG
+    data: 0
+    amount: 1
+    slot: 12
+    priority: 1
+    permission: essentials.spawn
+    display_name: '&bChat Tags Help'
+    hide_attributes: true
+    lore:
+    - '&bHow to choose your custom prefix in chat'
+    left_click_commands:
+    - '[player] tags help'
     - '[close]'

@@ -129,7 +129,6 @@ environment:
   permanent-effects:
   - null
   prevented-damage:
-  - FALL
   - SUFFOCATION
   enable-weather: false
 options:

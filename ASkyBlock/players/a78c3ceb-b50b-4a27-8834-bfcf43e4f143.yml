@@ -9,6 +9,7 @@ members: []
 resetsLeft: 2
 locale: ''
 startIslandRating: 50
+useControlPanel: false
 homeLocations:
   '1': skyblock:600:118:200:0:0
 challenges:

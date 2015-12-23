@@ -309,7 +309,7 @@ regions:
     i_mine:
         type: cuboid
         min: {x: 186.0, y: 62.0, z: -1209.0}
-        max: {x: 194.0, y: 76.0, z: -1201.0}
+        max: {x: 194.0, y: 77.0, z: -1201.0}
         priority: 10
         flags: {build: allow}
         owners: {}
@@ -319,7 +319,7 @@ regions:
         min: {x: -116.0, y: 31.0, z: -1290.0}
         max: {x: -107.0, y: 40.0, z: -1281.0}
         priority: 10
-        flags: {ice-melt: deny, snow-melt: deny, water-flow: deny, build: allow}
+        flags: {ice-melt: deny, water-flow: deny, snow-melt: deny, build: allow}
         owners: {}
         members: {}
     j_door:
@@ -358,7 +358,7 @@ regions:
             groups: [k]
     k_mine:
         type: cuboid
-        min: {x: 75.0, y: 61.0, z: -1209.0}
+        min: {x: 75.0, y: 60.0, z: -1209.0}
         max: {x: 83.0, y: 75.0, z: -1201.0}
         priority: 10
         flags: {build: allow}

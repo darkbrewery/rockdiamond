@@ -174,3 +174,15 @@ worth:
     '0': 1.0
   snowblock:
     '0': 1.0
+  ironore:
+    '0': 30.0
+  melon:
+    '0': 0.5
+  grass:
+    '0': 0.5
+  mycel:
+    '0': 0.5
+  cookedbeef:
+    '0': 1.0
+  rawbeef:
+    '0': 1.0

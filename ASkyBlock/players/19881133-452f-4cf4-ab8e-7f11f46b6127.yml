@@ -13,6 +13,7 @@ members:
 resetsLeft: 2
 locale: ''
 startIslandRating: 50
+useControlPanel: false
 homeLocations:
   '1': skyblock:200:120:402:0:1106247680
 challenges:
@@ -85,4 +86,3 @@ challenges:
     seedbank: 1
     papermaker: 4
 islandInfo: 200:115:400:100:200:19881133-452f-4cf4-ab8e-7f11f46b6127:false:false:10000000010010000000000110000:PLAINS
-useControlPanel: false

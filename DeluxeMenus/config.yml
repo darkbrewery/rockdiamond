@@ -303,3 +303,5 @@ gui_menus:
     file: survivalMenu.yml
   skyblockMenu:
     file: skyblockMenu.yml
+  kitpvpMenu:
+    file: kitpvpMenu.yml

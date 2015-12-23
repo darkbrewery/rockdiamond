@@ -44,7 +44,7 @@ mine:
     y: 213.0
     world: spawn
     x: -142.58103359374223
-  blocksLeft: 1215
+  blocksLeft: 885
   resetTriggers:
   - ==: CompositionTrigger
     percent: '0.4'

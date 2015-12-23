@@ -96,7 +96,7 @@
 # ==============================================================
 menu_title: '&fUnlocked Secret Prison Warps'
 open_command: hiddenWarps
-size: 27
+size: 36
 items:
   '0':
     material: COMPASS
@@ -762,3 +762,81 @@ items:
     lore:
     - '&4You have not found this warp yet'
     - '&bHint: &aExplore...'
+  '27':
+    material: raw_fish
+    data: 3
+    amount: 1
+    slot: 27
+    priority: 1
+    permission: essentials.warps.AquaticTemple
+    left_click_commands:
+    - '[player] warp aquatictemple'
+    - '[close]'
+    display_name: '&eAquatic Temple'
+    lore:
+    - '&9/warp AquaticTemple'
+  '270':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 27
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eAquatic Temple'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aNear a large body of water'
+  '28':
+    material: FEATHER
+    data: 0
+    amount: 1
+    slot: 28
+    priority: 1
+    permission: essentials.warps.CloudTemple
+    left_click_commands:
+    - '[player] warp cloudtemple'
+    - '[close]'
+    display_name: '&eCloud Temple'
+    lore:
+    - '&9/warp CloudTemple'
+  '280':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 28
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eCloud Temple'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aIn the sky above pro'
+  '29':
+    material: BLAZE_POWDER
+    data: 0
+    amount: 1
+    slot: 29
+    priority: 1
+    permission: essentials.warps.FireTemple
+    left_click_commands:
+    - '[player] warp firetemple'
+    - '[close]'
+    display_name: '&eFire Temple'
+    lore:
+    - '&9/warp FireTemple'
+  '290':
+    material: STAINED_GLASS_PANE
+    data: 15
+    amount: 1
+    slot: 29
+    priority: 2
+    permission: essentials.spawn
+    left_click_commands:
+    - '[player]'
+    display_name: '&eFire Temple'
+    lore:
+    - '&4You have not found this warp yet'
+    - '&bHint: &aSomewhere near the flaming mountain'

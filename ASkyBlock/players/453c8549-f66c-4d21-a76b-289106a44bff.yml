@@ -9,6 +9,7 @@ members: []
 resetsLeft: 2
 locale: ''
 startIslandRating: 50
+useControlPanel: false
 challenges:
   status:
     cobblemaker: false

@@ -1,6 +1,6 @@
 playerName: hubbestubbe
-hasIsland: false
-islandLocation: ''
+hasIsland: true
+islandLocation: skyblock:1000:115:-600:0:0
 hasTeam: false
 teamLeader: ''
 teamIslandLocation: ''
@@ -8,7 +8,9 @@ islandLevel: 0
 members: []
 resetsLeft: 2
 locale: ''
-startIslandRating: 50
+useControlPanel: false
+homeLocations:
+  '1': skyblock:1000:121:-598:0:1106247680
 challenges:
   status:
     cobblemaker: false
@@ -78,3 +80,4 @@ challenges:
     culinaryartist: 0
     seedbank: 0
     papermaker: 0
+islandInfo: 1000:115:-600:100:200:fb86dc03-1727-4b93-886a-ee1d892a30a8:false:false:10000000010010000000000110000:COLD_TAIGA

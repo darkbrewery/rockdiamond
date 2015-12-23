@@ -13,6 +13,7 @@ resetsLeft: 2
 locale: ''
 teamIslandLocation: skyblock:0:115:-600:0:0
 startIslandRating: 50
+useControlPanel: false
 homeLocations:
   '1': skyblock:0:120:-598:0:1106247680
 challenges:
@@ -86,3 +87,4 @@ challenges:
     papermaker: 0
 invitecooldown:
   '1441315814676': skyblock:600:115:-200:0:0
+islandInfo: 0:115:-600:100:200:ca0104b4-7248-4a11-add7-4f4c6427dd60:false:false:10000000010010000000000110000:PLAINS

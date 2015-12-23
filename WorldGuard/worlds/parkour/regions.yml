@@ -16,10 +16,10 @@ regions:
         flags:
             pvp: deny
             enderpearl: deny
-            build: deny
             soil-dry: deny
-            blocked-cmds: [/sethome, /magiccarpet, /fly, /mc, /f sethome]
-        owners: {}
+            blocked-cmds: [/sethome, /mc, /fly, /magiccarpet, /f sethome]
+        owners:
+            players: [kingexaitan]
         members: {}
     parkour3:
         type: cuboid
@@ -29,6 +29,6 @@ regions:
         flags:
             enderpearl: deny
             invincible: allow
-            blocked-cmds: [/magiccarpet, /mc]
+            blocked-cmds: [/mc, /magiccarpet]
         owners: {}
         members: {}

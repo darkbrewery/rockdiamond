@@ -133,9 +133,9 @@ worlds:
     gamemode: SURVIVAL
     keepspawninmemory: true
     spawn:
-      x: -4.5
+      x: -9.5
       y: 62.0
-      z: 4.5
+      z: 3.5
       pitch: 0.0
       yaw: 0.0
       world: world_the_end
@@ -364,7 +364,7 @@ worlds:
     alias:
       name: ''
       color: WHITE
-    pvp: true
+    pvp: false
     scale: 1.0
     respawnworld: ''
     allowweather: true
@@ -389,5 +389,77 @@ worlds:
       pitch: -6.150011
       yaw: -270.1497
       world: hub
+    autoload: true
+    bedrespawn: true
+  world_kitpvp:
+    generator: VoidWorld
+    seed: -6987205325698545701
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: world_kitpvp
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: false
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 0.4129399380657444
+      y: 133.0625
+      z: -1.4579345374659762
+      pitch: -27.150002
+      yaw: -0.45000002
+      world: world_kitpvp
+    autoload: true
+    bedrespawn: false
+  world_adventure:
+    generator: VoidWorld
+    seed: 9011329297554343052
+    environment: NORMAL
+    type: NORMAL
+    hidden: false
+    alias:
+      name: ''
+      color: WHITE
+    pvp: true
+    scale: 1.0
+    respawnworld: ''
+    allowweather: true
+    difficulty: EASY
+    animals:
+      spawn: true
+    monsters:
+      spawn: true
+    entryfee:
+      currency: -1
+      price: 0.0
+    hunger: true
+    autoheal: true
+    adjustspawn: true
+    portalform: ALL
+    gamemode: SURVIVAL
+    keepspawninmemory: true
+    spawn:
+      x: 0.4921477026393024
+      y: 135.5084206306535
+      z: 14.609983309790461
+      pitch: -2.250005
+      yaw: -0.29431152
+      world: world_adventure
     autoload: true
     bedrespawn: true

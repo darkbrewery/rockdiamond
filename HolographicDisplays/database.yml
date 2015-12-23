@@ -108,3 +108,10 @@ plotsinfo:
   - '&9/plot v <ign> &rto visit someones plot'
   - '&9/plot h &rto return to your plot'
   - '&u-------------------------------'
+kitpvp:
+  location: world_kitpvp, 0.503, 136.954, 0.498
+  lines:
+  - '&l Welcome to &c&lKitPVP'
+  - Choose a kit using a sign
+  - Then JUMP OFF the edge into
+  - the arena to battle!

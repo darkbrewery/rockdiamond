@@ -34,6 +34,7 @@ commands:
   did_you_mean: '$2Did you mean: $1%s'
   command_syntax: '$1Usage: $2%s'
   name_little: $2%s name is too short, $1%s$2<$1%s
+  flag_tutorial_usage: '$1Have an admin set the flag: $2%s'
 left:
   left_plot: $2You left a plot
 invalid:
@@ -129,6 +130,7 @@ info:
   none: None
   unknown: Unknown
   plot_info_footer: $3&m---------&r $1INFO $3&m---------
+  everyone: Everyone
 need:
   need_plot_number: $2You've got to specify a plot number or alias
   need_plot_id: $2You've got to specify a plot id.
@@ -224,6 +226,7 @@ errors:
   plotworld_incompatible: $2The two worlds must be compatible
   not_valid_world: $2That is not a valid world (case sensitive)
   invalid_player_wait: '$2Player not found: $1%s$2, fetching it. Try again soon.'
+  invalid_player_offline: '$2The player must be online: $1%s.'
 reload:
   reloaded_configs: $1Translations and world settings have been reloaded
   reload_failed: $2Failed to reload file configurations

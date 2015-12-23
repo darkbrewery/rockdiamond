@@ -9,6 +9,8 @@ antiFlyWorlds:
 - world
 - hell
 - parkour
+- world_kitpvp
+- world_adventure
 language: en
 chatMessage: true
 antiFlyCreative: true

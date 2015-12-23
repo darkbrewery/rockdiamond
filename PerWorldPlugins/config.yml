@@ -30,7 +30,15 @@ limit:
   Buycraft: []
   Vault: []
   PermissionsEx: []
-  KillerMoney: []
+  KillerMoney:
+  - world
+  - free
+  - spawn
+  - hell
+  - skyblock
+  - skyblock_nether
+  - free
+  - world_the_end
   CS-CoreLib: []
   WorldGuard: []
   PlotSquared: []
@@ -78,7 +86,7 @@ limit:
   EssentialsAntiBuild: []
   WarpPortals:
   - hub
-  - parkour
+  - world_kitpvp
   CrateReloaded: []
   CompatNoCheatPlus: []
   EssentialsChat: []
@@ -91,7 +99,18 @@ limit:
   - hub
   HolographicDisplays: []
   AreaShop: []
-  NoCheatPlus: []
+  NoCheatPlus:
+  - skyblock
+  - world_creative
+  - free
+  - spawn
+  - parkour
+  - skyblock_nether
+  - hell
+  - plotworld
+  - world
+  - world_kitpvp
+  - world_the_end
   Multiverse-Inventories: []
   Multiverse-NetherPortals:
   - world
@@ -113,3 +132,15 @@ limit:
   AlwaysOnline: []
   DeluxeMenus: []
   PlaceholderAPI: []
+  VoidSpawn: []
+  DeluxeTags: []
+  AutoIn: []
+  AsyncWorldEditInjector: []
+  AsyncWorldEdit: []
+  KingKits:
+  - world_kitpvp
+  No_Fall_Damage:
+  - world_kitpvp
+  - parkour
+  SuperTrails: []
+  BarAPI: []

@@ -298,6 +298,10 @@ kits:
       - 303 1 unbreaking:50 protection:3 name:&9&lGuard_Uniform
       - 304 1 unbreaking:50 protection:3 name:&9&lGuard_Uniform
       - 305 1 unbreaking:50 protection:3 name:&9&lGuard_Uniform
+  HotYoga:
+    delay: 1
+    items:
+      - 312 1 fireprot:100 protection:5 unbreaking:1 name:&d&lHot_Yoga_Pants
   Scuba:
     delay: 1
     items:
@@ -610,40 +614,40 @@ chat:
 
   group-formats:
     Freshmeat: '&2[&eFreshmeat&2] &b{DISPLAYNAME}&7:&r {MESSAGE}'
-    A: '&a♣&r &2[&aNovice&2][&eA&2] &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
-    B: '&a♣&r &2[&aNovice&2][&eB&2] &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
-    C: '&a♣&r &2[&aNovice&2][&eC&2] &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
-    D: '&a♣&r &2[&aNovice&2][&eD&2] &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
-    E: '&a♣&r &2[&aNovice&2][&eE&2] &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
-    F: '&a♣&r &2[&aNovice&2][&eF&2] &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
-    G: '&a♣&r &2[&aNovice&2][&eG&2] &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
-    H: '&a♣&r &2[&aNovice&2][&eH&2] &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
-    I: '&b♠&r &9[&bAdept&9][&eI&9] &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
-    J: '&b♠&r &9[&bAdept&9][&eJ&9] &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
-    K: '&b♠&r &9[&bAdept&9][&eK&9] &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
-    L: '&b♠&r &9[&bAdept&9][&eL&9] &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
-    M: '&b♠&r &9[&bAdept&9][&eM&9] &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
-    N: '&b♠&r &9[&bAdept&9][&eN&9] &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
-    O: '&b♠&r &9[&bAdept&9][&eO&9] &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
-    P: '&b♠&r &9[&bAdept&9][&eP&9] &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
-    Q: '&c♦&r &4[&cExpert&4]&4[&eQ&4] &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
-    R: '&c♦&r &4[&cExpert&4]&4[&eR&4] &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
-    S: '&c♦&r &4[&cExpert&4]&4[&eS&4] &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
-    T: '&c♦&r &4[&cExpert&4]&4[&eT&4] &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
-    U: '&c♦&r &4[&eUnicorn&4] &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
-    V: '&c♦&r &4[&cExpert&4]&4[&eV&4] &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
-    W: '&c♦&r &4[&cExpert&4]&4[&eW&4] &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
-    X: '&c♦&r &4[&cExpert&4]&4[&eX&4] &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
-    Y: '&e♥&r &5[&dPro&5]&d[&eY&d] &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
-    Z: '&e♥&r &5[&dPro&5]&d[&eZ&d] &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
-    Free: '&e♥&r &d[&eFree&d] &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
-    Savage: '&e♥&r &d[&eSavage&d] &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
-    Psycho: '&e♥&r &d[&ePsycho&d] &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
-    Badass: '&e♥&r &d[&eBadass&d] &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
-    Demon: '&e♥&r &d[&eDemon&d] &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
-    Overlord: '&e♥&r &d[&eOverlord&d] &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'    
-    Admin: '&4♚&r &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
-    Owner: '&4♚&r &b{DISPLAYNAME} &4&o&l>>&r {MESSAGE}'
+    A: '&a♣&r &2[&r{deluxetags_tag}&2]&r &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
+    B: '&a♣&r &2[&r{deluxetags_tag}&2]&r &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
+    C: '&a♣&r &2[&r{deluxetags_tag}&2]&r &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
+    D: '&a♣&r &2[&r{deluxetags_tag}&2]&r &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
+    E: '&a♣&r &2[&r{deluxetags_tag}&2]&r &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
+    F: '&a♣&r &2[&r{deluxetags_tag}&2]&r &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
+    G: '&a♣&r &2[&r{deluxetags_tag}&2]&r &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
+    H: '&a♣&r &2[&r{deluxetags_tag}&2]&r &b{DISPLAYNAME} &a&o&l>>&r {MESSAGE}'
+    I: '&b♠&r &9[&r{deluxetags_tag}&9]&r &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
+    J: '&b♠&r &9[&r{deluxetags_tag}&9]&r &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
+    K: '&b♠&r &9[&r{deluxetags_tag}&9]&r &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
+    L: '&b♠&r &9[&r{deluxetags_tag}&9]&r &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
+    M: '&b♠&r &9[&r{deluxetags_tag}&9]&r &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
+    N: '&b♠&r &9[&r{deluxetags_tag}&9]&r &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
+    O: '&b♠&r &9[&r{deluxetags_tag}&9]&r &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
+    P: '&b♠&r &9[&r{deluxetags_tag}&9]&r &b{DISPLAYNAME} &b&o&l>>&r {MESSAGE}'
+    Q: '&c♦&r &4[&r{deluxetags_tag}&4]&r &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
+    R: '&c♦&r &4[&r{deluxetags_tag}&4]&r &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
+    S: '&c♦&r &4[&r{deluxetags_tag}&4]&r &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
+    T: '&c♦&r &4[&r{deluxetags_tag}&4]&r &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
+    U: '&c♦&r &4[&r{deluxetags_tag}&4]&r &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
+    V: '&c♦&r &4[&r{deluxetags_tag}&4]&r &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
+    W: '&c♦&r &4[&r{deluxetags_tag}&4]&r &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
+    X: '&c♦&r &4[&r{deluxetags_tag}&4]&r &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
+    Y: '&e♥&r &5[&r{deluxetags_tag}&5]&r &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
+    Z: '&e♥&r &5[&r{deluxetags_tag}&5]&r &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
+    Free: '&e♥&r &5[&r{deluxetags_tag}&5]&r &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
+    Savage: '&e♥&r &5[&r{deluxetags_tag}&5]&r &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
+    Psycho: '&e♥&r &5[&r{deluxetags_tag}&5]&r &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
+    Badass: '&e♥&r &5[&r{deluxetags_tag}&5]&r &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
+    Demon: '&e♥&r &5[&r{deluxetags_tag}&5]&r &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
+    Overlord: '&e♥&r &5[&r{deluxetags_tag}&5]&r &b{DISPLAYNAME} &e&o&l>>&r {MESSAGE}'
+    Admin: '&4♚&r &4[&r{deluxetags_tag}&4]&r &b{DISPLAYNAME} &c&o&l>>&r {MESSAGE}'
+    Owner: '&4♚&r &4[&r{deluxetags_tag}&4]&r &b{DISPLAYNAME} &4&o&l>>&r {MESSAGE}'
 
 ############################################################
 # +------------------------------------------------------+ #
@@ -676,7 +680,7 @@ protect:
     wither-blockreplace: true
     creeper-explosion: false
     creeper-playerdamage: false
-    creeper-blockdamage: true
+    creeper-blockdamage: false
     enderdragon-blockdamage: true
     enderman-pickup: false
     villager-death: true
@@ -718,7 +722,7 @@ protect:
   # Maximum height the creeper should explode. -1 allows them to explode everywhere.
   # Set prevent.creeper-explosion to true, if you want to disable creeper explosions.
   creeper:
-    max-height: -1
+    max-height: 55
 
   # Disable various default physics and behaviors.
   disable:
@@ -829,6 +833,6 @@ newbies:
 # Set this to lowest, if you want Multiverse to handle the respawning.
 # Set this to high, if you want EssentialsSpawn to handle the respawning.
 # Set this to highest, if you want to force EssentialsSpawn to handle the respawning.
-respawn-listener-priority: highest
+respawn-listener-priority: lowest
 
 # When users die, should they respawn at their first home or bed, instead of the spawnpoint?

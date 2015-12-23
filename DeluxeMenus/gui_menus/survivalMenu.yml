@@ -110,11 +110,11 @@ items:
     left_click_commands:
     - '[player] dm open mainMenu'
     - '[close]'
-  '2':
+  '1':
     material: NETHER_STAR
     data: 0
     amount: 1
-    slot: 2
+    slot: 1
     priority: 1
     permission: essentials.spawn
     display_name: '&bSurvival Spawn'

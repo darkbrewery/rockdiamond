@@ -1,4 +1,4 @@
-version: 3.2.8
+version: 3.2.23
 schematics:
   save_path: /home/minecraft/plugins/PlotSquared/schematics
 chunk-processor:
@@ -57,9 +57,9 @@ metrics: true
 cache:
   permissions: false
   ratings: true
-plotme-alias: false
+plotme-alias: true
 worldedit:
-  max-iterations: 1000
+  max-iterations: 2000
   max-volume: 500000
   blacklist:
   - cs
@@ -69,7 +69,7 @@ worldedit:
   - delchunks
   - listchunks
   require-selection-in-mask: true
-  enable-for-helpers: false
+  enable-for-helpers: true
   queue-commands: false
 comments:
   notifications:
